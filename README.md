@@ -1,60 +1,23 @@
-# github-trending-api
+# Digest GitHub Trending feeds
 
-[简体中文](README_zh-CN.md)
+Maintained fork of [isboyjc/github-trending-api](https://github.com/isboyjc/github-trending-api), preserving its JSON/RSS format and MIT license.
 
-Github trending data for developers and rss subscribers
+Only Digest's existing options refresh: `all`, `javascript`, `typescript`, `python`, `go`, `rust`, each for `daily`, `weekly`, `monthly` (18 feeds). `all` remains the unfiltered GitHub Trending list.
 
-Get information about popular repositories on the [GitHub Trending Page](https://github.com/trending) via a script written in JavaScript and executed using GitHub Actions Service.
+Feed base URL: `https://raw.githubusercontent.com/usedigestinc/github-trending-api/main/data`
 
-## Use
+Example: `/daily/all.json`. Other inherited language files are historical and **not maintained**.
 
-|   | description | options |
-| - | - | - |
-| since | Date range | daily / weekly / monthly |
-| language | Language | [Languages list](https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/languages.json) or [Languages list - cdn](https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/languages.json) Use lowercase for language names and the "-" hyphen for spaces. |
+## Refreshing
 
-To view trend data for all languages, please pass in `all` for languages.
+The Fetch GitHub Trending workflow runs four times daily and can be dispatched manually. It pins pnpm, disables dependency lifecycle scripts (the feed generator does not need them), spaces requests, uses timeouts and bounded retries, validates all 18 results, and only then commits outputs. A blocked request or invalid page fails the run; it never intentionally publishes an empty or partially refreshed feed set.
 
-```bash
-# json or rss
-https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/{since}/{language}.json
-https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/{since}/{language}.xml
+Run locally:
 
-# cdn
-https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/{since}/{language}.json
-https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/{since}/{language}.xml
+```sh
+pnpm install --frozen-lockfile --ignore-scripts
+node --test test/*.test.js
+pnpm build
 ```
 
-## Example
-
-```bash
-# since: daily language: all
-https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/daily/all.json
-https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/daily/all.xml
-https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/daily/all.xml
-https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/daily/all.xml
-
-# since: weekly language: javascript
-https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/weekly/javascript.json
-https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/weekly/javascript.xml
-https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/weekly/javascript.xml
-https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/weekly/javascript.xml
-
-# since: monthly language: java
-https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/monthly/java.json
-https://raw.githubusercontent.com/isboyjc/github-trending-api/main/data/monthly/java.xml
-https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/monthly/java.xml
-https://cdn.jsdelivr.net/gh/isboyjc/github-trending-api/data/monthly/java.xml
-
-# ...
-```
-
-
-## Related links
-
-- [Rsstabs](https://rsstabs.com) Build Your Own AI News Assistant in RssTabs,Intelligent, personalized, and effortlessly efficient.
-
-
-## License
-
-Licensed under the MIT License, Copyright © 2024 [Isboyjc](https://github.com).
+Watch GitHub Actions failures and check JSON `pubDate` for freshness. Repository owners must keep scheduled Actions enabled. GitHub can disable scheduled workflows on inactive public repositories.

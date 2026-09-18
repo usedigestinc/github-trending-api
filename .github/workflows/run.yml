@@ -1,46 +1,48 @@
 name: Fetch GitHub Trending
 
 on:
-  # push:
-  #   branches:
-  #     - main
   schedule:
-    - cron: '0 1 * * *' # UTC 凌晨 1 点
-    - cron: '0 7 * * *' # UTC 早 7 点
-    - cron: '0 13 * * *' # UTC 中午 1 点
-    - cron: '0 19 * * *' # UTC 下午 7 点
+    - cron: '17 1,7,13,19 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'script/**'
+      - 'test/**'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+      - '.npmrc'
+      - '.github/workflows/run.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trending-refresh
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: '20'
-
-      - name: Install pnpm
-        run: npm install -g pnpm
-
-      - name: Install dependencies
-        run: pnpm install
-
-      # - name: Build the languages
-      #   run: pnpm gen:lang
-
-      - name: Build the trending
+          node-version: '22'
+      - name: Install pinned pnpm
+        run: npm install -g pnpm@11.19.0
+      - name: Install feed dependencies without lifecycle scripts
+        run: pnpm install --frozen-lockfile --ignore-scripts
+      - name: Test feed failure handling
+        run: node --test test/*.test.js
+      - name: Fetch all 18 Digest feeds
         run: pnpm build
-
-      - name: Commit and Push changes
-        if: github.event_name == 'schedule' || (github.event_name == 'push' && github.ref == 'refs/heads/main')
+      - name: Publish validated feeds
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          COMMIT_TIME=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          git commit -m "publish🚀: Fetch GitHub Trending at $COMMIT_TIME"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/daily data/weekly data/monthly
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Refresh Digest trending feeds $(date -u +%FT%TZ)"
+          git push origin HEAD:main

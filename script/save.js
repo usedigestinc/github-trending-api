@@ -5,7 +5,7 @@ const { writeFileSync, readFileSync, mkdirSync } = require('fs');
 const { Builder } = require('xml2js');
 const { DATA_BASE_URL, TEMPLATE_BASE_URL } = require('./base')
 
-const dateTime = moment().tz('GMT').format('ddd, DD MMM YYYY HH:mm:ss [GMT]');
+
 
 async function save (data, since = 'daily', language = 'all') {
   const filePath = DATA_BASE_URL + since
@@ -37,7 +37,7 @@ function generationJson(data, since = 'daily', language = 'all'){
   const replacements = {
     '{{language}}': language.replace(/^./, match => match.toUpperCase()),
     '{{since}}': since.replace(/^./, match => match.toUpperCase()),
-    '{{pubDate}}': dateTime
+    '{{pubDate}}': moment().tz('GMT').format('ddd, DD MMM YYYY HH:mm:ss [GMT]')
   };
   for (const [key, value] of Object.entries(replacements)) {
     templateContent = templateContent.replace(new RegExp(key, 'g'), value);
