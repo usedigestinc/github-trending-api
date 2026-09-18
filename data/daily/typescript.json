@@ -1,129 +1,33 @@
 {
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
-  "link": "https://github.com/isboyjc/github-trending-api",
-  "pubDate": "Wed, 26 Aug 2026 13:56:53 GMT",
+  "link": "https://github.com/usedigestinc/github-trending-api",
+  "pubDate": "Fri, 18 Sep 2026 19:31:11 GMT",
   "items": [
     {
-      "title": "apache/maka",
-      "url": "https://github.com/apache/maka",
-      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,556",
-      "forks": "346",
-      "addStars": "443",
+      "stars": "146,208",
+      "forks": "23,744",
+      "addStars": "442",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/30525741?s=40&v=4",
-          "name": "jackwener",
-          "url": "https://github.com/jackwener"
+          "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
+          "name": "actions-user",
+          "url": "https://github.com/actions-user"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/255364436?s=40&v=4",
-          "name": "Astro-Han",
-          "url": "https://github.com/Astro-Han"
+          "avatar": "https://avatars.githubusercontent.com/u/7668446?s=40&v=4",
+          "name": "poteat",
+          "url": "https://github.com/poteat"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/90952590?s=40&v=4",
-          "name": "likun666661",
-          "url": "https://github.com/likun666661"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/68144809?s=40&v=4",
-          "name": "M4n5ter",
-          "url": "https://github.com/M4n5ter"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/78337154?s=40&v=4",
-          "name": "hqhq1025",
-          "url": "https://github.com/hqhq1025"
-        }
-      ]
-    },
-    {
-      "title": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥ Coding agent with the IDE wired in",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "27,613",
-      "forks": "2,721",
-      "addStars": "307",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11807264?s=40&v=4",
-          "name": "can1357",
-          "url": "https://github.com/can1357"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&v=4",
-          "name": "badlogic",
-          "url": "https://github.com/badlogic"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/284758152?s=40&v=4",
-          "name": "roboomp",
-          "url": "https://github.com/roboomp"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9562152?s=40&v=4",
-          "name": "Mathews-Tom",
-          "url": "https://github.com/Mathews-Tom"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/152830360?s=40&v=4",
-          "name": "metaphorics",
-          "url": "https://github.com/metaphorics"
-        }
-      ]
-    },
-    {
-      "title": "tailwindlabs/tailwindcss",
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "description": "A utility-first CSS framework for rapid UI development.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "97,334",
-      "forks": "5,584",
-      "addStars": "22",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/4323180?s=40&v=4",
-          "name": "adamwathan",
-          "url": "https://github.com/adamwathan"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1834413?s=40&v=4",
-          "name": "RobinMalfait",
-          "url": "https://github.com/RobinMalfait"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/614993?s=40&v=4",
-          "name": "thecrypticace",
-          "url": "https://github.com/thecrypticace"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/882133?s=40&v=4",
-          "name": "reinink",
-          "url": "https://github.com/reinink"
-        }
-      ]
-    },
-    {
-      "title": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "20,509",
-      "forks": "2,951",
-      "addStars": "500",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
-          "name": "tashfeenahmed",
-          "url": "https://github.com/tashfeenahmed"
+          "avatar": "https://avatars.githubusercontent.com/u/1761758?s=40&v=4",
+          "name": "bcherny",
+          "url": "https://github.com/bcherny"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -131,56 +35,285 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/108558399?s=40&v=4",
-          "name": "suantea",
-          "url": "https://github.com/suantea"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/102485413?s=40&v=4",
-          "name": "OhOkThisIsFine",
-          "url": "https://github.com/OhOkThisIsFine"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/319142293?s=40&v=4",
-          "name": "tashdroid",
-          "url": "https://github.com/tashdroid"
+          "avatar": "https://avatars.githubusercontent.com/u/209710463?s=40&v=4",
+          "name": "ant-kurt",
+          "url": "https://github.com/ant-kurt"
         }
       ]
     },
     {
-      "title": "OpenCut-app/OpenCut",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
+      "title": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "86,721",
-      "forks": "8,561",
-      "addStars": "943",
+      "stars": "5,176",
+      "forks": "359",
+      "addStars": "1,319",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/167211895?s=40&v=4",
-          "name": "mazeincoding",
-          "url": "https://github.com/mazeincoding"
+          "avatar": "https://avatars.githubusercontent.com/u/87162611?s=40&v=4",
+          "name": "TencentXiaowei",
+          "url": "https://github.com/TencentXiaowei"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/59828082?s=40&v=4",
-          "name": "izadoesdev",
-          "url": "https://github.com/izadoesdev"
+          "avatar": "https://avatars.githubusercontent.com/u/84192562?s=40&v=4",
+          "name": "Ljy-0827",
+          "url": "https://github.com/Ljy-0827"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/26295990?s=40&v=4",
-          "name": "anwarulislam",
-          "url": "https://github.com/anwarulislam"
+          "avatar": "https://avatars.githubusercontent.com/u/5351707?s=40&v=4",
+          "name": "iuyo5678",
+          "url": "https://github.com/iuyo5678"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/50540913?s=40&v=4",
-          "name": "khanguyen74",
-          "url": "https://github.com/khanguyen74"
+          "avatar": "https://avatars.githubusercontent.com/u/45072480?s=40&v=4",
+          "name": "BB-fat",
+          "url": "https://github.com/BB-fat"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/80804989?s=40&v=4",
-          "name": "DevloperAmanSingh",
-          "url": "https://github.com/DevloperAmanSingh"
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        }
+      ]
+    },
+    {
+      "title": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "69,249",
+      "forks": "4,746",
+      "addStars": "298",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30385142?s=40&v=4",
+          "name": "TabishB",
+          "url": "https://github.com/TabishB"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/237345393?s=40&v=4",
+          "name": "clay-good",
+          "url": "https://github.com/clay-good"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        }
+      ]
+    },
+    {
+      "title": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "30,193",
+      "forks": "2,637",
+      "addStars": "140",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/63950637?s=40&v=4",
+          "name": "Dhravya",
+          "url": "https://github.com/Dhravya"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/38828053?s=40&v=4",
+          "name": "MaheshtheDev",
+          "url": "https://github.com/MaheshtheDev"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/93475253?s=40&v=4",
+          "name": "yxshv",
+          "url": "https://github.com/yxshv"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/129188028?s=40&v=4",
+          "name": "CodeTorso",
+          "url": "https://github.com/CodeTorso"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122012786?s=40&v=4",
+          "name": "ved015",
+          "url": "https://github.com/ved015"
+        }
+      ]
+    },
+    {
+      "title": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "110,083",
+      "forks": "14,256",
+      "addStars": "128",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
+          "name": "joshenlim",
+          "url": "https://github.com/joshenlim"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10214025?s=40&v=4",
+          "name": "kiwicopple",
+          "url": "https://github.com/kiwicopple"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8291514?s=40&v=4",
+          "name": "MildTomato",
+          "url": "https://github.com/MildTomato"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/105593?s=40&v=4",
+          "name": "saltcod",
+          "url": "https://github.com/saltcod"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/10985857?s=40&v=4",
+          "name": "alaister",
+          "url": "https://github.com/alaister"
+        }
+      ]
+    },
+    {
+      "title": "ahmedkhaleel2004/gitdiagram",
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "16,400",
+      "forks": "1,253",
+      "addStars": "145",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/111161052?s=40&v=4",
+          "name": "ahmedkhaleel2004",
+          "url": "https://github.com/ahmedkhaleel2004"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/46298951?s=40&v=4",
+          "name": "martin226",
+          "url": "https://github.com/martin226"
+        }
+      ]
+    },
+    {
+      "title": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "68,686",
+      "forks": "7,424",
+      "addStars": "288",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7799382?s=40&v=4",
+          "name": "saoudrizwan",
+          "url": "https://github.com/saoudrizwan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/68532117?s=40&v=4",
+          "name": "abeatrix",
+          "url": "https://github.com/abeatrix"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/58194240?s=40&v=4",
+          "name": "celestial-vault",
+          "url": "https://github.com/celestial-vault"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/11155207?s=40&v=4",
+          "name": "arafatkatze",
+          "url": "https://github.com/arafatkatze"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/52393857?s=40&v=4",
+          "name": "BarreiroT",
+          "url": "https://github.com/BarreiroT"
+        }
+      ]
+    },
+    {
+      "title": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "AI coworker with memory and collaboration",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "17,899",
+      "forks": "1,783",
+      "addStars": "48",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30795890?s=40&v=4",
+          "name": "ramnique",
+          "url": "https://github.com/ramnique"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6592213?s=40&v=4",
+          "name": "arkml",
+          "url": "https://github.com/arkml"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/55130408?s=40&v=4",
+          "name": "akhisud3195",
+          "url": "https://github.com/akhisud3195"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47842976?s=40&v=4",
+          "name": "tusharmagar",
+          "url": "https://github.com/tusharmagar"
+        }
+      ]
+    },
+    {
+      "title": "NanmiCoder/cc-haha",
+      "url": "https://github.com/NanmiCoder/cc-haha",
+      "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "14,624",
+      "forks": "8,567",
+      "addStars": "38",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/47178017?s=40&v=4",
+          "name": "NanmiCoder",
+          "url": "https://github.com/NanmiCoder"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/50901800?s=40&v=4",
+          "name": "zhbdesign",
+          "url": "https://github.com/zhbdesign"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/79351885?s=40&v=4",
+          "name": "1506086927",
+          "url": "https://github.com/1506086927"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7938690?s=40&v=4",
+          "name": "YanZhiwei",
+          "url": "https://github.com/YanZhiwei"
         }
       ]
     },
@@ -190,9 +323,9 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,561",
-      "forks": "1,609",
-      "addStars": "133",
+      "stars": "19,235",
+      "forks": "2,474",
+      "addStars": "183",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
@@ -227,9 +360,9 @@
       "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,045",
-      "forks": "599",
-      "addStars": "35",
+      "stars": "8,783",
+      "forks": "659",
+      "addStars": "33",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
@@ -247,110 +380,26 @@
           "url": "https://github.com/flex-yj-kim"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/123790187?s=40&v=4",
-          "name": "dgrissen2",
-          "url": "https://github.com/dgrissen2"
+          "avatar": "https://avatars.githubusercontent.com/u/141281206?s=40&v=4",
+          "name": "FNDEVVE",
+          "url": "https://github.com/FNDEVVE"
         }
       ]
     },
     {
-      "title": "janhq/jan",
-      "url": "https://github.com/janhq/jan",
-      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+      "title": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "44,189",
-      "forks": "2,990",
-      "addStars": "38",
+      "stars": "27,131",
+      "forks": "3,707",
+      "addStars": "261",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10354610?s=40&v=4",
-          "name": "urmauur",
-          "url": "https://github.com/urmauur"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/150573299?s=40&v=4",
-          "name": "hohieuai",
-          "url": "https://github.com/hohieuai"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/17230826?s=40&v=4",
-          "name": "qnixsynapse",
-          "url": "https://github.com/qnixsynapse"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/818645?s=40&v=4",
-          "name": "Vanalite",
-          "url": "https://github.com/Vanalite"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/136811300?s=40&v=4",
-          "name": "jan-service-account",
-          "url": "https://github.com/jan-service-account"
-        }
-      ]
-    },
-    {
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "387,694",
-      "forks": "81,397",
-      "addStars": "327",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/58493?s=40&v=4",
-          "name": "steipete",
-          "url": "https://github.com/steipete"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/25068?s=40&v=4",
-          "name": "vincentkoc",
-          "url": "https://github.com/vincentkoc"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/165377636?s=40&v=4",
-          "name": "shakkernerd",
-          "url": "https://github.com/shakkernerd"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22031114?s=40&v=4",
-          "name": "obviyus",
-          "url": "https://github.com/obviyus"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/781889?s=40&v=4",
-          "name": "Takhoffman",
-          "url": "https://github.com/Takhoffman"
-        }
-      ]
-    },
-    {
-      "title": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "27,470",
-      "forks": "2,354",
-      "addStars": "60",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
-          "name": "rohitg00",
-          "url": "https://github.com/rohitg00"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/158763203?s=40&v=4",
-          "name": "Tanmay-008",
-          "url": "https://github.com/Tanmay-008"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/19909783?s=40&v=4",
-          "name": "honor2030",
-          "url": "https://github.com/honor2030"
+          "avatar": "https://avatars.githubusercontent.com/u/9307356?s=40&v=4",
+          "name": "tashfeenahmed",
+          "url": "https://github.com/tashfeenahmed"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -358,223 +407,73 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/5664860?s=40&v=4",
-          "name": "efenex",
-          "url": "https://github.com/efenex"
+          "avatar": "https://avatars.githubusercontent.com/u/108558399?s=40&v=4",
+          "name": "suantea",
+          "url": "https://github.com/suantea"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/102485413?s=40&v=4",
+          "name": "OhOkThisIsFine",
+          "url": "https://github.com/OhOkThisIsFine"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5494586?s=40&v=4",
+          "name": "jasnoorgill",
+          "url": "https://github.com/jasnoorgill"
         }
       ]
     },
     {
-      "title": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "108,413",
-      "forks": "13,655",
-      "addStars": "45",
+      "stars": "71,806",
+      "forks": "4,695",
+      "addStars": "858",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/19742402?s=40&v=4",
-          "name": "joshenlim",
-          "url": "https://github.com/joshenlim"
+          "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
+          "name": "nwparker",
+          "url": "https://github.com/nwparker"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10214025?s=40&v=4",
-          "name": "kiwicopple",
-          "url": "https://github.com/kiwicopple"
+          "avatar": "https://avatars.githubusercontent.com/u/6427696?s=40&v=4",
+          "name": "AmethystLiang",
+          "url": "https://github.com/AmethystLiang"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8291514?s=40&v=4",
-          "name": "MildTomato",
-          "url": "https://github.com/MildTomato"
+          "avatar": "https://avatars.githubusercontent.com/u/277417572?s=40&v=4",
+          "name": "orca-ide",
+          "url": "https://github.com/orca-ide"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/105593?s=40&v=4",
-          "name": "saltcod",
-          "url": "https://github.com/saltcod"
+          "avatar": "https://avatars.githubusercontent.com/u/79079362?s=40&v=4",
+          "name": "brennanb2025",
+          "url": "https://github.com/brennanb2025"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10985857?s=40&v=4",
-          "name": "alaister",
-          "url": "https://github.com/alaister"
+          "avatar": "https://avatars.githubusercontent.com/u/73622457?s=40&v=4",
+          "name": "Jinwoo-H",
+          "url": "https://github.com/Jinwoo-H"
         }
       ]
     },
     {
-      "title": "piratuks/invoice-builder",
-      "url": "https://github.com/piratuks/invoice-builder",
-      "description": "Invoice and quotation builder desktop app with PDF export, designed for small businesses and freelancers. Create, manage, and export invoices and quotes easily using a local database in an Electron-based app.",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "916",
-      "forks": "114",
-      "addStars": "88",
+      "stars": "205,262",
+      "forks": "60,772",
+      "addStars": "611",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/8760197?s=40&v=4",
-          "name": "piratuks",
-          "url": "https://github.com/piratuks"
-        }
-      ]
-    },
-    {
-      "title": "diegosouzapw/OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "55,830",
-      "forks": "7,677",
-      "addStars": "976",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
-          "name": "diegosouzapw",
-          "url": "https://github.com/diegosouzapw"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/24198422?s=40&v=4",
-          "name": "backryun",
-          "url": "https://github.com/backryun"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14921983?s=40&v=4",
-          "name": "oyi77",
-          "url": "https://github.com/oyi77"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        }
-      ]
-    },
-    {
-      "title": "genkit-ai/genkit",
-      "url": "https://github.com/genkit-ai/genkit",
-      "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "6,377",
-      "forks": "836",
-      "addStars": "8",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/774654?s=40&v=4",
-          "name": "pavelgj",
-          "url": "https://github.com/pavelgj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/844249?s=40&v=4",
-          "name": "tonybaroneee",
-          "url": "https://github.com/tonybaroneee"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3874?s=40&v=4",
-          "name": "yesudeep",
-          "url": "https://github.com/yesudeep"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66321939?s=40&v=4",
-          "name": "ssbushi",
-          "url": "https://github.com/ssbushi"
-        }
-      ]
-    },
-    {
-      "title": "grafana/grafana",
-      "url": "https://github.com/grafana/grafana",
-      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "76,426",
-      "forks": "14,639",
-      "addStars": "25",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10999?s=40&v=4",
-          "name": "torkelo",
-          "url": "https://github.com/torkelo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/618863?s=40&v=4",
-          "name": "bergquist",
-          "url": "https://github.com/bergquist"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/705951?s=40&v=4",
-          "name": "ryantxu",
-          "url": "https://github.com/ryantxu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1668778?s=40&v=4",
-          "name": "marefr",
-          "url": "https://github.com/marefr"
-        }
-      ]
-    },
-    {
-      "title": "tickernelz/opencode-mem",
-      "url": "https://github.com/tickernelz/opencode-mem",
-      "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "1,521",
-      "forks": "149",
-      "addStars": "124",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/10543415?s=40&v=4",
-          "name": "tickernelz",
-          "url": "https://github.com/tickernelz"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/149941075?s=40&v=4",
-          "name": "EyJunge1",
-          "url": "https://github.com/EyJunge1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2716874?s=40&v=4",
-          "name": "GraDea",
-          "url": "https://github.com/GraDea"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/238992291?s=40&v=4",
-          "name": "sisyphus-dev-ai",
-          "url": "https://github.com/sisyphus-dev-ai"
-        }
-      ]
-    },
-    {
-      "title": "ibelick/ui-skills",
-      "url": "https://github.com/ibelick/ui-skills",
-      "description": "Skills for Design Engineers",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "7,637",
-      "forks": "342",
-      "addStars": "63",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14288396?s=40&v=4",
-          "name": "ibelick",
-          "url": "https://github.com/ibelick"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/83458751?s=40&v=4",
-          "name": "fernandezbaptiste",
-          "url": "https://github.com/fernandezbaptiste"
+          "avatar": "https://avatars.githubusercontent.com/u/6249596?s=40&v=4",
+          "name": "janober",
+          "url": "https://github.com/janober"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -582,83 +481,162 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/7342023?s=40&v=4",
-          "name": "saadeghi",
-          "url": "https://github.com/saadeghi"
+          "avatar": "https://avatars.githubusercontent.com/u/44588767?s=40&v=4",
+          "name": "ivov",
+          "url": "https://github.com/ivov"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/196144?s=40&v=4",
+          "name": "netroy",
+          "url": "https://github.com/netroy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16496553?s=40&v=4",
+          "name": "RicardoE105",
+          "url": "https://github.com/RicardoE105"
         }
       ]
     },
     {
-      "title": "software-mansion/argent",
-      "url": "https://github.com/software-mansion/argent",
-      "description": "An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion.",
+      "title": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,247",
-      "forks": "86",
-      "addStars": "36",
+      "stars": "39,132",
+      "forks": "4,536",
+      "addStars": "73",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/74246391?s=40&v=4",
-          "name": "latekvo",
-          "url": "https://github.com/latekvo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/159789821?s=40&v=4",
-          "name": "filip131311",
-          "url": "https://github.com/filip131311"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/85541429?s=40&v=4",
-          "name": "pFornagiel",
-          "url": "https://github.com/pFornagiel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/21055725?s=40&v=4",
-          "name": "j-piasecki",
-          "url": "https://github.com/j-piasecki"
+          "avatar": "https://avatars.githubusercontent.com/u/579178?s=40&v=4",
+          "name": "lfnovo",
+          "url": "https://github.com/lfnovo"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/238125124?s=40&v=4",
+          "name": "kwp3",
+          "url": "https://github.com/kwp3"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+          "name": "mvanhorn",
+          "url": "https://github.com/mvanhorn"
         }
       ]
     },
     {
-      "title": "makeplane/plane",
-      "url": "https://github.com/makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "title": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "58,328",
-      "forks": "5,527",
-      "addStars": "135",
+      "stars": "55,101",
+      "forks": "6,858",
+      "addStars": "458",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/121005188?s=40&v=4",
-          "name": "anmolsinghbhatia",
-          "url": "https://github.com/anmolsinghbhatia"
+          "avatar": "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
+          "name": "jamiepine",
+          "url": "https://github.com/jamiepine"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/65252264?s=40&v=4",
-          "name": "aaryan610",
-          "url": "https://github.com/aaryan610"
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/118773738?s=40&v=4",
-          "name": "pablohashescobar",
-          "url": "https://github.com/pablohashescobar"
+          "avatar": "https://avatars.githubusercontent.com/u/52257177?s=40&v=4",
+          "name": "tomasmach",
+          "url": "https://github.com/tomasmach"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/9498163?s=40&v=4",
-          "name": "sriramveeraghanta",
-          "url": "https://github.com/sriramveeraghanta"
+          "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
+          "name": "mvanhorn",
+          "url": "https://github.com/mvanhorn"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/72156168?s=40&v=4",
-          "name": "NarayanBavisetti",
-          "url": "https://github.com/NarayanBavisetti"
+          "avatar": "https://avatars.githubusercontent.com/u/5173254?s=40&v=4",
+          "name": "selop",
+          "url": "https://github.com/selop"
+        }
+      ]
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "51,337",
+      "forks": "4,674",
+      "addStars": "322",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
+          "name": "miguel-heygen",
+          "url": "https://github.com/miguel-heygen"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/337856?s=40&v=4",
+          "name": "vanceingalls",
+          "url": "https://github.com/vanceingalls"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/7664106?s=40&v=4",
+          "name": "jrusso1020",
+          "url": "https://github.com/jrusso1020"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/165517112?s=40&v=4",
+          "name": "ukimsanov",
+          "url": "https://github.com/ukimsanov"
+        }
+      ]
+    },
+    {
+      "title": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "26,048",
+      "forks": "4,209",
+      "addStars": "52",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/30893307?s=40&v=4",
+          "name": "niuwenzheng",
+          "url": "https://github.com/niuwenzheng"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/88360790?s=40&v=4",
+          "name": "gaozhenqiang",
+          "url": "https://github.com/gaozhenqiang"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/54829481?s=40&v=4",
+          "name": "Yuuki-Sakura",
+          "url": "https://github.com/Yuuki-Sakura"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/70197018?s=40&v=4",
+          "name": "whh2333",
+          "url": "https://github.com/whh2333"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/208151450?s=40&v=4",
+          "name": "gao1234-prog",
+          "url": "https://github.com/gao1234-prog"
         }
       ]
     }
