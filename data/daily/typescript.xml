@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Typescript Languages in GitHub</description>
-    <pubDate>Mon, 21 Sep 2026 14:10:25 GMT</pubDate>
+    <pubDate>Mon, 21 Sep 2026 22:36:15 GMT</pubDate>
     <item>
       <title>BuilderIO/agent-native</title>
       <link>https://github.com/BuilderIO/agent-native</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/BuilderIO/agent-native</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,646</stars>
-      <forks>525</forks>
+      <stars>5,850</stars>
+      <forks>534</forks>
       <addStars>607</addStars>
       <contributors>
         <contributor>
@@ -39,8 +39,8 @@
       <guid>https://github.com/Open-Dev-Society/OpenStock</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>17,352</stars>
-      <forks>2,166</forks>
+      <stars>17,657</stars>
+      <forks>2,186</forks>
       <addStars>843</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/Crosstalk-Solutions/project-nomad</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>37,631</stars>
-      <forks>3,753</forks>
+      <stars>37,825</stars>
+      <forks>3,765</forks>
       <addStars>360</addStars>
       <contributors>
         <contributor>
@@ -105,8 +105,8 @@
       <guid>https://github.com/vercel-labs/json-render</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>17,809</stars>
-      <forks>934</forks>
+      <stars>17,925</stars>
+      <forks>937</forks>
       <addStars>787</addStars>
       <contributors>
         <contributor>
@@ -138,7 +138,7 @@
       <guid>https://github.com/aipoch/open-science</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,876</stars>
+      <stars>4,886</stars>
       <forks>290</forks>
       <addStars>90</addStars>
       <contributors>
@@ -176,9 +176,9 @@
       <guid>https://github.com/OpenCut-app/OpenCut</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>90,256</stars>
-      <forks>8,912</forks>
-      <addStars>129</addStars>
+      <stars>90,325</stars>
+      <forks>8,922</forks>
+      <addStars>352</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/167211895?s=40&amp;v=4</avatar>
@@ -214,8 +214,8 @@
       <guid>https://github.com/yikart/AiToEarn</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>26,247</stars>
-      <forks>4,249</forks>
+      <stars>26,271</stars>
+      <forks>4,250</forks>
       <addStars>93</addStars>
       <contributors>
         <contributor>
@@ -252,9 +252,9 @@
       <guid>https://github.com/krillinai/OpenCreator</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,027</stars>
-      <forks>1,209</forks>
-      <addStars>263</addStars>
+      <stars>12,065</stars>
+      <forks>1,220</forks>
+      <addStars>134</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/114557800?s=40&amp;v=4</avatar>
@@ -290,9 +290,9 @@
       <guid>https://github.com/ZuodaoTech/everyone-can-use-english</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>38,148</stars>
-      <forks>5,226</forks>
-      <addStars>398</addStars>
+      <stars>38,160</stars>
+      <forks>5,228</forks>
+      <addStars>55</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/22209056?s=40&amp;v=4</avatar>
@@ -328,9 +328,9 @@
       <guid>https://github.com/cloudflare/mcp-server-cloudflare</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,264</stars>
+      <stars>4,270</stars>
       <forks>529</forks>
-      <addStars>46</addStars>
+      <addStars>11</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/62088388?s=40&amp;v=4</avatar>
@@ -355,14 +355,52 @@
       </contributors>
     </item>
     <item>
+      <title>bendlang/bend</title>
+      <link>https://github.com/bendlang/bend</link>
+      <description>Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh</description>
+      <guid>https://github.com/bendlang/bend</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>22,305</stars>
+      <forks>665</forks>
+      <addStars>188</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/135721694?s=40&amp;v=4</avatar>
+          <name>imaqtkatt</name>
+          <url>https://github.com/imaqtkatt</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13090166?s=40&amp;v=4</avatar>
+          <name>VictorTaelin</name>
+          <url>https://github.com/VictorTaelin</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4893601?s=40&amp;v=4</avatar>
+          <name>nicolas-abril</name>
+          <url>https://github.com/nicolas-abril</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/19491161?s=40&amp;v=4</avatar>
+          <name>LunaAmora</name>
+          <url>https://github.com/LunaAmora</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/30930225?s=40&amp;v=4</avatar>
+          <name>edusporto</name>
+          <url>https://github.com/edusporto</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>anthropics/claude-code</title>
       <link>https://github.com/anthropics/claude-code</link>
       <description>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</description>
       <guid>https://github.com/anthropics/claude-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>147,402</stars>
-      <forks>24,103</forks>
+      <stars>147,460</stars>
+      <forks>24,113</forks>
       <addStars>504</addStars>
       <contributors>
         <contributor>
@@ -399,8 +437,8 @@
       <guid>https://github.com/Jakubantalik/thinking-orbs</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,068</stars>
-      <forks>242</forks>
+      <stars>3,104</stars>
+      <forks>249</forks>
       <addStars>203</addStars>
       <contributors>
         <contributor>
@@ -427,8 +465,8 @@
       <guid>https://github.com/earendil-works/pi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>108,046</stars>
-      <forks>13,661</forks>
+      <stars>108,103</stars>
+      <forks>13,682</forks>
       <addStars>438</addStars>
       <contributors>
         <contributor>
