@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Mon, 28 Sep 2026 15:29:28 GMT",
+  "pubDate": "Mon, 28 Sep 2026 23:50:43 GMT",
   "items": [
     {
       "title": "paperclipai/paperclip",
@@ -10,8 +10,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "91,997",
-      "forks": "15,831",
+      "stars": "92,727",
+      "forks": "15,882",
       "addStars": "7,364",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "80,432",
-      "forks": "5,238",
+      "stars": "80,682",
+      "forks": "5,254",
       "addStars": "6,227",
       "contributors": [
         {
@@ -84,7 +84,7 @@
       "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,539",
+      "stars": "5,550",
       "forks": "264",
       "addStars": "432",
       "contributors": [
@@ -111,8 +111,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,039",
-      "forks": "1,791",
+      "stars": "21,231",
+      "forks": "1,799",
       "addStars": "5,414",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "A framework for building agentic apps",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,884",
-      "forks": "621",
+      "stars": "6,892",
+      "forks": "622",
       "addStars": "1,350",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,437",
-      "forks": "2,378",
+      "stars": "19,447",
+      "forks": "2,382",
       "addStars": "2,792",
       "contributors": [
         {
@@ -207,7 +207,7 @@
       "description": "Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, video translation, and edits with Agents in one place.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,478",
+      "stars": "12,484",
       "forks": "1,282",
       "addStars": "551",
       "contributors": [
@@ -244,8 +244,8 @@
       "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "38,647",
-      "forks": "3,854",
+      "stars": "38,677",
+      "forks": "3,858",
       "addStars": "1,397",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "148,448",
-      "forks": "24,903",
+      "stars": "148,482",
+      "forks": "24,935",
       "addStars": "1,493",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,173",
-      "forks": "708",
+      "stars": "8,254",
+      "forks": "715",
       "addStars": "1,008",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "Free, simple, fast interactive diagrams and videos for any GitHub repository",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,331",
-      "forks": "1,325",
+      "stars": "17,373",
+      "forks": "1,327",
       "addStars": "489",
       "contributors": [
         {
@@ -372,8 +372,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,214",
-      "forks": "2,176",
+      "stars": "9,219",
+      "forks": "2,177",
       "addStars": "304",
       "contributors": [
         {
@@ -404,8 +404,8 @@
       "description": "TypeScript-to-Native Compiler",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,585",
-      "forks": "143",
+      "stars": "5,610",
+      "forks": "146",
       "addStars": "688",
       "contributors": [
         {
@@ -441,8 +441,8 @@
       "description": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,030",
-      "forks": "707",
+      "stars": "23,065",
+      "forks": "710",
       "addStars": "958",
       "contributors": [
         {
@@ -478,7 +478,7 @@
       "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "34,262",
+      "stars": "34,265",
       "forks": "3,918",
       "addStars": "91",
       "contributors": [
@@ -510,8 +510,8 @@
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,512",
-      "forks": "4,331",
+      "stars": "26,519",
+      "forks": "4,335",
       "addStars": "328",
       "contributors": [
         {
