@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Tue, 29 Sep 2026 14:05:59 GMT",
+  "pubDate": "Tue, 29 Sep 2026 22:58:37 GMT",
   "items": [
     {
       "title": "paperclipai/paperclip",
@@ -10,8 +10,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "94,020",
-      "forks": "15,999",
+      "stars": "94,404",
+      "forks": "16,046",
       "addStars": "2,412",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,142",
-      "forks": "159",
+      "stars": "2,389",
+      "forks": "170",
       "addStars": "733",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Self-hosted deployment platform",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,609",
-      "forks": "1,215",
+      "stars": "13,792",
+      "forks": "1,233",
       "addStars": "436",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,650",
-      "forks": "1,828",
+      "stars": "21,826",
+      "forks": "1,841",
       "addStars": "692",
       "contributors": [
         {
@@ -153,51 +153,14 @@
       ]
     },
     {
-      "title": "chrisryugj/kordoc",
-      "url": "https://github.com/chrisryugj/kordoc",
-      "description": "모두 파싱해버리겠다 — HWP·HWPX·PDF·Office 문서를 Markdown으로. 양식 자동 채우기와 신구대조를 갖춘 CLI·MCP 서버 | Convert Korean documents (HWP, HWPX, PDF, Office) to Markdown — CLI and MCP server with form filling and diff",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": "2,284",
-      "forks": "420",
-      "addStars": "36",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/212630997?s=40&v=4",
-          "name": "chrisryugj",
-          "url": "https://github.com/chrisryugj"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/26668612?s=40&v=4",
-          "name": "MeroZemory",
-          "url": "https://github.com/MeroZemory"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/71117066?s=40&v=4",
-          "name": "LimePencil",
-          "url": "https://github.com/LimePencil"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/98787049?s=40&v=4",
-          "name": "piquark6046",
-          "url": "https://github.com/piquark6046"
-        }
-      ]
-    },
-    {
       "title": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "49,794",
-      "forks": "4,962",
-      "addStars": "274",
+      "stars": "49,829",
+      "forks": "4,966",
+      "addStars": "109",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&v=4",
@@ -227,8 +190,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "54,104",
-      "forks": "4,930",
+      "stars": "54,241",
+      "forks": "4,937",
       "addStars": "312",
       "contributors": [
         {
@@ -264,9 +227,9 @@
       "description": "TypeScript-to-Native Compiler",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,668",
-      "forks": "153",
-      "addStars": "317",
+      "stars": "5,694",
+      "forks": "157",
+      "addStars": "88",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -301,9 +264,9 @@
       "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,374",
-      "forks": "726",
-      "addStars": "449",
+      "stars": "8,409",
+      "forks": "733",
+      "addStars": "204",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2457607?s=40&v=4",
@@ -338,8 +301,8 @@
       "description": "Vite plugin that reimplements the Next.js API surface — deploy anywhere",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,963",
-      "forks": "419",
+      "stars": "8,979",
+      "forks": "420",
       "addStars": "91",
       "contributors": [
         {
@@ -375,8 +338,8 @@
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "51,046",
-      "forks": "3,650",
+      "stars": "51,043",
+      "forks": "3,646",
       "addStars": "19",
       "contributors": [
         {
@@ -412,7 +375,7 @@
       "description": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,700",
+      "stars": "10,704",
       "forks": "1,148",
       "addStars": "10",
       "contributors": [
@@ -444,7 +407,7 @@
       "description": "Open Cyber Threat Intelligence Platform",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,064",
+      "stars": "10,067",
       "forks": "1,463",
       "addStars": "6",
       "contributors": [

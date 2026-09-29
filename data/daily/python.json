@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Tue, 29 Sep 2026 14:05:59 GMT",
+  "pubDate": "Tue, 29 Sep 2026 22:58:37 GMT",
   "items": [
     {
       "title": "debpalash/VoiceStudio",
@@ -10,8 +10,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "46,711",
-      "forks": "5,284",
+      "stars": "47,964",
+      "forks": "5,382",
       "addStars": "4,712",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,154",
-      "forks": "5,659",
+      "stars": "42,781",
+      "forks": "5,764",
       "addStars": "2,541",
       "contributors": [
         {
@@ -84,9 +84,9 @@
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,914",
-      "forks": "10,484",
-      "addStars": "1,287",
+      "stars": "61,286",
+      "forks": "10,526",
+      "addStars": "855",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
@@ -116,8 +116,8 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,857",
-      "forks": "3,229",
+      "stars": "37,278",
+      "forks": "3,259",
       "addStars": "822",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,711",
-      "forks": "3,630",
+      "stars": "28,718",
+      "forks": "3,625",
       "addStars": "62",
       "contributors": [
         {
@@ -180,7 +180,7 @@
       "description": "Open Source Inference Research Platform Standard / 开源推理研究平台",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,784",
+      "stars": "1,786",
       "forks": "309",
       "addStars": "8",
       "contributors": [
@@ -212,8 +212,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "44,433",
-      "forks": "15,299",
+      "stars": "44,482",
+      "forks": "15,327",
       "addStars": "138",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,688",
-      "forks": "707",
+      "stars": "5,784",
+      "forks": "718",
       "addStars": "234",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "126,880",
-      "forks": "19,813",
+      "stars": "127,071",
+      "forks": "19,862",
       "addStars": "325",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "83,212",
-      "forks": "11,544",
+      "stars": "83,230",
+      "forks": "11,547",
       "addStars": "79",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "66,302",
-      "forks": "7,807",
+      "stars": "66,323",
+      "forks": "7,809",
       "addStars": "119",
       "contributors": [
         {
@@ -397,9 +397,9 @@
       "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,851",
-      "forks": "1,675",
-      "addStars": "136",
+      "stars": "17,872",
+      "forks": "1,678",
+      "addStars": "92",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/29210256?s=40&v=4",
@@ -429,8 +429,8 @@
       "description": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,137",
-      "forks": "618",
+      "stars": "6,139",
+      "forks": "619",
       "addStars": "11",
       "contributors": [
         {
