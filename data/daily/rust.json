@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Wed, 30 Sep 2026 13:44:55 GMT",
+  "pubDate": "Wed, 30 Sep 2026 23:01:41 GMT",
   "items": [
     {
       "title": "NVIDIA/OpenShell",
@@ -10,8 +10,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,457",
-      "forks": "1,480",
+      "stars": "12,538",
+      "forks": "1,536",
       "addStars": "1,280",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "22,848",
-      "forks": "2,126",
+      "stars": "23,145",
+      "forks": "2,148",
       "addStars": "1,133",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "95,671",
-      "forks": "12,634",
+      "stars": "95,716",
+      "forks": "12,639",
       "addStars": "272",
       "contributors": [
         {
@@ -106,7 +106,7 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,377",
+      "stars": "37,395",
       "forks": "2,397",
       "addStars": "63",
       "contributors": [
@@ -133,9 +133,9 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,727",
-      "forks": "849",
-      "addStars": "221",
+      "stars": "11,777",
+      "forks": "850",
+      "addStars": "147",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71594357?s=40&v=4",
@@ -170,8 +170,8 @@
       "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,187",
-      "forks": "1,643",
+      "stars": "8,192",
+      "forks": "1,644",
       "addStars": "6",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,219",
-      "forks": "397",
+      "stars": "6,299",
+      "forks": "401",
       "addStars": "280",
       "contributors": [
         {
@@ -244,7 +244,7 @@
       "description": "A minimal, secure Python interpreter written in Rust for use by AI",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "8,492",
+      "stars": "8,498",
       "forks": "436",
       "addStars": "61",
       "contributors": [
@@ -281,8 +281,8 @@
       "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,006",
-      "forks": "192",
+      "stars": "1,023",
+      "forks": "195",
       "addStars": "93",
       "contributors": [
         {
@@ -303,12 +303,49 @@
       ]
     },
     {
+      "title": "dmtrKovalenko/fframes",
+      "url": "https://github.com/dmtrKovalenko/fframes",
+      "description": "programmatic video rendering framework that is actually fast",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": "1,549",
+      "forks": "29",
+      "addStars": "722",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/16926049?s=40&v=4",
+          "name": "dmtrKovalenko",
+          "url": "https://github.com/dmtrKovalenko"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/21375952?s=40&v=4",
+          "name": "ryanleecode",
+          "url": "https://github.com/ryanleecode"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/174697160?s=40&v=4",
+          "name": "peter-jammable",
+          "url": "https://github.com/peter-jammable"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/705882?s=40&v=4",
+          "name": "rymalia",
+          "url": "https://github.com/rymalia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/32422684?s=40&v=4",
+          "name": "arkatriymfalnaya",
+          "url": "https://github.com/arkatriymfalnaya"
+        }
+      ]
+    },
+    {
       "title": "zeronsh/zeron",
       "url": "https://github.com/zeronsh/zeron",
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,500",
+      "stars": "2,509",
       "forks": "239",
       "addStars": "52",
       "contributors": [
@@ -345,9 +382,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,198",
-      "forks": "950",
-      "addStars": "121",
+      "stars": "15,314",
+      "forks": "953",
+      "addStars": "187",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5518?s=40&v=4",
@@ -382,8 +419,8 @@
       "description": "A smarter cd command. Supports all major shells.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "39,782",
-      "forks": "913",
+      "stars": "39,800",
+      "forks": "914",
       "addStars": "34",
       "contributors": [
         {
@@ -414,7 +451,7 @@
       "description": "Rails as a specification; the deployment target is a build flag",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "298",
+      "stars": "308",
       "forks": "15",
       "addStars": "38",
       "contributors": [
@@ -451,9 +488,9 @@
       "description": "A cross-platform GUI library for Rust, inspired by Elm",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,619",
+      "stars": "31,627",
       "forks": "1,689",
-      "addStars": "29",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/518289?s=40&v=4",
@@ -485,11 +522,11 @@
     {
       "title": "voidzero-dev/vite-plus",
       "url": "https://github.com/voidzero-dev/vite-plus",
-      "description": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
+      "description": "The unified toolchain and entry point for web development.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,919",
-      "forks": "269",
+      "stars": "5,926",
+      "forks": "270",
       "addStars": "24",
       "contributors": [
         {
@@ -520,7 +557,7 @@
       "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "68,737",
+      "stars": "68,743",
       "forks": "4,139",
       "addStars": "33",
       "contributors": [
