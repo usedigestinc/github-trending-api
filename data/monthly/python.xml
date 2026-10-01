@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Python Languages in GitHub</description>
-    <pubDate>Thu, 01 Oct 2026 14:29:31 GMT</pubDate>
+    <pubDate>Thu, 01 Oct 2026 23:13:50 GMT</pubDate>
     <item>
       <title>ayghri/i-have-adhd</title>
       <link>https://github.com/ayghri/i-have-adhd</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/ayghri/i-have-adhd</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>52,604</stars>
-      <forks>3,033</forks>
+      <stars>52,707</stars>
+      <forks>3,034</forks>
       <addStars>26,622</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/superdesigndev/treg</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,975</stars>
-      <forks>328</forks>
+      <stars>3,988</stars>
+      <forks>330</forks>
       <addStars>3,214</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/anthropics/financial-services</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>38,441</stars>
-      <forks>5,531</forks>
+      <stars>38,469</stars>
+      <forks>5,533</forks>
       <addStars>3,839</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/vectorize-io/hindsight</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>44,163</stars>
-      <forks>5,857</forks>
+      <stars>44,285</stars>
+      <forks>5,855</forks>
       <addStars>21,957</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/TencentCloud/Octop</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,193</stars>
-      <forks>782</forks>
+      <stars>6,233</stars>
+      <forks>785</forks>
       <addStars>4,729</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/jingyaogong/minimind</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>63,022</stars>
-      <forks>8,185</forks>
+      <stars>63,043</stars>
+      <forks>8,188</forks>
       <addStars>7,328</addStars>
       <contributors>
         <contributor>
@@ -239,8 +239,8 @@
       <guid>https://github.com/NVIDIA/SkillSpector</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>18,890</stars>
-      <forks>1,648</forks>
+      <stars>18,958</stars>
+      <forks>1,652</forks>
       <addStars>3,388</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>25,955</stars>
-      <forks>3,050</forks>
+      <stars>25,963</stars>
+      <forks>3,052</forks>
       <addStars>2,225</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/ahujasid/mcp-for-blender</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,806</stars>
-      <forks>2,710</forks>
+      <stars>29,829</stars>
+      <forks>2,712</forks>
       <addStars>3,265</addStars>
       <contributors>
         <contributor>
@@ -343,8 +343,8 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>84,925</stars>
-      <forks>8,694</forks>
+      <stars>85,012</stars>
+      <forks>8,705</forks>
       <addStars>7,408</addStars>
       <contributors>
         <contributor>
@@ -381,8 +381,8 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>62,301</stars>
-      <forks>10,658</forks>
+      <stars>62,413</stars>
+      <forks>10,680</forks>
       <addStars>10,841</addStars>
       <contributors>
         <contributor>
@@ -414,7 +414,7 @@
       <guid>https://github.com/petergyang/no-ai-slop</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,631</stars>
+      <stars>11,664</stars>
       <forks>796</forks>
       <addStars>5,133</addStars>
       <contributors>
@@ -452,8 +452,8 @@
       <guid>https://github.com/NVIDIA/Model-Optimizer</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,131</stars>
-      <forks>713</forks>
+      <stars>5,148</stars>
+      <forks>715</forks>
       <addStars>1,472</addStars>
       <contributors>
         <contributor>
@@ -490,8 +490,8 @@
       <guid>https://github.com/microsoft/markitdown</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>187,844</stars>
-      <forks>13,894</forks>
+      <stars>187,893</stars>
+      <forks>13,903</forks>
       <addStars>10,905</addStars>
       <contributors>
         <contributor>
@@ -519,12 +519,12 @@
     <item>
       <title>K-Dense-AI/scientific-agent-skills</title>
       <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
-      <description>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 168 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</description>
+      <description>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</description>
       <guid>https://github.com/K-Dense-AI/scientific-agent-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,273</stars>
-      <forks>4,280</forks>
+      <stars>47,296</stars>
+      <forks>4,282</forks>
       <addStars>6,916</addStars>
       <contributors>
         <contributor>
@@ -556,8 +556,8 @@
       <guid>https://github.com/Imbad0202/academic-research-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>50,065</stars>
-      <forks>3,863</forks>
+      <stars>50,088</stars>
+      <forks>3,864</forks>
       <addStars>5,743</addStars>
       <contributors>
         <contributor>
@@ -594,8 +594,8 @@
       <guid>https://github.com/browser-use/browser-use</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>116,904</stars>
-      <forks>12,898</forks>
+      <stars>116,950</stars>
+      <forks>12,904</forks>
       <addStars>5,303</addStars>
       <contributors>
         <contributor>
@@ -632,8 +632,8 @@
       <guid>https://github.com/sgl-project/sglang</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>36,692</stars>
-      <forks>9,251</forks>
+      <stars>36,702</stars>
+      <forks>9,260</forks>
       <addStars>3,783</addStars>
       <contributors>
         <contributor>
@@ -670,8 +670,8 @@
       <guid>https://github.com/docling-project/docling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>68,252</stars>
-      <forks>4,974</forks>
+      <stars>68,274</stars>
+      <forks>4,981</forks>
       <addStars>2,521</addStars>
       <contributors>
         <contributor>
@@ -703,8 +703,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>51,113</stars>
-      <forks>5,668</forks>
+      <stars>51,346</stars>
+      <forks>5,705</forks>
       <addStars>37,756</addStars>
       <contributors>
         <contributor>
@@ -741,8 +741,8 @@
       <guid>https://github.com/SnailSploit/Claude-Red</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,164</stars>
-      <forks>939</forks>
+      <stars>7,174</stars>
+      <forks>941</forks>
       <addStars>4,267</addStars>
       <contributors>
         <contributor>
