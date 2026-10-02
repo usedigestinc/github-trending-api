@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Fri, 02 Oct 2026 13:53:53 GMT</pubDate>
+    <pubDate>Fri, 02 Oct 2026 22:58:56 GMT</pubDate>
     <item>
       <title>paperclipai/paperclip</title>
       <link>https://github.com/paperclipai/paperclip</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/paperclipai/paperclip</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>96,107</stars>
-      <forks>16,287</forks>
+      <stars>96,273</stars>
+      <forks>16,305</forks>
       <addStars>14,335</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>55,654</stars>
-      <forks>5,039</forks>
+      <stars>55,863</stars>
+      <forks>5,037</forks>
       <addStars>2,667</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/anthropics/claude-code-action</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,353</stars>
-      <forks>2,185</forks>
+      <stars>9,371</stars>
+      <forks>2,184</forks>
       <addStars>376</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/pablostanley/yoinks</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,258</stars>
-      <forks>301</forks>
+      <stars>3,476</stars>
+      <forks>307</forks>
       <addStars>1,069</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/dream-num/univer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,293</stars>
-      <forks>1,870</forks>
+      <stars>22,302</stars>
+      <forks>1,868</forks>
       <addStars>5,267</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/mobile-next/mobile-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,549</stars>
-      <forks>751</forks>
+      <stars>8,565</stars>
+      <forks>754</forks>
       <addStars>1,685</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/oblien/openship</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>14,337</stars>
-      <forks>1,280</forks>
+      <stars>14,369</stars>
+      <forks>1,281</forks>
       <addStars>1,866</addStars>
       <contributors>
         <contributor>
@@ -257,7 +257,7 @@
       <guid>https://github.com/vercel-labs/scriptc</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,896</stars>
+      <stars>5,900</stars>
       <forks>166</forks>
       <addStars>948</addStars>
       <contributors>
@@ -295,8 +295,8 @@
       <guid>https://github.com/satnaing/shadcn-admin</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,531</stars>
-      <forks>2,353</forks>
+      <stars>15,541</stars>
+      <forks>2,349</forks>
       <addStars>1,239</addStars>
       <contributors>
         <contributor>
@@ -328,8 +328,8 @@
       <guid>https://github.com/moeru-ai/airi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>49,944</stars>
-      <forks>4,985</forks>
+      <stars>49,935</stars>
+      <forks>4,981</forks>
       <addStars>603</addStars>
       <contributors>
         <contributor>
@@ -361,8 +361,8 @@
       <guid>https://github.com/openclaw/openclaw</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>391,211</stars>
-      <forks>82,244</forks>
+      <stars>391,189</stars>
+      <forks>82,220</forks>
       <addStars>1,183</addStars>
       <contributors>
         <contributor>
@@ -394,7 +394,7 @@
       <guid>https://github.com/adewaskar/jarvis</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>335</stars>
+      <stars>340</stars>
       <forks>143</forks>
       <addStars>120</addStars>
       <contributors>
@@ -417,7 +417,7 @@
       <guid>https://github.com/ahmedkhaleel2004/gitdiagram</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>17,730</stars>
+      <stars>17,744</stars>
       <forks>1,359</forks>
       <addStars>651</addStars>
       <contributors>
@@ -440,8 +440,8 @@
       <guid>https://github.com/FxEmbed/FxEmbed</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,641</stars>
-      <forks>269</forks>
+      <stars>5,642</stars>
+      <forks>268</forks>
       <addStars>369</addStars>
       <contributors>
         <contributor>
@@ -468,7 +468,7 @@
       <guid>https://github.com/vega-org/vega-app</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,482</stars>
+      <stars>1,483</stars>
       <forks>204</forks>
       <addStars>72</addStars>
       <contributors>

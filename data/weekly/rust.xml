@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Rust Languages in GitHub</description>
-    <pubDate>Fri, 02 Oct 2026 13:53:53 GMT</pubDate>
+    <pubDate>Fri, 02 Oct 2026 22:58:56 GMT</pubDate>
     <item>
       <title>t8y2/dbx</title>
       <link>https://github.com/t8y2/dbx</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/t8y2/dbx</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>23,846</stars>
-      <forks>2,187</forks>
+      <stars>23,952</stars>
+      <forks>2,192</forks>
       <addStars>3,067</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/timhartmann7/omnyssh</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,112</stars>
-      <forks>63</forks>
+      <stars>1,117</stars>
+      <forks>64</forks>
       <addStars>353</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/longbridge/gpui-kit</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>15,620</stars>
-      <forks>967</forks>
+      <stars>15,698</stars>
+      <forks>971</forks>
       <addStars>740</addStars>
       <contributors>
         <contributor>
@@ -120,7 +120,7 @@
       <guid>https://github.com/hydra-db/hydradb</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>13,093</stars>
+      <stars>13,089</stars>
       <forks>5,556</forks>
       <addStars>7,506</addStars>
       <contributors>
@@ -158,7 +158,7 @@
       <guid>https://github.com/tokio-rs/topcoat</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>5,854</stars>
+      <stars>5,870</stars>
       <forks>198</forks>
       <addStars>678</addStars>
       <contributors>
@@ -191,8 +191,8 @@
       <guid>https://github.com/Pumpkin-MC/Pumpkin</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>11,853</stars>
-      <forks>861</forks>
+      <stars>11,862</stars>
+      <forks>863</forks>
       <addStars>487</addStars>
       <contributors>
         <contributor>
@@ -230,7 +230,7 @@
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
       <stars>45,271</stars>
-      <forks>6,421</forks>
+      <forks>6,420</forks>
       <addStars>1,456</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/pnpm/pnpm</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>36,728</stars>
-      <forks>1,900</forks>
+      <stars>36,731</stars>
+      <forks>1,902</forks>
       <addStars>113</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/trycua/cua</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>27,757</stars>
-      <forks>1,952</forks>
+      <stars>27,810</stars>
+      <forks>1,960</forks>
       <addStars>1,453</addStars>
       <contributors>
         <contributor>
@@ -328,8 +328,8 @@
       <guid>https://github.com/NVIDIA/OpenShell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>14,260</stars>
-      <forks>1,646</forks>
+      <stars>14,413</stars>
+      <forks>1,658</forks>
       <addStars>5,083</addStars>
       <contributors>
         <contributor>
@@ -366,8 +366,8 @@
       <guid>https://github.com/block/buzz</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>35,418</stars>
-      <forks>4,668</forks>
+      <stars>35,425</stars>
+      <forks>4,665</forks>
       <addStars>1,198</addStars>
       <contributors>
         <contributor>
@@ -404,8 +404,8 @@
       <guid>https://github.com/JayWebtech/autoshorts</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,104</stars>
-      <forks>212</forks>
+      <stars>1,123</stars>
+      <forks>213</forks>
       <addStars>217</addStars>
       <contributors>
         <contributor>
@@ -432,8 +432,8 @@
       <guid>https://github.com/trailofbits/coop</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>744</stars>
-      <forks>38</forks>
+      <stars>747</stars>
+      <forks>39</forks>
       <addStars>488</addStars>
       <contributors>
         <contributor>
@@ -465,7 +465,7 @@
       <guid>https://github.com/pydantic/monty</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>8,516</stars>
+      <stars>8,519</stars>
       <forks>442</forks>
       <addStars>240</addStars>
       <contributors>
@@ -503,7 +503,7 @@
       <guid>https://github.com/pacifio/atlas</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>8,738</stars>
+      <stars>8,743</stars>
       <forks>342</forks>
       <addStars>2,526</addStars>
       <contributors>
@@ -541,8 +541,8 @@
       <guid>https://github.com/vectordotdev/vector</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>22,660</stars>
-      <forks>2,305</forks>
+      <stars>22,659</stars>
+      <forks>2,308</forks>
       <addStars>54</addStars>
       <contributors>
         <contributor>
@@ -574,7 +574,7 @@
       <guid>https://github.com/clash-verge-rev/clash-verge-rev</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>148,813</stars>
+      <stars>148,847</stars>
       <forks>10,681</forks>
       <addStars>1,725</addStars>
       <contributors>
@@ -607,8 +607,8 @@
       <guid>https://github.com/magnitudedev/magnitude</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,244</stars>
-      <forks>422</forks>
+      <stars>6,279</stars>
+      <forks>425</forks>
       <addStars>1,182</addStars>
       <contributors>
         <contributor>
@@ -640,8 +640,8 @@
       <guid>https://github.com/zeronsh/zeron</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>2,761</stars>
-      <forks>260</forks>
+      <stars>2,804</stars>
+      <forks>267</forks>
       <addStars>335</addStars>
       <contributors>
         <contributor>
@@ -678,8 +678,8 @@
       <guid>https://github.com/rust-lang/rust</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>119,398</stars>
-      <forks>17,291</forks>
+      <stars>119,409</stars>
+      <forks>17,360</forks>
       <addStars>342</addStars>
       <contributors>
         <contributor>
@@ -716,7 +716,7 @@
       <guid>https://github.com/touchHLE/touchHLE</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,957</stars>
+      <stars>3,960</stars>
       <forks>340</forks>
       <addStars>24</addStars>
       <contributors>
@@ -755,7 +755,7 @@
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
       <stars>96,100</stars>
-      <forks>5,084</forks>
+      <forks>5,085</forks>
       <addStars>119</addStars>
       <contributors>
         <contributor>
