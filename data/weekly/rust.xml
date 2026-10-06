@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Rust Languages in GitHub</description>
-    <pubDate>Mon, 05 Oct 2026 16:01:40 GMT</pubDate>
+    <pubDate>Tue, 06 Oct 2026 00:50:38 GMT</pubDate>
     <item>
       <title>t8y2/dbx</title>
       <link>https://github.com/t8y2/dbx</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/t8y2/dbx</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>24,739</stars>
-      <forks>2,248</forks>
-      <addStars>3,600</addStars>
+      <stars>24,796</stars>
+      <forks>2,243</forks>
+      <addStars>3,359</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/77960507?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/Pumpkin-MC/Pumpkin</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>11,970</stars>
-      <forks>872</forks>
-      <addStars>568</addStars>
+      <stars>11,991</stars>
+      <forks>871</forks>
+      <addStars>616</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/71594357?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/longbridge/gpui-kit</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>16,200</stars>
-      <forks>996</forks>
-      <addStars>1,190</addStars>
+      <stars>16,226</stars>
+      <forks>998</forks>
+      <addStars>1,310</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5518?s=40&amp;v=4</avatar>
@@ -120,9 +120,9 @@
       <guid>https://github.com/timhartmann7/omnyssh</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,144</stars>
+      <stars>1,148</stars>
       <forks>63</forks>
-      <addStars>331</addStars>
+      <addStars>169</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/162906779?s=40&amp;v=4</avatar>
@@ -158,9 +158,9 @@
       <guid>https://github.com/zerx-lab/FluxDown</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,916</stars>
+      <stars>3,930</stars>
       <forks>232</forks>
-      <addStars>584</addStars>
+      <addStars>688</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/161401688?s=40&amp;v=4</avatar>
@@ -196,9 +196,9 @@
       <guid>https://github.com/ruvnet/RuView</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>96,495</stars>
-      <forks>12,702</forks>
-      <addStars>1,254</addStars>
+      <stars>96,576</stars>
+      <forks>12,709</forks>
+      <addStars>1,344</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
@@ -224,9 +224,9 @@
       <guid>https://github.com/touchHLE/touchHLE</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,973</stars>
+      <stars>3,974</stars>
       <forks>346</forks>
-      <addStars>39</addStars>
+      <addStars>44</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/91161081?s=40&amp;v=4</avatar>
@@ -262,9 +262,9 @@
       <guid>https://github.com/hydra-db/hydradb</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>13,044</stars>
-      <forks>5,504</forks>
-      <addStars>2,791</addStars>
+      <stars>13,052</stars>
+      <forks>5,499</forks>
+      <addStars>1,071</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/248433309?s=40&amp;v=4</avatar>
@@ -300,9 +300,9 @@
       <guid>https://github.com/helix-editor/helix</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>46,472</stars>
+      <stars>46,477</stars>
       <forks>3,812</forks>
-      <addStars>120</addStars>
+      <addStars>125</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1372918?s=40&amp;v=4</avatar>
@@ -333,9 +333,9 @@
       <guid>https://github.com/xingkongliang/skills-manager</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>5,504</stars>
+      <stars>5,525</stars>
       <forks>474</forks>
-      <addStars>465</addStars>
+      <addStars>360</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8827798?s=40&amp;v=4</avatar>
@@ -371,9 +371,9 @@
       <guid>https://github.com/NVIDIA/OpenShell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>14,961</stars>
-      <forks>1,704</forks>
-      <addStars>5,996</addStars>
+      <stars>14,998</stars>
+      <forks>1,707</forks>
+      <addStars>5,915</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/385?s=40&amp;v=4</avatar>
@@ -409,9 +409,9 @@
       <guid>https://github.com/JayWebtech/autoshorts</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,175</stars>
+      <stars>1,180</stars>
       <forks>221</forks>
-      <addStars>283</addStars>
+      <addStars>291</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/45628811?s=40&amp;v=4</avatar>
@@ -437,9 +437,9 @@
       <guid>https://github.com/zeronsh/zeron</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,033</stars>
-      <forks>285</forks>
-      <addStars>781</addStars>
+      <stars>3,041</stars>
+      <forks>286</forks>
+      <addStars>801</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/234226124?s=40&amp;v=4</avatar>
@@ -475,9 +475,9 @@
       <guid>https://github.com/pydantic/monty</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>8,561</stars>
-      <forks>445</forks>
-      <addStars>192</addStars>
+      <stars>8,562</stars>
+      <forks>446</forks>
+      <addStars>203</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4039449?s=40&amp;v=4</avatar>
@@ -513,9 +513,9 @@
       <guid>https://github.com/kitao/pyxel</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>18,394</stars>
+      <stars>18,395</stars>
       <forks>963</forks>
-      <addStars>258</addStars>
+      <addStars>167</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/678802?s=40&amp;v=4</avatar>
@@ -551,9 +551,9 @@
       <guid>https://github.com/cjpais/Handy</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>32,908</stars>
-      <forks>3,051</forks>
-      <addStars>571</addStars>
+      <stars>32,938</stars>
+      <forks>3,058</forks>
+      <addStars>587</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1559480?s=40&amp;v=4</avatar>
@@ -589,7 +589,7 @@
       <guid>https://github.com/a2x/cs2-dumper</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>2,397</stars>
+      <stars>2,398</stars>
       <forks>366</forks>
       <addStars>30</addStars>
       <contributors>

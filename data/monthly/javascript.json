@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Monthly Trending",
   "description": "Monthly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Mon, 05 Oct 2026 16:01:40 GMT",
+  "pubDate": "Tue, 06 Oct 2026 00:50:38 GMT",
   "items": [
     {
       "title": "bilawalsidhu/gods-eye-view",
@@ -10,9 +10,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "47,793",
-      "forks": "9,746",
-      "addStars": "30,324",
+      "stars": "47,975",
+      "forks": "9,766",
+      "addStars": "30,235",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/845989?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "273,402",
-      "forks": "40,799",
-      "addStars": "26,306",
+      "stars": "273,657",
+      "forks": "40,830",
+      "addStars": "25,740",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "77,938",
-      "forks": "5,239",
-      "addStars": "30,184",
+      "stars": "78,123",
+      "forks": "5,248",
+      "addStars": "29,482",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53142663?s=40&v=4",
@@ -106,51 +106,14 @@
       ]
     },
     {
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "155,718",
-      "forks": "8,363",
-      "addStars": "30,466",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
-          "name": "DietrichGebert",
-          "url": "https://github.com/DietrichGebert"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
-          "name": "ousamabenyounes",
-          "url": "https://github.com/ousamabenyounes"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/169168095?s=40&v=4",
-          "name": "Lakshya77089",
-          "url": "https://github.com/Lakshya77089"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/91044156?s=40&v=4",
-          "name": "dhedhialy",
-          "url": "https://github.com/dhedhialy"
-        }
-      ]
-    },
-    {
       "title": "openai/plugins",
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "7,307",
-      "forks": "948",
-      "addStars": "1,955",
+      "stars": "7,311",
+      "forks": "949",
+      "addStars": "1,950",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
@@ -185,9 +148,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "101,448",
-      "forks": "10,633",
-      "addStars": "9,536",
+      "stars": "101,549",
+      "forks": "10,649",
+      "addStars": "9,762",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -222,9 +185,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "24,656",
-      "forks": "1,453",
-      "addStars": "21,191",
+      "stars": "24,798",
+      "forks": "1,462",
+      "addStars": "21,789",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -244,46 +207,14 @@
       ]
     },
     {
-      "title": "michael-denyer/pstack-claude",
-      "url": "https://github.com/michael-denyer/pstack-claude",
-      "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "1,331",
-      "forks": "148",
-      "addStars": "930",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/97485362?s=40&v=4",
-          "name": "michael-denyer",
-          "url": "https://github.com/michael-denyer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/13261778?s=40&v=4",
-          "name": "harrymunro",
-          "url": "https://github.com/harrymunro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3153107?s=40&v=4",
-          "name": "younes-io",
-          "url": "https://github.com/younes-io"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2181467?s=40&v=4",
-          "name": "tlmader",
-          "url": "https://github.com/tlmader"
-        }
-      ]
-    },
-    {
       "title": "fleetbase/fleetbase",
       "url": "https://github.com/fleetbase/fleetbase",
       "description": "Modular logistics and supply chain operating system (LSOS)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,154",
+      "stars": "4,162",
       "forks": "1,097",
-      "addStars": "1,877",
+      "addStars": "1,883",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/816371?s=40&v=4",
@@ -318,9 +249,9 @@
       "description": "List of Permanent Free LLM API (API Keys)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "9,224",
-      "forks": "966",
-      "addStars": "1,868",
+      "stars": "9,251",
+      "forks": "974",
+      "addStars": "1,916",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11723962?s=40&v=4",
@@ -338,9 +269,9 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/75412910?s=40&v=4",
-          "name": "codeusb",
-          "url": "https://github.com/codeusb"
+          "avatar": "https://avatars.githubusercontent.com/u/141296636?s=40&v=4",
+          "name": "guillaumegay13",
+          "url": "https://github.com/guillaumegay13"
         }
       ]
     },
@@ -350,9 +281,9 @@
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "9,050",
-      "forks": "1,119",
-      "addStars": "2,434",
+      "stars": "9,066",
+      "forks": "1,121",
+      "addStars": "2,185",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11309189?s=40&v=4",
@@ -388,8 +319,8 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": "143,195",
-      "forks": "33,991",
-      "addStars": "1,873",
+      "forks": "33,994",
+      "addStars": "1,876",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22380829?s=40&v=4",
@@ -424,9 +355,9 @@
       "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,088",
-      "forks": "628",
-      "addStars": "1,940",
+      "stars": "4,114",
+      "forks": "630",
+      "addStars": "1,880",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -461,9 +392,9 @@
       "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "67,288",
+      "stars": "67,313",
       "forks": "6,679",
-      "addStars": "5,128",
+      "addStars": "5,297",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16145783?s=40&v=4",
@@ -498,9 +429,9 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "92,129",
-      "forks": "8,524",
-      "addStars": "1,318",
+      "stars": "92,143",
+      "forks": "8,523",
+      "addStars": "1,298",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1336778?s=40&v=4",
@@ -535,9 +466,9 @@
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,435",
-      "forks": "1,145",
-      "addStars": "2,394",
+      "stars": "11,440",
+      "forks": "1,147",
+      "addStars": "2,399",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/998?s=40&v=4",
@@ -567,14 +498,14 @@
       ]
     },
     {
-      "title": "laoma2053/awesome-zhuiju-free",
-      "url": "https://github.com/laoma2053/awesome-zhuiju-free",
+      "title": "laoma528/awesome-zhuiju-free",
+      "url": "https://github.com/laoma528/awesome-zhuiju-free",
       "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,295",
+      "stars": "11,304",
       "forks": "765",
-      "addStars": "3,553",
+      "addStars": "3,556",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/169715751?s=40&v=4",
@@ -589,9 +520,9 @@
       "description": "抖音 / TikTok 平台作品下载/数据采集工具",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "16,517",
+      "stars": "16,522",
       "forks": "2,793",
-      "addStars": "917",
+      "addStars": "914",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/49263334?s=40&v=4",
@@ -621,9 +552,9 @@
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "76,895",
-      "forks": "4,589",
-      "addStars": "11,347",
+      "stars": "77,073",
+      "forks": "4,592",
+      "addStars": "11,487",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
@@ -653,9 +584,9 @@
       "description": "Run Claude Code from a USB drive on any PC — no installation required.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,547",
+      "stars": "1,550",
       "forks": "500",
-      "addStars": "384",
+      "addStars": "358",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/54399984?s=40&v=4",
@@ -680,9 +611,9 @@
       "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,475",
-      "forks": "31,326",
-      "addStars": "361",
+      "stars": "11,477",
+      "forks": "31,352",
+      "addStars": "364",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76603072?s=40&v=4",
