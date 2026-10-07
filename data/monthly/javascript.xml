@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Javascript Languages in GitHub</description>
-    <pubDate>Wed, 07 Oct 2026 14:34:42 GMT</pubDate>
+    <pubDate>Wed, 07 Oct 2026 23:36:33 GMT</pubDate>
     <item>
       <title>bilawalsidhu/gods-eye-view</title>
       <link>https://github.com/bilawalsidhu/gods-eye-view</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>48,606</stars>
-      <forks>9,891</forks>
+      <stars>48,747</stars>
+      <forks>9,913</forks>
       <addStars>30,225</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>274,648</stars>
-      <forks>40,982</forks>
+      <stars>274,922</stars>
+      <forks>41,011</forks>
       <addStars>25,085</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/DietrichGebert/ponytail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>157,326</stars>
-      <forks>8,456</forks>
+      <stars>157,562</stars>
+      <forks>8,465</forks>
       <addStars>28,592</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/tt-a1i/archify</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>79,036</stars>
-      <forks>5,303</forks>
+      <stars>79,208</stars>
+      <forks>5,314</forks>
       <addStars>28,776</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>102,465</stars>
-      <forks>10,738</forks>
+      <stars>102,781</stars>
+      <forks>10,768</forks>
       <addStars>10,029</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/openai/plugins</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>7,335</stars>
-      <forks>952</forks>
+      <stars>7,340</stars>
+      <forks>953</forks>
       <addStars>1,944</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>25,725</stars>
-      <forks>1,548</forks>
+      <stars>26,025</stars>
+      <forks>1,564</forks>
       <addStars>22,289</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/fleetbase/fleetbase</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>4,195</stars>
-      <forks>1,102</forks>
+      <stars>4,198</stars>
+      <forks>1,103</forks>
       <addStars>1,901</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/mnfst/awesome-free-llm-apis</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>9,372</stars>
-      <forks>996</forks>
+      <stars>9,395</stars>
+      <forks>1,000</forks>
       <addStars>1,970</addStars>
       <contributors>
         <contributor>
@@ -328,8 +328,8 @@
       <guid>https://github.com/hughhowey/neo</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>1,330</stars>
-      <forks>158</forks>
+      <stars>1,336</stars>
+      <forks>162</forks>
       <addStars>935</addStars>
       <contributors>
         <contributor>
@@ -366,8 +366,8 @@
       <guid>https://github.com/vercel/next.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>143,230</stars>
-      <forks>34,143</forks>
+      <stars>143,238</stars>
+      <forks>34,142</forks>
       <addStars>1,885</addStars>
       <contributors>
         <contributor>
@@ -404,8 +404,8 @@
       <guid>https://github.com/byoungd/up</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>67,651</stars>
-      <forks>6,715</forks>
+      <stars>67,675</stars>
+      <forks>6,718</forks>
       <addStars>5,458</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/WorldFlowAI/everything-claude-code</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>4,221</stars>
-      <forks>642</forks>
+      <stars>4,254</stars>
+      <forks>647</forks>
       <addStars>1,644</addStars>
       <contributors>
         <contributor>
@@ -480,8 +480,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>78,114</stars>
-      <forks>4,638</forks>
+      <stars>78,230</stars>
+      <forks>4,645</forks>
       <addStars>11,864</addStars>
       <contributors>
         <contributor>
@@ -513,8 +513,8 @@
       <guid>https://github.com/laoma528/awesome-zhuiju-free</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>11,407</stars>
-      <forks>777</forks>
+      <stars>11,422</stars>
+      <forks>779</forks>
       <addStars>3,562</addStars>
       <contributors>
         <contributor>
@@ -531,7 +531,7 @@
       <guid>https://github.com/JoeanAmier/TikTokDownloader</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>16,551</stars>
+      <stars>16,554</stars>
       <forks>2,797</forks>
       <addStars>914</addStars>
       <contributors>
@@ -564,7 +564,7 @@
       <guid>https://github.com/spicetify/cli</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>24,836</stars>
+      <stars>24,845</stars>
       <forks>958</forks>
       <addStars>516</addStars>
       <contributors>
@@ -597,8 +597,8 @@
       <guid>https://github.com/WebKit/WebKit</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>10,211</stars>
-      <forks>2,233</forks>
+      <stars>10,212</stars>
+      <forks>2,234</forks>
       <addStars>150</addStars>
       <contributors>
         <contributor>
@@ -635,8 +635,8 @@
       <guid>https://github.com/nodejs/node</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>122,414</stars>
-      <forks>39,035</forks>
+      <stars>122,424</stars>
+      <forks>39,034</forks>
       <addStars>2,342</addStars>
       <contributors>
         <contributor>

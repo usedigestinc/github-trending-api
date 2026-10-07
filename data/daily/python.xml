@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Python Languages in GitHub</description>
-    <pubDate>Wed, 07 Oct 2026 14:34:42 GMT</pubDate>
+    <pubDate>Wed, 07 Oct 2026 23:36:33 GMT</pubDate>
     <item>
       <title>ayghri/i-have-adhd</title>
       <link>https://github.com/ayghri/i-have-adhd</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/ayghri/i-have-adhd</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>54,809</stars>
-      <forks>3,143</forks>
+      <stars>55,085</stars>
+      <forks>3,158</forks>
       <addStars>620</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/earthtojake/text-to-cad</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>18,240</stars>
-      <forks>1,816</forks>
+      <stars>18,276</stars>
+      <forks>1,817</forks>
       <addStars>543</addStars>
       <contributors>
         <contributor>
@@ -77,7 +77,7 @@
       <guid>https://github.com/allenai/olmocr</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,722</stars>
+      <stars>19,723</stars>
       <forks>1,645</forks>
       <addStars>22</addStars>
       <contributors>
@@ -115,9 +115,9 @@
       <guid>https://github.com/calesthio/OpenMontage</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>64,889</stars>
-      <forks>8,228</forks>
-      <addStars>857</addStars>
+      <stars>65,024</stars>
+      <forks>8,247</forks>
+      <addStars>375</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/213189893?s=40&amp;v=4</avatar>
@@ -153,8 +153,8 @@
       <guid>https://github.com/MDX-Tom/gpt-instruct</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,300</stars>
-      <forks>1,127</forks>
+      <stars>9,315</stars>
+      <forks>1,129</forks>
       <addStars>43</addStars>
       <contributors>
         <contributor>
@@ -186,9 +186,9 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,988</stars>
-      <forks>3,159</forks>
-      <addStars>147</addStars>
+      <stars>27,129</stars>
+      <forks>3,170</forks>
+      <addStars>764</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4</avatar>
@@ -219,7 +219,7 @@
       <guid>https://github.com/smicallef/spiderfoot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,067</stars>
+      <stars>23,120</stars>
       <forks>3,711</forks>
       <addStars>187</addStars>
       <contributors>
@@ -257,8 +257,8 @@
       <guid>https://github.com/superdesigndev/treg</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,678</stars>
-      <forks>382</forks>
+      <stars>4,746</stars>
+      <forks>385</forks>
       <addStars>407</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/microsoft/markitdown</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>188,970</stars>
-      <forks>13,998</forks>
+      <stars>189,030</stars>
+      <forks>14,003</forks>
       <addStars>193</addStars>
       <contributors>
         <contributor>
@@ -328,8 +328,8 @@
       <guid>https://github.com/Z4nzu/hackingtool</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>80,358</stars>
-      <forks>9,108</forks>
+      <stars>80,408</stars>
+      <forks>9,111</forks>
       <addStars>216</addStars>
       <contributors>
         <contributor>
@@ -366,8 +366,8 @@
       <guid>https://github.com/uber/ADR</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,862</stars>
-      <forks>188</forks>
+      <stars>1,901</stars>
+      <forks>196</forks>
       <addStars>36</addStars>
       <contributors>
         <contributor>
@@ -399,8 +399,8 @@
       <guid>https://github.com/vllm-project/vllm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>93,329</stars>
-      <forks>23,084</forks>
+      <stars>93,345</stars>
+      <forks>23,097</forks>
       <addStars>73</addStars>
       <contributors>
         <contributor>
