@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Python Languages in GitHub</description>
-    <pubDate>Thu, 08 Oct 2026 19:18:17 GMT</pubDate>
+    <pubDate>Thu, 08 Oct 2026 23:47:59 GMT</pubDate>
     <item>
       <title>Panniantong/Agent-Reach</title>
       <link>https://github.com/Panniantong/Agent-Reach</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Panniantong/Agent-Reach</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>94,032</stars>
-      <forks>8,228</forks>
+      <stars>94,122</stars>
+      <forks>8,232</forks>
       <addStars>6,912</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/earthtojake/text-to-cad</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>18,438</stars>
-      <forks>1,831</forks>
+      <stars>18,467</stars>
+      <forks>1,833</forks>
       <addStars>1,800</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/HunxByts/GhostTrack</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,526</stars>
-      <forks>2,368</forks>
+      <stars>17,532</stars>
+      <forks>2,369</forks>
       <addStars>1,534</addStars>
       <contributors>
         <contributor>
@@ -100,8 +100,8 @@
       <guid>https://github.com/jamwithai/production-agentic-rag-course</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,675</stars>
-      <forks>2,102</forks>
+      <stars>9,679</stars>
+      <forks>2,103</forks>
       <addStars>688</addStars>
       <contributors>
         <contributor>
@@ -123,7 +123,7 @@
       <guid>https://github.com/ifixai-ai/iFixAi</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,648</stars>
+      <stars>22,694</stars>
       <forks>1,425</forks>
       <addStars>5,863</addStars>
       <contributors>
@@ -161,8 +161,8 @@
       <guid>https://github.com/Tracer-Cloud/opensre</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,646</stars>
-      <forks>1,704</forks>
+      <stars>11,653</stars>
+      <forks>1,705</forks>
       <addStars>327</addStars>
       <contributors>
         <contributor>
@@ -193,14 +193,52 @@
       </contributors>
     </item>
     <item>
+      <title>Anil-matcha/open-dots</title>
+      <link>https://github.com/Anil-matcha/open-dots</link>
+      <description>Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.</description>
+      <guid>https://github.com/Anil-matcha/open-dots</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>5,558</stars>
+      <forks>665</forks>
+      <addStars>464</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4326215?s=40&amp;v=4</avatar>
+          <name>Anil-matcha</name>
+          <url>https://github.com/Anil-matcha</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4</avatar>
+          <name>rudycelekli</name>
+          <url>https://github.com/rudycelekli</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/64298579?s=40&amp;v=4</avatar>
+          <name>vadootvpeer</name>
+          <url>https://github.com/vadootvpeer</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/40651309?s=40&amp;v=4</avatar>
+          <name>inderpreet001</name>
+          <url>https://github.com/inderpreet001</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>p-e-w/heretic</title>
       <link>https://github.com/p-e-w/heretic</link>
       <description>Fully automatic censorship removal for language models</description>
       <guid>https://github.com/p-e-w/heretic</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>34,049</stars>
-      <forks>3,800</forks>
+      <stars>34,085</stars>
+      <forks>3,806</forks>
       <addStars>1,287</addStars>
       <contributors>
         <contributor>
@@ -232,8 +270,8 @@
       <guid>https://github.com/calesthio/OpenMontage</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>65,412</stars>
-      <forks>8,300</forks>
+      <stars>65,480</stars>
+      <forks>8,307</forks>
       <addStars>3,057</addStars>
       <contributors>
         <contributor>
@@ -270,8 +308,8 @@
       <guid>https://github.com/tile-ai/tilelang</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,518</stars>
-      <forks>864</forks>
+      <stars>8,519</stars>
+      <forks>863</forks>
       <addStars>639</addStars>
       <contributors>
         <contributor>
@@ -308,8 +346,8 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>65,823</stars>
-      <forks>11,403</forks>
+      <stars>65,867</stars>
+      <forks>11,410</forks>
       <addStars>3,580</addStars>
       <contributors>
         <contributor>
@@ -341,7 +379,7 @@
       <guid>https://github.com/dortania/OpenCore-Legacy-Patcher</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>18,510</stars>
+      <stars>18,513</stars>
       <forks>2,025</forks>
       <addStars>139</addStars>
       <contributors>
@@ -379,8 +417,8 @@
       <guid>https://github.com/sambanks/octabam</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>238</stars>
-      <forks>34</forks>
+      <stars>239</stars>
+      <forks>36</forks>
       <addStars>50</addStars>
       <contributors>
         <contributor>

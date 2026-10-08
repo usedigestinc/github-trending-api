@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Thu, 08 Oct 2026 19:18:17 GMT",
+  "pubDate": "Thu, 08 Oct 2026 23:47:59 GMT",
   "items": [
     {
       "title": "mvschwarz/openrig",
@@ -10,8 +10,8 @@
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,075",
-      "forks": "446",
+      "stars": "6,144",
+      "forks": "449",
       "addStars": "2,912",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "59,083",
-      "forks": "5,267",
+      "stars": "59,177",
+      "forks": "5,273",
       "addStars": "3,908",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,364",
-      "forks": "985",
+      "stars": "10,394",
+      "forks": "986",
       "addStars": "1,109",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "98,315",
-      "forks": "8,628",
+      "stars": "98,439",
+      "forks": "8,634",
       "addStars": "2,607",
       "contributors": [
         {
@@ -158,7 +158,7 @@
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,333",
+      "stars": "5,380",
       "forks": "458",
       "addStars": "2,732",
       "contributors": [
@@ -180,8 +180,8 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,367",
-      "forks": "6,844",
+      "stars": "26,400",
+      "forks": "6,865",
       "addStars": "2,119",
       "contributors": [
         {
@@ -217,7 +217,7 @@
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "93,222",
+      "stars": "93,237",
       "forks": "9,151",
       "addStars": "2,235",
       "contributors": [
@@ -254,8 +254,8 @@
       "description": "Build production-ready applications in TypeScript",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,167",
-      "forks": "840",
+      "stars": "17,174",
+      "forks": "844",
       "addStars": "896",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,279",
-      "forks": "1,344",
+      "stars": "11,284",
+      "forks": "1,346",
       "addStars": "1,061",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,072",
-      "forks": "4,457",
+      "stars": "32,154",
+      "forks": "4,466",
       "addStars": "1,844",
       "contributors": [
         {
@@ -355,7 +355,7 @@
       "description": "A self-hosted WhatsApp Gateway & Dashboard built with Next.js 15, Baileys, and Prisma. Manage multi-session accounts, schedule messages, create auto-replies, and integrate via Webhooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "506",
+      "stars": "508",
       "forks": "169",
       "addStars": "154",
       "contributors": [
@@ -377,7 +377,7 @@
       "description": "Fast, extensible financial charts for the web. The open-source core of Vela by LuxAlgo.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,082",
+      "stars": "1,083",
       "forks": "200",
       "addStars": "589",
       "contributors": [
@@ -414,7 +414,7 @@
       "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,914",
+      "stars": "3,918",
       "forks": "288",
       "addStars": "639",
       "contributors": [
@@ -446,7 +446,7 @@
       "description": "Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,067",
+      "stars": "3,074",
       "forks": "255",
       "addStars": "562",
       "contributors": [
@@ -483,8 +483,8 @@
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,403",
-      "forks": "4,212",
+      "stars": "26,404",
+      "forks": "4,213",
       "addStars": "407",
       "contributors": [
         {
@@ -520,8 +520,8 @@
       "description": "A self-organizing Obsidian vault that gives AI coding agents persistent memory.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,957",
-      "forks": "556",
+      "stars": "4,970",
+      "forks": "558",
       "addStars": "179",
       "contributors": [
         {
@@ -552,7 +552,7 @@
       "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,009",
+      "stars": "14,011",
       "forks": "1,482",
       "addStars": "165",
       "contributors": [
@@ -589,8 +589,8 @@
       "description": "Email for professionals and teams",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,714",
-      "forks": "627",
+      "stars": "4,719",
+      "forks": "628",
       "addStars": "834",
       "contributors": [
         {
