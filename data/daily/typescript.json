@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 10 Oct 2026 13:43:19 GMT",
+  "pubDate": "Sat, 10 Oct 2026 22:33:23 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,8 +10,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "62,380",
-      "forks": "12,615",
+      "stars": "70,700",
+      "forks": "14,820",
       "addStars": "25,784",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,081",
-      "forks": "1,879",
+      "stars": "26,277",
+      "forks": "1,891",
       "addStars": "178",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Deliver web apps with confidence 🚀",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "101,024",
-      "forks": "29,895",
+      "stars": "101,025",
+      "forks": "29,943",
       "addStars": "9",
       "contributors": [
         {
@@ -99,14 +99,14 @@
           "url": "https://github.com/angular-robot"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/4987015?s=40&v=4",
-          "name": "devversion",
-          "url": "https://github.com/devversion"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/4450522?s=40&v=4",
           "name": "crisbeto",
           "url": "https://github.com/crisbeto"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/4987015?s=40&v=4",
+          "name": "devversion",
+          "url": "https://github.com/devversion"
         }
       ]
     },
@@ -116,8 +116,8 @@
       "description": "🎥 Make videos programmatically with React",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "62,987",
-      "forks": "4,940",
+      "stars": "63,060",
+      "forks": "4,951",
       "addStars": "288",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "A browser inside your terminal",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,770",
-      "forks": "179",
+      "stars": "3,785",
+      "forks": "180",
       "addStars": "26",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "Visual Studio Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "193,513",
-      "forks": "44,948",
+      "stars": "193,530",
+      "forks": "45,013",
       "addStars": "43",
       "contributors": [
         {
@@ -222,9 +222,9 @@
       "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,130",
-      "forks": "994",
-      "addStars": "161",
+      "stars": "11,171",
+      "forks": "996",
+      "addStars": "143",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -259,8 +259,8 @@
       "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "57,620",
-      "forks": "5,777",
+      "stars": "57,626",
+      "forks": "5,776",
       "addStars": "11",
       "contributors": [
         {
@@ -296,8 +296,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "149,989",
-      "forks": "26,043",
+      "stars": "150,063",
+      "forks": "26,095",
       "addStars": "195",
       "contributors": [
         {
@@ -333,7 +333,7 @@
       "description": "Teams-first Multi-agent orchestration for Claude Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "39,760",
+      "stars": "39,773",
       "forks": "3,561",
       "addStars": "44",
       "contributors": [
@@ -370,8 +370,8 @@
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "115,918",
-      "forks": "7,171",
+      "stars": "115,969",
+      "forks": "7,177",
       "addStars": "97",
       "contributors": [
         {
