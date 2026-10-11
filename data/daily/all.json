@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 10 Oct 2026 22:33:23 GMT",
+  "pubDate": "Sun, 11 Oct 2026 07:13:35 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,9 +10,9 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "70,695",
-      "forks": "14,820",
-      "addStars": "25,784",
+      "stars": "79,700",
+      "forks": "17,218",
+      "addStars": "25,793",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "26,544",
-      "forks": "2,218",
-      "addStars": "5,831",
+      "stars": "27,586",
+      "forks": "2,334",
+      "addStars": "5,805",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -57,14 +57,14 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
-          "name": "oneandonlydean",
-          "url": "https://github.com/oneandonlydean"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/57327458?s=40&v=4",
           "name": "adriadam10",
           "url": "https://github.com/adriadam10"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
+          "name": "oneandonlydean",
+          "url": "https://github.com/oneandonlydean"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/184076081?s=40&v=4",
@@ -72,9 +72,9 @@
           "url": "https://github.com/boykopovar"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/13449963?s=40&v=4",
-          "name": "SamG-Coder",
-          "url": "https://github.com/SamG-Coder"
+          "avatar": "https://avatars.githubusercontent.com/u/206445655?s=40&v=4",
+          "name": "CnRJay",
+          "url": "https://github.com/CnRJay"
         }
       ]
     },
@@ -84,9 +84,9 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "14,282",
-      "forks": "2,244",
-      "addStars": "3,217",
+      "stars": "15,212",
+      "forks": "2,425",
+      "addStars": "3,222",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "48,870",
-      "forks": "3,090",
-      "addStars": "1,189",
+      "stars": "49,264",
+      "forks": "3,119",
+      "addStars": "1,190",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
@@ -153,8 +153,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,277",
-      "forks": "1,891",
+      "stars": "26,460",
+      "forks": "1,903",
       "addStars": "178",
       "contributors": [
         {
@@ -185,9 +185,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "284,368",
-      "forks": "23,803",
-      "addStars": "1,737",
+      "stars": "284,922",
+      "forks": "23,844",
+      "addStars": "1,736",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": "179,486",
-      "forks": "33,589",
-      "addStars": "164",
+      "stars": "179,646",
+      "forks": "33,632",
+      "addStars": "88",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37626415?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "200,711",
-      "forks": "78,960",
-      "addStars": "24",
+      "stars": "200,796",
+      "forks": "78,993",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17151892?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,373",
-      "forks": "4,676",
-      "addStars": "515",
+      "stars": "59,787",
+      "forks": "4,714",
+      "addStars": "461",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/188330578?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "104,127",
-      "forks": "31,950",
-      "addStars": "81",
+      "stars": "104,207",
+      "forks": "31,971",
+      "addStars": "84",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/97764156?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "167,213",
-      "forks": "34,796",
-      "addStars": "94",
+      "stars": "167,392",
+      "forks": "34,809",
+      "addStars": "96",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/35901082?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "28,777",
-      "forks": "3,276",
-      "addStars": "626",
+      "stars": "28,929",
+      "forks": "3,286",
+      "addStars": "625",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -429,9 +429,9 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "",
       "languageColor": "",
-      "stars": "218,203",
-      "forks": "21,978",
-      "addStars": "279",
+      "stars": "218,483",
+      "forks": "22,002",
+      "addStars": "278",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7857126?s=40&v=4",
