@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sun, 11 Oct 2026 14:04:29 GMT",
+  "pubDate": "Sun, 11 Oct 2026 22:56:02 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,8 +10,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "89,377",
-      "forks": "19,630",
+      "stars": "102,067",
+      "forks": "22,399",
       "addStars": "25,585",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,579",
-      "forks": "1,912",
+      "stars": "26,666",
+      "forks": "1,916",
       "addStars": "526",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "158,138",
-      "forks": "24,977",
+      "stars": "158,165",
+      "forks": "25,003",
       "addStars": "71",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "391,671",
-      "forks": "82,340",
+      "stars": "391,696",
+      "forks": "82,363",
       "addStars": "150",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Open-Source Generative UI Framework",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,557",
-      "forks": "292",
+      "stars": "2,649",
+      "forks": "303",
       "addStars": "309",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,819",
-      "forks": "392",
+      "stars": "4,981",
+      "forks": "417",
       "addStars": "500",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "A full-featured download manager.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "56,455",
-      "forks": "5,059",
+      "stars": "56,479",
+      "forks": "5,060",
       "addStars": "176",
       "contributors": [
         {
@@ -254,7 +254,7 @@
       "description": "👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,896",
+      "stars": "1,905",
       "forks": "282",
       "addStars": "27",
       "contributors": [

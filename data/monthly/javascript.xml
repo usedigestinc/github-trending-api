@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Javascript Languages in GitHub</description>
-    <pubDate>Sun, 11 Oct 2026 14:04:29 GMT</pubDate>
+    <pubDate>Sun, 11 Oct 2026 22:56:02 GMT</pubDate>
     <item>
       <title>affaan-m/ECC</title>
       <link>https://github.com/affaan-m/ECC</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>276,890</stars>
-      <forks>41,284</forks>
+      <stars>277,183</stars>
+      <forks>41,348</forks>
       <addStars>22,474</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>104,725</stars>
-      <forks>10,933</forks>
+      <stars>105,000</stars>
+      <forks>10,960</forks>
       <addStars>11,706</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>50,888</stars>
-      <forks>10,263</forks>
+      <stars>51,560</stars>
+      <forks>10,359</forks>
       <addStars>27,862</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/DietrichGebert/ponytail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>160,835</stars>
-      <forks>8,651</forks>
+      <stars>161,090</stars>
+      <forks>8,692</forks>
       <addStars>26,935</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/vercel/next.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>143,133</stars>
-      <forks>34,587</forks>
+      <stars>143,139</stars>
+      <forks>34,620</forks>
       <addStars>1,872</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>28,148</stars>
-      <forks>1,676</forks>
+      <stars>28,307</stars>
+      <forks>1,689</forks>
       <addStars>24,471</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/fleetbase/fleetbase</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>4,284</stars>
-      <forks>1,120</forks>
+      <stars>4,289</stars>
+      <forks>1,123</forks>
       <addStars>1,983</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/mnfst/awesome-free-llm-apis</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>9,839</stars>
-      <forks>1,046</forks>
+      <stars>9,878</stars>
+      <forks>1,054</forks>
       <addStars>2,279</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/vercel-labs/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>32,211</stars>
-      <forks>2,822</forks>
+      <stars>32,240</stars>
+      <forks>2,823</forks>
       <addStars>1,229</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/hughhowey/neo</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>1,398</stars>
-      <forks>179</forks>
+      <stars>1,410</stars>
+      <forks>180</forks>
       <addStars>968</addStars>
       <contributors>
         <contributor>
@@ -371,8 +371,8 @@
       <guid>https://github.com/byoungd/up</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>68,254</stars>
-      <forks>6,776</forks>
+      <stars>68,283</stars>
+      <forks>6,783</forks>
       <addStars>5,894</addStars>
       <contributors>
         <contributor>
@@ -409,8 +409,8 @@
       <guid>https://github.com/laoma528/awesome-zhuiju-free</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>11,748</stars>
-      <forks>809</forks>
+      <stars>11,783</stars>
+      <forks>812</forks>
       <addStars>3,585</addStars>
       <contributors>
         <contributor>
@@ -427,8 +427,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>79,692</stars>
-      <forks>4,739</forks>
+      <stars>79,861</stars>
+      <forks>4,750</forks>
       <addStars>12,591</addStars>
       <contributors>
         <contributor>
@@ -461,7 +461,7 @@
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
       <stars>10,228</stars>
-      <forks>2,247</forks>
+      <forks>2,249</forks>
       <addStars>158</addStars>
       <contributors>
         <contributor>
@@ -498,7 +498,7 @@
       <guid>https://github.com/WorldFlowAI/everything-claude-code</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>4,460</stars>
+      <stars>4,489</stars>
       <forks>674</forks>
       <addStars>1,672</addStars>
       <contributors>
@@ -536,7 +536,7 @@
       <guid>https://github.com/Neet-Nestor/Telegram-Media-Downloader</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>6,028</stars>
+      <stars>6,030</stars>
       <forks>592</forks>
       <addStars>599</addStars>
       <contributors>
@@ -574,7 +574,7 @@
       <guid>https://github.com/JoeanAmier/TikTokDownloader</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>16,687</stars>
+      <stars>16,697</stars>
       <forks>2,807</forks>
       <addStars>949</addStars>
       <contributors>
@@ -607,8 +607,8 @@
       <guid>https://github.com/spicetify/cli</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>24,918</stars>
-      <forks>965</forks>
+      <stars>24,933</stars>
+      <forks>967</forks>
       <addStars>542</addStars>
       <contributors>
         <contributor>
@@ -640,8 +640,8 @@
       <guid>https://github.com/qist/tvbox</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>11,868</stars>
-      <forks>4,190</forks>
+      <stars>11,874</stars>
+      <forks>4,193</forks>
       <addStars>711</addStars>
       <contributors>
         <contributor>
