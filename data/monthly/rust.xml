@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Rust Languages in GitHub</description>
-    <pubDate>Tue, 13 Oct 2026 07:43:41 GMT</pubDate>
+    <pubDate>Tue, 13 Oct 2026 19:53:40 GMT</pubDate>
     <item>
       <title>NVIDIA/OpenShell</title>
       <link>https://github.com/NVIDIA/OpenShell</link>
@@ -11,7 +11,7 @@
       <guid>https://github.com/NVIDIA/OpenShell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>16,028</stars>
+      <stars>16,084</stars>
       <forks>1,775</forks>
       <addStars>7,457</addStars>
       <contributors>
@@ -49,8 +49,8 @@
       <guid>https://github.com/trycua/cua</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>29,547</stars>
-      <forks>2,103</forks>
+      <stars>29,612</stars>
+      <forks>2,116</forks>
       <addStars>7,084</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/longbridge/gpui-kit</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>17,031</stars>
-      <forks>1,050</forks>
+      <stars>17,140</stars>
+      <forks>1,055</forks>
       <addStars>2,736</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/rustfs/rustfs</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>34,837</stars>
-      <forks>1,585</forks>
+      <stars>34,868</stars>
+      <forks>1,587</forks>
       <addStars>3,081</addStars>
       <contributors>
         <contributor>
@@ -152,52 +152,14 @@
       </contributors>
     </item>
     <item>
-      <title>rustdesk/rustdesk</title>
-      <link>https://github.com/rustdesk/rustdesk</link>
-      <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
-      <guid>https://github.com/rustdesk/rustdesk</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>125,667</stars>
-      <forks>19,641</forks>
-      <addStars>3,090</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/71636191?s=40&amp;v=4</avatar>
-          <name>rustdesk</name>
-          <url>https://github.com/rustdesk</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13586388?s=40&amp;v=4</avatar>
-          <name>fufesou</name>
-          <url>https://github.com/fufesou</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/14891774?s=40&amp;v=4</avatar>
-          <name>21pages</name>
-          <url>https://github.com/21pages</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/39793325?s=40&amp;v=4</avatar>
-          <name>Kingtous</name>
-          <url>https://github.com/Kingtous</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/62206297?s=40&amp;v=4</avatar>
-          <name>Heap-Hop</name>
-          <url>https://github.com/Heap-Hop</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>bevyengine/bevy</title>
       <link>https://github.com/bevyengine/bevy</link>
       <description>A refreshingly simple data-driven game engine built in Rust</description>
       <guid>https://github.com/bevyengine/bevy</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>48,951</stars>
-      <forks>4,922</forks>
+      <stars>48,970</stars>
+      <forks>4,928</forks>
       <addStars>922</addStars>
       <contributors>
         <contributor>
@@ -228,14 +190,52 @@
       </contributors>
     </item>
     <item>
+      <title>rustdesk/rustdesk</title>
+      <link>https://github.com/rustdesk/rustdesk</link>
+      <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+      <guid>https://github.com/rustdesk/rustdesk</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>125,716</stars>
+      <forks>19,657</forks>
+      <addStars>3,090</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/71636191?s=40&amp;v=4</avatar>
+          <name>rustdesk</name>
+          <url>https://github.com/rustdesk</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13586388?s=40&amp;v=4</avatar>
+          <name>fufesou</name>
+          <url>https://github.com/fufesou</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/14891774?s=40&amp;v=4</avatar>
+          <name>21pages</name>
+          <url>https://github.com/21pages</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/39793325?s=40&amp;v=4</avatar>
+          <name>Kingtous</name>
+          <url>https://github.com/Kingtous</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/62206297?s=40&amp;v=4</avatar>
+          <name>Heap-Hop</name>
+          <url>https://github.com/Heap-Hop</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>clash-verge-rev/clash-verge-rev</title>
       <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
       <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
       <guid>https://github.com/clash-verge-rev/clash-verge-rev</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>150,973</stars>
-      <forks>10,868</forks>
+      <stars>151,109</stars>
+      <forks>10,876</forks>
       <addStars>7,576</addStars>
       <contributors>
         <contributor>
@@ -267,8 +267,8 @@
       <guid>https://github.com/lexmount/moli</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>17,551</stars>
-      <forks>448</forks>
+      <stars>17,906</stars>
+      <forks>462</forks>
       <addStars>15,398</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/t8y2/dbx</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>26,146</stars>
-      <forks>2,378</forks>
+      <stars>26,397</stars>
+      <forks>2,387</forks>
       <addStars>6,872</addStars>
       <contributors>
         <contributor>
@@ -338,8 +338,8 @@
       <guid>https://github.com/alphaXiv/OpenResearch</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,938</stars>
-      <forks>451</forks>
+      <stars>6,958</stars>
+      <forks>457</forks>
       <addStars>5,647</addStars>
       <contributors>
         <contributor>
@@ -404,8 +404,8 @@
       <guid>https://github.com/microsoft/mxc</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>2,736</stars>
-      <forks>145</forks>
+      <stars>2,761</stars>
+      <forks>146</forks>
       <addStars>1,391</addStars>
       <contributors>
         <contributor>
@@ -437,8 +437,8 @@
       <guid>https://github.com/ankitects/anki</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>31,973</stars>
-      <forks>3,332</forks>
+      <stars>31,986</stars>
+      <forks>3,333</forks>
       <addStars>1,713</addStars>
       <contributors>
         <contributor>
@@ -469,42 +469,14 @@
       </contributors>
     </item>
     <item>
-      <title>max-sixty/worktrunk</title>
-      <link>https://github.com/max-sixty/worktrunk</link>
-      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
-      <guid>https://github.com/max-sixty/worktrunk</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>9,212</stars>
-      <forks>330</forks>
-      <addStars>2,235</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5635139?s=40&amp;v=4</avatar>
-          <name>max-sixty</name>
-          <url>https://github.com/max-sixty</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/254187624?s=40&amp;v=4</avatar>
-          <name>worktrunk-bot</name>
-          <url>https://github.com/worktrunk-bot</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>yyjeqhc/webcodex</title>
       <link>https://github.com/yyjeqhc/webcodex</link>
       <description>Give cloud AI agents a real development environment on your own machines.</description>
       <guid>https://github.com/yyjeqhc/webcodex</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>2,277</stars>
-      <forks>307</forks>
+      <stars>2,287</stars>
+      <forks>310</forks>
       <addStars>1,600</addStars>
       <contributors>
         <contributor>
@@ -535,90 +507,14 @@
       </contributors>
     </item>
     <item>
-      <title>akitaonrails/ai-memory</title>
-      <link>https://github.com/akitaonrails/ai-memory</link>
-      <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
-      <guid>https://github.com/akitaonrails/ai-memory</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>9,172</stars>
-      <forks>648</forks>
-      <addStars>2,610</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2840?s=40&amp;v=4</avatar>
-          <name>akitaonrails</name>
-          <url>https://github.com/akitaonrails</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1858147?s=40&amp;v=4</avatar>
-          <name>djalmajr</name>
-          <url>https://github.com/djalmajr</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/95101505?s=40&amp;v=4</avatar>
-          <name>viniciusdsandrade</name>
-          <url>https://github.com/viniciusdsandrade</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/58889432?s=40&amp;v=4</avatar>
-          <name>everton-dgn</name>
-          <url>https://github.com/everton-dgn</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>HakanSeven12/OpenCADStudio</title>
-      <link>https://github.com/HakanSeven12/OpenCADStudio</link>
-      <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
-      <guid>https://github.com/HakanSeven12/OpenCADStudio</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>2,920</stars>
-      <forks>319</forks>
-      <addStars>1,256</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/3831435?s=40&amp;v=4</avatar>
-          <name>HakanSeven12</name>
-          <url>https://github.com/HakanSeven12</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/184937705?s=40&amp;v=4</avatar>
-          <name>ramox81</name>
-          <url>https://github.com/ramox81</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/162724803?s=40&amp;v=4</avatar>
-          <name>KarimJerbi</name>
-          <url>https://github.com/KarimJerbi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4650316?s=40&amp;v=4</avatar>
-          <name>felixriestra</name>
-          <url>https://github.com/felixriestra</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>tauri-apps/tauri</title>
       <link>https://github.com/tauri-apps/tauri</link>
       <description>Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</description>
       <guid>https://github.com/tauri-apps/tauri</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>111,829</stars>
-      <forks>4,070</forks>
+      <stars>111,869</stars>
+      <forks>4,078</forks>
       <addStars>1,042</addStars>
       <contributors>
         <contributor>
@@ -644,14 +540,52 @@
       </contributors>
     </item>
     <item>
+      <title>HakanSeven12/OpenCADStudio</title>
+      <link>https://github.com/HakanSeven12/OpenCADStudio</link>
+      <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
+      <guid>https://github.com/HakanSeven12/OpenCADStudio</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>2,961</stars>
+      <forks>324</forks>
+      <addStars>1,256</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3831435?s=40&amp;v=4</avatar>
+          <name>HakanSeven12</name>
+          <url>https://github.com/HakanSeven12</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/184937705?s=40&amp;v=4</avatar>
+          <name>ramox81</name>
+          <url>https://github.com/ramox81</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/162724803?s=40&amp;v=4</avatar>
+          <name>KarimJerbi</name>
+          <url>https://github.com/KarimJerbi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/50465150?s=40&amp;v=4</avatar>
+          <name>gianlucafiore</name>
+          <url>https://github.com/gianlucafiore</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>lbjlaq/Antigravity-Manager</title>
       <link>https://github.com/lbjlaq/Antigravity-Manager</link>
       <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
       <guid>https://github.com/lbjlaq/Antigravity-Manager</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>32,137</stars>
-      <forks>3,472</forks>
+      <stars>32,158</stars>
+      <forks>3,475</forks>
       <addStars>1,121</addStars>
       <contributors>
         <contributor>
@@ -682,35 +616,30 @@
       </contributors>
     </item>
     <item>
-      <title>cloudflare/quiche</title>
-      <link>https://github.com/cloudflare/quiche</link>
-      <description>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</description>
-      <guid>https://github.com/cloudflare/quiche</guid>
+      <title>max-sixty/worktrunk</title>
+      <link>https://github.com/max-sixty/worktrunk</link>
+      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+      <guid>https://github.com/max-sixty/worktrunk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,772</stars>
-      <forks>1,174</forks>
-      <addStars>987</addStars>
+      <stars>9,219</stars>
+      <forks>330</forks>
+      <addStars>2,235</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/117643?s=40&amp;v=4</avatar>
-          <name>ghedo</name>
-          <url>https://github.com/ghedo</url>
+          <avatar>https://avatars.githubusercontent.com/u/5635139?s=40&amp;v=4</avatar>
+          <name>max-sixty</name>
+          <url>https://github.com/max-sixty</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/33116358?s=40&amp;v=4</avatar>
-          <name>traviscibot</name>
-          <url>https://github.com/traviscibot</url>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/6571445?s=40&amp;v=4</avatar>
-          <name>LPardue</name>
-          <url>https://github.com/LPardue</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/28556681?s=40&amp;v=4</avatar>
-          <name>antoniovicente</name>
-          <url>https://github.com/antoniovicente</url>
+          <avatar>https://avatars.githubusercontent.com/u/254187624?s=40&amp;v=4</avatar>
+          <name>worktrunk-bot</name>
+          <url>https://github.com/worktrunk-bot</url>
         </contributor>
       </contributors>
     </item>
@@ -721,8 +650,8 @@
       <guid>https://github.com/xingkongliang/skills-manager</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,192</stars>
-      <forks>509</forks>
+      <stars>6,247</stars>
+      <forks>513</forks>
       <addStars>1,499</addStars>
       <contributors>
         <contributor>
@@ -749,6 +678,77 @@
           <avatar>https://avatars.githubusercontent.com/u/7954801?s=40&amp;v=4</avatar>
           <name>ZhuYichuan</name>
           <url>https://github.com/ZhuYichuan</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>cloudflare/quiche</title>
+      <link>https://github.com/cloudflare/quiche</link>
+      <description>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</description>
+      <guid>https://github.com/cloudflare/quiche</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>12,781</stars>
+      <forks>1,174</forks>
+      <addStars>987</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/117643?s=40&amp;v=4</avatar>
+          <name>ghedo</name>
+          <url>https://github.com/ghedo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/33116358?s=40&amp;v=4</avatar>
+          <name>traviscibot</name>
+          <url>https://github.com/traviscibot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/6571445?s=40&amp;v=4</avatar>
+          <name>LPardue</name>
+          <url>https://github.com/LPardue</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/28556681?s=40&amp;v=4</avatar>
+          <name>antoniovicente</name>
+          <url>https://github.com/antoniovicente</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>rust-lang/rust</title>
+      <link>https://github.com/rust-lang/rust</link>
+      <description>Empowering everyone to build reliable and efficient software.</description>
+      <guid>https://github.com/rust-lang/rust</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>119,887</stars>
+      <forks>18,529</forks>
+      <addStars>2,278</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3372342?s=40&amp;v=4</avatar>
+          <name>bors</name>
+          <url>https://github.com/bors</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/476013?s=40&amp;v=4</avatar>
+          <name>matthiaskrgr</name>
+          <url>https://github.com/matthiaskrgr</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/330628?s=40&amp;v=4</avatar>
+          <name>RalfJung</name>
+          <url>https://github.com/RalfJung</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/3050060?s=40&amp;v=4</avatar>
+          <name>GuillaumeGomez</name>
+          <url>https://github.com/GuillaumeGomez</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1711539?s=40&amp;v=4</avatar>
+          <name>matklad</name>
+          <url>https://github.com/matklad</url>
         </contributor>
       </contributors>
     </item>
