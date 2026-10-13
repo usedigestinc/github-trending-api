@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Mon, 12 Oct 2026 21:45:35 GMT",
+  "pubDate": "Tue, 13 Oct 2026 07:43:41 GMT",
   "items": [
     {
       "title": "Armur-Ai/Pentest-Swarm-AI",
@@ -10,9 +10,9 @@
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,858",
-      "forks": "528",
-      "addStars": "49",
+      "stars": "2,883",
+      "forks": "530",
+      "addStars": "50",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/26513717?s=40&v=4",
@@ -47,8 +47,8 @@
       "description": "WhatsApp MCP server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,556",
-      "forks": "1,393",
+      "stars": "6,564",
+      "forks": "1,395",
       "addStars": "24",
       "contributors": [
         {
@@ -84,9 +84,9 @@
       "description": "Adversary Emulation Framework",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "12,098",
+      "stars": "12,103",
       "forks": "1,621",
-      "addStars": "25",
+      "addStars": "28",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/875022?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,679",
-      "forks": "472",
-      "addStars": "66",
+      "stars": "8,690",
+      "forks": "473",
+      "addStars": "64",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42989099?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "solar charging ☀️🚘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,356",
-      "forks": "1,551",
-      "addStars": "8",
+      "stars": "7,359",
+      "forks": "1,552",
+      "addStars": "7",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/184815?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "CNCF Jaeger, a Distributed Tracing Platform",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "23,285",
-      "forks": "3,159",
-      "addStars": "9",
+      "stars": "23,289",
+      "forks": "3,160",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3523016?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "Network stack research tool. TCP tunnel with pluggable transports.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,090",
-      "forks": "181",
-      "addStars": "24",
+      "stars": "2,091",
+      "forks": "182",
+      "addStars": "21",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -255,8 +255,8 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "3,121",
-      "forks": "369",
-      "addStars": "6",
+      "forks": "371",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1551446?s=40&v=4",
@@ -286,8 +286,8 @@
       "description": "Yet another WebUI for Nginx",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "11,601",
-      "forks": "897",
+      "stars": "11,604",
+      "forks": "899",
       "addStars": "7",
       "contributors": [
         {
@@ -318,9 +318,9 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "182,889",
-      "forks": "18,238",
-      "addStars": "138",
+      "stars": "182,960",
+      "forks": "18,244",
+      "addStars": "133",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2372640?s=40&v=4",
@@ -355,8 +355,8 @@
       "description": "An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,086",
-      "forks": "308",
+      "stars": "1,101",
+      "forks": "311",
       "addStars": "22",
       "contributors": [
         {
@@ -392,9 +392,9 @@
       "description": "Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "555",
-      "forks": "189",
-      "addStars": "14",
+      "stars": "559",
+      "forks": "190",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/228712682?s=40&v=4",
