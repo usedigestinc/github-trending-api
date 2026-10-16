@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Python Languages in GitHub</description>
-    <pubDate>Fri, 16 Oct 2026 17:25:36 GMT</pubDate>
+    <pubDate>Fri, 16 Oct 2026 22:06:54 GMT</pubDate>
     <item>
       <title>anthropics/financial-services</title>
       <link>https://github.com/anthropics/financial-services</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/anthropics/financial-services</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>40,068</stars>
-      <forks>5,627</forks>
+      <stars>40,085</stars>
+      <forks>5,629</forks>
       <addStars>5,252</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/vectorize-io/hindsight</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>50,416</stars>
-      <forks>6,099</forks>
+      <stars>50,483</stars>
+      <forks>6,106</forks>
       <addStars>26,652</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>70,556</stars>
-      <forks>7,727</forks>
+      <stars>70,948</stars>
+      <forks>7,765</forks>
       <addStars>38,181</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,864</stars>
-      <forks>3,377</forks>
+      <stars>29,876</stars>
+      <forks>3,378</forks>
       <addStars>5,835</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/TencentCloud/Octop</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,677</stars>
-      <forks>1,223</forks>
+      <stars>9,685</stars>
+      <forks>1,224</forks>
       <addStars>7,082</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>70,152</stars>
-      <forks>12,332</forks>
+      <stars>70,255</stars>
+      <forks>12,345</forks>
       <addStars>15,242</addStars>
       <contributors>
         <contributor>
@@ -229,7 +229,7 @@
       <guid>https://github.com/VectifyAI/PageIndex</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>39,174</stars>
+      <stars>39,186</stars>
       <forks>3,401</forks>
       <addStars>3,625</addStars>
       <contributors>
@@ -267,8 +267,8 @@
       <guid>https://github.com/earthtojake/text-to-cad</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,917</stars>
-      <forks>2,067</forks>
+      <stars>20,969</stars>
+      <forks>2,071</forks>
       <addStars>4,902</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/davila7/claude-code-templates</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>32,681</stars>
-      <forks>3,779</forks>
+      <stars>32,689</stars>
+      <forks>3,781</forks>
       <addStars>2,062</addStars>
       <contributors>
         <contributor>
@@ -318,8 +318,8 @@
       <guid>https://github.com/Panniantong/Agent-Reach</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>98,094</stars>
-      <forks>8,604</forks>
+      <stars>98,176</stars>
+      <forks>8,621</forks>
       <addStars>16,375</addStars>
       <contributors>
         <contributor>
@@ -356,8 +356,8 @@
       <guid>https://github.com/HKUDS/CLI-Anything</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>53,343</stars>
-      <forks>4,834</forks>
+      <stars>53,432</stars>
+      <forks>4,839</forks>
       <addStars>3,774</addStars>
       <contributors>
         <contributor>
@@ -394,8 +394,8 @@
       <guid>https://github.com/pytorch/pytorch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>104,804</stars>
-      <forks>32,698</forks>
+      <stars>104,806</stars>
+      <forks>32,706</forks>
       <addStars>2,302</addStars>
       <contributors>
         <contributor>
@@ -432,8 +432,8 @@
       <guid>https://github.com/superdesigndev/treg</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,461</stars>
-      <forks>445</forks>
+      <stars>5,513</stars>
+      <forks>450</forks>
       <addStars>3,928</addStars>
       <contributors>
         <contributor>
@@ -470,8 +470,8 @@
       <guid>https://github.com/NVIDIA/SkillSpector</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,358</stars>
-      <forks>1,787</forks>
+      <stars>20,374</stars>
+      <forks>1,791</forks>
       <addStars>3,043</addStars>
       <contributors>
         <contributor>
@@ -541,8 +541,8 @@
       <guid>https://github.com/google/artemis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,013</stars>
-      <forks>1,286</forks>
+      <stars>12,038</stars>
+      <forks>1,298</forks>
       <addStars>6,072</addStars>
       <contributors>
         <contributor>
@@ -617,8 +617,8 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>88,076</stars>
-      <forks>9,063</forks>
+      <stars>88,105</stars>
+      <forks>9,070</forks>
       <addStars>7,041</addStars>
       <contributors>
         <contributor>
@@ -655,7 +655,7 @@
       <guid>https://github.com/docling-project/docling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>68,986</stars>
+      <stars>68,991</stars>
       <forks>5,097</forks>
       <addStars>2,637</addStars>
       <contributors>
