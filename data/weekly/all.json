@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 17 Oct 2026 21:29:23 GMT",
+  "pubDate": "Sun, 18 Oct 2026 05:55:30 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,9 +10,9 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "306,328",
-      "forks": "77,511",
-      "addStars": "248,962",
+      "stars": "310,823",
+      "forks": "78,720",
+      "addStars": "239,923",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,686",
-      "forks": "5,015",
-      "addStars": "20,267",
+      "stars": "31,971",
+      "forks": "5,069",
+      "addStars": "18,479",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "41,526",
-      "forks": "3,734",
-      "addStars": "20,518",
+      "stars": "42,044",
+      "forks": "3,808",
+      "addStars": "16,250",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
       "languageColor": "#e34c26",
-      "stars": "56,950",
-      "forks": "3,618",
-      "addStars": "9,024",
+      "stars": "57,158",
+      "forks": "3,637",
+      "addStars": "8,382",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50469282?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "41,622",
-      "forks": "4,453",
-      "addStars": "2,328",
+      "stars": "41,982",
+      "forks": "4,476",
+      "addStars": "3,581",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "65,925",
-      "forks": "5,951",
-      "addStars": "5,601",
+      "stars": "66,121",
+      "forks": "5,972",
+      "addStars": "5,639",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,490",
-      "forks": "2,197",
-      "addStars": "4,207",
+      "stars": "30,555",
+      "forks": "2,219",
+      "addStars": "4,438",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "90,198",
-      "forks": "10,094",
-      "addStars": "7,510",
+      "stars": "90,391",
+      "forks": "10,120",
+      "addStars": "7,608",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "295,007",
-      "forks": "24,742",
-      "addStars": "11,937",
+      "stars": "295,311",
+      "forks": "24,771",
+      "addStars": "11,272",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,703",
-      "forks": "137",
-      "addStars": "779",
+      "stars": "1,773",
+      "forks": "143",
+      "addStars": "888",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
