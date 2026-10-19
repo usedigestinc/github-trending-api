@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Javascript Languages in GitHub</description>
-    <pubDate>Mon, 19 Oct 2026 14:42:05 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 22:55:41 GMT</pubDate>
     <item>
       <title>withmarbleapp/os-taxonomy</title>
       <link>https://github.com/withmarbleapp/os-taxonomy</link>
@@ -11,19 +11,24 @@
       <guid>https://github.com/withmarbleapp/os-taxonomy</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>5,909</stars>
-      <forks>986</forks>
-      <addStars>427</addStars>
+      <stars>6,087</stars>
+      <forks>998</forks>
+      <addStars>301</addStars>
       <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2501329?s=40&amp;v=4</avatar>
+          <name>guillaumeboniface</name>
+          <url>https://github.com/guillaumeboniface</url>
+        </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/262926223?s=40&amp;v=4</avatar>
           <name>lauramionel</name>
           <url>https://github.com/lauramionel</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2501329?s=40&amp;v=4</avatar>
-          <name>guillaumeboniface</name>
-          <url>https://github.com/guillaumeboniface</url>
+          <avatar>https://avatars.githubusercontent.com/u/218489957?s=40&amp;v=4</avatar>
+          <name>ShiroKSH</name>
+          <url>https://github.com/ShiroKSH</url>
         </contributor>
       </contributors>
     </item>
@@ -34,8 +39,8 @@
       <guid>https://github.com/tt-a1i/archify</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>85,709</stars>
-      <forks>5,837</forks>
+      <stars>85,835</stars>
+      <forks>5,843</forks>
       <addStars>522</addStars>
       <contributors>
         <contributor>
@@ -67,8 +72,8 @@
       <guid>https://github.com/plugin87/ux-ui-agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>2,369</stars>
-      <forks>252</forks>
+      <stars>2,391</stars>
+      <forks>256</forks>
       <addStars>252</addStars>
       <contributors>
         <contributor>
@@ -100,8 +105,8 @@
       <guid>https://github.com/michael-denyer/pstack-claude</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>3,038</stars>
-      <forks>288</forks>
+      <stars>3,070</stars>
+      <forks>292</forks>
       <addStars>144</addStars>
       <contributors>
         <contributor>
@@ -138,8 +143,8 @@
       <guid>https://github.com/YuJunZhiXue/dsh-purge</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>8,010</stars>
-      <forks>1,240</forks>
+      <stars>8,703</stars>
+      <forks>1,465</forks>
       <addStars>423</addStars>
       <contributors>
         <contributor>
@@ -176,9 +181,9 @@
       <guid>https://github.com/DietrichGebert/ponytail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>167,663</stars>
-      <forks>9,107</forks>
-      <addStars>1,019</addStars>
+      <stars>168,065</stars>
+      <forks>9,139</forks>
+      <addStars>1,008</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/137048761?s=40&amp;v=4</avatar>
@@ -214,8 +219,8 @@
       <guid>https://github.com/datawhalechina/easy-vibe</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>20,013</stars>
-      <forks>1,934</forks>
+      <stars>20,026</stars>
+      <forks>1,936</forks>
       <addStars>235</addStars>
       <contributors>
         <contributor>
@@ -252,9 +257,9 @@
       <guid>https://github.com/hmjz100/LinkSwift</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>25,915</stars>
-      <forks>1,678</forks>
-      <addStars>433</addStars>
+      <stars>26,032</stars>
+      <forks>1,689</forks>
+      <addStars>1,251</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/98228280?s=40&amp;v=4</avatar>
@@ -290,8 +295,8 @@
       <guid>https://github.com/flizzywine/dsh-tavern</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>1,120</stars>
-      <forks>74</forks>
+      <stars>1,129</stars>
+      <forks>75</forks>
       <addStars>46</addStars>
       <contributors>
         <contributor>
@@ -323,9 +328,9 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>31,636</stars>
-      <forks>1,977</forks>
-      <addStars>479</addStars>
+      <stars>32,469</stars>
+      <forks>2,027</forks>
+      <addStars>857</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4</avatar>
