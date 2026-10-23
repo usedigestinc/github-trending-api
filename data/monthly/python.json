@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Monthly Trending",
   "description": "Monthly Trending of Python Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Fri, 23 Oct 2026 12:39:07 GMT",
+  "pubDate": "Fri, 23 Oct 2026 17:53:54 GMT",
   "items": [
     {
       "title": "debpalash/VoiceStudio",
@@ -10,8 +10,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "82,385",
-      "forks": "9,101",
+      "stars": "82,781",
+      "forks": "9,144",
       "addStars": "47,620",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "52,981",
-      "forks": "6,225",
+      "stars": "53,083",
+      "forks": "6,227",
       "addStars": "28,067",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "31,945",
-      "forks": "3,554",
+      "stars": "32,083",
+      "forks": "3,564",
       "addStars": "6,026",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "44,023",
-      "forks": "4,632",
+      "stars": "44,072",
+      "forks": "4,636",
       "addStars": "7,380",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Give your agent CAD superpowers.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,660",
-      "forks": "2,211",
+      "stars": "22,710",
+      "forks": "2,216",
       "addStars": "6,334",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "72,640",
-      "forks": "12,770",
+      "stars": "72,729",
+      "forks": "12,781",
       "addStars": "17,489",
       "contributors": [
         {
@@ -185,19 +185,19 @@
           "url": "https://github.com/rohitg00"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/113239388?s=40&v=4",
           "name": "abhinav-m22",
           "url": "https://github.com/abhinav-m22"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/37583483?s=40&v=4",
-          "name": "thereisnotime",
-          "url": "https://github.com/thereisnotime"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
+          "avatar": "https://avatars.githubusercontent.com/u/177315487?s=40&v=4",
+          "name": "jkhandebharad",
+          "url": "https://github.com/jkhandebharad"
         }
       ]
     },
@@ -207,8 +207,8 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "10,805",
-      "forks": "1,385",
+      "stars": "10,828",
+      "forks": "1,386",
       "addStars": "6,233",
       "contributors": [
         {
@@ -244,7 +244,7 @@
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,531",
+      "stars": "39,552",
       "forks": "3,428",
       "addStars": "3,800",
       "contributors": [
@@ -281,8 +281,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "56,439",
-      "forks": "5,067",
+      "stars": "56,499",
+      "forks": "5,071",
       "addStars": "6,636",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "101,210",
-      "forks": "8,922",
+      "stars": "101,286",
+      "forks": "8,931",
       "addStars": "16,831",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "41,594",
-      "forks": "4,411",
+      "stars": "41,606",
+      "forks": "4,410",
       "addStars": "1,804",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "TokenSpeed is a speed-of-light LLM inference engine.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "2,773",
-      "forks": "372",
+      "stars": "2,774",
+      "forks": "374",
       "addStars": "603",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "71,059",
-      "forks": "9,190",
+      "stars": "71,136",
+      "forks": "9,201",
       "addStars": "10,373",
       "contributors": [
         {
@@ -461,7 +461,7 @@
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,755",
+      "stars": "8,754",
       "forks": "920",
       "addStars": "1,306",
       "contributors": [
@@ -498,8 +498,8 @@
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "105,001",
-      "forks": "32,520",
+      "stars": "105,006",
+      "forks": "32,526",
       "addStars": "2,550",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "43,367",
-      "forks": "7,149",
+      "stars": "43,429",
+      "forks": "7,161",
       "addStars": "4,161",
       "contributors": [
         {
@@ -572,8 +572,8 @@
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "104,036",
-      "forks": "10,105",
+      "stars": "104,057",
+      "forks": "10,110",
       "addStars": "1,864",
       "contributors": [
         {
@@ -594,8 +594,8 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "40,719",
-      "forks": "5,685",
+      "stars": "40,728",
+      "forks": "5,684",
       "addStars": "4,692",
       "contributors": [
         {
@@ -631,8 +631,8 @@
       "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "32,097",
-      "forks": "2,909",
+      "stars": "32,122",
+      "forks": "2,913",
       "addStars": "2,915",
       "contributors": [
         {
