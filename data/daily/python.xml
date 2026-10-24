@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Python Languages in GitHub</description>
-    <pubDate>Sat, 24 Oct 2026 16:36:38 GMT</pubDate>
+    <pubDate>Sat, 24 Oct 2026 21:37:46 GMT</pubDate>
     <item>
       <title>aws/agent-toolkit-for-aws</title>
       <link>https://github.com/aws/agent-toolkit-for-aws</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/aws/agent-toolkit-for-aws</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,029</stars>
-      <forks>394</forks>
+      <stars>3,091</stars>
+      <forks>396</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/luongnv89/claude-howto</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>44,307</stars>
-      <forks>5,478</forks>
+      <stars>44,458</stars>
+      <forks>5,486</forks>
       <addStars>442</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/jbiaojerry/ebook-treasure-chest</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,471</stars>
-      <forks>3,180</forks>
+      <stars>22,551</stars>
+      <forks>3,185</forks>
       <addStars>220</addStars>
       <contributors>
         <contributor>
@@ -105,8 +105,8 @@
       <guid>https://github.com/pollen-robotics/microduck_rl</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,599</stars>
-      <forks>602</forks>
+      <stars>2,610</stars>
+      <forks>606</forks>
       <addStars>41</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/SnailSploit/Claude-Red</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,807</stars>
-      <forks>1,130</forks>
+      <stars>8,829</stars>
+      <forks>1,133</forks>
       <addStars>770</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>32,551</stars>
-      <forks>3,596</forks>
+      <stars>32,595</stars>
+      <forks>3,602</forks>
       <addStars>598</addStars>
       <contributors>
         <contributor>
@@ -214,8 +214,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>113,577</stars>
-      <forks>21,989</forks>
+      <stars>113,640</stars>
+      <forks>22,007</forks>
       <addStars>307</addStars>
       <contributors>
         <contributor>
@@ -252,8 +252,8 @@
       <guid>https://github.com/agentskills/agentskills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,558</stars>
-      <forks>1,954</forks>
+      <stars>26,570</stars>
+      <forks>1,956</forks>
       <addStars>64</addStars>
       <contributors>
         <contributor>
@@ -290,8 +290,8 @@
       <guid>https://github.com/crewAIInc/crewAI</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>60,062</stars>
-      <forks>8,863</forks>
+      <stars>60,068</stars>
+      <forks>8,865</forks>
       <addStars>32</addStars>
       <contributors>
         <contributor>
@@ -328,8 +328,8 @@
       <guid>https://github.com/vectorize-io/hindsight</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>53,374</stars>
-      <forks>6,236</forks>
+      <stars>53,424</stars>
+      <forks>6,237</forks>
       <addStars>342</addStars>
       <contributors>
         <contributor>
@@ -366,7 +366,7 @@
       <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>77,819</stars>
+      <stars>77,835</stars>
       <forks>9,313</forks>
       <addStars>73</addStars>
       <contributors>

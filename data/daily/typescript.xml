@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Typescript Languages in GitHub</description>
-    <pubDate>Sat, 24 Oct 2026 16:36:38 GMT</pubDate>
+    <pubDate>Sat, 24 Oct 2026 21:37:46 GMT</pubDate>
     <item>
       <title>google-gemini/gemini-cli</title>
       <link>https://github.com/google-gemini/gemini-cli</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/google-gemini/gemini-cli</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>107,788</stars>
-      <forks>14,790</forks>
+      <stars>107,962</stars>
+      <forks>14,805</forks>
       <addStars>38</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/makecindy/cindy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,901</stars>
-      <forks>569</forks>
+      <stars>4,034</stars>
+      <forks>578</forks>
       <addStars>471</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/Renhuai123/ziwei-doushu</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,219</stars>
-      <forks>1,470</forks>
+      <stars>7,250</stars>
+      <forks>1,478</forks>
       <addStars>635</addStars>
       <contributors>
         <contributor>
@@ -120,7 +120,7 @@
       <guid>https://github.com/bendlang/bend</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,102</stars>
+      <stars>24,112</stars>
       <forks>767</forks>
       <addStars>113</addStars>
       <contributors>
@@ -158,8 +158,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>102,744</stars>
-      <forks>9,077</forks>
+      <stars>102,794</stars>
+      <forks>9,082</forks>
       <addStars>274</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/google/brotli</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>14,990</stars>
-      <forks>1,379</forks>
+      <stars>14,996</stars>
+      <forks>1,380</forks>
       <addStars>16</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/Vincentwei1021/video-shotcraft</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,389</stars>
-      <forks>1,222</forks>
+      <stars>13,418</stars>
+      <forks>1,225</forks>
       <addStars>198</addStars>
       <contributors>
         <contributor>
@@ -262,7 +262,7 @@
       <guid>https://github.com/vercel/ai</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>27,492</stars>
+      <stars>27,497</stars>
       <forks>5,427</forks>
       <addStars>16</addStars>
       <contributors>
@@ -328,7 +328,7 @@
       <guid>https://github.com/medusajs/medusa</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>36,916</stars>
+      <stars>36,928</stars>
       <forks>5,463</forks>
       <addStars>44</addStars>
       <contributors>
@@ -361,8 +361,8 @@
       <guid>https://github.com/anthropics/sandbox-runtime</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,389</stars>
-      <forks>558</forks>
+      <stars>6,444</stars>
+      <forks>565</forks>
       <addStars>592</addStars>
       <contributors>
         <contributor>
@@ -399,8 +399,8 @@
       <guid>https://github.com/calcom/cal.diy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>49,295</stars>
-      <forks>15,425</forks>
+      <stars>49,304</stars>
+      <forks>15,427</forks>
       <addStars>62</addStars>
       <contributors>
         <contributor>
@@ -437,8 +437,8 @@
       <guid>https://github.com/remotion-dev/remotion</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>67,015</stars>
-      <forks>5,401</forks>
+      <stars>67,095</stars>
+      <forks>5,405</forks>
       <addStars>364</addStars>
       <contributors>
         <contributor>
@@ -470,7 +470,7 @@
       <guid>https://github.com/backnotprop/plannotator</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,607</stars>
+      <stars>9,613</stars>
       <forks>721</forks>
       <addStars>24</addStars>
       <contributors>
@@ -508,8 +508,8 @@
       <guid>https://github.com/umami-software/umami</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>39,631</stars>
-      <forks>8,399</forks>
+      <stars>39,641</stars>
+      <forks>8,401</forks>
       <addStars>43</addStars>
       <contributors>
         <contributor>
@@ -546,8 +546,8 @@
       <guid>https://github.com/langfuse/langfuse</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>36,340</stars>
-      <forks>4,066</forks>
+      <stars>36,368</stars>
+      <forks>4,069</forks>
       <addStars>45</addStars>
       <contributors>
         <contributor>
@@ -584,8 +584,8 @@
       <guid>https://github.com/basketikun/infinite-canvas</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,966</stars>
-      <forks>2,104</forks>
+      <stars>8,999</stars>
+      <forks>2,109</forks>
       <addStars>549</addStars>
       <contributors>
         <contributor>
@@ -622,7 +622,7 @@
       <guid>https://github.com/TriliumNext/Trilium</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>38,531</stars>
+      <stars>38,535</stars>
       <forks>2,600</forks>
       <addStars>47</addStars>
       <contributors>
@@ -655,8 +655,8 @@
       <guid>https://github.com/tashfeenahmed/freellmapi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>40,757</stars>
-      <forks>5,500</forks>
+      <stars>40,907</stars>
+      <forks>5,513</forks>
       <addStars>723</addStars>
       <contributors>
         <contributor>
@@ -693,8 +693,8 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>71,277</stars>
-      <forks>6,434</forks>
+      <stars>71,429</stars>
+      <forks>6,452</forks>
       <addStars>777</addStars>
       <contributors>
         <contributor>
