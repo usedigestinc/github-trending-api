@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Monthly Trending",
   "description": "Monthly Trending of Go Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Mon, 26 Oct 2026 14:17:36 GMT",
+  "pubDate": "Mon, 26 Oct 2026 23:08:23 GMT",
   "items": [
     {
       "title": "Gaurav-Gosain/tuios",
@@ -10,8 +10,8 @@
       "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,081",
-      "forks": "278",
+      "stars": "6,105",
+      "forks": "281",
       "addStars": "2,223",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "78,426",
+      "stars": "78,440",
       "forks": "5,179",
       "addStars": "2,511",
       "contributors": [
@@ -79,8 +79,8 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "184,847",
-      "forks": "18,599",
+      "stars": "184,894",
+      "forks": "18,615",
       "addStars": "4,052",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "32,476",
-      "forks": "5,048",
+      "stars": "32,504",
+      "forks": "5,057",
       "addStars": "7,655",
       "contributors": [
         {
@@ -153,8 +153,8 @@
       "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,852",
-      "forks": "258",
+      "stars": "2,864",
+      "forks": "259",
       "addStars": "1,281",
       "contributors": [
         {
@@ -190,8 +190,8 @@
       "description": "Find, verify, and analyze leaked credentials",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "28,707",
-      "forks": "2,665",
+      "stars": "28,713",
+      "forks": "2,666",
       "addStars": "721",
       "contributors": [
         {
@@ -222,8 +222,8 @@
       "description": "WhatsApp MCP server",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,729",
-      "forks": "1,445",
+      "stars": "6,738",
+      "forks": "1,446",
       "addStars": "427",
       "contributors": [
         {
@@ -259,8 +259,8 @@
       "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "128,707",
-      "forks": "46,353",
+      "stars": "128,720",
+      "forks": "46,360",
       "addStars": "1,566",
       "contributors": [
         {
@@ -296,7 +296,7 @@
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,617",
+      "stars": "7,627",
       "forks": "799",
       "addStars": "817",
       "contributors": [
@@ -370,8 +370,8 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "38,732",
-      "forks": "800",
+      "stars": "38,743",
+      "forks": "802",
       "addStars": "707",
       "contributors": [
         {
@@ -402,8 +402,8 @@
       "description": "Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go and 7+ native security tools.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,052",
-      "forks": "560",
+      "stars": "3,056",
+      "forks": "561",
       "addStars": "472",
       "contributors": [
         {
@@ -439,8 +439,8 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,473",
-      "forks": "603",
+      "stars": "5,476",
+      "forks": "604",
       "addStars": "317",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "The Go programming language",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "139,612",
-      "forks": "21,547",
+      "stars": "139,622",
+      "forks": "21,554",
       "addStars": "1,665",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "42,339",
-      "forks": "6,039",
+      "stars": "42,347",
+      "forks": "6,043",
       "addStars": "673",
       "contributors": [
         {
@@ -530,8 +530,8 @@
       "description": "freehire — the open-source search engine for job seekers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,114",
-      "forks": "315",
+      "stars": "3,167",
+      "forks": "323",
       "addStars": "2,458",
       "contributors": [
         {
@@ -557,8 +557,8 @@
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "35,737",
-      "forks": "3,092",
+      "stars": "35,746",
+      "forks": "3,091",
       "addStars": "830",
       "contributors": [
         {
@@ -584,8 +584,8 @@
       "description": "ZITADEL - Identity infrastructure, simplified for you.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "15,442",
-      "forks": "1,403",
+      "stars": "15,444",
+      "forks": "1,404",
       "addStars": "363",
       "contributors": [
         {
@@ -622,7 +622,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "60,552",
-      "forks": "5,590",
+      "forks": "5,593",
       "addStars": "695",
       "contributors": [
         {
@@ -658,7 +658,7 @@
       "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "50,191",
+      "stars": "50,200",
       "forks": "10,600",
       "addStars": "661",
       "contributors": [
@@ -695,8 +695,8 @@
       "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "18,759",
-      "forks": "2,429",
+      "stars": "18,778",
+      "forks": "2,430",
       "addStars": "373",
       "contributors": [
         {
@@ -732,7 +732,7 @@
       "description": "AI Agent Builder and Runtime by Docker Engineering",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,610",
+      "stars": "4,611",
       "forks": "532",
       "addStars": "1,271",
       "contributors": [
