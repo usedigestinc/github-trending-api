@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Rust Languages in GitHub</description>
-    <pubDate>Wed, 28 Oct 2026 14:02:48 GMT</pubDate>
+    <pubDate>Wed, 28 Oct 2026 23:15:00 GMT</pubDate>
     <item>
       <title>pbakaus/impeccable</title>
       <link>https://github.com/pbakaus/impeccable</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>91,544</stars>
-      <forks>5,414</forks>
+      <stars>92,537</stars>
+      <forks>5,472</forks>
       <addStars>6,713</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/akitaonrails/ai-memory</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>14,220</stars>
-      <forks>1,014</forks>
+      <stars>14,294</stars>
+      <forks>1,022</forks>
       <addStars>2,239</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/pollen-robotics/microduck</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,888</stars>
-      <forks>1,591</forks>
+      <stars>12,942</stars>
+      <forks>1,595</forks>
       <addStars>3,114</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/xerj-org/xerj</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>17,282</stars>
-      <forks>1,276</forks>
+      <stars>17,317</stars>
+      <forks>1,297</forks>
       <addStars>5,091</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/ZSeven-W/openpencil</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,768</stars>
-      <forks>590</forks>
+      <stars>6,858</stars>
+      <forks>597</forks>
       <addStars>441</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/macro-inc/macro</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>5,225</stars>
-      <forks>508</forks>
+      <stars>5,398</stars>
+      <forks>517</forks>
       <addStars>346</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/CapSoftware/Cap</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>23,995</stars>
-      <forks>2,181</forks>
+      <stars>24,013</stars>
+      <forks>2,185</forks>
       <addStars>471</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/NVIDIA/OpenShell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>20,431</stars>
-      <forks>2,009</forks>
+      <stars>20,567</stars>
+      <forks>2,017</forks>
       <addStars>3,483</addStars>
       <contributors>
         <contributor>
@@ -310,8 +310,8 @@
       <guid>https://github.com/agentgateway/agentgateway</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>5,704</stars>
-      <forks>1,007</forks>
+      <stars>5,725</stars>
+      <forks>1,013</forks>
       <addStars>261</addStars>
       <contributors>
         <contributor>
@@ -334,11 +334,6 @@
           <name>markuskobler</name>
           <url>https://github.com/markuskobler</url>
         </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/9899409?s=40&amp;v=4</avatar>
-          <name>timflannagan</name>
-          <url>https://github.com/timflannagan</url>
-        </contributor>
       </contributors>
     </item>
     <item>
@@ -348,7 +343,7 @@
       <guid>https://github.com/stalwartlabs/stalwart</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>15,454</stars>
+      <stars>15,465</stars>
       <forks>1,025</forks>
       <addStars>222</addStars>
       <contributors>
@@ -381,8 +376,8 @@
       <guid>https://github.com/nautechsystems/nautilus_trader</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>30,989</stars>
-      <forks>4,173</forks>
+      <stars>31,009</stars>
+      <forks>4,176</forks>
       <addStars>598</addStars>
       <contributors>
         <contributor>
@@ -419,8 +414,8 @@
       <guid>https://github.com/claration/impactor</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,663</stars>
-      <forks>262</forks>
+      <stars>3,675</stars>
+      <forks>263</forks>
       <addStars>116</addStars>
       <contributors>
         <contributor>
@@ -457,8 +452,8 @@
       <guid>https://github.com/xai-org/x-algorithm</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>33,858</stars>
-      <forks>5,474</forks>
+      <stars>33,874</stars>
+      <forks>5,476</forks>
       <addStars>163</addStars>
       <contributors>
         <contributor>
@@ -485,8 +480,8 @@
       <guid>https://github.com/oven-sh/bun</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>96,444</stars>
-      <forks>5,191</forks>
+      <stars>96,453</stars>
+      <forks>5,201</forks>
       <addStars>213</addStars>
       <contributors>
         <contributor>
@@ -518,8 +513,8 @@
       <guid>https://github.com/trymirai/uzu</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>2,965</stars>
-      <forks>180</forks>
+      <stars>2,996</stars>
+      <forks>183</forks>
       <addStars>494</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Wed, 28 Oct 2026 14:02:48 GMT",
+  "pubDate": "Wed, 28 Oct 2026 23:15:00 GMT",
   "items": [
     {
       "title": "HKUDS/DeepTutor",
@@ -10,8 +10,8 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,366",
-      "forks": "5,898",
+      "stars": "47,898",
+      "forks": "5,944",
       "addStars": "2,376",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "92,402",
-      "forks": "10,224",
+      "stars": "92,927",
+      "forks": "10,277",
       "addStars": "1,831",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,918",
-      "forks": "4,195",
+      "stars": "36,991",
+      "forks": "4,203",
       "addStars": "282",
       "contributors": [
         {
@@ -111,9 +111,9 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,087",
-      "forks": "3,128",
-      "addStars": "711",
+      "stars": "23,345",
+      "forks": "3,148",
+      "addStars": "585",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
@@ -143,8 +143,8 @@
       "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,436",
-      "forks": "3,130",
+      "stars": "29,510",
+      "forks": "3,139",
       "addStars": "504",
       "contributors": [
         {
@@ -170,8 +170,8 @@
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "143,515",
-      "forks": "12,849",
+      "stars": "143,656",
+      "forks": "12,871",
       "addStars": "386",
       "contributors": [
         {
@@ -197,8 +197,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "117,670",
-      "forks": "22,515",
+      "stars": "117,861",
+      "forks": "22,552",
       "addStars": "727",
       "contributors": [
         {
@@ -234,8 +234,8 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "22,933",
-      "forks": "1,982",
+      "stars": "23,061",
+      "forks": "1,996",
       "addStars": "267",
       "contributors": [
         {
@@ -266,8 +266,8 @@
       "description": "\"Single-image Layer Decomposition for Anime Characters\" (SIGGRAPH 2026 Conference Paper)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,076",
-      "forks": "447",
+      "stars": "5,095",
+      "forks": "450",
       "addStars": "78",
       "contributors": [
         {
@@ -303,8 +303,8 @@
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "64,491",
-      "forks": "10,055",
+      "stars": "64,620",
+      "forks": "10,073",
       "addStars": "498",
       "contributors": [
         {
