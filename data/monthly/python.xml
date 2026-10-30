@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Python Languages in GitHub</description>
-    <pubDate>Fri, 30 Oct 2026 14:09:37 GMT</pubDate>
+    <pubDate>Fri, 30 Oct 2026 22:59:42 GMT</pubDate>
     <item>
       <title>anthropics/knowledge-work-plugins</title>
       <link>https://github.com/anthropics/knowledge-work-plugins</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>33,963</stars>
-      <forks>3,738</forks>
+      <stars>34,026</stars>
+      <forks>3,748</forks>
       <addStars>8,086</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>95,145</stars>
-      <forks>10,526</forks>
+      <stars>95,668</stars>
+      <forks>10,596</forks>
       <addStars>47,778</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/earthtojake/text-to-cad</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>24,290</stars>
-      <forks>2,329</forks>
+      <stars>24,341</stars>
+      <forks>2,335</forks>
       <addStars>7,732</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,380</stars>
-      <forks>4,732</forks>
+      <stars>45,436</stars>
+      <forks>4,737</forks>
       <addStars>8,277</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/AgriciDaniel/claude-seo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>24,275</stars>
-      <forks>3,248</forks>
+      <stars>24,481</stars>
+      <forks>3,260</forks>
       <addStars>5,997</addStars>
       <contributors>
         <contributor>
@@ -176,8 +176,8 @@
       <guid>https://github.com/Panniantong/Agent-Reach</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>106,640</stars>
-      <forks>9,464</forks>
+      <stars>106,787</stars>
+      <forks>9,493</forks>
       <addStars>20,593</addStars>
       <contributors>
         <contributor>
@@ -214,8 +214,8 @@
       <guid>https://github.com/danyuchn/asd-ste100-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,845</stars>
-      <forks>338</forks>
+      <stars>5,860</stars>
+      <forks>339</forks>
       <addStars>3,556</addStars>
       <contributors>
         <contributor>
@@ -252,8 +252,8 @@
       <guid>https://github.com/HKUDS/CLI-Anything</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>57,797</stars>
-      <forks>5,201</forks>
+      <stars>57,827</stars>
+      <forks>5,205</forks>
       <addStars>6,938</addStars>
       <contributors>
         <contributor>
@@ -290,8 +290,8 @@
       <guid>https://github.com/Alishahryar1/free-claude-code</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>65,097</stars>
-      <forks>10,136</forks>
+      <stars>65,209</stars>
+      <forks>10,152</forks>
       <addStars>9,312</addStars>
       <contributors>
         <contributor>
@@ -323,8 +323,8 @@
       <guid>https://github.com/calesthio/OpenMontage</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>73,208</stars>
-      <forks>9,579</forks>
+      <stars>73,383</stars>
+      <forks>9,611</forks>
       <addStars>11,512</addStars>
       <contributors>
         <contributor>
@@ -361,8 +361,8 @@
       <guid>https://github.com/AstrBotDevs/AstrBot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,014</stars>
-      <forks>3,301</forks>
+      <stars>45,075</stars>
+      <forks>3,308</forks>
       <addStars>3,752</addStars>
       <contributors>
         <contributor>
@@ -399,8 +399,8 @@
       <guid>https://github.com/NVIDIA/SkillSpector</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,473</stars>
-      <forks>2,031</forks>
+      <stars>23,529</stars>
+      <forks>2,036</forks>
       <addStars>4,801</addStars>
       <contributors>
         <contributor>
@@ -432,8 +432,8 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>75,684</stars>
-      <forks>13,325</forks>
+      <stars>75,735</stars>
+      <forks>13,340</forks>
       <addStars>14,950</addStars>
       <contributors>
         <contributor>
@@ -465,8 +465,8 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>51,393</stars>
-      <forks>6,296</forks>
+      <stars>51,726</stars>
+      <forks>6,335</forks>
       <addStars>9,293</addStars>
       <contributors>
         <contributor>
@@ -498,8 +498,8 @@
       <guid>https://github.com/wshobson/agents</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>42,003</stars>
-      <forks>4,449</forks>
+      <stars>42,020</stars>
+      <forks>4,450</forks>
       <addStars>2,027</addStars>
       <contributors>
         <contributor>
@@ -531,8 +531,8 @@
       <guid>https://github.com/TencentCloud/Octop</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,360</stars>
-      <forks>1,499</forks>
+      <stars>11,366</stars>
+      <forks>1,503</forks>
       <addStars>5,699</addStars>
       <contributors>
         <contributor>
@@ -569,8 +569,8 @@
       <guid>https://github.com/luongnv89/claude-howto</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>46,197</stars>
-      <forks>5,666</forks>
+      <stars>46,218</stars>
+      <forks>5,667</forks>
       <addStars>4,564</addStars>
       <contributors>
         <contributor>
@@ -607,7 +607,7 @@
       <guid>https://github.com/Kruk2/jasna</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,109</stars>
+      <stars>4,121</stars>
       <forks>338</forks>
       <addStars>2,249</addStars>
       <contributors>
