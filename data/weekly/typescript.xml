@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Sun, 01 Nov 2026 18:26:57 GMT</pubDate>
+    <pubDate>Sun, 01 Nov 2026 22:51:08 GMT</pubDate>
     <item>
       <title>thedotmack/claude-mem</title>
       <link>https://github.com/thedotmack/claude-mem</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>108,919</stars>
-      <forks>9,540</forks>
+      <stars>109,147</stars>
+      <forks>9,559</forks>
       <addStars>4,575</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/JetBrains/thinkrail</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,929</stars>
-      <forks>388</forks>
+      <stars>6,960</stars>
+      <forks>391</forks>
       <addStars>5,738</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>37,299</stars>
-      <forks>8,884</forks>
+      <stars>37,791</stars>
+      <forks>8,900</forks>
       <addStars>3,718</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/gitroomhq/postiz-app</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>40,560</stars>
-      <forks>7,720</forks>
+      <stars>40,586</stars>
+      <forks>7,726</forks>
       <addStars>2,640</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>76,995</stars>
-      <forks>7,053</forks>
+      <stars>77,079</stars>
+      <forks>7,064</forks>
       <addStars>5,309</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/CopilotKit/OpenBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,394</stars>
-      <forks>1,175</forks>
+      <stars>9,490</stars>
+      <forks>1,183</forks>
       <addStars>2,086</addStars>
       <contributors>
         <contributor>
@@ -239,8 +239,8 @@
       <guid>https://github.com/makecindy/cindy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,902</stars>
-      <forks>1,067</forks>
+      <stars>8,912</stars>
+      <forks>1,068</forks>
       <addStars>4,977</addStars>
       <contributors>
         <contributor>
@@ -277,8 +277,8 @@
       <guid>https://github.com/nightly-labs/openbot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,501</stars>
-      <forks>460</forks>
+      <stars>4,512</stars>
+      <forks>463</forks>
       <addStars>3,533</addStars>
       <contributors>
         <contributor>
@@ -315,8 +315,8 @@
       <guid>https://github.com/Renhuai123/ziwei-doushu</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,989</stars>
-      <forks>2,548</forks>
+      <stars>13,053</stars>
+      <forks>2,554</forks>
       <addStars>4,995</addStars>
       <contributors>
         <contributor>
@@ -348,8 +348,8 @@
       <guid>https://github.com/milind-soni/OpenMausBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,372</stars>
-      <forks>1,435</forks>
+      <stars>10,465</stars>
+      <forks>1,449</forks>
       <addStars>3,842</addStars>
       <contributors>
         <contributor>
@@ -386,8 +386,8 @@
       <guid>https://github.com/remotion-dev/remotion</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>69,703</stars>
-      <forks>5,723</forks>
+      <stars>69,738</stars>
+      <forks>5,731</forks>
       <addStars>2,397</addStars>
       <contributors>
         <contributor>
@@ -419,7 +419,7 @@
       <guid>https://github.com/microsoft/skill-recorder</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,626</stars>
+      <stars>5,629</stars>
       <forks>642</forks>
       <addStars>1,235</addStars>
       <contributors>
@@ -452,7 +452,7 @@
       <guid>https://github.com/google-gemini/gemini-cli</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>108,650</stars>
+      <stars>108,655</stars>
       <forks>14,908</forks>
       <addStars>997</addStars>
       <contributors>
@@ -490,8 +490,8 @@
       <guid>https://github.com/lfnovo/open-notebook</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>41,278</stars>
-      <forks>4,749</forks>
+      <stars>41,301</stars>
+      <forks>4,751</forks>
       <addStars>685</addStars>
       <contributors>
         <contributor>
@@ -523,8 +523,8 @@
       <guid>https://github.com/tashfeenahmed/freellmapi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>45,589</stars>
-      <forks>6,225</forks>
+      <stars>45,683</stars>
+      <forks>6,239</forks>
       <addStars>4,435</addStars>
       <contributors>
         <contributor>
@@ -561,8 +561,8 @@
       <guid>https://github.com/google/brotli</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,072</stars>
-      <forks>1,395</forks>
+      <stars>15,073</stars>
+      <forks>1,394</forks>
       <addStars>85</addStars>
       <contributors>
         <contributor>

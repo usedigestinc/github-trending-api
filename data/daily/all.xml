@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Sun, 01 Nov 2026 18:26:57 GMT</pubDate>
+    <pubDate>Sun, 01 Nov 2026 22:51:08 GMT</pubDate>
     <item>
       <title>thedotmack/claude-mem</title>
       <link>https://github.com/thedotmack/claude-mem</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>108,919</stars>
-      <forks>9,540</forks>
+      <stars>109,147</stars>
+      <forks>9,559</forks>
       <addStars>1,527</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/lightpanda-io/browser</guid>
       <language>Zig</language>
       <languageColor>#ec915c</languageColor>
-      <stars>39,911</stars>
-      <forks>1,949</forks>
+      <stars>40,048</stars>
+      <forks>1,959</forks>
       <addStars>827</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/shiyu-coder/Kronos</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,191</stars>
-      <forks>7,468</forks>
+      <stars>45,319</stars>
+      <forks>7,495</forks>
       <addStars>611</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>37,298</stars>
-      <forks>8,884</forks>
+      <stars>37,791</stars>
+      <forks>8,900</forks>
       <addStars>3,100</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/milind-soni/OpenMausBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,372</stars>
-      <forks>1,435</forks>
+      <stars>10,465</stars>
+      <forks>1,449</forks>
       <addStars>919</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/public-apis/public-apis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>494,339</stars>
-      <forks>55,176</forks>
+      <stars>494,517</stars>
+      <forks>55,198</forks>
       <addStars>298</addStars>
       <contributors>
         <contributor>
@@ -239,8 +239,8 @@
       <guid>https://github.com/cjpais/Handy</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>36,328</stars>
-      <forks>3,437</forks>
+      <stars>36,482</stars>
+      <forks>3,448</forks>
       <addStars>383</addStars>
       <contributors>
         <contributor>
@@ -277,8 +277,8 @@
       <guid>https://github.com/Donchitos/Claude-Code-Game-Studios</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>32,001</stars>
-      <forks>4,367</forks>
+      <stars>32,181</stars>
+      <forks>4,390</forks>
       <addStars>970</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/kornia/kornia</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,701</stars>
-      <forks>1,463</forks>
+      <stars>11,757</stars>
+      <forks>1,465</forks>
       <addStars>88</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/beenuar/AiSOC</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,048</stars>
-      <forks>630</forks>
+      <stars>6,179</stars>
+      <forks>642</forks>
       <addStars>436</addStars>
       <contributors>
         <contributor>
@@ -366,8 +366,8 @@
       <guid>https://github.com/Renhuai123/ziwei-doushu</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,989</stars>
-      <forks>2,548</forks>
+      <stars>13,051</stars>
+      <forks>2,554</forks>
       <addStars>953</addStars>
       <contributors>
         <contributor>
@@ -399,8 +399,8 @@
       <guid>https://github.com/anomalyco/hex</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>2,973</stars>
-      <forks>175</forks>
+      <stars>3,198</stars>
+      <forks>189</forks>
       <addStars>1,329</addStars>
       <contributors>
         <contributor>
@@ -432,8 +432,8 @@
       <guid>https://github.com/CopilotKit/OpenBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,392</stars>
-      <forks>1,175</forks>
+      <stars>9,490</stars>
+      <forks>1,183</forks>
       <addStars>178</addStars>
       <contributors>
         <contributor>
@@ -470,8 +470,8 @@
       <guid>https://github.com/togg53192-cmd/jailbreaks</guid>
       <language/>
       <languageColor/>
-      <stars>12,783</stars>
-      <forks>1,926</forks>
+      <stars>12,904</stars>
+      <forks>1,942</forks>
       <addStars>730</addStars>
       <contributors>
         <contributor>
@@ -503,8 +503,8 @@
       <guid>https://github.com/patchy631/ai-engineering-hub</guid>
       <language>Jupyter Notebook</language>
       <languageColor>#DA5B0B</languageColor>
-      <stars>40,045</stars>
-      <forks>6,471</forks>
+      <stars>40,180</stars>
+      <forks>6,480</forks>
       <addStars>573</addStars>
       <contributors>
         <contributor>
@@ -541,8 +541,8 @@
       <guid>https://github.com/FlashML-org/FreeToken</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,258</stars>
-      <forks>1,542</forks>
+      <stars>15,360</stars>
+      <forks>1,548</forks>
       <addStars>232</addStars>
       <contributors>
         <contributor>
@@ -579,8 +579,8 @@
       <guid>https://github.com/hyprwm/Hyprland</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>39,267</stars>
-      <forks>2,122</forks>
+      <stars>39,334</stars>
+      <forks>2,127</forks>
       <addStars>91</addStars>
       <contributors>
         <contributor>
