@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Rust Languages in GitHub</description>
-    <pubDate>Mon, 02 Nov 2026 22:20:37 GMT</pubDate>
+    <pubDate>Tue, 03 Nov 2026 07:56:29 GMT</pubDate>
     <item>
       <title>pbakaus/impeccable</title>
       <link>https://github.com/pbakaus/impeccable</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>100,392</stars>
-      <forks>5,933</forks>
-      <addStars>26,119</addStars>
+      <stars>100,842</stars>
+      <forks>5,960</forks>
+      <addStars>26,586</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/akitaonrails/ai-memory</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>14,941</stars>
-      <forks>1,079</forks>
-      <addStars>6,190</addStars>
+      <stars>14,972</stars>
+      <forks>1,080</forks>
+      <addStars>6,256</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2840?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/NVIDIA/OpenShell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>20,973</stars>
-      <forks>2,056</forks>
-      <addStars>7,208</addStars>
+      <stars>21,004</stars>
+      <forks>2,055</forks>
+      <addStars>6,784</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/385?s=40&amp;v=4</avatar>
@@ -120,9 +120,9 @@
       <guid>https://github.com/xerj-org/xerj</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>18,798</stars>
-      <forks>1,435</forks>
-      <addStars>16,834</addStars>
+      <stars>18,852</stars>
+      <forks>1,442</forks>
+      <addStars>17,029</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/297525353?s=40&amp;v=4</avatar>
@@ -154,13 +154,13 @@
     <item>
       <title>jub0t/Concat</title>
       <link>https://github.com/jub0t/Concat</link>
-      <description>The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API &amp; MCP.</description>
+      <description>Beta: The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API &amp; MCP.</description>
       <guid>https://github.com/jub0t/Concat</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>13,807</stars>
-      <forks>1,703</forks>
-      <addStars>9,590</addStars>
+      <stars>13,886</stars>
+      <forks>1,717</forks>
+      <addStars>9,873</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/57962439?s=40&amp;v=4</avatar>
@@ -196,9 +196,9 @@
       <guid>https://github.com/crmne/spotifast</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>9,548</stars>
+      <stars>9,565</stars>
       <forks>566</forks>
-      <addStars>4,736</addStars>
+      <addStars>4,741</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/106617?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/lexmount/moli</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>22,237</stars>
-      <forks>611</forks>
-      <addStars>19,732</addStars>
+      <stars>22,325</stars>
+      <forks>616</forks>
+      <addStars>18,772</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/31354274?s=40&amp;v=4</avatar>
@@ -267,9 +267,9 @@
       <guid>https://github.com/vercel-labs/agent-desktop</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>9,382</stars>
-      <forks>638</forks>
-      <addStars>4,234</addStars>
+      <stars>10,950</stars>
+      <forks>736</forks>
+      <addStars>6,883</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4</avatar>
@@ -290,9 +290,9 @@
       <guid>https://github.com/cjpais/Handy</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>37,140</stars>
-      <forks>3,492</forks>
-      <addStars>3,766</addStars>
+      <stars>37,220</stars>
+      <forks>3,498</forks>
+      <addStars>4,550</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1559480?s=40&amp;v=4</avatar>
@@ -310,14 +310,14 @@
           <url>https://github.com/vladstudio</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/10460518?s=40&amp;v=4</avatar>
-          <name>VirenMohindra</name>
-          <url>https://github.com/VirenMohindra</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9982364?s=40&amp;v=4</avatar>
           <name>xilec</name>
           <url>https://github.com/xilec</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10460518?s=40&amp;v=4</avatar>
+          <name>VirenMohindra</name>
+          <url>https://github.com/VirenMohindra</url>
         </contributor>
       </contributors>
     </item>
@@ -329,8 +329,8 @@
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
       <stars>49,475</stars>
-      <forks>5,010</forks>
-      <addStars>1,050</addStars>
+      <forks>5,013</forks>
+      <addStars>1,056</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2694663?s=40&amp;v=4</avatar>
@@ -366,9 +366,9 @@
       <guid>https://github.com/memvid/memvid</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>17,352</stars>
+      <stars>17,354</stars>
       <forks>1,470</forks>
-      <addStars>810</addStars>
+      <addStars>827</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/83120892?s=40&amp;v=4</avatar>
@@ -404,8 +404,8 @@
       <guid>https://github.com/HakanSeven12/OpenCADStudio</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,759</stars>
-      <forks>444</forks>
+      <stars>3,771</stars>
+      <forks>447</forks>
       <addStars>1,368</addStars>
       <contributors>
         <contributor>
@@ -442,9 +442,9 @@
       <guid>https://github.com/SimoHypers/limusic</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,726</stars>
+      <stars>1,745</stars>
       <forks>112</forks>
-      <addStars>917</addStars>
+      <addStars>1,004</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/153776287?s=40&amp;v=4</avatar>
@@ -480,9 +480,9 @@
       <guid>https://github.com/rustdesk/rustdesk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>127,935</stars>
-      <forks>20,257</forks>
-      <addStars>3,477</addStars>
+      <stars>127,969</stars>
+      <forks>20,262</forks>
+      <addStars>3,532</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/71636191?s=40&amp;v=4</avatar>
@@ -518,9 +518,9 @@
       <guid>https://github.com/trymirai/uzu</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,191</stars>
-      <forks>217</forks>
-      <addStars>1,350</addStars>
+      <stars>3,199</stars>
+      <forks>219</forks>
+      <addStars>1,378</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/83587632?s=40&amp;v=4</avatar>
@@ -556,9 +556,9 @@
       <guid>https://github.com/denoland/deno</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>108,794</stars>
+      <stars>108,795</stars>
       <forks>6,503</forks>
-      <addStars>885</addStars>
+      <addStars>891</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/13602871?s=40&amp;v=4</avatar>
@@ -596,7 +596,7 @@
       <languageColor>#dea584</languageColor>
       <stars>1,451</stars>
       <forks>208</forks>
-      <addStars>596</addStars>
+      <addStars>599</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11727006?s=40&amp;v=4</avatar>
@@ -632,9 +632,9 @@
       <guid>https://github.com/samwhosung/benilla</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>918</stars>
-      <forks>213</forks>
-      <addStars>663</addStars>
+      <stars>920</stars>
+      <forks>215</forks>
+      <addStars>463</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/51686767?s=40&amp;v=4</avatar>
@@ -670,9 +670,9 @@
       <guid>https://github.com/emilk/egui</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>31,932</stars>
-      <forks>2,303</forks>
-      <addStars>1,209</addStars>
+      <stars>31,944</stars>
+      <forks>2,305</forks>
+      <addStars>1,204</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1148717?s=40&amp;v=4</avatar>
