@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 03 Nov 2026 20:07:46 GMT</pubDate>
+    <pubDate>Wed, 04 Nov 2026 07:30:48 GMT</pubDate>
     <item>
       <title>morluto/rea</title>
       <link>https://github.com/morluto/rea</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/morluto/rea</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>426,511</stars>
-      <forks>106,179</forks>
-      <addStars>422,104</addStars>
+      <stars>428,243</stars>
+      <forks>106,546</forks>
+      <addStars>426,427</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/76467478?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>58,088</stars>
-      <forks>3,783</forks>
-      <addStars>33,474</addStars>
+      <stars>58,408</stars>
+      <forks>3,803</forks>
+      <addStars>34,248</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4</avatar>
@@ -77,9 +77,9 @@
       <guid>https://github.com/Nutlope/hallmark</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>46,826</stars>
-      <forks>2,478</forks>
-      <addStars>16,306</addStars>
+      <stars>47,251</stars>
+      <forks>2,495</forks>
+      <addStars>17,314</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/154055839?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>78,263</stars>
-      <forks>7,204</forks>
-      <addStars>22,290</addStars>
+      <stars>78,521</stars>
+      <forks>7,225</forks>
+      <addStars>22,387</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>99,917</stars>
-      <forks>11,069</forks>
-      <addStars>47,605</addStars>
+      <stars>100,341</stars>
+      <forks>11,117</forks>
+      <addStars>48,168</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4</avatar>
@@ -191,9 +191,9 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>34,589</stars>
-      <forks>3,827</forks>
-      <addStars>8,614</addStars>
+      <stars>34,649</stars>
+      <forks>3,831</forks>
+      <addStars>8,685</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4</avatar>
@@ -224,9 +224,9 @@
       <guid>https://github.com/NationalSecurityAgency/ghidra</guid>
       <language>Java</language>
       <languageColor>#b07219</languageColor>
-      <stars>97,502</stars>
-      <forks>11,030</forks>
-      <addStars>17,043</addStars>
+      <stars>97,624</stars>
+      <forks>11,043</forks>
+      <addStars>17,325</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5378554?s=40&amp;v=4</avatar>
@@ -262,9 +262,9 @@
       <guid>https://github.com/ranxianglei/billion-context</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,880</stars>
-      <forks>323</forks>
-      <addStars>3,213</addStars>
+      <stars>3,959</stars>
+      <forks>326</forks>
+      <addStars>3,363</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/12445698?s=40&amp;v=4</avatar>
@@ -295,9 +295,9 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>111,712</stars>
-      <forks>9,722</forks>
-      <addStars>15,681</addStars>
+      <stars>112,228</stars>
+      <forks>9,760</forks>
+      <addStars>16,740</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4</avatar>
@@ -333,9 +333,9 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>44,013</stars>
-      <forks>9,224</forks>
-      <addStars>15,731</addStars>
+      <stars>44,975</stars>
+      <forks>9,297</forks>
+      <addStars>18,907</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4</avatar>
@@ -371,9 +371,9 @@
       <guid>https://github.com/tester-army/e2e</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,831</stars>
-      <forks>668</forks>
-      <addStars>11,344</addStars>
+      <stars>12,988</stars>
+      <forks>677</forks>
+      <addStars>10,768</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/52801365?s=40&amp;v=4</avatar>
@@ -409,9 +409,9 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>101,372</stars>
-      <forks>5,984</forks>
-      <addStars>26,586</addStars>
+      <stars>101,822</stars>
+      <forks>6,001</forks>
+      <addStars>26,980</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4</avatar>
@@ -442,9 +442,9 @@
       <guid>https://github.com/earthtojake/text-to-cad</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>25,200</stars>
-      <forks>2,395</forks>
-      <addStars>8,535</addStars>
+      <stars>25,297</stars>
+      <forks>2,402</forks>
+      <addStars>8,708</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10742417?s=40&amp;v=4</avatar>
@@ -470,9 +470,9 @@
       <guid>https://github.com/mksglu/context-mode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>33,365</stars>
-      <forks>2,298</forks>
-      <addStars>8,531</addStars>
+      <stars>33,413</stars>
+      <forks>2,300</forks>
+      <addStars>8,397</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6067714?s=40&amp;v=4</avatar>
@@ -503,9 +503,9 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>45,966</stars>
-      <forks>4,782</forks>
-      <addStars>8,715</addStars>
+      <stars>46,031</stars>
+      <forks>4,790</forks>
+      <addStars>8,845</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4</avatar>
@@ -536,9 +536,9 @@
       <guid>https://github.com/tashfeenahmed/freellmapi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>46,957</stars>
-      <forks>6,414</forks>
-      <addStars>16,329</addStars>
+      <stars>47,211</stars>
+      <forks>6,451</forks>
+      <addStars>16,812</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9307356?s=40&amp;v=4</avatar>
@@ -574,9 +574,9 @@
       <guid>https://github.com/michael-denyer/pstack-claude</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>3,879</stars>
-      <forks>352</forks>
-      <addStars>3,018</addStars>
+      <stars>3,932</stars>
+      <forks>356</forks>
+      <addStars>3,026</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/97485362?s=40&amp;v=4</avatar>
