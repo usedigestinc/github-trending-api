@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Typescript Languages in GitHub</description>
-    <pubDate>Wed, 04 Nov 2026 20:27:16 GMT</pubDate>
+    <pubDate>Thu, 05 Nov 2026 07:55:56 GMT</pubDate>
     <item>
       <title>thedotmack/claude-mem</title>
       <link>https://github.com/thedotmack/claude-mem</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>112,701</stars>
-      <forks>9,794</forks>
-      <addStars>1,165</addStars>
+      <stars>113,126</stars>
+      <forks>9,820</forks>
+      <addStars>1,172</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/garrytan/gstack</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>139,250</stars>
-      <forks>20,630</forks>
-      <addStars>285</addStars>
+      <stars>139,523</stars>
+      <forks>20,650</forks>
+      <addStars>290</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/19957?s=40&amp;v=4</avatar>
@@ -82,7 +82,7 @@
       <guid>https://github.com/spotify/portal-ai-plugins</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,148</stars>
+      <stars>3,156</stars>
       <forks>248</forks>
       <addStars>227</addStars>
       <contributors>
@@ -115,9 +115,9 @@
       <guid>https://github.com/Crosstalk-Solutions/project-nomad</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>42,175</stars>
-      <forks>4,311</forks>
-      <addStars>174</addStars>
+      <stars>42,237</stars>
+      <forks>4,316</forks>
+      <addStars>166</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/52841588?s=40&amp;v=4</avatar>
@@ -148,9 +148,9 @@
       <guid>https://github.com/melgarafael/DeskcommCRM</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,136</stars>
-      <forks>1,463</forks>
-      <addStars>33</addStars>
+      <stars>5,154</stars>
+      <forks>1,470</forks>
+      <addStars>30</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/119944436?s=40&amp;v=4</avatar>
@@ -186,9 +186,9 @@
       <guid>https://github.com/elie222/rakazo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,000</stars>
-      <forks>1,234</forks>
-      <addStars>151</addStars>
+      <stars>7,075</stars>
+      <forks>1,247</forks>
+      <addStars>158</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3090527?s=40&amp;v=4</avatar>
@@ -224,8 +224,8 @@
       <guid>https://github.com/mermaid-js/mermaid</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>91,014</stars>
-      <forks>9,455</forks>
+      <stars>91,017</stars>
+      <forks>9,456</forks>
       <addStars>23</addStars>
       <contributors>
         <contributor>
@@ -257,9 +257,9 @@
       <guid>https://github.com/QwenLM/qwen-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>29,007</stars>
-      <forks>3,313</forks>
-      <addStars>73</addStars>
+      <stars>29,016</stars>
+      <forks>3,315</forks>
+      <addStars>54</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1166785?s=40&amp;v=4</avatar>
@@ -295,9 +295,9 @@
       <guid>https://github.com/vercel-labs/scriptc</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,496</stars>
+      <stars>6,501</stars>
       <forks>210</forks>
-      <addStars>11</addStars>
+      <addStars>9</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4</avatar>
@@ -333,9 +333,9 @@
       <guid>https://github.com/jo-duchan/tapflow</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,587</stars>
+      <stars>1,595</stars>
       <forks>168</forks>
-      <addStars>26</addStars>
+      <addStars>10</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/79234094?s=40&amp;v=4</avatar>
@@ -366,9 +366,9 @@
       <guid>https://github.com/openobserve/openobserve</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,796</stars>
+      <stars>22,804</stars>
       <forks>1,179</forks>
-      <addStars>45</addStars>
+      <addStars>35</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1628250?s=40&amp;v=4</avatar>
@@ -404,9 +404,9 @@
       <guid>https://github.com/liguobao/ds-harness-remote</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,736</stars>
-      <forks>147</forks>
-      <addStars>237</addStars>
+      <stars>1,821</stars>
+      <forks>154</forks>
+      <addStars>231</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10910802?s=40&amp;v=4</avatar>
@@ -442,9 +442,9 @@
       <guid>https://github.com/humanlayer/skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,600</stars>
-      <forks>186</forks>
-      <addStars>30</addStars>
+      <stars>5,613</stars>
+      <forks>190</forks>
+      <addStars>27</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3730605?s=40&amp;v=4</avatar>
@@ -475,9 +475,9 @@
       <guid>https://github.com/hieunc229/mailflare</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,636</stars>
-      <forks>856</forks>
-      <addStars>81</addStars>
+      <stars>5,659</stars>
+      <forks>860</forks>
+      <addStars>76</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8464869?s=40&amp;v=4</avatar>
@@ -513,9 +513,9 @@
       <guid>https://github.com/Renhuai123/ziwei-doushu</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,750</stars>
-      <forks>3,045</forks>
-      <addStars>946</addStars>
+      <stars>15,954</stars>
+      <forks>3,087</forks>
+      <addStars>890</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/91890238?s=40&amp;v=4</avatar>

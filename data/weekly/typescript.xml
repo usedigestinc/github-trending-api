@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Wed, 04 Nov 2026 20:27:16 GMT</pubDate>
+    <pubDate>Thu, 05 Nov 2026 07:55:56 GMT</pubDate>
     <item>
       <title>thedotmack/claude-mem</title>
       <link>https://github.com/thedotmack/claude-mem</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>112,701</stars>
-      <forks>9,794</forks>
-      <addStars>7,995</addStars>
+      <stars>113,126</stars>
+      <forks>9,820</forks>
+      <addStars>8,822</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>46,286</stars>
-      <forks>9,435</forks>
-      <addStars>12,542</addStars>
+      <stars>47,056</stars>
+      <forks>9,498</forks>
+      <addStars>14,580</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/JetBrains/thinkrail</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,582</stars>
-      <forks>461</forks>
-      <addStars>3,898</addStars>
+      <stars>7,678</stars>
+      <forks>468</forks>
+      <addStars>3,031</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/177517595?s=40&amp;v=4</avatar>
@@ -125,9 +125,9 @@
       <guid>https://github.com/Vincentwei1021/video-shotcraft</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>16,950</stars>
-      <forks>1,598</forks>
-      <addStars>2,485</addStars>
+      <stars>17,116</stars>
+      <forks>1,617</forks>
+      <addStars>2,629</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -163,9 +163,9 @@
       <guid>https://github.com/CopilotKit/OpenBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,124</stars>
-      <forks>1,248</forks>
-      <addStars>2,671</addStars>
+      <stars>10,195</stars>
+      <forks>1,257</forks>
+      <addStars>2,562</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1574202?s=40&amp;v=4</avatar>
@@ -201,9 +201,9 @@
       <guid>https://github.com/tashfeenahmed/freellmapi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>47,493</stars>
-      <forks>6,503</forks>
-      <addStars>4,414</addStars>
+      <stars>47,693</stars>
+      <forks>6,527</forks>
+      <addStars>4,388</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9307356?s=40&amp;v=4</avatar>
@@ -239,9 +239,9 @@
       <guid>https://github.com/milind-soni/OpenMausBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,986</stars>
-      <forks>1,659</forks>
-      <addStars>5,990</addStars>
+      <stars>12,319</stars>
+      <forks>1,716</forks>
+      <addStars>5,847</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/46266943?s=40&amp;v=4</avatar>
@@ -277,9 +277,9 @@
       <guid>https://github.com/Renhuai123/ziwei-doushu</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,750</stars>
-      <forks>3,045</forks>
-      <addStars>6,595</addStars>
+      <stars>15,954</stars>
+      <forks>3,087</forks>
+      <addStars>7,014</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/91890238?s=40&amp;v=4</avatar>
@@ -310,9 +310,9 @@
       <guid>https://github.com/nightly-labs/openbot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>5,519</stars>
-      <forks>559</forks>
-      <addStars>2,898</addStars>
+      <stars>5,644</stars>
+      <forks>571</forks>
+      <addStars>2,485</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -343,9 +343,9 @@
       <guid>https://github.com/spotify/portal-ai-plugins</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>3,148</stars>
+      <stars>3,156</stars>
       <forks>248</forks>
-      <addStars>518</addStars>
+      <addStars>632</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/15789670?s=40&amp;v=4</avatar>
@@ -376,9 +376,9 @@
       <guid>https://github.com/lfnovo/open-notebook</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>41,579</stars>
-      <forks>4,775</forks>
-      <addStars>906</addStars>
+      <stars>41,602</stars>
+      <forks>4,784</forks>
+      <addStars>938</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/579178?s=40&amp;v=4</avatar>
@@ -409,9 +409,9 @@
       <guid>https://github.com/remotion-dev/remotion</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>70,723</stars>
-      <forks>5,823</forks>
-      <addStars>2,250</addStars>
+      <stars>70,855</stars>
+      <forks>5,843</forks>
+      <addStars>2,224</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4</avatar>
@@ -442,9 +442,9 @@
       <guid>https://github.com/KeygraphHQ/shannon</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>51,188</stars>
+      <stars>51,222</stars>
       <forks>5,966</forks>
-      <addStars>1,419</addStars>
+      <addStars>1,204</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/178829317?s=40&amp;v=4</avatar>
@@ -480,9 +480,9 @@
       <guid>https://github.com/ahmadrosid/nakama</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>775</stars>
+      <stars>778</stars>
       <forks>129</forks>
-      <addStars>109</addStars>
+      <addStars>100</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/29406408?s=40&amp;v=4</avatar>
@@ -513,9 +513,9 @@
       <guid>https://github.com/Crosstalk-Solutions/project-nomad</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>42,175</stars>
-      <forks>4,311</forks>
-      <addStars>1,051</addStars>
+      <stars>42,237</stars>
+      <forks>4,316</forks>
+      <addStars>1,052</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/52841588?s=40&amp;v=4</avatar>
@@ -546,9 +546,9 @@
       <guid>https://github.com/makecindy/cindy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,261</stars>
-      <forks>1,131</forks>
-      <addStars>1,747</addStars>
+      <stars>9,305</stars>
+      <forks>1,140</forks>
+      <addStars>1,378</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/125997726?s=40&amp;v=4</avatar>
@@ -556,14 +556,14 @@
           <url>https://github.com/dashhuang</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4436110?s=40&amp;v=4</avatar>
-          <name>zqchris</name>
-          <url>https://github.com/zqchris</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/17176223?s=40&amp;v=4</avatar>
           <name>MagicLizi</name>
           <url>https://github.com/MagicLizi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4436110?s=40&amp;v=4</avatar>
+          <name>zqchris</name>
+          <url>https://github.com/zqchris</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/290921921?s=40&amp;v=4</avatar>

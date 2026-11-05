@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Monthly Trending",
   "description": "Monthly Trending of Python Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Wed, 04 Nov 2026 20:27:16 GMT",
+  "pubDate": "Thu, 05 Nov 2026 07:55:56 GMT",
   "items": [
     {
       "title": "debpalash/VoiceStudio",
@@ -10,9 +10,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "100,879",
-      "forks": "11,165",
-      "addStars": "48,168",
+      "stars": "101,293",
+      "forks": "11,216",
+      "addStars": "48,420",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,718",
-      "forks": "3,831",
-      "addStars": "8,685",
+      "stars": "34,779",
+      "forks": "3,833",
+      "addStars": "8,764",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Design physical products with AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,399",
-      "forks": "2,410",
-      "addStars": "8,708",
+      "stars": "25,514",
+      "forks": "2,418",
+      "addStars": "8,831",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10742417?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "46,105",
-      "forks": "4,794",
-      "addStars": "8,845",
+      "stars": "46,175",
+      "forks": "4,797",
+      "addStars": "8,948",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "55,027",
-      "forks": "6,735",
-      "addStars": "14,236",
+      "stars": "55,148",
+      "forks": "6,760",
+      "addStars": "14,543",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
@@ -170,9 +170,9 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,612",
-      "forks": "3,463",
-      "addStars": "8,108",
+      "stars": "26,779",
+      "forks": "3,481",
+      "addStars": "8,413",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
@@ -202,9 +202,9 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "76,441",
-      "forks": "10,137",
-      "addStars": "13,622",
+      "stars": "76,750",
+      "forks": "10,177",
+      "addStars": "13,820",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/213189893?s=40&v=4",
@@ -239,9 +239,9 @@
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "45,993",
-      "forks": "3,378",
-      "addStars": "4,731",
+      "stars": "46,053",
+      "forks": "3,384",
+      "addStars": "4,823",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/37870767?s=40&v=4",
@@ -276,9 +276,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,250",
-      "forks": "5,242",
-      "addStars": "6,960",
+      "stars": "58,272",
+      "forks": "5,245",
+      "addStars": "6,956",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
@@ -313,9 +313,9 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "108,771",
-      "forks": "9,714",
-      "addStars": "19,446",
+      "stars": "108,940",
+      "forks": "9,731",
+      "addStars": "18,799",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/73925474?s=40&v=4",
@@ -350,9 +350,9 @@
       "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,200",
-      "forks": "4,459",
-      "addStars": "2,094",
+      "stars": "42,223",
+      "forks": "4,460",
+      "addStars": "2,124",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/553618?s=40&v=4",
@@ -382,9 +382,9 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,344",
-      "forks": "2,100",
-      "addStars": "5,054",
+      "stars": "24,415",
+      "forks": "2,110",
+      "addStars": "5,083",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32655573?s=40&v=4",
@@ -414,9 +414,9 @@
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "66,416",
-      "forks": "10,325",
-      "addStars": "10,288",
+      "stars": "66,520",
+      "forks": "10,345",
+      "addStars": "10,358",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
@@ -446,9 +446,9 @@
       "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,213",
-      "forks": "740",
-      "addStars": "4,934",
+      "stars": "7,307",
+      "forks": "750",
+      "addStars": "5,172",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19245630?s=40&v=4",
@@ -478,9 +478,9 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "46,501",
+      "stars": "46,555",
       "forks": "5,704",
-      "addStars": "4,938",
+      "addStars": "4,958",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3288457?s=40&v=4",
@@ -515,9 +515,9 @@
       "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,308",
-      "forks": "3,017",
-      "addStars": "3,433",
+      "stars": "33,345",
+      "forks": "3,024",
+      "addStars": "3,440",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11807284?s=40&v=4",
@@ -552,9 +552,9 @@
       "description": "Video restoration tool",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,472",
-      "forks": "369",
-      "addStars": "2,579",
+      "stars": "4,503",
+      "forks": "372",
+      "addStars": "2,597",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/59397941?s=40&v=4",

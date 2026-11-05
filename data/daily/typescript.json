@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Wed, 04 Nov 2026 20:27:16 GMT",
+  "pubDate": "Thu, 05 Nov 2026 07:55:56 GMT",
   "items": [
     {
       "title": "thedotmack/claude-mem",
@@ -10,9 +10,9 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "112,701",
-      "forks": "9,794",
-      "addStars": "1,165",
+      "stars": "113,126",
+      "forks": "9,820",
+      "addStars": "1,172",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "139,250",
-      "forks": "20,630",
-      "addStars": "285",
+      "stars": "139,523",
+      "forks": "20,650",
+      "addStars": "290",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19957?s=40&v=4",
@@ -79,7 +79,7 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,148",
+      "stars": "3,156",
       "forks": "248",
       "addStars": "227",
       "contributors": [
@@ -111,9 +111,9 @@
       "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "42,175",
-      "forks": "4,311",
-      "addStars": "174",
+      "stars": "42,237",
+      "forks": "4,316",
+      "addStars": "166",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/52841588?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,136",
-      "forks": "1,463",
-      "addStars": "33",
+      "stars": "5,154",
+      "forks": "1,470",
+      "addStars": "30",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/119944436?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,000",
-      "forks": "1,234",
-      "addStars": "151",
+      "stars": "7,075",
+      "forks": "1,247",
+      "addStars": "158",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3090527?s=40&v=4",
@@ -217,8 +217,8 @@
       "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "91,014",
-      "forks": "9,455",
+      "stars": "91,017",
+      "forks": "9,456",
       "addStars": "23",
       "contributors": [
         {
@@ -249,9 +249,9 @@
       "description": "An open-source AI coding agent that lives in your terminal.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,007",
-      "forks": "3,313",
-      "addStars": "73",
+      "stars": "29,016",
+      "forks": "3,315",
+      "addStars": "54",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1166785?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "TypeScript-to-Native Compiler",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,496",
+      "stars": "6,501",
       "forks": "210",
-      "addStars": "11",
+      "addStars": "9",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "Self-hosted iOS & Android simulator streaming for the whole team",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,587",
+      "stars": "1,595",
       "forks": "168",
-      "addStars": "26",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/79234094?s=40&v=4",
@@ -355,9 +355,9 @@
       "description": "Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,796",
+      "stars": "22,804",
       "forks": "1,179",
-      "addStars": "45",
+      "addStars": "35",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1628250?s=40&v=4",
@@ -392,9 +392,9 @@
       "description": "基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,736",
-      "forks": "147",
-      "addStars": "237",
+      "stars": "1,821",
+      "forks": "154",
+      "addStars": "231",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10910802?s=40&v=4",
@@ -429,9 +429,9 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,600",
-      "forks": "186",
-      "addStars": "30",
+      "stars": "5,613",
+      "forks": "190",
+      "addStars": "27",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3730605?s=40&v=4",
@@ -461,9 +461,9 @@
       "description": "Email for professionals and teams",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,636",
-      "forks": "856",
-      "addStars": "81",
+      "stars": "5,659",
+      "forks": "860",
+      "addStars": "76",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8464869?s=40&v=4",
@@ -498,9 +498,9 @@
       "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,750",
-      "forks": "3,045",
-      "addStars": "946",
+      "stars": "15,954",
+      "forks": "3,087",
+      "addStars": "890",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/91890238?s=40&v=4",
