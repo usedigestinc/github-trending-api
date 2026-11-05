@@ -2,16 +2,53 @@
   "title": "GitHub Javascript Languages Weekly Trending",
   "description": "Weekly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Thu, 05 Nov 2026 07:55:56 GMT",
+  "pubDate": "Thu, 05 Nov 2026 20:41:17 GMT",
   "items": [
+    {
+      "title": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "110,575",
+      "forks": "7,429",
+      "addStars": "5,935",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
+          "name": "Leonxlnx",
+          "url": "https://github.com/Leonxlnx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122161868?s=40&v=4",
+          "name": "HugoSpy",
+          "url": "https://github.com/HugoSpy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36102904?s=40&v=4",
+          "name": "bougieL",
+          "url": "https://github.com/bougieL"
+        }
+      ]
+    },
     {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "297,432",
-      "forks": "43,974",
+      "stars": "297,785",
+      "forks": "44,034",
       "addStars": "5,811",
       "contributors": [
         {
@@ -42,8 +79,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "59,878",
-      "forks": "3,897",
+      "stars": "61,190",
+      "forks": "3,977",
       "addStars": "7,528",
       "contributors": [
         {
@@ -69,8 +106,8 @@
       "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "18,484",
-      "forks": "4,308",
+      "stars": "19,083",
+      "forks": "4,481",
       "addStars": "6,079",
       "contributors": [
         {
@@ -96,13 +133,30 @@
       ]
     },
     {
+      "title": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "40,834",
+      "forks": "5,300",
+      "addStars": "335",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/434140?s=40&v=4",
+          "name": "aaronpowell",
+          "url": "https://github.com/aaronpowell"
+        }
+      ]
+    },
+    {
       "title": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "58,589",
-      "forks": "8,586",
+      "stars": "58,708",
+      "forks": "8,594",
       "addStars": "1,466",
       "contributors": [
         {
@@ -133,30 +187,13 @@
       ]
     },
     {
-      "title": "github/awesome-copilot",
-      "url": "https://github.com/github/awesome-copilot",
-      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "40,813",
-      "forks": "5,295",
-      "addStars": "335",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/434140?s=40&v=4",
-          "name": "aaronpowell",
-          "url": "https://github.com/aaronpowell"
-        }
-      ]
-    },
-    {
       "title": "techjarves/Portable-Local-Studio",
       "url": "https://github.com/techjarves/Portable-Local-Studio",
       "description": "Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,905",
-      "forks": "462",
+      "stars": "1,916",
+      "forks": "467",
       "addStars": "291",
       "contributors": [
         {
@@ -182,8 +219,8 @@
       "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,268",
-      "forks": "493",
+      "stars": "4,347",
+      "forks": "500",
       "addStars": "2,450",
       "contributors": [
         {
@@ -214,87 +251,13 @@
       ]
     },
     {
-      "title": "juliangarnier/anime",
-      "url": "https://github.com/juliangarnier/anime",
-      "description": "JavaScript animation engine",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "74,303",
-      "forks": "5,050",
-      "addStars": "316",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1268691?s=40&v=4",
-          "name": "juliangarnier",
-          "url": "https://github.com/juliangarnier"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/59017897?s=40&v=4",
-          "name": "kn0wn",
-          "url": "https://github.com/kn0wn"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2260302?s=40&v=4",
-          "name": "Maximilianos",
-          "url": "https://github.com/Maximilianos"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5855893?s=40&v=4",
-          "name": "lukeed",
-          "url": "https://github.com/lukeed"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/404216?s=40&v=4",
-          "name": "fljot",
-          "url": "https://github.com/fljot"
-        }
-      ]
-    },
-    {
-      "title": "hmjz100/LinkSwift",
-      "url": "https://github.com/hmjz100/LinkSwift",
-      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "37,870",
-      "forks": "2,713",
-      "addStars": "3,832",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/98228280?s=40&v=4",
-          "name": "hmjz100",
-          "url": "https://github.com/hmjz100"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/62408957?s=40&v=4",
-          "name": "MisaLiu",
-          "url": "https://github.com/MisaLiu"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/99261160?s=40&v=4",
-          "name": "Night-stars-1",
-          "url": "https://github.com/Night-stars-1"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/43476643?s=40&v=4",
-          "name": "sherlocknieh",
-          "url": "https://github.com/sherlocknieh"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/46892455?s=40&v=4",
-          "name": "DeepslateQAQ",
-          "url": "https://github.com/DeepslateQAQ"
-        }
-      ]
-    },
-    {
       "title": "vercel-labs/agent-skills",
       "url": "https://github.com/vercel-labs/agent-skills",
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "33,562",
-      "forks": "2,938",
+      "stars": "33,589",
+      "forks": "2,940",
       "addStars": "412",
       "contributors": [
         {
@@ -325,19 +288,56 @@
       ]
     },
     {
-      "title": "zarazhangrui/frontend-slides",
-      "url": "https://github.com/zarazhangrui/frontend-slides",
-      "description": "Create beautiful slides on the web using a coding agent's frontend skills",
+      "title": "juliangarnier/anime",
+      "url": "https://github.com/juliangarnier/anime",
+      "description": "JavaScript animation engine",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "31,911",
-      "forks": "2,446",
-      "addStars": "423",
+      "stars": "74,323",
+      "forks": "5,056",
+      "addStars": "316",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/153693696?s=40&v=4",
-          "name": "zarazhangrui",
-          "url": "https://github.com/zarazhangrui"
+          "avatar": "https://avatars.githubusercontent.com/u/1268691?s=40&v=4",
+          "name": "juliangarnier",
+          "url": "https://github.com/juliangarnier"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/59017897?s=40&v=4",
+          "name": "kn0wn",
+          "url": "https://github.com/kn0wn"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2260302?s=40&v=4",
+          "name": "Maximilianos",
+          "url": "https://github.com/Maximilianos"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/5855893?s=40&v=4",
+          "name": "lukeed",
+          "url": "https://github.com/lukeed"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/404216?s=40&v=4",
+          "name": "fljot",
+          "url": "https://github.com/fljot"
+        }
+      ]
+    },
+    {
+      "title": "ericrisco/rsc-harness",
+      "url": "https://github.com/ericrisco/rsc-harness",
+      "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the meta-harness that gives it both, plus the trade to know the job and the reflexes to not break your repo. For Claude Code, Codex and 15 more.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "491",
+      "forks": "73",
+      "addStars": "102",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/20164590?s=40&v=4",
+          "name": "ericrisco",
+          "url": "https://github.com/ericrisco"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -345,19 +345,56 @@
           "url": "https://github.com/claude"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/10191088?s=40&v=4",
-          "name": "lilyzhng",
-          "url": "https://github.com/lilyzhng"
+          "avatar": "https://avatars.githubusercontent.com/u/38780879?s=40&v=4",
+          "name": "carloszrcom",
+          "url": "https://github.com/carloszrcom"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/114926092?s=40&v=4",
-          "name": "Vaibhavee89",
-          "url": "https://github.com/Vaibhavee89"
+          "avatar": "https://avatars.githubusercontent.com/u/92522021?s=40&v=4",
+          "name": "damiangilgonzalez1995",
+          "url": "https://github.com/damiangilgonzalez1995"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/139567284?s=40&v=4",
-          "name": "kbanc85",
-          "url": "https://github.com/kbanc85"
+          "avatar": "https://avatars.githubusercontent.com/u/121167506?s=40&v=4",
+          "name": "Swpn0neel",
+          "url": "https://github.com/Swpn0neel"
+        }
+      ]
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "185,166",
+      "forks": "10,243",
+      "addStars": "5,433",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
+          "name": "DietrichGebert",
+          "url": "https://github.com/DietrichGebert"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
+          "name": "ousamabenyounes",
+          "url": "https://github.com/ousamabenyounes"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/169168095?s=40&v=4",
+          "name": "Lakshya77089",
+          "url": "https://github.com/Lakshya77089"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/91044156?s=40&v=4",
+          "name": "dhedhialy",
+          "url": "https://github.com/dhedhialy"
         }
       ]
     }
