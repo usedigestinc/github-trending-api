@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Python Languages in GitHub</description>
-    <pubDate>Thu, 05 Nov 2026 20:41:17 GMT</pubDate>
+    <pubDate>Fri, 06 Nov 2026 07:57:06 GMT</pubDate>
     <item>
       <title>NVIDIA/auto-ontology</title>
       <link>https://github.com/NVIDIA/auto-ontology</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/NVIDIA/auto-ontology</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,083</stars>
-      <forks>559</forks>
-      <addStars>2,707</addStars>
+      <stars>7,954</stars>
+      <forks>640</forks>
+      <addStars>2,679</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/263323607?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/Usagi-org/ai-goofish-monitor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,478</stars>
-      <forks>2,938</forks>
-      <addStars>242</addStars>
+      <stars>17,979</stars>
+      <forks>2,980</forks>
+      <addStars>240</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/34468774?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>97,819</stars>
-      <forks>10,248</forks>
-      <addStars>1,661</addStars>
+      <stars>98,379</stars>
+      <forks>10,305</forks>
+      <addStars>1,655</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4</avatar>
@@ -120,9 +120,9 @@
       <guid>https://github.com/google/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,296</stars>
-      <forks>1,887</forks>
-      <addStars>199</addStars>
+      <stars>22,534</stars>
+      <forks>1,898</forks>
+      <addStars>211</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/277152880?s=40&amp;v=4</avatar>
@@ -158,9 +158,9 @@
       <guid>https://github.com/scenario-labs/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,964</stars>
-      <forks>264</forks>
-      <addStars>674</addStars>
+      <stars>3,258</stars>
+      <forks>282</forks>
+      <addStars>667</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1057302?s=40&amp;v=4</avatar>
@@ -191,9 +191,9 @@
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>55,755</stars>
-      <forks>6,273</forks>
-      <addStars>214</addStars>
+      <stars>56,256</stars>
+      <forks>6,335</forks>
+      <addStars>223</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4</avatar>
@@ -224,7 +224,7 @@
       <guid>https://github.com/NVIDIA/Model-Optimizer</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,537</stars>
+      <stars>5,544</stars>
       <forks>800</forks>
       <addStars>20</addStars>
       <contributors>
@@ -262,9 +262,9 @@
       <guid>https://github.com/github/spec-kit</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>147,815</stars>
-      <forks>13,264</forks>
-      <addStars>750</addStars>
+      <stars>148,000</stars>
+      <forks>13,287</forks>
+      <addStars>674</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/15701806?s=40&amp;v=4</avatar>
@@ -290,9 +290,9 @@
       <guid>https://github.com/derv82/wifit3</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,345</stars>
-      <forks>352</forks>
-      <addStars>200</addStars>
+      <stars>3,368</stars>
+      <forks>360</forks>
+      <addStars>206</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/993464?s=40&amp;v=4</avatar>
@@ -328,9 +328,9 @@
       <guid>https://github.com/aws/agent-toolkit-for-aws</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,410</stars>
-      <forks>432</forks>
-      <addStars>13</addStars>
+      <stars>3,416</stars>
+      <forks>435</forks>
+      <addStars>14</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10217123?s=40&amp;v=4</avatar>
@@ -366,9 +366,9 @@
       <guid>https://github.com/sandbox-quantum/switch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,933</stars>
-      <forks>278</forks>
-      <addStars>215</addStars>
+      <stars>3,985</stars>
+      <forks>284</forks>
+      <addStars>182</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -404,9 +404,9 @@
       <guid>https://github.com/google-research/timesfm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>35,238</stars>
-      <forks>3,448</forks>
-      <addStars>55</addStars>
+      <stars>35,258</stars>
+      <forks>3,455</forks>
+      <addStars>57</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8039264?s=40&amp;v=4</avatar>
@@ -436,52 +436,14 @@
       </contributors>
     </item>
     <item>
-      <title>Thysrael/Horizon</title>
-      <link>https://github.com/Thysrael/Horizon</link>
-      <description>📡 Your own AI-powered news radar. Generates daily briefings in English &amp; Chinese. | 用 AI 构建你专属的新闻雷达</description>
-      <guid>https://github.com/Thysrael/Horizon</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>12,857</stars>
-      <forks>1,844</forks>
-      <addStars>540</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/72613958?s=40&amp;v=4</avatar>
-          <name>Thysrael</name>
-          <url>https://github.com/Thysrael</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18403929?s=40&amp;v=4</avatar>
-          <name>augarov</name>
-          <url>https://github.com/augarov</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/168794572?s=40&amp;v=4</avatar>
-          <name>Kie-Chi</name>
-          <url>https://github.com/Kie-Chi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/268878418?s=40&amp;v=4</avatar>
-          <name>fa1k3</name>
-          <url>https://github.com/fa1k3</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>google-gemini/gemini-skills</title>
       <link>https://github.com/google-gemini/gemini-skills</link>
       <description>Skills for the Gemini API, SDK and model/agent interactions</description>
       <guid>https://github.com/google-gemini/gemini-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,402</stars>
-      <forks>481</forks>
+      <stars>4,409</stars>
+      <forks>483</forks>
       <addStars>12</addStars>
       <contributors>
         <contributor>
@@ -513,9 +475,9 @@
       <guid>https://github.com/blacklanternsecurity/bbot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,978</stars>
-      <forks>975</forks>
-      <addStars>25</addStars>
+      <stars>10,993</stars>
+      <forks>977</forks>
+      <addStars>26</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20261699?s=40&amp;v=4</avatar>
@@ -541,9 +503,9 @@
       <guid>https://github.com/harvard-edge/cs249r_book</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,976</stars>
-      <forks>3,713</forks>
-      <addStars>108</addStars>
+      <stars>29,986</stars>
+      <forks>3,716</forks>
+      <addStars>80</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6807956?s=40&amp;v=4</avatar>
@@ -569,9 +531,9 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>139,725</stars>
-      <forks>22,278</forks>
-      <addStars>1,056</addStars>
+      <stars>139,964</stars>
+      <forks>22,318</forks>
+      <addStars>974</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4</avatar>
@@ -607,9 +569,9 @@
       <guid>https://github.com/The-PR-Agent/pr-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,067</stars>
-      <forks>2,112</forks>
-      <addStars>506</addStars>
+      <stars>15,154</stars>
+      <forks>2,119</forks>
+      <addStars>442</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/21198860?s=40&amp;v=4</avatar>
