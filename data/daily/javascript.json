@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Fri, 06 Nov 2026 19:58:34 GMT",
+  "pubDate": "Sat, 07 Nov 2026 07:11:48 GMT",
   "items": [
     {
       "title": "react/react",
@@ -10,9 +10,9 @@
       "description": "The library for web and native user interfaces.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "252,179",
-      "forks": "51,803",
-      "addStars": "244",
+      "stars": "252,309",
+      "forks": "51,834",
+      "addStars": "248",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/63648?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "63,612",
-      "forks": "4,124",
-      "addStars": "2,524",
+      "stars": "64,463",
+      "forks": "4,183",
+      "addStars": "2,548",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "88,609",
-      "forks": "6,789",
-      "addStars": "141",
+      "stars": "88,658",
+      "forks": "6,795",
+      "addStars": "152",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1162160?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "Fast and low overhead web framework, for Node.js",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "37,369",
-      "forks": "3,047",
-      "addStars": "14",
+      "stars": "37,370",
+      "forks": "3,048",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/52195?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,627",
-      "forks": "2,627",
-      "addStars": "127",
+      "stars": "10,645",
+      "forks": "2,630",
+      "addStars": "112",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/132221547?s=40&v=4",
@@ -170,9 +170,9 @@
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "123,338",
-      "forks": "38,727",
-      "addStars": "119",
+      "stars": "123,390",
+      "forks": "38,736",
+      "addStars": "192",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/718899?s=40&v=4",
@@ -207,9 +207,9 @@
       "description": "SVG icons for popular brands",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "26,171",
+      "stars": "26,175",
       "forks": "3,187",
-      "addStars": "12",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15157491?s=40&v=4",
@@ -244,9 +244,9 @@
       "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "32,813",
-      "forks": "6,232",
-      "addStars": "381",
+      "stars": "32,859",
+      "forks": "6,240",
+      "addStars": "398",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4326215?s=40&v=4",
@@ -281,9 +281,9 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "7,787",
-      "forks": "1,001",
-      "addStars": "14",
+      "stars": "7,793",
+      "forks": "1,003",
+      "addStars": "13",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/239646192?s=40&v=4",
@@ -319,7 +319,7 @@
       "language": "JavaScript",
       "languageColor": "#f1e05a",
       "stars": "20,903",
-      "forks": "2,379",
+      "forks": "2,378",
       "addStars": "4",
       "contributors": [
         {
@@ -350,9 +350,9 @@
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "14,507",
-      "forks": "1,672",
-      "addStars": "519",
+      "stars": "14,554",
+      "forks": "1,679",
+      "addStars": "518",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30708545?s=40&v=4",
@@ -377,8 +377,8 @@
       "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "48,243",
-      "forks": "3,087",
+      "stars": "48,257",
+      "forks": "3,091",
       "addStars": "44",
       "contributors": [
         {
@@ -414,9 +414,9 @@
       "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,555",
+      "stars": "1,560",
       "forks": "181",
-      "addStars": "49",
+      "addStars": "37",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/102889891?s=40&v=4",
@@ -451,9 +451,9 @@
       "description": "Fast, unopinionated, minimalist web framework for node.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "69,575",
+      "stars": "69,576",
       "forks": "25,382",
-      "addStars": "6",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25254?s=40&v=4",
@@ -488,9 +488,9 @@
       "description": "Git. Ship. Done - Core",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "11,302",
-      "forks": "813",
-      "addStars": "35",
+      "stars": "11,312",
+      "forks": "815",
+      "addStars": "41",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4738965?s=40&v=4",
@@ -522,7 +522,7 @@
       "languageColor": "#f1e05a",
       "stars": "45,873",
       "forks": "6,211",
-      "addStars": "15",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25395?s=40&v=4",
@@ -552,9 +552,9 @@
       "description": "韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "70,198",
-      "forks": "6,979",
-      "addStars": "104",
+      "stars": "70,219",
+      "forks": "6,981",
+      "addStars": "95",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16145783?s=40&v=4",
@@ -580,38 +580,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/5085821?s=40&v=4",
           "name": "WMXPY",
           "url": "https://github.com/WMXPY"
-        }
-      ]
-    },
-    {
-      "title": "mnfst/awesome-free-llm-apis",
-      "url": "https://github.com/mnfst/awesome-free-llm-apis",
-      "description": "List of Permanent Free LLM API (API Keys)",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "12,422",
-      "forks": "1,454",
-      "addStars": "115",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/11723962?s=40&v=4",
-          "name": "SebConejo",
-          "url": "https://github.com/SebConejo"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/6626184?s=40&v=4",
-          "name": "brunobuddy",
-          "url": "https://github.com/brunobuddy"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/83706833?s=40&v=4",
-          "name": "iamoeco",
-          "url": "https://github.com/iamoeco"
         }
       ]
     }

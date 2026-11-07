@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Monthly Trending",
   "description": "Monthly Trending of Go Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Fri, 06 Nov 2026 19:58:34 GMT",
+  "pubDate": "Sat, 07 Nov 2026 07:11:48 GMT",
   "items": [
     {
       "title": "ollama/ollama",
@@ -10,9 +10,9 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "186,125",
-      "forks": "18,931",
-      "addStars": "4,853",
+      "stars": "186,189",
+      "forks": "18,943",
+      "addStars": "4,858",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2372640?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "33,526",
-      "forks": "5,239",
-      "addStars": "8,361",
+      "stars": "33,565",
+      "forks": "5,244",
+      "addStars": "8,452",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7765123?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Define and run multi-container applications with Docker",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "38,623",
+      "stars": "38,631",
       "forks": "5,902",
-      "addStars": "539",
+      "addStars": "551",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/132757?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "24,556",
-      "forks": "8,101",
-      "addStars": "266",
+      "stars": "24,561",
+      "forks": "8,105",
+      "addStars": "263",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/426437?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,416",
-      "forks": "1,162",
-      "addStars": "1,090",
+      "stars": "7,427",
+      "forks": "1,164",
+      "addStars": "1,133",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/454718?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,353",
-      "forks": "293",
-      "addStars": "1,551",
+      "stars": "3,361",
+      "forks": "295",
+      "addStars": "1,586",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "60,836",
+      "stars": "60,840",
       "forks": "5,657",
-      "addStars": "820",
+      "addStars": "816",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/536803?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "30,739",
-      "forks": "1,834",
-      "addStars": "1,037",
+      "stars": "30,750",
+      "forks": "1,833",
+      "addStars": "1,047",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7747744?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "72,309",
-      "forks": "19,314",
-      "addStars": "366",
+      "stars": "72,353",
+      "forks": "19,318",
+      "addStars": "378",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1804568?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "67,094",
-      "forks": "10,980",
-      "addStars": "1,083",
+      "stars": "67,243",
+      "forks": "10,991",
+      "addStars": "1,163",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
@@ -365,9 +365,9 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "38,723",
-      "forks": "3,432",
-      "addStars": "1,634",
+      "stars": "38,739",
+      "forks": "3,434",
+      "addStars": "1,650",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
@@ -402,9 +402,9 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "30,737",
-      "forks": "2,342",
-      "addStars": "1,088",
+      "stars": "30,747",
+      "forks": "2,343",
+      "addStars": "1,070",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15034943?s=40&v=4",
@@ -439,9 +439,9 @@
       "description": "llm-d Router: The intelligent entry point for inference requests",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "458",
-      "forks": "516",
-      "addStars": "82",
+      "stars": "460",
+      "forks": "517",
+      "addStars": "84",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13645998?s=40&v=4",
@@ -476,9 +476,9 @@
       "description": "A contract-driven gRPC regression harness for AI coding agents, with human-approved baselines. Snapshot the valid call chains of an API so an agent can look one up instead of tracing for it. gRPC today, OpenAPI next",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,388",
-      "forks": "164",
-      "addStars": "1,622",
+      "stars": "2,453",
+      "forks": "169",
+      "addStars": "1,838",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/221652879?s=40&v=4",
@@ -503,9 +503,9 @@
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "58,925",
-      "forks": "7,362",
-      "addStars": "727",
+      "stars": "58,935",
+      "forks": "7,369",
+      "addStars": "726",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81045?s=40&v=4",
@@ -540,9 +540,9 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,070",
-      "forks": "832",
-      "addStars": "843",
+      "stars": "39,084",
+      "forks": "834",
+      "addStars": "867",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&v=4",
@@ -572,9 +572,9 @@
       "description": "Self-hosted API-first AI call center: AI talks, code controls the call. AI agents answer every call; humans take over without dropping it. Runs on FreeSWITCH with your SIP trunk and realtime model (OpenAI, Grok, Qwen, Doubao, or any compatible gateway).",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "547",
+      "stars": "548",
       "forks": "103",
-      "addStars": "342",
+      "addStars": "355",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1861686?s=40&v=4",
@@ -609,9 +609,9 @@
       "description": "GitHub Agentic Workflows",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,583",
+      "stars": "5,585",
       "forks": "619",
-      "addStars": "265",
+      "addStars": "261",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4175913?s=40&v=4",
@@ -631,9 +631,9 @@
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "89,546",
-      "forks": "8,900",
-      "addStars": "530",
+      "stars": "89,593",
+      "forks": "8,911",
+      "addStars": "543",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/127379?s=40&v=4",
