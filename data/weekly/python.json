@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Weekly Trending",
   "description": "Weekly Trending of Python Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 07 Nov 2026 14:03:12 GMT",
+  "pubDate": "Sat, 07 Nov 2026 22:46:48 GMT",
   "items": [
     {
       "title": "anthropics/skills",
@@ -10,8 +10,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "188,404",
-      "forks": "22,220",
+      "stars": "188,733",
+      "forks": "22,247",
       "addStars": "3,159",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "99,116",
-      "forks": "10,382",
+      "stars": "99,302",
+      "forks": "10,395",
       "addStars": "8,372",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "78,026",
-      "forks": "10,387",
+      "stars": "78,245",
+      "forks": "10,417",
       "addStars": "4,405",
       "contributors": [
         {
@@ -121,8 +121,8 @@
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "148,324",
-      "forks": "13,329",
+      "stars": "148,409",
+      "forks": "13,335",
       "addStars": "4,202",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,376",
-      "forks": "2,134",
+      "stars": "15,441",
+      "forks": "2,139",
       "addStars": "1,523",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,159",
-      "forks": "7,796",
+      "stars": "47,233",
+      "forks": "7,809",
       "addStars": "2,984",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "65,855",
-      "forks": "5,206",
+      "stars": "65,971",
+      "forks": "5,214",
       "addStars": "2,981",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "56,229",
-      "forks": "6,875",
+      "stars": "56,347",
+      "forks": "6,884",
       "addStars": "4,588",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "A privacy-first app that strips AI watermarks from content you own.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,571",
-      "forks": "3,028",
+      "stars": "26,603",
+      "forks": "3,030",
       "addStars": "879",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "27,166",
-      "forks": "3,526",
+      "stars": "27,242",
+      "forks": "3,537",
       "addStars": "2,713",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "140,520",
-      "forks": "22,413",
+      "stars": "140,728",
+      "forks": "22,455",
       "addStars": "3,848",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,107",
-      "forks": "1,940",
+      "stars": "23,352",
+      "forks": "1,951",
       "addStars": "1,349",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "143,787",
-      "forks": "13,754",
+      "stars": "143,972",
+      "forks": "13,776",
       "addStars": "4,281",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,720",
-      "forks": "1,003",
+      "stars": "4,787",
+      "forks": "1,015",
       "addStars": "1,163",
       "contributors": [
         {
@@ -499,7 +499,7 @@
       "language": "Python",
       "languageColor": "#3572A5",
       "stars": "34,432",
-      "forks": "2,585",
+      "forks": "2,583",
       "addStars": "161",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,482",
-      "forks": "300",
+      "stars": "3,501",
+      "forks": "302",
       "addStars": "2,178",
       "contributors": [
         {
@@ -567,8 +567,8 @@
       "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "50,517",
-      "forks": "20,728",
+      "stars": "50,524",
+      "forks": "20,727",
       "addStars": "414",
       "contributors": [
         {
@@ -604,8 +604,8 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,601",
-      "forks": "773",
+      "stars": "9,754",
+      "forks": "793",
       "addStars": "8,035",
       "contributors": [
         {

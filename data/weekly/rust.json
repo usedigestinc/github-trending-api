@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 07 Nov 2026 14:03:12 GMT",
+  "pubDate": "Sat, 07 Nov 2026 22:46:48 GMT",
   "items": [
     {
       "title": "max-sixty/worktrunk",
@@ -10,8 +10,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,884",
-      "forks": "460",
+      "stars": "11,945",
+      "forks": "463",
       "addStars": "2,184",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "46,475",
-      "forks": "3,186",
+      "stars": "46,775",
+      "forks": "3,205",
       "addStars": "1,404",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "105,194",
-      "forks": "6,252",
+      "stars": "105,488",
+      "forks": "6,268",
       "addStars": "8,172",
       "contributors": [
         {
@@ -101,8 +101,8 @@
       "description": "the runtime your coding agents live on",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "48,946",
-      "forks": "3,937",
+      "stars": "49,094",
+      "forks": "3,953",
       "addStars": "1,661",
       "contributors": [
         {
@@ -133,8 +133,8 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "94,079",
-      "forks": "11,539",
+      "stars": "94,244",
+      "forks": "11,551",
       "addStars": "995",
       "contributors": [
         {
@@ -170,8 +170,8 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,884",
-      "forks": "3,576",
+      "stars": "37,937",
+      "forks": "3,581",
       "addStars": "2,677",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "50,837",
-      "forks": "2,624",
+      "stars": "50,960",
+      "forks": "2,628",
       "addStars": "369",
       "contributors": [
         {
@@ -239,8 +239,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "133,551",
-      "forks": "21,172",
+      "stars": "133,586",
+      "forks": "21,179",
       "addStars": "1,930",
       "contributors": [
         {
@@ -276,8 +276,8 @@
       "description": "A new type of shell",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "41,051",
-      "forks": "2,345",
+      "stars": "41,058",
+      "forks": "2,344",
       "addStars": "220",
       "contributors": [
         {
@@ -308,7 +308,7 @@
       "description": "A full featured, fast Command Line Argument Parser for Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,939",
+      "stars": "16,943",
       "forks": "1,308",
       "addStars": "168",
       "contributors": [
@@ -340,7 +340,7 @@
       "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,957",
+      "stars": "1,969",
       "forks": "200",
       "addStars": "922",
       "contributors": [
@@ -377,8 +377,8 @@
       "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,965",
-      "forks": "499",
+      "stars": "3,974",
+      "forks": "500",
       "addStars": "280",
       "contributors": [
         {
@@ -414,7 +414,7 @@
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,327",
+      "stars": "3,356",
       "forks": "347",
       "addStars": "931",
       "contributors": [
@@ -447,7 +447,7 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": "108,909",
-      "forks": "6,711",
+      "forks": "6,770",
       "addStars": "280",
       "contributors": [
         {
@@ -483,8 +483,8 @@
       "description": "Algorithm powering the For You feed on X",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "34,127",
-      "forks": "5,513",
+      "stars": "34,133",
+      "forks": "5,516",
       "addStars": "217",
       "contributors": [
         {
@@ -510,8 +510,8 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "70,367",
-      "forks": "3,430",
+      "stars": "70,391",
+      "forks": "3,433",
       "addStars": "438",
       "contributors": [
         {
@@ -547,8 +547,8 @@
       "description": "Feature rich, native desktop, YouTube Music client.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,874",
-      "forks": "122",
+      "stars": "1,891",
+      "forks": "124",
       "addStars": "382",
       "contributors": [
         {

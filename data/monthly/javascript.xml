@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Javascript Languages in GitHub</description>
-    <pubDate>Sat, 07 Nov 2026 14:03:12 GMT</pubDate>
+    <pubDate>Sat, 07 Nov 2026 22:46:48 GMT</pubDate>
     <item>
       <title>cloudflare/security-audit-skill</title>
       <link>https://github.com/cloudflare/security-audit-skill</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>64,969</stars>
-      <forks>4,213</forks>
+      <stars>65,606</stars>
+      <forks>4,261</forks>
       <addStars>38,004</addStars>
       <contributors>
         <contributor>
@@ -39,7 +39,7 @@
       <guid>https://github.com/mksglu/context-mode</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>33,636</stars>
+      <stars>33,649</stars>
       <forks>2,306</forks>
       <addStars>8,288</addStars>
       <contributors>
@@ -66,20 +66,20 @@
       </contributors>
     </item>
     <item>
-      <title>Leonxlnx/taste-skill</title>
-      <link>https://github.com/Leonxlnx/taste-skill</link>
-      <description>Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages</description>
-      <guid>https://github.com/Leonxlnx/taste-skill</guid>
+      <title>rorygallagher2024/glasshouse</title>
+      <link>https://github.com/rorygallagher2024/glasshouse</link>
+      <description>For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad &amp; telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control.</description>
+      <guid>https://github.com/rorygallagher2024/glasshouse</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>111,453</stars>
-      <forks>7,493</forks>
-      <addStars>18,668</addStars>
+      <stars>1,954</stars>
+      <forks>117</forks>
+      <addStars>1,501</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/219127460?s=40&amp;v=4</avatar>
-          <name>Leonxlnx</name>
-          <url>https://github.com/Leonxlnx</url>
+          <avatar>https://avatars.githubusercontent.com/u/167408991?s=40&amp;v=4</avatar>
+          <name>rorygallagher2024</name>
+          <url>https://github.com/rorygallagher2024</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -87,19 +87,19 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/199161495?s=40&amp;v=4</avatar>
-          <name>cursoragent</name>
-          <url>https://github.com/cursoragent</url>
+          <avatar>https://avatars.githubusercontent.com/u/1926905?s=40&amp;v=4</avatar>
+          <name>mdlayher</name>
+          <url>https://github.com/mdlayher</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/122161868?s=40&amp;v=4</avatar>
-          <name>HugoSpy</name>
-          <url>https://github.com/HugoSpy</url>
+          <avatar>https://avatars.githubusercontent.com/u/604332?s=40&amp;v=4</avatar>
+          <name>mkseneman</name>
+          <url>https://github.com/mkseneman</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/36102904?s=40&amp;v=4</avatar>
-          <name>bougieL</name>
-          <url>https://github.com/bougieL</url>
+          <avatar>https://avatars.githubusercontent.com/u/3795956?s=40&amp;v=4</avatar>
+          <name>Nutcasey</name>
+          <url>https://github.com/Nutcasey</url>
         </contributor>
       </contributors>
     </item>
@@ -110,8 +110,8 @@
       <guid>https://github.com/michael-denyer/pstack-claude</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>4,122</stars>
-      <forks>372</forks>
+      <stars>4,131</stars>
+      <forks>374</forks>
       <addStars>2,581</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/citrolabs/ego-lite</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>21,969</stars>
-      <forks>1,246</forks>
+      <stars>22,013</stars>
+      <forks>1,248</forks>
       <addStars>5,119</addStars>
       <contributors>
         <contributor>
@@ -186,8 +186,8 @@
       <guid>https://github.com/mrdoob/three.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>117,785</stars>
-      <forks>36,892</forks>
+      <stars>117,818</stars>
+      <forks>36,899</forks>
       <addStars>1,755</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/Minglink/dsh-infinite-gen-5</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>3,998</stars>
-      <forks>517</forks>
+      <stars>4,012</stars>
+      <forks>518</forks>
       <addStars>1,683</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/hmjz100/LinkSwift</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>38,488</stars>
-      <forks>2,776</forks>
+      <stars>38,544</stars>
+      <forks>2,777</forks>
       <addStars>17,302</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/DuarteSantos8/openGym</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>20,080</stars>
-      <forks>2,677</forks>
+      <stars>20,166</stars>
+      <forks>2,689</forks>
       <addStars>14,860</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>298,906</stars>
-      <forks>44,165</forks>
+      <stars>299,147</stars>
+      <forks>44,194</forks>
       <addStars>25,975</addStars>
       <contributors>
         <contributor>
@@ -367,7 +367,7 @@
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
       <stars>49,397</stars>
-      <forks>7,646</forks>
+      <forks>7,648</forks>
       <addStars>601</addStars>
       <contributors>
         <contributor>
@@ -404,7 +404,7 @@
       <guid>https://github.com/plugin87/ux-ui-agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>3,129</stars>
+      <stars>3,131</stars>
       <forks>301</forks>
       <addStars>1,601</addStars>
       <contributors>

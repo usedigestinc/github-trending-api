@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Rust Languages in GitHub</description>
-    <pubDate>Sat, 07 Nov 2026 14:03:12 GMT</pubDate>
+    <pubDate>Sat, 07 Nov 2026 22:46:48 GMT</pubDate>
     <item>
       <title>storytold/artcraft</title>
       <link>https://github.com/storytold/artcraft</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/storytold/artcraft</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>39,427</stars>
-      <forks>6,207</forks>
+      <stars>39,537</stars>
+      <forks>6,219</forks>
       <addStars>36,600</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>105,194</stars>
-      <forks>6,252</forks>
+      <stars>105,488</stars>
+      <forks>6,268</forks>
       <addStars>27,610</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/max-sixty/worktrunk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>11,884</stars>
-      <forks>460</forks>
+      <stars>11,945</stars>
+      <forks>463</forks>
       <addStars>2,918</addStars>
       <contributors>
         <contributor>
@@ -110,8 +110,8 @@
       <guid>https://github.com/akitaonrails/ai-memory</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>15,311</stars>
-      <forks>1,116</forks>
+      <stars>15,330</stars>
+      <forks>1,119</forks>
       <addStars>6,496</addStars>
       <contributors>
         <contributor>
@@ -148,8 +148,8 @@
       <guid>https://github.com/vercel-labs/agent-desktop</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>18,529</stars>
-      <forks>1,344</forks>
+      <stars>18,823</stars>
+      <forks>1,376</forks>
       <addStars>16,218</addStars>
       <contributors>
         <contributor>
@@ -171,8 +171,8 @@
       <guid>https://github.com/NVIDIA/OpenShell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>21,237</stars>
-      <forks>2,080</forks>
+      <stars>21,251</stars>
+      <forks>2,081</forks>
       <addStars>6,250</addStars>
       <contributors>
         <contributor>
@@ -209,8 +209,8 @@
       <guid>https://github.com/xerj-org/xerj</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>18,537</stars>
-      <forks>1,360</forks>
+      <stars>18,564</stars>
+      <forks>1,366</forks>
       <addStars>17,437</addStars>
       <contributors>
         <contributor>
@@ -247,8 +247,8 @@
       <guid>https://github.com/cjpais/Handy</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>37,884</stars>
-      <forks>3,576</forks>
+      <stars>37,937</stars>
+      <forks>3,581</forks>
       <addStars>4,897</addStars>
       <contributors>
         <contributor>
@@ -285,8 +285,8 @@
       <guid>https://github.com/jub0t/Concat</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>15,079</stars>
-      <forks>1,869</forks>
+      <stars>15,203</stars>
+      <forks>1,897</forks>
       <addStars>10,668</addStars>
       <contributors>
         <contributor>
@@ -323,7 +323,7 @@
       <guid>https://github.com/oven-sh/bun</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>96,683</stars>
+      <stars>96,694</stars>
       <forks>5,273</forks>
       <addStars>873</addStars>
       <contributors>
@@ -356,8 +356,8 @@
       <guid>https://github.com/bevyengine/bevy</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>49,595</stars>
-      <forks>5,029</forks>
+      <stars>49,606</stars>
+      <forks>5,032</forks>
       <addStars>1,050</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 07 Nov 2026 14:03:12 GMT",
+  "pubDate": "Sat, 07 Nov 2026 22:46:48 GMT",
   "items": [
     {
       "title": "cloudflare/security-audit-skill",
@@ -10,8 +10,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "64,969",
-      "forks": "4,213",
+      "stars": "65,606",
+      "forks": "4,261",
       "addStars": "2,088",
       "contributors": [
         {
@@ -37,9 +37,9 @@
       "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,657",
-      "forks": "2,631",
-      "addStars": "112",
+      "stars": "10,666",
+      "forks": "2,632",
+      "addStars": "46",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/132221547?s=40&v=4",
@@ -64,46 +64,14 @@
       ]
     },
     {
-      "title": "HunYiSage/dsh-purge",
-      "url": "https://github.com/HunYiSage/dsh-purge",
-      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "20,572",
-      "forks": "4,836",
-      "addStars": "774",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/188421097?s=40&v=4",
-          "name": "HunYiSage",
-          "url": "https://github.com/HunYiSage"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/22633385?s=40&v=4",
-          "name": "eltociear",
-          "url": "https://github.com/eltociear"
-        }
-      ]
-    },
-    {
       "title": "byoungd/up",
       "url": "https://github.com/byoungd/up",
       "description": "韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "70,237",
-      "forks": "6,980",
-      "addStars": "95",
+      "stars": "70,244",
+      "forks": "6,981",
+      "addStars": "49",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/16145783?s=40&v=4",
@@ -138,8 +106,8 @@
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "14,583",
-      "forks": "1,682",
+      "stars": "14,610",
+      "forks": "1,684",
       "addStars": "136",
       "contributors": [
         {
@@ -165,9 +133,9 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "88,658",
+      "stars": "88,664",
       "forks": "6,797",
-      "addStars": "152",
+      "addStars": "97",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1162160?s=40&v=4",
@@ -197,9 +165,9 @@
       "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "32,902",
-      "forks": "6,249",
-      "addStars": "398",
+      "stars": "33,014",
+      "forks": "6,265",
+      "addStars": "141",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4326215?s=40&v=4",
@@ -234,8 +202,8 @@
       "description": "WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "2,787",
-      "forks": "305",
+      "stars": "2,796",
+      "forks": "307",
       "addStars": "30",
       "contributors": [
         {
@@ -271,7 +239,7 @@
       "description": "The engineering kit for Grok Bot templates. Spec, Bot Ready score, teams, skills, routines, and a catalog you can paste into Grok Bot today.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "103",
+      "stars": "106",
       "forks": "23",
       "addStars": "5",
       "contributors": [
@@ -288,8 +256,8 @@
       "description": "The library for web and native user interfaces.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "252,350",
-      "forks": "51,877",
+      "stars": "252,365",
+      "forks": "51,936",
       "addStars": "374",
       "contributors": [
         {

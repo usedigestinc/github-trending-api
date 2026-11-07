@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Rust Languages in GitHub</description>
-    <pubDate>Sat, 07 Nov 2026 14:03:12 GMT</pubDate>
+    <pubDate>Sat, 07 Nov 2026 22:46:48 GMT</pubDate>
     <item>
       <title>max-sixty/worktrunk</title>
       <link>https://github.com/max-sixty/worktrunk</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/max-sixty/worktrunk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>11,884</stars>
-      <forks>460</forks>
+      <stars>11,945</stars>
+      <forks>463</forks>
       <addStars>2,184</addStars>
       <contributors>
         <contributor>
@@ -39,8 +39,8 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>46,475</stars>
-      <forks>3,186</forks>
+      <stars>46,775</stars>
+      <forks>3,205</forks>
       <addStars>1,404</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>105,194</stars>
-      <forks>6,252</forks>
+      <stars>105,488</stars>
+      <forks>6,268</forks>
       <addStars>8,172</addStars>
       <contributors>
         <contributor>
@@ -105,8 +105,8 @@
       <guid>https://github.com/herdrdev/herdr</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>48,946</stars>
-      <forks>3,937</forks>
+      <stars>49,094</stars>
+      <forks>3,953</forks>
       <addStars>1,661</addStars>
       <contributors>
         <contributor>
@@ -138,8 +138,8 @@
       <guid>https://github.com/zed-industries/zed</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>94,079</stars>
-      <forks>11,539</forks>
+      <stars>94,244</stars>
+      <forks>11,551</forks>
       <addStars>995</addStars>
       <contributors>
         <contributor>
@@ -176,8 +176,8 @@
       <guid>https://github.com/cjpais/Handy</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>37,884</stars>
-      <forks>3,576</forks>
+      <stars>37,937</stars>
+      <forks>3,581</forks>
       <addStars>2,677</addStars>
       <contributors>
         <contributor>
@@ -214,8 +214,8 @@
       <guid>https://github.com/astral-sh/ruff</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>50,837</stars>
-      <forks>2,624</forks>
+      <stars>50,960</stars>
+      <forks>2,628</forks>
       <addStars>369</addStars>
       <contributors>
         <contributor>
@@ -247,8 +247,8 @@
       <guid>https://github.com/openai/codex</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>133,551</stars>
-      <forks>21,172</forks>
+      <stars>133,586</stars>
+      <forks>21,179</forks>
       <addStars>1,930</addStars>
       <contributors>
         <contributor>
@@ -285,8 +285,8 @@
       <guid>https://github.com/nushell/nushell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>41,051</stars>
-      <forks>2,345</forks>
+      <stars>41,058</stars>
+      <forks>2,344</forks>
       <addStars>220</addStars>
       <contributors>
         <contributor>
@@ -318,7 +318,7 @@
       <guid>https://github.com/clap-rs/clap</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>16,939</stars>
+      <stars>16,943</stars>
       <forks>1,308</forks>
       <addStars>168</addStars>
       <contributors>
@@ -351,7 +351,7 @@
       <guid>https://github.com/leepokai/Codync</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,957</stars>
+      <stars>1,969</stars>
       <forks>200</forks>
       <addStars>922</addStars>
       <contributors>
@@ -389,8 +389,8 @@
       <guid>https://github.com/Mesh-LLM/mesh-llm</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,965</stars>
-      <forks>499</forks>
+      <stars>3,974</stars>
+      <forks>500</forks>
       <addStars>280</addStars>
       <contributors>
         <contributor>
@@ -427,7 +427,7 @@
       <guid>https://github.com/crmne/zapfast</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,327</stars>
+      <stars>3,356</stars>
       <forks>347</forks>
       <addStars>931</addStars>
       <contributors>
@@ -461,7 +461,7 @@
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
       <stars>108,909</stars>
-      <forks>6,711</forks>
+      <forks>6,770</forks>
       <addStars>280</addStars>
       <contributors>
         <contributor>
@@ -498,8 +498,8 @@
       <guid>https://github.com/xai-org/x-algorithm</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>34,127</stars>
-      <forks>5,513</forks>
+      <stars>34,133</stars>
+      <forks>5,516</forks>
       <addStars>217</addStars>
       <contributors>
         <contributor>
@@ -526,8 +526,8 @@
       <guid>https://github.com/dani-garcia/vaultwarden</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>70,367</stars>
-      <forks>3,430</forks>
+      <stars>70,391</stars>
+      <forks>3,433</forks>
       <addStars>438</addStars>
       <contributors>
         <contributor>
@@ -564,8 +564,8 @@
       <guid>https://github.com/SimoHypers/limusic</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,874</stars>
-      <forks>122</forks>
+      <stars>1,891</stars>
+      <forks>124</forks>
       <addStars>382</addStars>
       <contributors>
         <contributor>
