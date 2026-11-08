@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sun, 08 Nov 2026 18:22:15 GMT",
+  "pubDate": "Sun, 08 Nov 2026 22:54:21 GMT",
   "items": [
     {
       "title": "milind-soni/OpenMausBot",
@@ -10,8 +10,8 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,005",
-      "forks": "2,513",
+      "stars": "18,167",
+      "forks": "2,531",
       "addStars": "1,437",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,016",
-      "forks": "1,282",
+      "stars": "16,527",
+      "forks": "1,311",
       "addStars": "863",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,021",
-      "forks": "401",
+      "stars": "5,096",
+      "forks": "404",
       "addStars": "460",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,139",
+      "stars": "10,135",
       "forks": "816",
       "addStars": "1,307",
       "contributors": [
@@ -143,8 +143,8 @@
       "description": "Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "20,572",
-      "forks": "3,461",
+      "stars": "20,578",
+      "forks": "3,462",
       "addStars": "92",
       "contributors": [
         {
@@ -180,7 +180,7 @@
       "description": "A utility-first CSS framework for rapid UI development.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "98,647",
+      "stars": "98,649",
       "forks": "7,119",
       "addStars": "465",
       "contributors": [
@@ -212,8 +212,8 @@
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,538",
-      "forks": "1,347",
+      "stars": "7,556",
+      "forks": "1,351",
       "addStars": "117",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,099",
-      "forks": "1,440",
+      "stars": "16,103",
+      "forks": "1,441",
       "addStars": "35",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,457",
-      "forks": "154",
+      "stars": "1,474",
+      "forks": "155",
       "addStars": "85",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,162",
-      "forks": "2,101",
+      "stars": "22,164",
+      "forks": "2,103",
       "addStars": "17",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "The Generative UI framework",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,443",
-      "forks": "1,029",
+      "stars": "19,454",
+      "forks": "1,030",
       "addStars": "202",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "84,413",
-      "forks": "16,146",
+      "stars": "84,423",
+      "forks": "16,148",
       "addStars": "92",
       "contributors": [
         {
@@ -424,7 +424,7 @@
       "description": "Unified research workspace for humans & agents — PDF Q&A with citations, Vault, writing. 为人与 Agent 协作的科研工作台；补齐 Zotero 时代的人机上下文断点。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,993",
+      "stars": "2,000",
       "forks": "128",
       "addStars": "175",
       "contributors": [
@@ -461,8 +461,8 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,350",
-      "forks": "2,656",
+      "stars": "21,356",
+      "forks": "2,657",
       "addStars": "90",
       "contributors": [
         {
@@ -493,7 +493,7 @@
       "description": "Describe what you need — a presentation, lesson, or story — and let the AI build clean, beautiful HTML slides for you. Local-first. Works offline. Works for you.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,457",
+      "stars": "2,458",
       "forks": "241",
       "addStars": "91",
       "contributors": [
@@ -530,8 +530,8 @@
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,047",
-      "forks": "2,037",
+      "stars": "27,048",
+      "forks": "2,038",
       "addStars": "26",
       "contributors": [
         {

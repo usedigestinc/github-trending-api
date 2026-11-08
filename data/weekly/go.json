@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Weekly Trending",
   "description": "Weekly Trending of Go Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sun, 08 Nov 2026 18:22:15 GMT",
+  "pubDate": "Sun, 08 Nov 2026 22:54:21 GMT",
   "items": [
     {
       "title": "moby/moby",
@@ -10,7 +10,7 @@
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "72,361",
+      "stars": "72,362",
       "forks": "19,321",
       "addStars": "285",
       "contributors": [
@@ -47,7 +47,7 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "67,553",
+      "stars": "67,565",
       "forks": "11,011",
       "addStars": "644",
       "contributors": [
@@ -79,8 +79,8 @@
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "55,296",
-      "forks": "7,289",
+      "stars": "55,306",
+      "forks": "7,288",
       "addStars": "836",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "58,964",
-      "forks": "7,376",
+      "stars": "58,969",
+      "forks": "7,378",
       "addStars": "189",
       "contributors": [
         {
@@ -153,7 +153,7 @@
       "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "89,603",
+      "stars": "89,604",
       "forks": "8,913",
       "addStars": "274",
       "contributors": [
@@ -185,7 +185,7 @@
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "52,672",
+      "stars": "52,673",
       "forks": "10,594",
       "addStars": "352",
       "contributors": [
@@ -222,8 +222,8 @@
       "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "24,567",
-      "forks": "8,112",
+      "stars": "24,566",
+      "forks": "8,113",
       "addStars": "66",
       "contributors": [
         {
@@ -255,7 +255,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "7,162",
-      "forks": "1,127",
+      "forks": "1,128",
       "addStars": "73",
       "contributors": [
         {
@@ -291,7 +291,7 @@
       "description": "OpenChoreo is an internal developer platform for Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "1,843",
+      "stars": "1,846",
       "forks": "283",
       "addStars": "104",
       "contributors": [
@@ -323,8 +323,8 @@
       "description": "Run your GitHub Actions locally 🚀",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "72,590",
-      "forks": "2,115",
+      "stars": "72,593",
+      "forks": "2,116",
       "addStars": "122",
       "contributors": [
         {
@@ -351,7 +351,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "60,868",
-      "forks": "5,663",
+      "forks": "5,664",
       "addStars": "209",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "93,776",
-      "forks": "11,259",
+      "stars": "93,779",
+      "forks": "11,260",
       "addStars": "527",
       "contributors": [
         {
@@ -424,8 +424,8 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "28,595",
-      "forks": "1,939",
+      "stars": "28,598",
+      "forks": "1,938",
       "addStars": "268",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "The Go programming language",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "139,787",
-      "forks": "20,998",
+      "stars": "139,797",
+      "forks": "20,999",
       "addStars": "629",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "46,922",
-      "forks": "9,265",
+      "stars": "46,923",
+      "forks": "9,266",
       "addStars": "110",
       "contributors": [
         {
@@ -535,8 +535,8 @@
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "30,795",
-      "forks": "1,842",
+      "stars": "30,801",
+      "forks": "1,843",
       "addStars": "396",
       "contributors": [
         {
@@ -572,8 +572,8 @@
       "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "128,926",
-      "forks": "45,752",
+      "stars": "128,936",
+      "forks": "45,754",
       "addStars": "669",
       "contributors": [
         {
@@ -609,8 +609,8 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "118,313",
-      "forks": "6,886",
+      "stars": "118,359",
+      "forks": "6,890",
       "addStars": "1,793",
       "contributors": [
         {
@@ -641,7 +641,7 @@
       "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "111,862",
+      "stars": "111,859",
       "forks": "15,396",
       "addStars": "331",
       "contributors": [
@@ -678,7 +678,7 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,121",
+      "stars": "39,130",
       "forks": "838",
       "addStars": "234",
       "contributors": [

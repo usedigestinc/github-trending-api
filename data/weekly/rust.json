@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sun, 08 Nov 2026 18:22:15 GMT",
+  "pubDate": "Sun, 08 Nov 2026 22:54:21 GMT",
   "items": [
     {
       "title": "max-sixty/worktrunk",
@@ -10,8 +10,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,086",
-      "forks": "466",
+      "stars": "12,109",
+      "forks": "467",
       "addStars": "2,292",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "47,427",
-      "forks": "3,251",
+      "stars": "47,538",
+      "forks": "3,256",
       "addStars": "1,476",
       "contributors": [
         {
@@ -69,8 +69,8 @@
       "description": "the runtime your coding agents live on",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "49,351",
-      "forks": "3,985",
+      "stars": "49,417",
+      "forks": "3,986",
       "addStars": "1,963",
       "contributors": [
         {
@@ -101,8 +101,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "106,049",
-      "forks": "6,303",
+      "stars": "106,168",
+      "forks": "6,309",
       "addStars": "7,623",
       "contributors": [
         {
@@ -133,8 +133,8 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "94,459",
-      "forks": "11,566",
+      "stars": "94,471",
+      "forks": "11,575",
       "addStars": "1,867",
       "contributors": [
         {
@@ -170,8 +170,8 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,096",
-      "forks": "2,638",
+      "stars": "51,115",
+      "forks": "2,637",
       "addStars": "625",
       "contributors": [
         {
@@ -202,8 +202,8 @@
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "19,516",
-      "forks": "1,443",
+      "stars": "19,605",
+      "forks": "1,454",
       "addStars": "13,858",
       "contributors": [
         {
@@ -224,8 +224,8 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "38,039",
-      "forks": "3,585",
+      "stars": "38,059",
+      "forks": "3,587",
       "addStars": "2,169",
       "contributors": [
         {
@@ -261,8 +261,8 @@
       "description": "A new type of shell",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "41,057",
-      "forks": "2,345",
+      "stars": "41,061",
+      "forks": "2,346",
       "addStars": "435",
       "contributors": [
         {
@@ -293,7 +293,7 @@
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,036",
+      "stars": "6,039",
       "forks": "1,068",
       "addStars": "191",
       "contributors": [
@@ -357,8 +357,8 @@
       "description": "A modern runtime for JavaScript and TypeScript.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "108,916",
-      "forks": "6,811",
+      "stars": "108,923",
+      "forks": "6,843",
       "addStars": "345",
       "contributors": [
         {
@@ -394,7 +394,7 @@
       "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,985",
+      "stars": "3,992",
       "forks": "502",
       "addStars": "277",
       "contributors": [
@@ -431,7 +431,7 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "70,439",
+      "stars": "70,443",
       "forks": "3,438",
       "addStars": "436",
       "contributors": [
@@ -468,7 +468,7 @@
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,571",
+      "stars": "3,595",
       "forks": "356",
       "addStars": "1,018",
       "contributors": [
@@ -500,8 +500,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "133,773",
-      "forks": "21,200",
+      "stars": "133,809",
+      "forks": "21,201",
       "addStars": "1,298",
       "contributors": [
         {
@@ -537,7 +537,7 @@
       "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,993",
+      "stars": "1,997",
       "forks": "203",
       "addStars": "811",
       "contributors": [
