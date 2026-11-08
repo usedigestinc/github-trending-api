@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 07 Nov 2026 22:46:48 GMT",
+  "pubDate": "Sun, 08 Nov 2026 07:21:36 GMT",
   "items": [
     {
       "title": "meta/astryx",
@@ -10,9 +10,9 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,439",
-      "forks": "1,179",
-      "addStars": "185",
+      "stars": "14,784",
+      "forks": "1,211",
+      "addStars": "96",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "16,897",
-      "forks": "2,392",
-      "addStars": "1,986",
+      "stars": "17,345",
+      "forks": "2,443",
+      "addStars": "1,955",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "A utility-first CSS framework for rapid UI development.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "98,435",
-      "forks": "7,103",
-      "addStars": "181",
+      "stars": "98,581",
+      "forks": "7,119",
+      "addStars": "122",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4323180?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,578",
-      "forks": "366",
-      "addStars": "185",
+      "stars": "4,738",
+      "forks": "379",
+      "addStars": "191",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "企业级 AI 办公工作台",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,091",
-      "forks": "767",
-      "addStars": "22",
+      "stars": "5,093",
+      "forks": "766",
+      "addStars": "23",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/170864681?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,929",
-      "forks": "1,058",
-      "addStars": "99",
+      "stars": "5,938",
+      "forks": "1,059",
+      "addStars": "51",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2102737?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "Open-source feature management platform",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,174",
+      "stars": "14,202",
       "forks": "929",
-      "addStars": "180",
+      "addStars": "183",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/17786332?s=40&v=4",
@@ -244,9 +244,9 @@
       "description": "Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "118,554",
-      "forks": "7,526",
-      "addStars": "917",
+      "stars": "118,774",
+      "forks": "7,541",
+      "addStars": "931",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4138956?s=40&v=4",
@@ -281,9 +281,9 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "140,653",
-      "forks": "20,761",
-      "addStars": "292",
+      "stars": "140,693",
+      "forks": "20,773",
+      "addStars": "280",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19957?s=40&v=4",
@@ -313,9 +313,9 @@
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,972",
-      "forks": "1,447",
-      "addStars": "39",
+      "stars": "6,981",
+      "forks": "1,446",
+      "addStars": "38",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1159087?s=40&v=4",
@@ -350,9 +350,9 @@
       "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "84,334",
-      "forks": "16,130",
-      "addStars": "103",
+      "stars": "84,362",
+      "forks": "16,136",
+      "addStars": "98",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28616219?s=40&v=4",
@@ -382,9 +382,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "154,910",
-      "forks": "25,599",
-      "addStars": "122",
+      "stars": "154,936",
+      "forks": "25,606",
+      "addStars": "129",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/65916846?s=40&v=4",
@@ -419,9 +419,9 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "85,441",
-      "forks": "12,914",
-      "addStars": "325",
+      "stars": "85,513",
+      "forks": "12,935",
+      "addStars": "322",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8016841?s=40&v=4",
@@ -456,9 +456,9 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "440,877",
-      "forks": "109,090",
-      "addStars": "3,308",
+      "stars": "441,709",
+      "forks": "109,259",
+      "addStars": "3,286",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
@@ -494,8 +494,8 @@
       "language": "TypeScript",
       "languageColor": "#3178c6",
       "stars": "101,466",
-      "forks": "28,922",
-      "addStars": "358",
+      "forks": "28,928",
+      "addStars": "305",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8604205?s=40&v=4",
@@ -530,9 +530,9 @@
       "description": "Your Personal Librarian Agent. Ask anything on your computer, organize files, remember important info and files.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,401",
+      "stars": "5,406",
       "forks": "486",
-      "addStars": "40",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28955029?s=40&v=4",
@@ -562,9 +562,9 @@
       "description": "Visual Studio Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "195,140",
-      "forks": "44,438",
-      "addStars": "432",
+      "stars": "195,161",
+      "forks": "44,443",
+      "addStars": "325",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/900690?s=40&v=4",
@@ -599,9 +599,9 @@
       "description": "Action for checking out a repo",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,007",
-      "forks": "2,746",
-      "addStars": "6",
+      "stars": "9,009",
+      "forks": "2,745",
+      "addStars": "4",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12102068?s=40&v=4",
@@ -631,9 +631,9 @@
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "74,230",
-      "forks": "5,093",
-      "addStars": "92",
+      "stars": "74,243",
+      "forks": "5,094",
+      "addStars": "82",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30385142?s=40&v=4",

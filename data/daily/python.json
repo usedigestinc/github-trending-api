@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 07 Nov 2026 22:46:48 GMT",
+  "pubDate": "Sun, 08 Nov 2026 07:21:36 GMT",
   "items": [
     {
       "title": "google/skills",
@@ -10,9 +10,9 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,352",
-      "forks": "1,951",
-      "addStars": "449",
+      "stars": "23,537",
+      "forks": "1,967",
+      "addStars": "443",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "188,733",
-      "forks": "22,247",
-      "addStars": "386",
+      "stars": "188,963",
+      "forks": "22,274",
+      "addStars": "390",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "100,347",
-      "forks": "11,858",
-      "addStars": "1,819",
+      "stars": "101,155",
+      "forks": "11,955",
+      "addStars": "1,766",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,038",
-      "forks": "111",
-      "addStars": "184",
+      "stars": "1,104",
+      "forks": "114",
+      "addStars": "186",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8651166?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "56,684",
-      "forks": "6,381",
-      "addStars": "237",
+      "stars": "56,728",
+      "forks": "6,388",
+      "addStars": "245",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20237658?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "OBLITERATE THE CHAINS THAT BIND YOU",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,282",
-      "forks": "1,648",
-      "addStars": "61",
+      "stars": "9,292",
+      "forks": "1,649",
+      "addStars": "57",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1159087?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,731",
-      "forks": "2,313",
-      "addStars": "75",
+      "stars": "26,743",
+      "forks": "2,314",
+      "addStars": "59",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42355410?s=40&v=4",
@@ -264,9 +264,9 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "59,986",
-      "forks": "7,530",
-      "addStars": "318",
+      "stars": "60,031",
+      "forks": "7,538",
+      "addStars": "378",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/32987599?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "The Web framework for perfectionists with deadlines.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "91,684",
+      "stars": "91,688",
       "forks": "35,969",
-      "addStars": "93",
+      "addStars": "99",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/411869?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "📚 Freely available programming books",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "401,218",
-      "forks": "67,358",
-      "addStars": "179",
+      "stars": "401,237",
+      "forks": "67,376",
+      "addStars": "165",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2022803?s=40&v=4",
@@ -370,9 +370,9 @@
       "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "377,259",
-      "forks": "59,211",
-      "addStars": "185",
+      "stars": "377,286",
+      "forks": "59,220",
+      "addStars": "192",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5458997?s=40&v=4",
@@ -407,8 +407,8 @@
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,426",
-      "forks": "440",
+      "stars": "3,431",
+      "forks": "441",
       "addStars": "8",
       "contributors": [
         {
@@ -444,9 +444,9 @@
       "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,313",
-      "forks": "3,018",
-      "addStars": "146",
+      "stars": "18,348",
+      "forks": "3,026",
+      "addStars": "144",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34468774?s=40&v=4",
@@ -476,9 +476,9 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,754",
-      "forks": "793",
-      "addStars": "1,322",
+      "stars": "9,872",
+      "forks": "806",
+      "addStars": "1,155",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/263323607?s=40&v=4",
@@ -513,9 +513,9 @@
       "description": "A list of open source games.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,819",
-      "forks": "1,638",
-      "addStars": "121",
+      "stars": "17,839",
+      "forks": "1,641",
+      "addStars": "143",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/675506?s=40&v=4",

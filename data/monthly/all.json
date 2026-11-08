@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 07 Nov 2026 22:46:48 GMT",
+  "pubDate": "Sun, 08 Nov 2026 07:21:36 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,9 +10,9 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "440,877",
-      "forks": "109,090",
-      "addStars": "431,436",
+      "stars": "441,709",
+      "forks": "109,259",
+      "addStars": "429,845",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "50,222",
-      "forks": "2,666",
-      "addStars": "19,792",
+      "stars": "50,435",
+      "forks": "2,675",
+      "addStars": "20,523",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "39,537",
-      "forks": "6,219",
-      "addStars": "36,600",
+      "stars": "39,646",
+      "forks": "6,231",
+      "addStars": "35,633",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "65,606",
-      "forks": "4,261",
-      "addStars": "38,004",
+      "stars": "66,069",
+      "forks": "4,298",
+      "addStars": "39,571",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "52,035",
-      "forks": "4,953",
-      "addStars": "46,561",
+      "stars": "52,127",
+      "forks": "4,965",
+      "addStars": "43,690",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "103,813",
-      "forks": "11,538",
-      "addStars": "49,078",
+      "stars": "104,148",
+      "forks": "11,581",
+      "addStars": "49,671",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "80,549",
-      "forks": "7,428",
-      "addStars": "22,718",
+      "stars": "80,692",
+      "forks": "7,449",
+      "addStars": "22,531",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "51,167",
-      "forks": "9,870",
-      "addStars": "23,406",
+      "stars": "51,544",
+      "forks": "9,911",
+      "addStars": "24,785",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "114,439",
-      "forks": "9,925",
-      "addStars": "17,612",
+      "stars": "114,608",
+      "forks": "9,942",
+      "addStars": "17,493",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "105,488",
-      "forks": "6,268",
-      "addStars": "27,610",
+      "stars": "105,724",
+      "forks": "6,285",
+      "addStars": "27,680",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",

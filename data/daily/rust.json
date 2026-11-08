@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 07 Nov 2026 22:46:48 GMT",
+  "pubDate": "Sun, 08 Nov 2026 07:21:36 GMT",
   "items": [
     {
       "title": "vercel-labs/agent-browser",
@@ -10,9 +10,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "46,775",
-      "forks": "3,205",
-      "addStars": "180",
+      "stars": "47,036",
+      "forks": "3,223",
+      "addStars": "190",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -42,8 +42,8 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "50,960",
-      "forks": "2,628",
+      "stars": "51,037",
+      "forks": "2,634",
       "addStars": "350",
       "contributors": [
         {
@@ -74,9 +74,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "94,244",
-      "forks": "11,551",
-      "addStars": "1,119",
+      "stars": "94,365",
+      "forks": "11,558",
+      "addStars": "1,114",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "24,600",
-      "forks": "2,284",
-      "addStars": "82",
+      "stars": "24,621",
+      "forks": "2,286",
+      "addStars": "77",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33632126?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "19,821",
-      "forks": "1,219",
-      "addStars": "217",
+      "stars": "19,873",
+      "forks": "1,221",
+      "addStars": "178",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5518?s=40&v=4",
@@ -185,8 +185,8 @@
       "description": "The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,783",
-      "forks": "310",
+      "stars": "6,795",
+      "forks": "311",
       "addStars": "27",
       "contributors": [
         {
@@ -222,9 +222,9 @@
       "description": "A simple, fast and user-friendly alternative to 'find'",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "45,113",
-      "forks": "1,304",
-      "addStars": "106",
+      "stars": "45,115",
+      "forks": "1,303",
+      "addStars": "105",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4209276?s=40&v=4",
@@ -254,8 +254,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,945",
-      "forks": "463",
+      "stars": "11,985",
+      "forks": "464",
       "addStars": "147",
       "contributors": [
         {
@@ -281,9 +281,9 @@
       "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "69,880",
+      "stars": "69,887",
       "forks": "4,192",
-      "addStars": "136",
+      "addStars": "93",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/456674?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "91,741",
-      "forks": "3,777",
-      "addStars": "133",
+      "stars": "91,753",
+      "forks": "3,776",
+      "addStars": "103",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
@@ -345,9 +345,9 @@
       "description": "Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "18,458",
-      "forks": "1,143",
-      "addStars": "19",
+      "stars": "18,465",
+      "forks": "1,144",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/275584?s=40&v=4",
@@ -377,9 +377,9 @@
       "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "33,718",
+      "stars": "33,720",
       "forks": "4,509",
-      "addStars": "107",
+      "addStars": "109",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33116358?s=40&v=4",
@@ -414,9 +414,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "128,558",
-      "forks": "20,427",
-      "addStars": "116",
+      "stars": "128,597",
+      "forks": "20,437",
+      "addStars": "128",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
@@ -451,9 +451,9 @@
       "description": "Serialization framework for Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,056",
+      "stars": "11,059",
       "forks": "991",
-      "addStars": "102",
+      "addStars": "77",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1940490?s=40&v=4",
@@ -488,8 +488,8 @@
       "description": "A modern runtime for JavaScript and TypeScript.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "108,909",
-      "forks": "6,770",
+      "stars": "108,915",
+      "forks": "6,791",
       "addStars": "84",
       "contributors": [
         {
@@ -525,9 +525,9 @@
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "121,604",
-      "forks": "17,375",
-      "addStars": "463",
+      "stars": "121,609",
+      "forks": "17,378",
+      "addStars": "346",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3372342?s=40&v=4",
@@ -562,7 +562,7 @@
       "description": "A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,504",
+      "stars": "12,507",
       "forks": "364",
       "addStars": "101",
       "contributors": [

@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Python Languages in GitHub</description>
-    <pubDate>Sat, 07 Nov 2026 22:46:48 GMT</pubDate>
+    <pubDate>Sun, 08 Nov 2026 07:21:36 GMT</pubDate>
     <item>
       <title>google/skills</title>
       <link>https://github.com/google/skills</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/google/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,352</stars>
-      <forks>1,951</forks>
-      <addStars>449</addStars>
+      <stars>23,537</stars>
+      <forks>1,967</forks>
+      <addStars>443</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/277152880?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>188,733</stars>
-      <forks>22,247</forks>
-      <addStars>386</addStars>
+      <stars>188,963</stars>
+      <forks>22,274</forks>
+      <addStars>390</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>100,347</stars>
-      <forks>11,858</forks>
-      <addStars>1,819</addStars>
+      <stars>101,155</stars>
+      <forks>11,955</forks>
+      <addStars>1,766</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/27065646?s=40&amp;v=4</avatar>
@@ -125,9 +125,9 @@
       <guid>https://github.com/mbillow/localthings</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>1,038</stars>
-      <forks>111</forks>
-      <addStars>184</addStars>
+      <stars>1,104</stars>
+      <forks>114</forks>
+      <addStars>186</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8651166?s=40&amp;v=4</avatar>
@@ -163,9 +163,9 @@
       <guid>https://github.com/microsoft/VibeVoice</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>56,684</stars>
-      <forks>6,381</forks>
-      <addStars>237</addStars>
+      <stars>56,728</stars>
+      <forks>6,388</forks>
+      <addStars>245</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20237658?s=40&amp;v=4</avatar>
@@ -196,9 +196,9 @@
       <guid>https://github.com/elder-plinius/OBLITERATUS</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,282</stars>
-      <forks>1,648</forks>
-      <addStars>61</addStars>
+      <stars>9,292</stars>
+      <forks>1,649</forks>
+      <addStars>57</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1159087?s=40&amp;v=4</avatar>
@@ -234,9 +234,9 @@
       <guid>https://github.com/spotDL/spotify-downloader</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,731</stars>
-      <forks>2,313</forks>
-      <addStars>75</addStars>
+      <stars>26,743</stars>
+      <forks>2,314</forks>
+      <addStars>59</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/42355410?s=40&amp;v=4</avatar>
@@ -272,9 +272,9 @@
       <guid>https://github.com/jamiepine/voicebox</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>59,986</stars>
-      <forks>7,530</forks>
-      <addStars>318</addStars>
+      <stars>60,031</stars>
+      <forks>7,538</forks>
+      <addStars>378</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/32987599?s=40&amp;v=4</avatar>
@@ -305,9 +305,9 @@
       <guid>https://github.com/django/django</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>91,684</stars>
+      <stars>91,688</stars>
       <forks>35,969</forks>
-      <addStars>93</addStars>
+      <addStars>99</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/411869?s=40&amp;v=4</avatar>
@@ -343,9 +343,9 @@
       <guid>https://github.com/EbookFoundation/free-programming-books</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>401,218</stars>
-      <forks>67,358</forks>
-      <addStars>179</addStars>
+      <stars>401,237</stars>
+      <forks>67,376</forks>
+      <addStars>165</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2022803?s=40&amp;v=4</avatar>
@@ -381,9 +381,9 @@
       <guid>https://github.com/donnemartin/system-design-primer</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>377,259</stars>
-      <forks>59,211</forks>
-      <addStars>185</addStars>
+      <stars>377,286</stars>
+      <forks>59,220</forks>
+      <addStars>192</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5458997?s=40&amp;v=4</avatar>
@@ -419,8 +419,8 @@
       <guid>https://github.com/aws/agent-toolkit-for-aws</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,426</stars>
-      <forks>440</forks>
+      <stars>3,431</stars>
+      <forks>441</forks>
       <addStars>8</addStars>
       <contributors>
         <contributor>
@@ -457,9 +457,9 @@
       <guid>https://github.com/Usagi-org/ai-goofish-monitor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>18,313</stars>
-      <forks>3,018</forks>
-      <addStars>146</addStars>
+      <stars>18,348</stars>
+      <forks>3,026</forks>
+      <addStars>144</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/34468774?s=40&amp;v=4</avatar>
@@ -490,9 +490,9 @@
       <guid>https://github.com/NVIDIA/auto-ontology</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,754</stars>
-      <forks>793</forks>
-      <addStars>1,322</addStars>
+      <stars>9,872</stars>
+      <forks>806</forks>
+      <addStars>1,155</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/263323607?s=40&amp;v=4</avatar>
@@ -528,9 +528,9 @@
       <guid>https://github.com/bobeff/open-source-games</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,819</stars>
-      <forks>1,638</forks>
-      <addStars>121</addStars>
+      <stars>17,839</stars>
+      <forks>1,641</forks>
+      <addStars>143</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/675506?s=40&amp;v=4</avatar>
