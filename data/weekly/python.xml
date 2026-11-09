@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Python Languages in GitHub</description>
-    <pubDate>Sun, 08 Nov 2026 22:54:21 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 23:00:18 GMT</pubDate>
     <item>
       <title>NVIDIA/auto-ontology</title>
       <link>https://github.com/NVIDIA/auto-ontology</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/NVIDIA/auto-ontology</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,333</stars>
-      <forks>835</forks>
-      <addStars>9,044</addStars>
+      <stars>11,000</stars>
+      <forks>898</forks>
+      <addStars>9,327</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/263323607?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>189,565</stars>
-      <forks>22,341</forks>
-      <addStars>2,796</addStars>
+      <stars>190,882</stars>
+      <forks>22,437</forks>
+      <addStars>3,169</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>99,838</stars>
-      <forks>10,438</forks>
-      <addStars>8,712</addStars>
+      <stars>100,520</stars>
+      <forks>10,502</forks>
+      <addStars>8,342</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4</avatar>
@@ -119,43 +119,15 @@
       </contributors>
     </item>
     <item>
-      <title>github/spec-kit</title>
-      <link>https://github.com/github/spec-kit</link>
-      <description>💫 Toolkit to help you get started with SDD or any other process!</description>
-      <guid>https://github.com/github/spec-kit</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>148,689</stars>
-      <forks>13,356</forks>
-      <addStars>4,280</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15701806?s=40&amp;v=4</avatar>
-          <name>mnriem</name>
-          <url>https://github.com/mnriem</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/53200638?s=40&amp;v=4</avatar>
-          <name>localden</name>
-          <url>https://github.com/localden</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>The-PR-Agent/pr-agent</title>
       <link>https://github.com/The-PR-Agent/pr-agent</link>
       <description>🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.</description>
       <guid>https://github.com/The-PR-Agent/pr-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,595</stars>
-      <forks>2,150</forks>
-      <addStars>1,576</addStars>
+      <stars>15,722</stars>
+      <forks>2,161</forks>
+      <addStars>1,706</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/21198860?s=40&amp;v=4</avatar>
@@ -163,14 +135,14 @@
           <url>https://github.com/mrT23</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4869233?s=40&amp;v=4</avatar>
-          <name>okotek</name>
-          <url>https://github.com/okotek</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3691490?s=40&amp;v=4</avatar>
           <name>PeterDaveHello</name>
           <url>https://github.com/PeterDaveHello</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/4869233?s=40&amp;v=4</avatar>
+          <name>okotek</name>
+          <url>https://github.com/okotek</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/430992?s=40&amp;v=4</avatar>
@@ -186,9 +158,9 @@
       <guid>https://github.com/blader/humanizer</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>66,455</stars>
-      <forks>5,236</forks>
-      <addStars>3,067</addStars>
+      <stars>67,087</stars>
+      <forks>5,276</forks>
+      <addStars>3,118</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1672?s=40&amp;v=4</avatar>
@@ -218,15 +190,43 @@
       </contributors>
     </item>
     <item>
+      <title>github/spec-kit</title>
+      <link>https://github.com/github/spec-kit</link>
+      <description>💫 Toolkit to help you get started with SDD or any other process!</description>
+      <guid>https://github.com/github/spec-kit</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>149,007</stars>
+      <forks>13,373</forks>
+      <addStars>4,045</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15701806?s=40&amp;v=4</avatar>
+          <name>mnriem</name>
+          <url>https://github.com/mnriem</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/53200638?s=40&amp;v=4</avatar>
+          <name>localden</name>
+          <url>https://github.com/localden</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>google/skills</title>
       <link>https://github.com/google/skills</link>
       <description>Agent Skills for Google products and technologies</description>
       <guid>https://github.com/google/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,707</stars>
-      <forks>1,978</forks>
-      <addStars>1,477</addStars>
+      <stars>23,769</stars>
+      <forks>1,988</forks>
+      <addStars>1,931</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/277152880?s=40&amp;v=4</avatar>
@@ -256,53 +256,15 @@
       </contributors>
     </item>
     <item>
-      <title>shiyu-coder/Kronos</title>
-      <link>https://github.com/shiyu-coder/Kronos</link>
-      <description>Kronos: A Foundation Model for the Language of Financial Markets</description>
-      <guid>https://github.com/shiyu-coder/Kronos</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>47,344</stars>
-      <forks>7,826</forks>
-      <addStars>2,937</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/65760973?s=40&amp;v=4</avatar>
-          <name>shiyu-coder</name>
-          <url>https://github.com/shiyu-coder</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/54936491?s=40&amp;v=4</avatar>
-          <name>Luciferbobo</name>
-          <url>https://github.com/Luciferbobo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18326516?s=40&amp;v=4</avatar>
-          <name>CharlesJ-ABu</name>
-          <url>https://github.com/CharlesJ-ABu</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1777564?s=40&amp;v=4</avatar>
-          <name>AnMakc</name>
-          <url>https://github.com/AnMakc</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/129808685?s=40&amp;v=4</avatar>
-          <name>randyy179</name>
-          <url>https://github.com/randyy179</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>harry0703/MoneyPrinterTurbo</title>
       <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
       <description>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.</description>
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>141,032</stars>
-      <forks>22,505</forks>
-      <addStars>3,987</addStars>
+      <stars>141,586</stars>
+      <forks>22,595</forks>
+      <addStars>4,048</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4</avatar>
@@ -332,15 +294,124 @@
       </contributors>
     </item>
     <item>
+      <title>scenario-labs/skills</title>
+      <link>https://github.com/scenario-labs/skills</link>
+      <description>Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.</description>
+      <guid>https://github.com/scenario-labs/skills</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>3,609</stars>
+      <forks>314</forks>
+      <addStars>2,118</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1057302?s=40&amp;v=4</avatar>
+          <name>hervenivon</name>
+          <url>https://github.com/hervenivon</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4</avatar>
+          <name>codex</name>
+          <url>https://github.com/codex</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/78570368?s=40&amp;v=4</avatar>
+          <name>edemaistre</name>
+          <url>https://github.com/edemaistre</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>shiyu-coder/Kronos</title>
+      <link>https://github.com/shiyu-coder/Kronos</link>
+      <description>Kronos: A Foundation Model for the Language of Financial Markets</description>
+      <guid>https://github.com/shiyu-coder/Kronos</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>47,429</stars>
+      <forks>7,839</forks>
+      <addStars>2,423</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/65760973?s=40&amp;v=4</avatar>
+          <name>shiyu-coder</name>
+          <url>https://github.com/shiyu-coder</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/54936491?s=40&amp;v=4</avatar>
+          <name>Luciferbobo</name>
+          <url>https://github.com/Luciferbobo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18326516?s=40&amp;v=4</avatar>
+          <name>CharlesJ-ABu</name>
+          <url>https://github.com/CharlesJ-ABu</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/1777564?s=40&amp;v=4</avatar>
+          <name>AnMakc</name>
+          <url>https://github.com/AnMakc</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/129808685?s=40&amp;v=4</avatar>
+          <name>randyy179</name>
+          <url>https://github.com/randyy179</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>Graphify-Labs/graphify</title>
+      <link>https://github.com/Graphify-Labs/graphify</link>
+      <description>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</description>
+      <guid>https://github.com/Graphify-Labs/graphify</guid>
+      <language>Python</language>
+      <languageColor>#3572A5</languageColor>
+      <stars>145,008</stars>
+      <forks>13,881</forks>
+      <addStars>4,105</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/216348667?s=40&amp;v=4</avatar>
+          <name>safishamsi</name>
+          <url>https://github.com/safishamsi</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/144055433?s=40&amp;v=4</avatar>
+          <name>ayushcodes10</name>
+          <url>https://github.com/ayushcodes10</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/74607221?s=40&amp;v=4</avatar>
+          <name>Deepjyoti-Sarmah</name>
+          <url>https://github.com/Deepjyoti-Sarmah</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/160410581?s=40&amp;v=4</avatar>
+          <name>rohit-jsfreaky</name>
+          <url>https://github.com/rohit-jsfreaky</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>guillaumemeyer/watermarks-remover</title>
       <link>https://github.com/guillaumemeyer/watermarks-remover</link>
       <description>A privacy-first app that strips AI watermarks from content you own.</description>
       <guid>https://github.com/guillaumemeyer/watermarks-remover</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,722</stars>
-      <forks>3,050</forks>
-      <addStars>877</addStars>
+      <stars>26,854</stars>
+      <forks>3,059</forks>
+      <addStars>860</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1385518?s=40&amp;v=4</avatar>
@@ -365,53 +436,15 @@
       </contributors>
     </item>
     <item>
-      <title>Graphify-Labs/graphify</title>
-      <link>https://github.com/Graphify-Labs/graphify</link>
-      <description>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</description>
-      <guid>https://github.com/Graphify-Labs/graphify</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>144,477</stars>
-      <forks>13,825</forks>
-      <addStars>4,147</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/216348667?s=40&amp;v=4</avatar>
-          <name>safishamsi</name>
-          <url>https://github.com/safishamsi</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/144055433?s=40&amp;v=4</avatar>
-          <name>ayushcodes10</name>
-          <url>https://github.com/ayushcodes10</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/74607221?s=40&amp;v=4</avatar>
-          <name>Deepjyoti-Sarmah</name>
-          <url>https://github.com/Deepjyoti-Sarmah</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/215653880?s=40&amp;v=4</avatar>
-          <name>rajatnagda45</name>
-          <url>https://github.com/rajatnagda45</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>python-poetry/poetry</title>
       <link>https://github.com/python-poetry/poetry</link>
       <description>Python packaging and dependency management made easy</description>
       <guid>https://github.com/python-poetry/poetry</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>34,429</stars>
-      <forks>2,585</forks>
-      <addStars>237</addStars>
+      <stars>34,433</stars>
+      <forks>2,586</forks>
+      <addStars>238</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/555648?s=40&amp;v=4</avatar>
@@ -441,35 +474,25 @@
       </contributors>
     </item>
     <item>
-      <title>scenario-labs/skills</title>
-      <link>https://github.com/scenario-labs/skills</link>
-      <description>Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.</description>
-      <guid>https://github.com/scenario-labs/skills</guid>
+      <title>bradautomates/claude-video</title>
+      <link>https://github.com/bradautomates/claude-video</link>
+      <description>Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</description>
+      <guid>https://github.com/bradautomates/claude-video</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,540</stars>
-      <forks>307</forks>
-      <addStars>2,151</addStars>
+      <stars>20,352</stars>
+      <forks>2,161</forks>
+      <addStars>551</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1057302?s=40&amp;v=4</avatar>
-          <name>hervenivon</name>
-          <url>https://github.com/hervenivon</url>
+          <avatar>https://avatars.githubusercontent.com/u/186665980?s=40&amp;v=4</avatar>
+          <name>bradautomates</name>
+          <url>https://github.com/bradautomates</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/267193182?s=40&amp;v=4</avatar>
-          <name>codex</name>
-          <url>https://github.com/codex</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/78570368?s=40&amp;v=4</avatar>
-          <name>edemaistre</name>
-          <url>https://github.com/edemaistre</url>
         </contributor>
       </contributors>
     </item>
@@ -480,9 +503,9 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>56,951</stars>
-      <forks>6,944</forks>
-      <addStars>3,873</addStars>
+      <stars>57,601</stars>
+      <forks>7,021</forks>
+      <addStars>3,399</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4</avatar>
@@ -503,67 +526,6 @@
           <avatar>https://avatars.githubusercontent.com/u/238371241?s=40&amp;v=4</avatar>
           <name>evan188199-tech</name>
           <url>https://github.com/evan188199-tech</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>ethanplusai/sellbird</title>
-      <link>https://github.com/ethanplusai/sellbird</link>
-      <description>Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.</description>
-      <guid>https://github.com/ethanplusai/sellbird</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>4,905</stars>
-      <forks>1,043</forks>
-      <addStars>1,129</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/249879463?s=40&amp;v=4</avatar>
-          <name>ethanplusai</name>
-          <url>https://github.com/ethanplusai</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/324858924?s=40&amp;v=4</avatar>
-          <name>gabrielaoimevbore-beep</name>
-          <url>https://github.com/gabrielaoimevbore-beep</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/113460291?s=40&amp;v=4</avatar>
-          <name>thekasyap</name>
-          <url>https://github.com/thekasyap</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/336808523?s=40&amp;v=4</avatar>
-          <name>xiaoheiai4719-collab</name>
-          <url>https://github.com/xiaoheiai4719-collab</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>bradautomates/claude-video</title>
-      <link>https://github.com/bradautomates/claude-video</link>
-      <description>Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.</description>
-      <guid>https://github.com/bradautomates/claude-video</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>20,239</stars>
-      <forks>2,150</forks>
-      <addStars>546</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/186665980?s=40&amp;v=4</avatar>
-          <name>bradautomates</name>
-          <url>https://github.com/bradautomates</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
         </contributor>
       </contributors>
     </item>
