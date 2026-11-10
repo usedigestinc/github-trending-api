@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Mon, 09 Nov 2026 23:00:18 GMT",
+  "pubDate": "Tue, 10 Nov 2026 08:26:54 GMT",
   "items": [
     {
       "title": "anthropics/skills",
@@ -10,9 +10,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "190,883",
-      "forks": "22,437",
-      "addStars": "1,052",
+      "stars": "191,517",
+      "forks": "22,479",
+      "addStars": "1,038",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "106,913",
-      "forks": "12,374",
-      "addStars": "4,294",
+      "stars": "107,884",
+      "forks": "12,468",
+      "addStars": "4,267",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,984",
-      "forks": "3,308",
-      "addStars": "560",
+      "stars": "20,188",
+      "forks": "3,329",
+      "addStars": "551",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "68,790",
-      "forks": "56,376",
-      "addStars": "505",
+      "stars": "69,318",
+      "forks": "56,501",
+      "addStars": "506",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
@@ -158,8 +158,8 @@
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,911",
-      "forks": "292",
+      "stars": "6,222",
+      "forks": "303",
       "addStars": "31",
       "contributors": [
         {
@@ -185,9 +185,9 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,107",
-      "forks": "4,799",
-      "addStars": "423",
+      "stars": "42,158",
+      "forks": "4,802",
+      "addStars": "387",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/63361337?s=40&v=4",
@@ -222,7 +222,7 @@
       "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,526",
+      "stars": "11,533",
       "forks": "1,836",
       "addStars": "25",
       "contributors": [
@@ -254,9 +254,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "106,108",
-      "forks": "11,776",
-      "addStars": "1,247",
+      "stars": "106,572",
+      "forks": "11,823",
+      "addStars": "1,262",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "78,148",
-      "forks": "13,891",
-      "addStars": "323",
+      "stars": "78,193",
+      "forks": "13,902",
+      "addStars": "326",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/48523873?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "57,601",
-      "forks": "7,021",
-      "addStars": "784",
+      "stars": "57,764",
+      "forks": "7,041",
+      "addStars": "710",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
@@ -355,9 +355,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "46,626",
-      "forks": "4,858",
-      "addStars": "129",
+      "stars": "46,686",
+      "forks": "4,860",
+      "addStars": "149",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",
@@ -387,9 +387,9 @@
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "39,910",
-      "forks": "3,192",
-      "addStars": "49",
+      "stars": "39,924",
+      "forks": "3,194",
+      "addStars": "44",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31013580?s=40&v=4",
@@ -409,9 +409,9 @@
       "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "21,124",
-      "forks": "5,134",
-      "addStars": "39",
+      "stars": "21,137",
+      "forks": "5,138",
+      "addStars": "45",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/36869960?s=40&v=4",
@@ -446,9 +446,9 @@
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,901",
-      "forks": "1,590",
-      "addStars": "159",
+      "stars": "17,031",
+      "forks": "1,607",
+      "addStars": "168",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/62273713?s=40&v=4",
@@ -478,14 +478,36 @@
       ]
     },
     {
+      "title": "snap-stanford/memorilla",
+      "url": "https://github.com/snap-stanford/memorilla",
+      "description": "🦍 Memorilla: Latent Semantic Memory for LLMs",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": "774",
+      "forks": "60",
+      "addStars": "62",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/25393945?s=40&v=4",
+          "name": "kvignesh1420",
+          "url": "https://github.com/kvignesh1420"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/90617686?s=40&v=4",
+          "name": "Adibvafa",
+          "url": "https://github.com/Adibvafa"
+        }
+      ]
+    },
+    {
       "title": "neuml/txtai",
       "url": "https://github.com/neuml/txtai",
       "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,239",
-      "forks": "984",
-      "addStars": "83",
+      "stars": "13,253",
+      "forks": "988",
+      "addStars": "70",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/561939?s=40&v=4",

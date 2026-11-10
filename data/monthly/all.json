@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Mon, 09 Nov 2026 23:00:18 GMT",
+  "pubDate": "Tue, 10 Nov 2026 08:26:54 GMT",
   "items": [
     {
       "title": "morluto/rea",
@@ -10,9 +10,9 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "446,801",
-      "forks": "110,219",
-      "addStars": "425,123",
+      "stars": "448,050",
+      "forks": "110,459",
+      "addStars": "413,718",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/76467478?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "51,742",
-      "forks": "2,751",
-      "addStars": "21,146",
+      "stars": "52,036",
+      "forks": "2,771",
+      "addStars": "21,862",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "68,022",
-      "forks": "4,462",
-      "addStars": "40,289",
+      "stars": "68,444",
+      "forks": "4,497",
+      "addStars": "40,994",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "54,049",
-      "forks": "10,176",
-      "addStars": "25,840",
+      "stars": "54,681",
+      "forks": "10,237",
+      "addStars": "26,993",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "81,669",
-      "forks": "7,542",
-      "addStars": "22,360",
+      "stars": "81,904",
+      "forks": "7,564",
+      "addStars": "22,344",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "115,382",
-      "forks": "10,020",
-      "addStars": "17,296",
+      "stars": "115,544",
+      "forks": "10,027",
+      "addStars": "17,008",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "106,108",
-      "forks": "11,776",
-      "addStars": "50,169",
+      "stars": "106,571",
+      "forks": "11,823",
+      "addStars": "50,585",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4178343?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "57,601",
-      "forks": "7,021",
-      "addStars": "16,065",
+      "stars": "57,764",
+      "forks": "7,041",
+      "addStars": "16,710",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "106,855",
-      "forks": "6,350",
-      "addStars": "28,008",
+      "stars": "107,128",
+      "forks": "6,364",
+      "addStars": "28,285",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "40,251",
-      "forks": "6,273",
-      "addStars": "33,780",
+      "stars": "40,376",
+      "forks": "6,283",
+      "addStars": "30,753",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": "99,079",
-      "forks": "11,248",
-      "addStars": "17,344",
+      "stars": "99,181",
+      "forks": "11,264",
+      "addStars": "17,387",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5378554?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "52,603",
-      "forks": "4,994",
-      "addStars": "39,354",
+      "stars": "52,758",
+      "forks": "5,003",
+      "addStars": "34,260",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/158058829?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "46,626",
-      "forks": "4,858",
-      "addStars": "9,152",
+      "stars": "46,686",
+      "forks": "4,860",
+      "addStars": "9,215",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",

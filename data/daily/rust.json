@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Mon, 09 Nov 2026 23:00:18 GMT",
+  "pubDate": "Tue, 10 Nov 2026 08:26:54 GMT",
   "items": [
     {
       "title": "vercel-labs/agent-browser",
@@ -10,9 +10,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "48,417",
-      "forks": "3,299",
-      "addStars": "914",
+      "stars": "48,766",
+      "forks": "3,321",
+      "addStars": "916",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "103,405",
-      "forks": "13,400",
-      "addStars": "245",
+      "stars": "103,710",
+      "forks": "13,432",
+      "addStars": "172",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,151",
-      "forks": "2,004",
-      "addStars": "510",
+      "stars": "16,336",
+      "forks": "2,026",
+      "addStars": "493",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/57962439?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Comfortably monitor your network traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "42,219",
-      "forks": "1,983",
-      "addStars": "148",
+      "stars": "42,270",
+      "forks": "1,988",
+      "addStars": "152",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/100347457?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,933",
-      "forks": "474",
-      "addStars": "31",
+      "stars": "3,948",
+      "forks": "476",
+      "addStars": "32",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3831435?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,872",
-      "forks": "433",
-      "addStars": "33",
+      "stars": "9,884",
+      "forks": "432",
+      "addStars": "32",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/50231698?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "40,251",
-      "forks": "6,273",
-      "addStars": "390",
+      "stars": "40,376",
+      "forks": "6,283",
+      "addStars": "378",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39263?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "10,074",
-      "forks": "592",
-      "addStars": "95",
+      "stars": "10,104",
+      "forks": "595",
+      "addStars": "86",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106617?s=40&v=4",
@@ -281,7 +281,7 @@
       "description": "AI-VPN that makes your traffic invisible to deep packet inspection",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "880",
+      "stars": "891",
       "forks": "78",
       "addStars": "11",
       "contributors": [
@@ -318,9 +318,9 @@
       "description": "A local desktop app that turns videos and images into 3D Gaussian Splats in one click.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,403",
-      "forks": "287",
-      "addStars": "109",
+      "stars": "2,426",
+      "forks": "288",
+      "addStars": "121",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/105619733?s=40&v=4",
@@ -355,9 +355,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "20,108",
-      "forks": "1,232",
-      "addStars": "153",
+      "stars": "20,176",
+      "forks": "1,234",
+      "addStars": "163",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5518?s=40&v=4",
@@ -392,9 +392,9 @@
       "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,176",
-      "forks": "111",
-      "addStars": "36",
+      "stars": "1,197",
+      "forks": "112",
+      "addStars": "34",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/67194087?s=40&v=4",
