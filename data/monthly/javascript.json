@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Monthly Trending",
   "description": "Monthly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Wed, 11 Nov 2026 07:45:54 GMT",
+  "pubDate": "Wed, 11 Nov 2026 20:13:18 GMT",
   "items": [
     {
       "title": "cloudflare/security-audit-skill",
@@ -10,8 +10,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "69,639",
-      "forks": "4,609",
+      "stars": "70,190",
+      "forks": "4,653",
       "addStars": "41,811",
       "contributors": [
         {
@@ -32,13 +32,50 @@
       ]
     },
     {
+      "title": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "113,484",
+      "forks": "7,640",
+      "addStars": "19,249",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
+          "name": "Leonxlnx",
+          "url": "https://github.com/Leonxlnx"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/122161868?s=40&v=4",
+          "name": "HugoSpy",
+          "url": "https://github.com/HugoSpy"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/36102904?s=40&v=4",
+          "name": "bougieL",
+          "url": "https://github.com/bougieL"
+        }
+      ]
+    },
+    {
       "title": "rorygallagher2024/glasshouse",
       "url": "https://github.com/rorygallagher2024/glasshouse",
       "description": "For rooted LG webOS TVs: a live dashboard, privacy control, debloating, an ad & telemetry blocker, replacement home screen, and custom screensavers. Runs on the TV itself. Includes an optional Home Assistant MQTT bridge for smart home control.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "2,052",
-      "forks": "125",
+      "stars": "2,066",
+      "forks": "128",
       "addStars": "1,486",
       "contributors": [
         {
@@ -69,50 +106,13 @@
       ]
     },
     {
-      "title": "michael-denyer/pstack-claude",
-      "url": "https://github.com/michael-denyer/pstack-claude",
-      "description": "Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "4,222",
-      "forks": "387",
-      "addStars": "2,469",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/97485362?s=40&v=4",
-          "name": "michael-denyer",
-          "url": "https://github.com/michael-denyer"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/257484394?s=40&v=4",
-          "name": "EthanYoQ",
-          "url": "https://github.com/EthanYoQ"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/139017?s=40&v=4",
-          "name": "donbeave",
-          "url": "https://github.com/donbeave"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
-          "name": "claude",
-          "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/3153107?s=40&v=4",
-          "name": "younes-io",
-          "url": "https://github.com/younes-io"
-        }
-      ]
-    },
-    {
       "title": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "22,491",
-      "forks": "1,275",
+      "stars": "22,544",
+      "forks": "1,278",
       "addStars": "5,474",
       "contributors": [
         {
@@ -143,34 +143,34 @@
       ]
     },
     {
-      "title": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+      "title": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "description": "Antigravity, Claude Code, Codex, Copilot, Gemini, Muse, OpenCode, Pi, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "33,839",
-      "forks": "2,323",
-      "addStars": "7,742",
+      "stars": "4,235",
+      "forks": "388",
+      "addStars": "2,469",
       "contributors": [
         {
-          "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
-          "name": "mksglu",
-          "url": "https://github.com/mksglu"
+          "avatar": "https://avatars.githubusercontent.com/u/97485362?s=40&v=4",
+          "name": "michael-denyer",
+          "url": "https://github.com/michael-denyer"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/257484394?s=40&v=4",
+          "name": "EthanYoQ",
+          "url": "https://github.com/EthanYoQ"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/139017?s=40&v=4",
+          "name": "donbeave",
+          "url": "https://github.com/donbeave"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
-          "name": "ipedro",
-          "url": "https://github.com/ipedro"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
-          "name": "ousamabenyounes",
-          "url": "https://github.com/ousamabenyounes"
         }
       ]
     },
@@ -180,8 +180,8 @@
       "description": "JavaScript 3D Library.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "118,112",
-      "forks": "36,943",
+      "stars": "118,175",
+      "forks": "36,957",
       "addStars": "1,997",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "39,320",
-      "forks": "2,832",
+      "stars": "39,403",
+      "forks": "2,834",
       "addStars": "18,213",
       "contributors": [
         {
@@ -249,50 +249,13 @@
       ]
     },
     {
-      "title": "withmarbleapp/os-taxonomy",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "description": "",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": "7,665",
-      "forks": "1,248",
-      "addStars": "2,930",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/2501329?s=40&v=4",
-          "name": "guillaumeboniface",
-          "url": "https://github.com/guillaumeboniface"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/262926223?s=40&v=4",
-          "name": "lauramionel",
-          "url": "https://github.com/lauramionel"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/5299031?s=40&v=4",
-          "name": "kevin9327",
-          "url": "https://github.com/kevin9327"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/166712943?s=40&v=4",
-          "name": "Aliciawque",
-          "url": "https://github.com/Aliciawque"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/218489957?s=40&v=4",
-          "name": "ShiroKSH",
-          "url": "https://github.com/ShiroKSH"
-        }
-      ]
-    },
-    {
       "title": "DuarteSantos8/openGym",
       "url": "https://github.com/DuarteSantos8/openGym",
       "description": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alone.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "20,856",
-      "forks": "2,805",
+      "stars": "20,942",
+      "forks": "2,819",
       "addStars": "11,693",
       "contributors": [
         {
@@ -328,8 +291,8 @@
       "description": "List of Permanent Free LLM API (API Keys)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "12,869",
-      "forks": "1,531",
+      "stars": "12,919",
+      "forks": "1,539",
       "addStars": "3,164",
       "contributors": [
         {
@@ -355,13 +318,45 @@
       ]
     },
     {
+      "title": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": "33,881",
+      "forks": "2,325",
+      "addStars": "7,742",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/6067714?s=40&v=4",
+          "name": "mksglu",
+          "url": "https://github.com/mksglu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/380338?s=40&v=4",
+          "name": "ipedro",
+          "url": "https://github.com/ipedro"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/2910651?s=40&v=4",
+          "name": "ousamabenyounes",
+          "url": "https://github.com/ousamabenyounes"
+        }
+      ]
+    },
+    {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "300,950",
-      "forks": "44,409",
+      "stars": "301,274",
+      "forks": "44,448",
       "addStars": "25,762",
       "contributors": [
         {
@@ -392,7 +387,7 @@
       "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "49,472",
+      "stars": "49,480",
       "forks": "7,658",
       "addStars": "659",
       "contributors": [
@@ -429,8 +424,8 @@
       "description": "The library for web and native user interfaces.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "252,522",
-      "forks": "52,253",
+      "stars": "252,505",
+      "forks": "52,340",
       "addStars": "3,363",
       "contributors": [
         {
