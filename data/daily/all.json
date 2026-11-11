@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Tue, 10 Nov 2026 20:29:04 GMT",
+  "pubDate": "Wed, 11 Nov 2026 07:45:54 GMT",
   "items": [
     {
       "title": "meta/astryx",
@@ -10,9 +10,9 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,454",
-      "forks": "1,797",
-      "addStars": "3,111",
+      "stars": "23,697",
+      "forks": "1,862",
+      "addStars": "3,108",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "192,154",
-      "forks": "22,626",
-      "addStars": "1,676",
+      "stars": "192,642",
+      "forks": "22,673",
+      "addStars": "1,679",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -79,8 +79,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "115,044",
-      "forks": "12,091",
+      "stars": "115,402",
+      "forks": "12,110",
       "addStars": "465",
       "contributors": [
         {
@@ -116,9 +116,9 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,412",
-      "forks": "3,465",
-      "addStars": "530",
+      "stars": "20,651",
+      "forks": "3,478",
+      "addStars": "531",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "17,291",
-      "forks": "2,141",
-      "addStars": "453",
+      "stars": "17,507",
+      "forks": "2,159",
+      "addStars": "456",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6387526?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "11,791",
-      "forks": "881",
-      "addStars": "184",
+      "stars": "12,283",
+      "forks": "909",
+      "addStars": "159",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,542",
-      "forks": "427",
-      "addStars": "792",
+      "stars": "6,841",
+      "forks": "439",
+      "addStars": "790",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "49,112",
-      "forks": "3,444",
-      "addStars": "775",
+      "stars": "49,460",
+      "forks": "3,465",
+      "addStars": "780",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -281,9 +281,9 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "108,778",
-      "forks": "12,645",
-      "addStars": "2,387",
+      "stars": "109,470",
+      "forks": "12,701",
+      "addStars": "2,393",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
@@ -318,8 +318,8 @@
       "description": "A batteries-included framework for building web apps",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,730",
-      "forks": "297",
+      "stars": "6,986",
+      "forks": "309",
       "addStars": "192",
       "contributors": [
         {
@@ -350,9 +350,9 @@
       "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,210",
-      "forks": "525",
-      "addStars": "374",
+      "stars": "6,565",
+      "forks": "541",
+      "addStars": "375",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
@@ -382,9 +382,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "320,763",
-      "forks": "26,899",
-      "addStars": "1,223",
+      "stars": "321,270",
+      "forks": "26,935",
+      "addStars": "1,225",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",

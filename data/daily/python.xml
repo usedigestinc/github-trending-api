@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Python Languages in GitHub</description>
-    <pubDate>Tue, 10 Nov 2026 20:29:04 GMT</pubDate>
+    <pubDate>Wed, 11 Nov 2026 07:45:54 GMT</pubDate>
     <item>
       <title>anthropics/skills</title>
       <link>https://github.com/anthropics/skills</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>192,154</stars>
-      <forks>22,626</forks>
-      <addStars>1,676</addStars>
+      <stars>192,644</stars>
+      <forks>22,673</forks>
+      <addStars>1,679</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/anthropics/claude-quickstarts</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,412</stars>
-      <forks>3,465</forks>
-      <addStars>530</addStars>
+      <stars>20,651</stars>
+      <forks>3,478</forks>
+      <addStars>531</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/286490957?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/homeassistant-ai/ha-mcp</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,542</stars>
-      <forks>427</forks>
-      <addStars>792</addStars>
+      <stars>6,842</stars>
+      <forks>439</forks>
+      <addStars>790</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>108,778</stars>
-      <forks>12,645</forks>
-      <addStars>2,387</addStars>
+      <stars>109,470</stars>
+      <forks>12,701</forks>
+      <addStars>2,393</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/27065646?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/OpenBMB/VoxCPM</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>42,206</stars>
-      <forks>4,811</forks>
-      <addStars>135</addStars>
+      <stars>42,233</stars>
+      <forks>4,818</forks>
+      <addStars>140</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/63361337?s=40&amp;v=4</avatar>
@@ -191,9 +191,9 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>107,117</stars>
-      <forks>11,873</forks>
-      <addStars>1,211</addStars>
+      <stars>107,585</stars>
+      <forks>11,916</forks>
+      <addStars>1,207</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/ashishpatel26/500-AI-Agents-Projects</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>39,632</stars>
-      <forks>7,105</forks>
-      <addStars>112</addStars>
+      <stars>39,676</stars>
+      <forks>7,114</forks>
+      <addStars>126</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3095771?s=40&amp;v=4</avatar>
@@ -265,11 +265,11 @@
       <link>https://github.com/opensandbox-group/OpenSandbox</link>
       <description>Secure, Fast, and Extensible Sandbox runtime for AI agents.</description>
       <guid>https://github.com/opensandbox-group/OpenSandbox</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>17,134</stars>
-      <forks>1,619</forks>
-      <addStars>308</addStars>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>17,169</stars>
+      <forks>1,622</forks>
+      <addStars>323</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/62273713?s=40&amp;v=4</avatar>
@@ -305,9 +305,9 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>69,533</stars>
-      <forks>56,668</forks>
-      <addStars>1,062</addStars>
+      <stars>69,646</stars>
+      <forks>56,721</forks>
+      <addStars>960</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/42829555?s=40&amp;v=4</avatar>
@@ -343,9 +343,9 @@
       <guid>https://github.com/elder-plinius/OBLITERATUS</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,446</stars>
+      <stars>9,455</stars>
       <forks>1,726</forks>
-      <addStars>76</addStars>
+      <addStars>64</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1159087?s=40&amp;v=4</avatar>
@@ -381,9 +381,9 @@
       <guid>https://github.com/rohitg00/ai-engineering-from-scratch</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>78,280</stars>
-      <forks>13,925</forks>
-      <addStars>187</addStars>
+      <stars>78,376</stars>
+      <forks>13,952</forks>
+      <addStars>207</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/48523873?s=40&amp;v=4</avatar>
@@ -414,9 +414,9 @@
       <guid>https://github.com/figma/mcp-server-guide</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>2,170</stars>
+      <stars>2,171</stars>
       <forks>216</forks>
-      <addStars>6</addStars>
+      <addStars>7</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/111350777?s=40&amp;v=4</avatar>
@@ -452,9 +452,9 @@
       <guid>https://github.com/rlaope/oh-my-hermes</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,361</stars>
-      <forks>427</forks>
-      <addStars>59</addStars>
+      <stars>5,410</stars>
+      <forks>432</forks>
+      <addStars>50</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/105429536?s=40&amp;v=4</avatar>
@@ -490,9 +490,9 @@
       <guid>https://github.com/Imbad0202/academic-research-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>56,346</stars>
-      <forks>4,288</forks>
-      <addStars>242</addStars>
+      <stars>56,406</stars>
+      <forks>4,293</forks>
+      <addStars>225</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/132531341?s=40&amp;v=4</avatar>

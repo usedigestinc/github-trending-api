@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Rust Languages in GitHub</description>
-    <pubDate>Tue, 10 Nov 2026 20:29:04 GMT</pubDate>
+    <pubDate>Wed, 11 Nov 2026 07:45:54 GMT</pubDate>
     <item>
       <title>vercel-labs/agent-desktop</title>
       <link>https://github.com/vercel-labs/agent-desktop</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/vercel-labs/agent-desktop</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>21,272</stars>
-      <forks>1,586</forks>
-      <addStars>12,120</addStars>
+      <stars>21,621</stars>
+      <forks>1,603</forks>
+      <addStars>9,502</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4</avatar>
@@ -34,9 +34,9 @@
       <guid>https://github.com/max-sixty/worktrunk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,378</stars>
-      <forks>486</forks>
-      <addStars>2,395</addStars>
+      <stars>12,422</stars>
+      <forks>491</forks>
+      <addStars>2,093</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5635139?s=40&amp;v=4</avatar>
@@ -62,9 +62,9 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>49,112</stars>
-      <forks>3,444</forks>
-      <addStars>2,994</addStars>
+      <stars>49,460</stars>
+      <forks>3,465</forks>
+      <addStars>3,606</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4</avatar>
@@ -95,9 +95,9 @@
       <guid>https://github.com/anomalyco/hex</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,156</stars>
-      <forks>375</forks>
-      <addStars>2,031</addStars>
+      <stars>6,271</stars>
+      <forks>380</forks>
+      <addStars>1,839</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7587245?s=40&amp;v=4</avatar>
@@ -133,9 +133,9 @@
       <guid>https://github.com/zed-industries/zed</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>94,665</stars>
-      <forks>11,618</forks>
-      <addStars>2,239</addStars>
+      <stars>94,713</stars>
+      <forks>11,626</forks>
+      <addStars>2,262</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/482957?s=40&amp;v=4</avatar>
@@ -171,9 +171,9 @@
       <guid>https://github.com/herdrdev/herdr</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>49,983</stars>
-      <forks>4,039</forks>
-      <addStars>2,227</addStars>
+      <stars>50,093</stars>
+      <forks>4,052</forks>
+      <addStars>2,196</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7064011?s=40&amp;v=4</avatar>
@@ -204,9 +204,9 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>107,498</stars>
-      <forks>6,387</forks>
-      <addStars>6,625</addStars>
+      <stars>107,787</stars>
+      <forks>6,409</forks>
+      <addStars>6,288</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4</avatar>
@@ -237,9 +237,9 @@
       <guid>https://github.com/astral-sh/ruff</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>51,158</stars>
-      <forks>2,642</forks>
-      <addStars>913</addStars>
+      <stars>51,187</stars>
+      <forks>2,654</forks>
+      <addStars>921</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1309177?s=40&amp;v=4</avatar>
@@ -270,9 +270,9 @@
       <guid>https://github.com/openai/codex</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>134,757</stars>
-      <forks>21,346</forks>
-      <addStars>1,908</addStars>
+      <stars>134,824</stars>
+      <forks>21,355</forks>
+      <addStars>1,937</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/230027070?s=40&amp;v=4</avatar>
@@ -308,9 +308,9 @@
       <guid>https://github.com/nushell/nushell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>41,079</stars>
-      <forks>2,354</forks>
-      <addStars>454</addStars>
+      <stars>41,086</stars>
+      <forks>2,353</forks>
+      <addStars>461</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/547158?s=40&amp;v=4</avatar>
@@ -341,9 +341,9 @@
       <guid>https://github.com/agentgateway/agentgateway</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,095</stars>
-      <forks>1,080</forks>
-      <addStars>185</addStars>
+      <stars>6,106</stars>
+      <forks>1,083</forks>
+      <addStars>182</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/623453?s=40&amp;v=4</avatar>
@@ -374,9 +374,9 @@
       <guid>https://github.com/longbridge/gpui-kit</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>20,240</stars>
-      <forks>1,236</forks>
-      <addStars>1,200</addStars>
+      <stars>20,312</stars>
+      <forks>1,239</forks>
+      <addStars>1,300</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5518?s=40&amp;v=4</avatar>
@@ -413,8 +413,8 @@
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
       <stars>33,313</stars>
-      <forks>5,004</forks>
-      <addStars>230</addStars>
+      <forks>5,005</forks>
+      <addStars>232</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/144828210?s=40&amp;v=4</avatar>
@@ -445,7 +445,7 @@
       <guid>https://github.com/clap-rs/clap</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>16,958</stars>
+      <stars>16,964</stars>
       <forks>1,310</forks>
       <addStars>245</addStars>
       <contributors>

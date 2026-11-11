@@ -3,7 +3,7 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 10 Nov 2026 20:29:04 GMT</pubDate>
+    <pubDate>Wed, 11 Nov 2026 07:45:54 GMT</pubDate>
     <item>
       <title>meta/astryx</title>
       <link>https://github.com/meta/astryx</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/meta/astryx</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,454</stars>
-      <forks>1,797</forks>
-      <addStars>3,111</addStars>
+      <stars>23,697</stars>
+      <forks>1,862</forks>
+      <addStars>3,108</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2781099?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>192,154</stars>
-      <forks>22,626</forks>
-      <addStars>1,676</addStars>
+      <stars>192,642</stars>
+      <forks>22,673</forks>
+      <addStars>1,679</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4</avatar>
@@ -82,8 +82,8 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>115,044</stars>
-      <forks>12,091</forks>
+      <stars>115,402</stars>
+      <forks>12,110</forks>
       <addStars>465</addStars>
       <contributors>
         <contributor>
@@ -120,9 +120,9 @@
       <guid>https://github.com/anthropics/claude-quickstarts</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,412</stars>
-      <forks>3,465</forks>
-      <addStars>530</addStars>
+      <stars>20,651</stars>
+      <forks>3,478</forks>
+      <addStars>531</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/286490957?s=40&amp;v=4</avatar>
@@ -158,9 +158,9 @@
       <guid>https://github.com/google-deepmind/mujoco</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>17,291</stars>
-      <forks>2,141</forks>
-      <addStars>453</addStars>
+      <stars>17,507</stars>
+      <forks>2,159</forks>
+      <addStars>456</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6387526?s=40&amp;v=4</avatar>
@@ -196,9 +196,9 @@
       <guid>https://github.com/we-promise/sure</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>11,791</stars>
-      <forks>881</forks>
-      <addStars>184</addStars>
+      <stars>12,283</stars>
+      <forks>909</forks>
+      <addStars>159</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/187772?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/homeassistant-ai/ha-mcp</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>6,542</stars>
-      <forks>427</forks>
-      <addStars>792</addStars>
+      <stars>6,841</stars>
+      <forks>439</forks>
+      <addStars>790</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -257,9 +257,9 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>49,112</stars>
-      <forks>3,444</forks>
-      <addStars>775</addStars>
+      <stars>49,460</stars>
+      <forks>3,465</forks>
+      <addStars>780</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4</avatar>
@@ -290,9 +290,9 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>108,778</stars>
-      <forks>12,645</forks>
-      <addStars>2,387</addStars>
+      <stars>109,470</stars>
+      <forks>12,701</forks>
+      <addStars>2,393</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/27065646?s=40&amp;v=4</avatar>
@@ -328,8 +328,8 @@
       <guid>https://github.com/tokio-rs/topcoat</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,730</stars>
-      <forks>297</forks>
+      <stars>6,986</stars>
+      <forks>309</forks>
       <addStars>192</addStars>
       <contributors>
         <contributor>
@@ -361,9 +361,9 @@
       <guid>https://github.com/ranxianglei/billion-context</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,210</stars>
-      <forks>525</forks>
-      <addStars>374</addStars>
+      <stars>6,565</stars>
+      <forks>541</forks>
+      <addStars>375</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/12445698?s=40&amp;v=4</avatar>
@@ -394,9 +394,9 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>320,763</stars>
-      <forks>26,899</forks>
-      <addStars>1,223</addStars>
+      <stars>321,270</stars>
+      <forks>26,935</forks>
+      <addStars>1,225</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4</avatar>

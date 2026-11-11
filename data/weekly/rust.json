@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Tue, 10 Nov 2026 20:29:04 GMT",
+  "pubDate": "Wed, 11 Nov 2026 07:45:54 GMT",
   "items": [
     {
       "title": "vercel-labs/agent-desktop",
@@ -10,9 +10,9 @@
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "21,272",
-      "forks": "1,586",
-      "addStars": "12,120",
+      "stars": "21,621",
+      "forks": "1,603",
+      "addStars": "9,502",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
@@ -32,9 +32,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,378",
-      "forks": "486",
-      "addStars": "2,395",
+      "stars": "12,422",
+      "forks": "491",
+      "addStars": "2,093",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5635139?s=40&v=4",
@@ -59,9 +59,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "49,112",
-      "forks": "3,444",
-      "addStars": "2,994",
+      "stars": "49,460",
+      "forks": "3,465",
+      "addStars": "3,606",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -91,9 +91,9 @@
       "description": "Local voice dictation for mac, windows and linux",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,156",
-      "forks": "375",
-      "addStars": "2,031",
+      "stars": "6,271",
+      "forks": "380",
+      "addStars": "1,839",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7587245?s=40&v=4",
@@ -128,9 +128,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "94,665",
-      "forks": "11,618",
-      "addStars": "2,239",
+      "stars": "94,713",
+      "forks": "11,626",
+      "addStars": "2,262",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&v=4",
@@ -165,9 +165,9 @@
       "description": "the runtime your coding agents live on",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "49,983",
-      "forks": "4,039",
-      "addStars": "2,227",
+      "stars": "50,093",
+      "forks": "4,052",
+      "addStars": "2,196",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
@@ -197,9 +197,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "107,498",
-      "forks": "6,387",
-      "addStars": "6,625",
+      "stars": "107,787",
+      "forks": "6,409",
+      "addStars": "6,288",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
@@ -229,9 +229,9 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,158",
-      "forks": "2,642",
-      "addStars": "913",
+      "stars": "51,187",
+      "forks": "2,654",
+      "addStars": "921",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
@@ -261,9 +261,9 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "134,757",
-      "forks": "21,346",
-      "addStars": "1,908",
+      "stars": "134,824",
+      "forks": "21,355",
+      "addStars": "1,937",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/230027070?s=40&v=4",
@@ -298,9 +298,9 @@
       "description": "A new type of shell",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "41,079",
-      "forks": "2,354",
-      "addStars": "454",
+      "stars": "41,086",
+      "forks": "2,353",
+      "addStars": "461",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/547158?s=40&v=4",
@@ -330,9 +330,9 @@
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,095",
-      "forks": "1,080",
-      "addStars": "185",
+      "stars": "6,106",
+      "forks": "1,083",
+      "addStars": "182",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/623453?s=40&v=4",
@@ -362,9 +362,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "20,240",
-      "forks": "1,236",
-      "addStars": "1,200",
+      "stars": "20,312",
+      "forks": "1,239",
+      "addStars": "1,300",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5518?s=40&v=4",
@@ -400,8 +400,8 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": "33,313",
-      "forks": "5,004",
-      "addStars": "230",
+      "forks": "5,005",
+      "addStars": "232",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/144828210?s=40&v=4",
@@ -431,7 +431,7 @@
       "description": "A full featured, fast Command Line Argument Parser for Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,958",
+      "stars": "16,964",
       "forks": "1,310",
       "addStars": "245",
       "contributors": [
