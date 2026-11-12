@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Wed, 11 Nov 2026 20:13:18 GMT",
+  "pubDate": "Thu, 12 Nov 2026 08:21:24 GMT",
   "items": [
     {
       "title": "NVIDIA/auto-ontology",
@@ -10,9 +10,9 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,788",
-      "forks": "968",
-      "addStars": "9,621",
+      "stars": "12,013",
+      "forks": "986",
+      "addStars": "7,947",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/263323607?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "193,039",
-      "forks": "22,713",
-      "addStars": "5,014",
+      "stars": "193,345",
+      "forks": "22,750",
+      "addStars": "5,738",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "21,970",
-      "forks": "1,634",
-      "addStars": "9,502",
+      "stars": "22,347",
+      "forks": "1,662",
+      "addStars": "7,772",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,177",
-      "forks": "2,953",
-      "addStars": "8,951",
+      "stars": "21,431",
+      "forks": "2,991",
+      "addStars": "9,257",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "49,780",
-      "forks": "3,481",
-      "addStars": "3,606",
+      "stars": "50,077",
+      "forks": "3,494",
+      "addStars": "4,183",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -175,9 +175,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "70,190",
-      "forks": "4,653",
-      "addStars": "10,967",
+      "stars": "70,601",
+      "forks": "4,687",
+      "addStars": "11,507",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -202,9 +202,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "321,874",
-      "forks": "26,983",
-      "addStars": "9,872",
+      "stars": "322,348",
+      "forks": "27,038",
+      "addStars": "9,575",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -229,9 +229,9 @@
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "101,589",
-      "forks": "10,588",
-      "addStars": "7,291",
+      "stars": "101,823",
+      "forks": "10,604",
+      "addStars": "5,814",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&v=4",
@@ -266,9 +266,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "94,695",
-      "forks": "11,626",
-      "addStars": "2,262",
+      "stars": "94,758",
+      "forks": "11,638",
+      "addStars": "2,310",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&v=4",
@@ -303,9 +303,9 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "38,411",
-      "forks": "5,000",
-      "addStars": "3,730",
+      "stars": "38,594",
+      "forks": "5,017",
+      "addStars": "3,150",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/150119193?s=40&v=4",
@@ -325,9 +325,9 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "23,914",
-      "forks": "1,995",
-      "addStars": "2,024",
+      "stars": "23,983",
+      "forks": "1,998",
+      "addStars": "2,013",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
@@ -362,9 +362,9 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "17,620",
-      "forks": "2,167",
-      "addStars": "1,130",
+      "stars": "17,698",
+      "forks": "2,176",
+      "addStars": "1,535",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6387526?s=40&v=4",
@@ -387,9 +387,9 @@
           "url": "https://github.com/kbayes"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/2200217?s=40&v=4",
-          "name": "saran-t",
-          "url": "https://github.com/saran-t"
+          "avatar": "https://avatars.githubusercontent.com/u/12521315?s=40&v=4",
+          "name": "thowell",
+          "url": "https://github.com/thowell"
         }
       ]
     },
@@ -399,9 +399,9 @@
       "description": "the runtime your coding agents live on",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "50,277",
-      "forks": "4,063",
-      "addStars": "2,196",
+      "stars": "50,446",
+      "forks": "4,072",
+      "addStars": "2,213",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",

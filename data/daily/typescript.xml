@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Typescript Languages in GitHub</description>
-    <pubDate>Wed, 11 Nov 2026 20:13:18 GMT</pubDate>
+    <pubDate>Thu, 12 Nov 2026 08:21:24 GMT</pubDate>
     <item>
       <title>meta/astryx</title>
       <link>https://github.com/meta/astryx</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/meta/astryx</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,712</stars>
-      <forks>1,929</forks>
-      <addStars>2,842</addStars>
+      <stars>25,632</stars>
+      <forks>1,994</forks>
+      <addStars>2,776</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2781099?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/GoogleChrome/modern-web-guidance-src</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>1,642</stars>
-      <forks>136</forks>
-      <addStars>133</addStars>
+      <stars>2,053</stars>
+      <forks>152</forks>
+      <addStars>159</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/39191?s=40&amp;v=4</avatar>
@@ -77,9 +77,9 @@
       <guid>https://github.com/openai/codex-security</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,613</stars>
-      <forks>922</forks>
-      <addStars>20</addStars>
+      <stars>11,959</stars>
+      <forks>954</forks>
+      <addStars>52</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/269034524?s=40&amp;v=4</avatar>
@@ -110,9 +110,9 @@
       <guid>https://github.com/ranxianglei/billion-context</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>6,802</stars>
-      <forks>554</forks>
-      <addStars>756</addStars>
+      <stars>6,933</stars>
+      <forks>570</forks>
+      <addStars>710</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/12445698?s=40&amp;v=4</avatar>
@@ -143,8 +143,8 @@
       <guid>https://github.com/backnotprop/plannotator</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,046</stars>
-      <forks>762</forks>
+      <stars>10,120</stars>
+      <forks>767</forks>
       <addStars>55</addStars>
       <contributors>
         <contributor>
@@ -181,9 +181,9 @@
       <guid>https://github.com/WhiteTowerAI/ohmygame</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>2,102</stars>
-      <forks>264</forks>
-      <addStars>91</addStars>
+      <stars>2,134</stars>
+      <forks>269</forks>
+      <addStars>89</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/57213566?s=40&amp;v=4</avatar>
@@ -219,9 +219,9 @@
       <guid>https://github.com/google-labs-code/stitch-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,739</stars>
-      <forks>1,056</forks>
-      <addStars>15</addStars>
+      <stars>8,746</stars>
+      <forks>1,054</forks>
+      <addStars>19</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43076783?s=40&amp;v=4</avatar>
@@ -257,9 +257,9 @@
       <guid>https://github.com/ever-co/ever-gauzy</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,779</stars>
-      <forks>1,338</forks>
-      <addStars>30</addStars>
+      <stars>8,789</stars>
+      <forks>1,340</forks>
+      <addStars>34</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/118497?s=40&amp;v=4</avatar>
@@ -295,9 +295,9 @@
       <guid>https://github.com/garrytan/gbrain</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,681</stars>
-      <forks>4,870</forks>
-      <addStars>225</addStars>
+      <stars>32,729</stars>
+      <forks>4,882</forks>
+      <addStars>243</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/19957?s=40&amp;v=4</avatar>
@@ -328,9 +328,9 @@
       <guid>https://github.com/LibreSpark/LibreTV</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>24,451</stars>
-      <forks>31,133</forks>
-      <addStars>204</addStars>
+      <stars>24,523</stars>
+      <forks>31,151</forks>
+      <addStars>198</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/110226580?s=40&amp;v=4</avatar>
@@ -361,9 +361,9 @@
       <guid>https://github.com/nab138/iloader</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,786</stars>
-      <forks>366</forks>
-      <addStars>76</addStars>
+      <stars>4,827</stars>
+      <forks>369</forks>
+      <addStars>68</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/56705177?s=40&amp;v=4</avatar>
@@ -399,9 +399,9 @@
       <guid>https://github.com/dream-num/univer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>23,172</stars>
-      <forks>1,960</forks>
-      <addStars>128</addStars>
+      <stars>23,345</stars>
+      <forks>1,990</forks>
+      <addStars>138</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/14025786?s=40&amp;v=4</avatar>
@@ -433,13 +433,13 @@
     <item>
       <title>NapNeko/NapCatQQ</title>
       <link>https://github.com/NapNeko/NapCatQQ</link>
-      <description>Modern protocol-side framework based on NTQQ</description>
+      <description>Modern protocol-side framework</description>
       <guid>https://github.com/NapNeko/NapCatQQ</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>12,689</stars>
-      <forks>1,722</forks>
-      <addStars>141</addStars>
+      <language/>
+      <languageColor/>
+      <stars>12,730</stars>
+      <forks>1,815</forks>
+      <addStars>129</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/61873808?s=40&amp;v=4</avatar>
@@ -475,9 +475,9 @@
       <guid>https://github.com/OpenCTI-Platform/opencti</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,339</stars>
+      <stars>10,349</stars>
       <forks>1,508</forks>
-      <addStars>40</addStars>
+      <addStars>47</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1334279?s=40&amp;v=4</avatar>

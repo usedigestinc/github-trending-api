@@ -3,7 +3,7 @@
     <title>GitHub Go Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Go Languages in GitHub</description>
-    <pubDate>Wed, 11 Nov 2026 20:13:18 GMT</pubDate>
+    <pubDate>Thu, 12 Nov 2026 08:21:24 GMT</pubDate>
     <item>
       <title>ollama/ollama</title>
       <link>https://github.com/ollama/ollama</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/ollama/ollama</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>186,675</stars>
-      <forks>19,023</forks>
-      <addStars>4,871</addStars>
+      <stars>186,736</stars>
+      <forks>19,033</forks>
+      <addStars>4,849</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2372640?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/moby/moby</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>72,264</stars>
+      <stars>72,267</stars>
       <forks>19,310</forks>
-      <addStars>452</addStars>
+      <addStars>449</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1804568?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/prometheus/prometheus</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>67,546</stars>
+      <stars>67,562</stars>
       <forks>11,008</forks>
-      <addStars>1,652</addStars>
+      <addStars>1,608</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4948210?s=40&amp;v=4</avatar>
@@ -120,9 +120,9 @@
       <guid>https://github.com/vxcontrol/pentagi</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>33,949</stars>
-      <forks>5,331</forks>
-      <addStars>8,659</addStars>
+      <stars>33,981</stars>
+      <forks>5,341</forks>
+      <addStars>8,694</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7765123?s=40&amp;v=4</avatar>
@@ -158,9 +158,9 @@
       <guid>https://github.com/gosom/google-maps-scraper</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>7,911</stars>
-      <forks>1,247</forks>
-      <addStars>1,499</addStars>
+      <stars>7,930</stars>
+      <forks>1,249</forks>
+      <addStars>1,550</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/454718?s=40&amp;v=4</avatar>
@@ -196,8 +196,8 @@
       <guid>https://github.com/netbirdio/netbird</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>30,893</stars>
-      <forks>1,847</forks>
+      <stars>30,909</stars>
+      <forks>1,849</forks>
       <addStars>1,114</addStars>
       <contributors>
         <contributor>
@@ -234,9 +234,9 @@
       <guid>https://github.com/rclone/rclone</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>60,948</stars>
-      <forks>5,676</forks>
-      <addStars>820</addStars>
+      <stars>60,966</stars>
+      <forks>5,678</forks>
+      <addStars>824</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/536803?s=40&amp;v=4</avatar>
@@ -272,8 +272,8 @@
       <guid>https://github.com/argoproj/argo-cd</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>24,592</stars>
-      <forks>8,140</forks>
+      <stars>24,593</stars>
+      <forks>8,141</forks>
       <addStars>265</addStars>
       <contributors>
         <contributor>
@@ -305,9 +305,9 @@
       <guid>https://github.com/Asymptote-Labs/agent-beacon</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,427</stars>
-      <forks>304</forks>
-      <addStars>1,625</addStars>
+      <stars>3,439</stars>
+      <forks>305</forks>
+      <addStars>1,626</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -343,9 +343,9 @@
       <guid>https://github.com/gitleaks/gitleaks</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>30,921</stars>
-      <forks>2,362</forks>
-      <addStars>1,106</addStars>
+      <stars>30,945</stars>
+      <forks>2,366</forks>
+      <addStars>1,130</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/15034943?s=40&amp;v=4</avatar>
@@ -375,15 +375,53 @@
       </contributors>
     </item>
     <item>
+      <title>linguo2625469/workbuddy2api-panel</title>
+      <link>https://github.com/linguo2625469/workbuddy2api-panel</link>
+      <description>把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支</description>
+      <guid>https://github.com/linguo2625469/workbuddy2api-panel</guid>
+      <language>Go</language>
+      <languageColor>#00ADD8</languageColor>
+      <stars>4,800</stars>
+      <forks>1,724</forks>
+      <addStars>2,239</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/49717738?s=40&amp;v=4</avatar>
+          <name>linguo2625469</name>
+          <url>https://github.com/linguo2625469</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47023007?s=40&amp;v=4</avatar>
+          <name>vu1Art1st</name>
+          <url>https://github.com/vu1Art1st</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/278352404?s=40&amp;v=4</avatar>
+          <name>citrus-dot</name>
+          <url>https://github.com/citrus-dot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/10182191?s=40&amp;v=4</avatar>
+          <name>oooohhoo</name>
+          <url>https://github.com/oooohhoo</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/56199489?s=40&amp;v=4</avatar>
+          <name>zcbxxx1</name>
+          <url>https://github.com/zcbxxx1</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>tailscale/tailscale</title>
       <link>https://github.com/tailscale/tailscale</link>
       <description>The easiest, most secure way to use WireGuard and 2FA.</description>
       <guid>https://github.com/tailscale/tailscale</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>38,942</stars>
-      <forks>3,464</forks>
-      <addStars>1,652</addStars>
+      <stars>38,971</stars>
+      <forks>3,467</forks>
+      <addStars>1,673</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2621?s=40&amp;v=4</avatar>
@@ -419,9 +457,9 @@
       <guid>https://github.com/gin-gonic/gin</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>89,529</stars>
-      <forks>8,904</forks>
-      <addStars>601</addStars>
+      <stars>89,535</stars>
+      <forks>8,906</forks>
+      <addStars>594</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/127379?s=40&amp;v=4</avatar>
@@ -452,9 +490,9 @@
       <guid>https://github.com/VictoriaMetrics/VictoriaMetrics</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>18,093</stars>
+      <stars>18,097</stars>
       <forks>1,808</forks>
-      <addStars>263</addStars>
+      <addStars>275</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/283442?s=40&amp;v=4</avatar>
@@ -491,8 +529,8 @@
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
       <stars>38,502</stars>
-      <forks>8,443</forks>
-      <addStars>96</addStars>
+      <forks>8,442</forks>
+      <addStars>100</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25311884?s=40&amp;v=4</avatar>
@@ -529,8 +567,8 @@
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
       <stars>52,599</stars>
-      <forks>10,593</forks>
-      <addStars>542</addStars>
+      <forks>10,595</forks>
+      <addStars>544</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6799218?s=40&amp;v=4</avatar>
@@ -566,9 +604,9 @@
       <guid>https://github.com/go-gitea/gitea</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>59,028</stars>
-      <forks>7,387</forks>
-      <addStars>721</addStars>
+      <stars>59,039</stars>
+      <forks>7,389</forks>
+      <addStars>715</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81045?s=40&amp;v=4</avatar>
@@ -604,7 +642,7 @@
       <guid>https://github.com/php/frankenphp</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>11,525</stars>
+      <stars>11,528</stars>
       <forks>514</forks>
       <addStars>147</addStars>
       <contributors>
@@ -642,9 +680,9 @@
       <guid>https://github.com/XTLS/Xray-core</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>42,830</stars>
+      <stars>42,845</stars>
       <forks>6,139</forks>
-      <addStars>890</addStars>
+      <addStars>908</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/63339210?s=40&amp;v=4</avatar>
@@ -675,9 +713,9 @@
       <guid>https://github.com/docker/compose</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>38,773</stars>
-      <forks>5,937</forks>
-      <addStars>548</addStars>
+      <stars>38,793</stars>
+      <forks>5,944</forks>
+      <addStars>599</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/132757?s=40&amp;v=4</avatar>
@@ -708,9 +746,9 @@
       <guid>https://github.com/traefik/traefik</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>65,531</stars>
-      <forks>6,313</forks>
-      <addStars>523</addStars>
+      <stars>65,539</stars>
+      <forks>6,312</forks>
+      <addStars>519</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5674651?s=40&amp;v=4</avatar>

@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 11 Nov 2026 20:13:18 GMT</pubDate>
+    <pubDate>Thu, 12 Nov 2026 08:21:24 GMT</pubDate>
     <item>
       <title>NVIDIA/auto-ontology</title>
       <link>https://github.com/NVIDIA/auto-ontology</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/NVIDIA/auto-ontology</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,788</stars>
-      <forks>968</forks>
-      <addStars>9,621</addStars>
+      <stars>12,013</stars>
+      <forks>986</forks>
+      <addStars>7,947</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/263323607?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>193,039</stars>
-      <forks>22,713</forks>
-      <addStars>5,014</addStars>
+      <stars>193,345</stars>
+      <forks>22,750</forks>
+      <addStars>5,738</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/vercel-labs/agent-desktop</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>21,970</stars>
-      <forks>1,634</forks>
-      <addStars>9,502</addStars>
+      <stars>22,347</stars>
+      <forks>1,662</forks>
+      <addStars>7,772</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4</avatar>
@@ -110,9 +110,9 @@
       <guid>https://github.com/milind-soni/OpenMausBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,177</stars>
-      <forks>2,953</forks>
-      <addStars>8,951</addStars>
+      <stars>21,431</stars>
+      <forks>2,991</forks>
+      <addStars>9,257</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/46266943?s=40&amp;v=4</avatar>
@@ -148,9 +148,9 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>49,780</stars>
-      <forks>3,481</forks>
-      <addStars>3,606</addStars>
+      <stars>50,077</stars>
+      <forks>3,494</forks>
+      <addStars>4,183</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4</avatar>
@@ -181,9 +181,9 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>70,190</stars>
-      <forks>4,653</forks>
-      <addStars>10,967</addStars>
+      <stars>70,601</stars>
+      <forks>4,687</forks>
+      <addStars>11,507</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4</avatar>
@@ -209,9 +209,9 @@
       <guid>https://github.com/mattpocock/skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>321,874</stars>
-      <forks>26,983</forks>
-      <addStars>9,872</addStars>
+      <stars>322,348</stars>
+      <forks>27,038</forks>
+      <addStars>9,575</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/28293365?s=40&amp;v=4</avatar>
@@ -237,9 +237,9 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>101,589</stars>
-      <forks>10,588</forks>
-      <addStars>7,291</addStars>
+      <stars>101,823</stars>
+      <forks>10,604</forks>
+      <addStars>5,814</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4</avatar>
@@ -275,9 +275,9 @@
       <guid>https://github.com/zed-industries/zed</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>94,695</stars>
-      <forks>11,626</forks>
-      <addStars>2,262</addStars>
+      <stars>94,758</stars>
+      <forks>11,638</forks>
+      <addStars>2,310</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/482957?s=40&amp;v=4</avatar>
@@ -313,9 +313,9 @@
       <guid>https://github.com/Donchitos/Claude-Code-Game-Studios</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>38,411</stars>
-      <forks>5,000</forks>
-      <addStars>3,730</addStars>
+      <stars>38,594</stars>
+      <forks>5,017</forks>
+      <addStars>3,150</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/150119193?s=40&amp;v=4</avatar>
@@ -336,9 +336,9 @@
       <guid>https://github.com/google/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>23,914</stars>
-      <forks>1,995</forks>
-      <addStars>2,024</addStars>
+      <stars>23,983</stars>
+      <forks>1,998</forks>
+      <addStars>2,013</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/277152880?s=40&amp;v=4</avatar>
@@ -374,9 +374,9 @@
       <guid>https://github.com/google-deepmind/mujoco</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>17,620</stars>
-      <forks>2,167</forks>
-      <addStars>1,130</addStars>
+      <stars>17,698</stars>
+      <forks>2,176</forks>
+      <addStars>1,535</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6387526?s=40&amp;v=4</avatar>
@@ -399,9 +399,9 @@
           <url>https://github.com/kbayes</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2200217?s=40&amp;v=4</avatar>
-          <name>saran-t</name>
-          <url>https://github.com/saran-t</url>
+          <avatar>https://avatars.githubusercontent.com/u/12521315?s=40&amp;v=4</avatar>
+          <name>thowell</name>
+          <url>https://github.com/thowell</url>
         </contributor>
       </contributors>
     </item>
@@ -412,9 +412,9 @@
       <guid>https://github.com/herdrdev/herdr</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>50,277</stars>
-      <forks>4,063</forks>
-      <addStars>2,196</addStars>
+      <stars>50,446</stars>
+      <forks>4,072</forks>
+      <addStars>2,213</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7064011?s=40&amp;v=4</avatar>
