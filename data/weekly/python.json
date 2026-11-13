@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Weekly Trending",
   "description": "Weekly Trending of Python Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Thu, 12 Nov 2026 20:50:40 GMT",
+  "pubDate": "Fri, 13 Nov 2026 07:58:51 GMT",
   "items": [
     {
       "title": "anthropics/skills",
@@ -10,9 +10,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "193,644",
-      "forks": "22,780",
-      "addStars": "5,738",
+      "stars": "193,842",
+      "forks": "22,807",
+      "addStars": "6,055",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,191",
-      "forks": "1,006",
-      "addStars": "7,947",
+      "stars": "12,365",
+      "forks": "1,017",
+      "addStars": "5,802",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/263323607?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "24,049",
-      "forks": "2,004",
-      "addStars": "2,013",
+      "stars": "24,103",
+      "forks": "2,006",
+      "addStars": "1,933",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/277152880?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "102,072",
-      "forks": "10,625",
-      "addStars": "5,814",
+      "stars": "102,302",
+      "forks": "10,648",
+      "addStars": "4,743",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20604835?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "92,271",
-      "forks": "39,300",
-      "addStars": "311",
+      "stars": "92,280",
+      "forks": "39,308",
+      "addStars": "309",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1444314?s=40&v=4",
@@ -195,9 +195,9 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,809",
-      "forks": "3,491",
-      "addStars": "1,637",
+      "stars": "20,817",
+      "forks": "3,492",
+      "addStars": "1,710",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
@@ -232,9 +232,9 @@
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,675",
-      "forks": "464",
-      "addStars": "2,223",
+      "stars": "7,714",
+      "forks": "468",
+      "addStars": "2,244",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "16,009",
-      "forks": "2,183",
-      "addStars": "1,365",
+      "stars": "16,043",
+      "forks": "2,186",
+      "addStars": "980",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/21198860?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "142,871",
-      "forks": "22,865",
-      "addStars": "3,906",
+      "stars": "143,060",
+      "forks": "22,899",
+      "addStars": "3,314",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4928832?s=40&v=4",
@@ -323,46 +323,14 @@
       ]
     },
     {
-      "title": "pallets/flask",
-      "url": "https://github.com/pallets/flask",
-      "description": "The Python micro framework for building web applications.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "75,108",
-      "forks": "17,316",
-      "addStars": "377",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1242887?s=40&v=4",
-          "name": "davidism",
-          "url": "https://github.com/davidism"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
-          "name": "mitsuhiko",
-          "url": "https://github.com/mitsuhiko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/837573?s=40&v=4",
-          "name": "untitaker",
-          "url": "https://github.com/untitaker"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36428?s=40&v=4",
-          "name": "rduplain",
-          "url": "https://github.com/rduplain"
-        }
-      ]
-    },
-    {
       "title": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "149,526",
-      "forks": "13,437",
-      "addStars": "2,336",
+      "stars": "149,593",
+      "forks": "13,441",
+      "addStars": "1,874",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15701806?s=40&v=4",
@@ -387,9 +355,9 @@
       "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,732",
-      "forks": "329",
-      "addStars": "1,493",
+      "stars": "3,746",
+      "forks": "330",
+      "addStars": "878",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1057302?s=40&v=4",
@@ -419,9 +387,9 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "110,540",
-      "forks": "12,803",
-      "addStars": "14,546",
+      "stars": "110,722",
+      "forks": "12,824",
+      "addStars": "14,381",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
@@ -456,9 +424,9 @@
       "description": "Data validation using Python type hints",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "29,486",
-      "forks": "3,162",
-      "addStars": "194",
+      "stars": "29,493",
+      "forks": "3,164",
+      "addStars": "213",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4039449?s=40&v=4",
@@ -488,9 +456,9 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "71,065",
-      "forks": "57,124",
-      "addStars": "3,508",
+      "stars": "71,149",
+      "forks": "57,179",
+      "addStars": "3,569",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",

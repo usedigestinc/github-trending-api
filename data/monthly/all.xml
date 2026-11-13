@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Thu, 12 Nov 2026 20:50:40 GMT</pubDate>
+    <pubDate>Fri, 13 Nov 2026 07:58:51 GMT</pubDate>
     <item>
       <title>morluto/rea</title>
       <link>https://github.com/morluto/rea</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/morluto/rea</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>454,998</stars>
-      <forks>111,761</forks>
-      <addStars>366,818</addStars>
+      <stars>456,062</stars>
+      <forks>111,992</forks>
+      <addStars>325,178</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/76467478?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/Nutlope/hallmark</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>53,937</stars>
-      <forks>2,879</forks>
-      <addStars>23,478</addStars>
+      <stars>54,186</stars>
+      <forks>2,890</forks>
+      <addStars>24,106</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/154055839?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>71,097</stars>
-      <forks>4,725</forks>
-      <addStars>42,138</addStars>
+      <stars>71,407</stars>
+      <forks>4,757</forks>
+      <addStars>42,602</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>116,524</stars>
-      <forks>10,108</forks>
-      <addStars>17,247</addStars>
+      <stars>116,655</stars>
+      <forks>10,120</forks>
+      <addStars>17,162</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>58,213</stars>
-      <forks>10,658</forks>
-      <addStars>29,814</addStars>
+      <stars>58,768</stars>
+      <forks>10,724</forks>
+      <addStars>30,926</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4</avatar>
@@ -191,9 +191,9 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>108,912</stars>
-      <forks>6,489</forks>
-      <addStars>28,902</addStars>
+      <stars>109,181</stars>
+      <forks>6,506</forks>
+      <addStars>29,165</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4</avatar>
@@ -224,9 +224,9 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>83,363</stars>
-      <forks>7,700</forks>
-      <addStars>22,422</addStars>
+      <stars>83,593</stars>
+      <forks>7,713</forks>
+      <addStars>22,251</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4</avatar>
@@ -262,9 +262,9 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>58,625</stars>
-      <forks>7,126</forks>
-      <addStars>17,406</addStars>
+      <stars>58,756</stars>
+      <forks>7,139</forks>
+      <addStars>17,692</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4</avatar>
@@ -295,9 +295,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>193,644</stars>
-      <forks>22,780</forks>
-      <addStars>13,018</addStars>
+      <stars>193,842</stars>
+      <forks>22,807</forks>
+      <addStars>13,440</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4</avatar>
@@ -333,9 +333,9 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>109,082</stars>
-      <forks>12,086</forks>
-      <addStars>50,619</addStars>
+      <stars>109,435</stars>
+      <forks>12,129</forks>
+      <addStars>49,960</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4</avatar>
@@ -371,9 +371,9 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,034</stars>
-      <forks>4,890</forks>
-      <addStars>9,448</addStars>
+      <stars>47,087</stars>
+      <forks>4,885</forks>
+      <addStars>9,515</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8000722?s=40&amp;v=4</avatar>
@@ -404,9 +404,9 @@
       <guid>https://github.com/Leonxlnx/taste-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>114,196</stars>
-      <forks>7,684</forks>
-      <addStars>19,310</addStars>
+      <stars>114,548</stars>
+      <forks>7,703</forks>
+      <addStars>19,580</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/219127460?s=40&amp;v=4</avatar>
@@ -442,9 +442,9 @@
       <guid>https://github.com/AgriciDaniel/claude-seo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>28,612</stars>
-      <forks>3,672</forks>
-      <addStars>9,470</addStars>
+      <stars>28,803</stars>
+      <forks>3,679</forks>
+      <addStars>9,819</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/223140489?s=40&amp;v=4</avatar>
@@ -475,9 +475,9 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>35,562</stars>
-      <forks>3,935</forks>
-      <addStars>6,534</addStars>
+      <stars>35,608</stars>
+      <forks>3,938</forks>
+      <addStars>6,451</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4</avatar>
