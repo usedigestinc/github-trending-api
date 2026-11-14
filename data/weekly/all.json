@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Fri, 13 Nov 2026 20:30:23 GMT",
+  "pubDate": "Sat, 14 Nov 2026 07:37:48 GMT",
   "items": [
     {
       "title": "sherlock-project/sherlock",
@@ -10,9 +10,9 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "111,048",
-      "forks": "12,853",
-      "addStars": "14,381",
+      "stars": "111,345",
+      "forks": "12,889",
+      "addStars": "13,364",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "194,090",
-      "forks": "22,825",
-      "addStars": "6,055",
+      "stars": "194,254",
+      "forks": "22,856",
+      "addStars": "6,169",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,133",
-      "forks": "3,069",
-      "addStars": "9,104",
+      "stars": "22,341",
+      "forks": "3,109",
+      "addStars": "7,763",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "50,659",
-      "forks": "3,523",
-      "addStars": "4,601",
+      "stars": "50,834",
+      "forks": "3,539",
+      "addStars": "4,360",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Open-source plugin for designing and reviewing software with agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "18,551",
-      "forks": "1,382",
-      "addStars": "5,555",
+      "stars": "18,742",
+      "forks": "1,399",
+      "addStars": "5,560",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5912894?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "71,502",
-      "forks": "57,266",
-      "addStars": "3,569",
+      "stars": "71,892",
+      "forks": "57,369",
+      "addStars": "3,778",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "12,516",
-      "forks": "1,026",
-      "addStars": "5,802",
+      "stars": "12,641",
+      "forks": "1,039",
+      "addStars": "4,108",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/263323607?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "17,857",
-      "forks": "2,187",
-      "addStars": "1,671",
+      "stars": "17,908",
+      "forks": "2,188",
+      "addStars": "1,764",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6387526?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": "323,736",
-      "forks": "27,168",
-      "addStars": "8,731",
+      "stars": "323,986",
+      "forks": "27,195",
+      "addStars": "7,599",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28293365?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "117,099",
-      "forks": "12,243",
-      "addStars": "3,199",
+      "stars": "117,257",
+      "forks": "12,266",
+      "addStars": "3,502",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "71,801",
-      "forks": "4,783",
-      "addStars": "10,700",
+      "stars": "72,086",
+      "forks": "4,805",
+      "addStars": "8,829",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -387,9 +387,9 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "94,948",
-      "forks": "11,689",
-      "addStars": "2,339",
+      "stars": "94,988",
+      "forks": "11,698",
+      "addStars": "2,117",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/482957?s=40&v=4",
@@ -424,9 +424,9 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,855",
+      "stars": "20,891",
       "forks": "3,491",
-      "addStars": "1,710",
+      "addStars": "1,731",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",
@@ -461,9 +461,9 @@
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "23,233",
-      "forks": "1,720",
-      "addStars": "6,414",
+      "stars": "23,447",
+      "forks": "1,738",
+      "addStars": "5,408",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
@@ -483,9 +483,9 @@
       "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "85,357",
-      "forks": "16,287",
-      "addStars": "1,186",
+      "stars": "85,463",
+      "forks": "16,305",
+      "addStars": "1,126",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28616219?s=40&v=4",

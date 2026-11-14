@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Fri, 13 Nov 2026 20:30:23 GMT",
+  "pubDate": "Sat, 14 Nov 2026 07:37:48 GMT",
   "items": [
     {
       "title": "ZhuLinsen/daily_stock_analysis",
@@ -10,9 +10,9 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "71,502",
-      "forks": "57,266",
-      "addStars": "272",
+      "stars": "71,892",
+      "forks": "57,369",
+      "addStars": "256",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,087",
-      "forks": "858",
-      "addStars": "60",
+      "stars": "4,319",
+      "forks": "881",
+      "addStars": "69",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,752",
+      "stars": "1,754",
       "forks": "185",
-      "addStars": "49",
+      "addStars": "28",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/191737370?s=40&v=4",
@@ -101,9 +101,9 @@
       "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,473",
-      "forks": "3,929",
-      "addStars": "65",
+      "stars": "33,499",
+      "forks": "3,935",
+      "addStars": "62",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
@@ -123,9 +123,9 @@
       "description": "Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "453",
+      "stars": "460",
       "forks": "75",
-      "addStars": "46",
+      "addStars": "51",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/189995891?s=40&v=4",
@@ -160,9 +160,9 @@
       "description": "Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google Antigravity, xAI Grok, Meta Muse, Moonshot Kimi, Alibaba Qwen, Z.ai GLM ZCode, MiniMax, Cursor, Perplexity, DeepSeek and 30+ others. Updated daily.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "71,350",
-      "forks": "11,489",
-      "addStars": "83",
+      "stars": "71,374",
+      "forks": "11,491",
+      "addStars": "73",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27446620?s=40&v=4",
@@ -197,9 +197,9 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,173",
-      "forks": "4,894",
-      "addStars": "134",
+      "stars": "47,232",
+      "forks": "4,903",
+      "addStars": "130",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8000722?s=40&v=4",
@@ -229,9 +229,9 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "79,580",
-      "forks": "6,228",
-      "addStars": "125",
+      "stars": "79,616",
+      "forks": "6,229",
+      "addStars": "120",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3607994?s=40&v=4",
@@ -266,9 +266,9 @@
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "69,851",
-      "forks": "10,820",
-      "addStars": "895",
+      "stars": "69,973",
+      "forks": "10,848",
+      "addStars": "787",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
@@ -298,9 +298,9 @@
       "description": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "34,305",
-      "forks": "3,120",
-      "addStars": "140",
+      "stars": "34,356",
+      "forks": "3,129",
+      "addStars": "136",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11807284?s=40&v=4",
@@ -335,9 +335,9 @@
       "description": "Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,693",
+      "stars": "4,702",
       "forks": "505",
-      "addStars": "29",
+      "addStars": "25",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43709619?s=40&v=4",
@@ -372,9 +372,9 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,198",
-      "forks": "3,479",
-      "addStars": "111",
+      "stars": "42,218",
+      "forks": "3,480",
+      "addStars": "113",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/234610432?s=40&v=4",
@@ -409,9 +409,9 @@
       "description": "Build resilient agents.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "44,913",
-      "forks": "7,744",
-      "addStars": "56",
+      "stars": "44,940",
+      "forks": "7,753",
+      "addStars": "49",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13333726?s=40&v=4",
@@ -441,9 +441,9 @@
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,421",
-      "forks": "468",
-      "addStars": "224",
+      "stars": "5,482",
+      "forks": "472",
+      "addStars": "168",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -463,9 +463,9 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "25,866",
-      "forks": "2,293",
-      "addStars": "185",
+      "stars": "25,931",
+      "forks": "2,300",
+      "addStars": "190",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/282666402?s=40&v=4",
@@ -495,9 +495,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "67,543",
-      "forks": "5,938",
-      "addStars": "112",
+      "stars": "67,588",
+      "forks": "5,941",
+      "addStars": "111",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",

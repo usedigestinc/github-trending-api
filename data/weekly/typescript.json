@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Fri, 13 Nov 2026 20:30:23 GMT",
+  "pubDate": "Sat, 14 Nov 2026 07:37:48 GMT",
   "items": [
     {
       "title": "milind-soni/OpenMausBot",
@@ -10,9 +10,9 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,133",
-      "forks": "3,069",
-      "addStars": "9,104",
+      "stars": "22,341",
+      "forks": "3,109",
+      "addStars": "7,763",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "85,357",
-      "forks": "16,287",
-      "addStars": "1,186",
+      "stars": "85,463",
+      "forks": "16,305",
+      "addStars": "1,126",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/28616219?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,042",
-      "forks": "1,020",
-      "addStars": "1,478",
+      "stars": "13,286",
+      "forks": "1,029",
+      "addStars": "1,712",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/269034524?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,068",
-      "forks": "1,481",
-      "addStars": "1,717",
+      "stars": "12,159",
+      "forks": "1,493",
+      "addStars": "1,774",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1574202?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "119,105",
-      "forks": "7,590",
-      "addStars": "744",
+      "stars": "119,121",
+      "forks": "7,594",
+      "addStars": "747",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27055614?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "38,953",
-      "forks": "4,448",
-      "addStars": "949",
+      "stars": "38,982",
+      "forks": "4,451",
+      "addStars": "973",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11807264?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,607",
-      "forks": "3,863",
-      "addStars": "1,001",
+      "stars": "27,659",
+      "forks": "3,869",
+      "addStars": "1,012",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44480372?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,237",
-      "forks": "595",
-      "addStars": "2,986",
+      "stars": "7,300",
+      "forks": "602",
+      "addStars": "3,008",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/12445698?s=40&v=4",
@@ -281,9 +281,9 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,388",
-      "forks": "782",
-      "addStars": "378",
+      "stars": "10,576",
+      "forks": "791",
+      "addStars": "511",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,770",
+      "stars": "5,773",
       "forks": "205",
-      "addStars": "141",
+      "addStars": "138",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3730605?s=40&v=4",
@@ -350,9 +350,9 @@
       "description": "Orchestrate multiple coding agents from desktop and mobile",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "23,996",
-      "forks": "2,944",
-      "addStars": "756",
+      "stars": "24,023",
+      "forks": "2,950",
+      "addStars": "743",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/711886?s=40&v=4",
@@ -377,9 +377,9 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,333",
-      "forks": "2,122",
-      "addStars": "12,506",
+      "stars": "27,561",
+      "forks": "2,141",
+      "addStars": "13,375",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
@@ -409,9 +409,9 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "4,659",
-      "forks": "263",
-      "addStars": "1,341",
+      "stars": "5,111",
+      "forks": "282",
+      "addStars": "3,377",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
@@ -441,9 +441,9 @@
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,251",
-      "forks": "1,492",
-      "addStars": "974",
+      "stars": "8,291",
+      "forks": "1,500",
+      "addStars": "975",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3090527?s=40&v=4",
@@ -466,9 +466,9 @@
           "url": "https://github.com/zicochaos"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/3642270?s=40&v=4",
-          "name": "ald3b",
-          "url": "https://github.com/ald3b"
+          "avatar": "https://avatars.githubusercontent.com/u/226968270?s=40&v=4",
+          "name": "yxr-2025",
+          "url": "https://github.com/yxr-2025"
         }
       ]
     },
@@ -478,9 +478,9 @@
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,486",
-      "forks": "751",
-      "addStars": "1,524",
+      "stars": "7,592",
+      "forks": "765",
+      "addStars": "1,509",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -510,9 +510,9 @@
       "description": "The best way to control Claude Code, Codex and more from any computer or phone",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "59,454",
-      "forks": "10,791",
-      "addStars": "10,337",
+      "stars": "59,843",
+      "forks": "10,830",
+      "addStars": "10,130",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
@@ -547,9 +547,9 @@
       "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,849",
-      "forks": "4,903",
-      "addStars": "1,248",
+      "stars": "32,883",
+      "forks": "4,912",
+      "addStars": "1,307",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/19957?s=40&v=4",

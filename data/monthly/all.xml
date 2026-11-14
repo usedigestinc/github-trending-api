@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 13 Nov 2026 20:30:23 GMT</pubDate>
+    <pubDate>Sat, 14 Nov 2026 07:37:48 GMT</pubDate>
     <item>
       <title>Nutlope/hallmark</title>
       <link>https://github.com/Nutlope/hallmark</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/Nutlope/hallmark</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>54,461</stars>
-      <forks>2,907</forks>
-      <addStars>24,106</addStars>
+      <stars>54,641</stars>
+      <forks>2,919</forks>
+      <addStars>24,631</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/154055839?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/morluto/rea</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>457,367</stars>
-      <forks>112,259</forks>
-      <addStars>325,178</addStars>
+      <stars>458,239</stars>
+      <forks>112,403</forks>
+      <addStars>271,084</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/76467478?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>71,801</stars>
-      <forks>4,783</forks>
-      <addStars>42,602</addStars>
+      <stars>72,086</stars>
+      <forks>4,805</forks>
+      <addStars>42,839</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9935415?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>116,809</stars>
-      <forks>10,136</forks>
-      <addStars>17,162</addStars>
+      <stars>116,912</stars>
+      <forks>10,146</forks>
+      <addStars>17,120</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>59,454</stars>
-      <forks>10,790</forks>
-      <addStars>30,926</addStars>
+      <stars>59,843</stars>
+      <forks>10,830</forks>
+      <addStars>32,057</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4</avatar>
@@ -191,9 +191,9 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>109,500</stars>
-      <forks>6,527</forks>
-      <addStars>29,165</addStars>
+      <stars>109,782</stars>
+      <forks>6,548</forks>
+      <addStars>29,328</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4</avatar>
@@ -224,9 +224,9 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>83,869</stars>
-      <forks>7,747</forks>
-      <addStars>22,251</addStars>
+      <stars>84,054</stars>
+      <forks>7,772</forks>
+      <addStars>21,924</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4</avatar>
@@ -262,9 +262,9 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>58,918</stars>
-      <forks>7,151</forks>
-      <addStars>17,692</addStars>
+      <stars>59,025</stars>
+      <forks>7,161</forks>
+      <addStars>17,913</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4</avatar>
@@ -295,9 +295,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>194,090</stars>
-      <forks>22,825</forks>
-      <addStars>13,440</addStars>
+      <stars>194,254</stars>
+      <forks>22,856</forks>
+      <addStars>13,734</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4</avatar>
@@ -333,9 +333,9 @@
       <guid>https://github.com/AgriciDaniel/claude-seo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,008</stars>
-      <forks>3,698</forks>
-      <addStars>9,819</addStars>
+      <stars>29,134</stars>
+      <forks>3,705</forks>
+      <addStars>10,190</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/223140489?s=40&amp;v=4</avatar>
@@ -366,9 +366,9 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>109,873</stars>
-      <forks>12,177</forks>
-      <addStars>49,960</addStars>
+      <stars>110,164</stars>
+      <forks>12,208</forks>
+      <addStars>48,848</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4</avatar>
@@ -404,9 +404,9 @@
       <guid>https://github.com/Leonxlnx/taste-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>114,952</stars>
-      <forks>7,710</forks>
-      <addStars>19,580</addStars>
+      <stars>115,192</stars>
+      <forks>7,725</forks>
+      <addStars>19,948</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/219127460?s=40&amp;v=4</avatar>
@@ -442,9 +442,9 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>35,656</stars>
-      <forks>3,945</forks>
-      <addStars>6,451</addStars>
+      <stars>35,687</stars>
+      <forks>3,951</forks>
+      <addStars>6,311</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4</avatar>
@@ -475,9 +475,9 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,173</stars>
-      <forks>4,894</forks>
-      <addStars>9,515</addStars>
+      <stars>47,232</stars>
+      <forks>4,903</forks>
+      <addStars>9,580</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8000722?s=40&amp;v=4</avatar>
@@ -502,15 +502,48 @@
       </contributors>
     </item>
     <item>
+      <title>Vincentwei1021/video-shotcraft</title>
+      <link>https://github.com/Vincentwei1021/video-shotcraft</link>
+      <description>AI video skill for Claude Code &amp; Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench &amp; JianYing (CapCut CN) export.</description>
+      <guid>https://github.com/Vincentwei1021/video-shotcraft</guid>
+      <language>TypeScript</language>
+      <languageColor>#3178c6</languageColor>
+      <stars>19,248</stars>
+      <forks>1,818</forks>
+      <addStars>7,584</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/18239147?s=40&amp;v=4</avatar>
+          <name>Vincentwei1021</name>
+          <url>https://github.com/Vincentwei1021</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/15373810?s=40&amp;v=4</avatar>
+          <name>skyzhao1223</name>
+          <url>https://github.com/skyzhao1223</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/184250974?s=40&amp;v=4</avatar>
+          <name>Nombah501</name>
+          <url>https://github.com/Nombah501</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>vercel-labs/agent-browser</title>
       <link>https://github.com/vercel-labs/agent-browser</link>
       <description>Browser automation CLI for AI agents</description>
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>50,659</stars>
-      <forks>3,523</forks>
-      <addStars>6,529</addStars>
+      <stars>50,834</stars>
+      <forks>3,539</forks>
+      <addStars>6,810</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4</avatar>
