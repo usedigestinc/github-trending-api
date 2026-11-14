@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 14 Nov 2026 18:45:33 GMT",
+  "pubDate": "Sat, 14 Nov 2026 22:59:49 GMT",
   "items": [
     {
       "title": "meta/astryx",
@@ -10,8 +10,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,963",
-      "forks": "2,174",
+      "stars": "28,104",
+      "forks": "2,190",
       "addStars": "13,375",
       "contributors": [
         {
@@ -20,14 +20,14 @@
           "url": "https://github.com/cixzhang"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
-          "name": "rubyycheung",
-          "url": "https://github.com/rubyycheung"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
           "name": "josephfarina",
           "url": "https://github.com/josephfarina"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
+          "name": "rubyycheung",
+          "url": "https://github.com/rubyycheung"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/197597?s=40&v=4",
@@ -42,8 +42,8 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,677",
-      "forks": "3,153",
+      "stars": "22,746",
+      "forks": "3,165",
       "addStars": "7,763",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,919",
-      "forks": "839",
+      "stars": "11,079",
+      "forks": "922",
       "addStars": "511",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,503",
-      "forks": "1,050",
+      "stars": "13,529",
+      "forks": "1,054",
       "addStars": "1,712",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "An open-source AI coding agent that lives in your terminal.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,251",
-      "forks": "3,447",
+      "stars": "30,305",
+      "forks": "3,499",
       "addStars": "1,116",
       "contributors": [
         {
@@ -185,7 +185,7 @@
       "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "85,526",
+      "stars": "85,525",
       "forks": "16,316",
       "addStars": "1,126",
       "contributors": [
@@ -217,8 +217,8 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,246",
-      "forks": "1,506",
+      "stars": "12,272",
+      "forks": "1,514",
       "addStars": "1,774",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "119,184",
-      "forks": "7,603",
+      "stars": "119,199",
+      "forks": "7,605",
       "addStars": "747",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,707",
-      "forks": "3,877",
+      "stars": "27,718",
+      "forks": "3,881",
       "addStars": "1,012",
       "contributors": [
         {
@@ -318,8 +318,8 @@
       "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,399",
-      "forks": "1,520",
+      "stars": "8,414",
+      "forks": "1,523",
       "addStars": "975",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "A context-compression plugin for month-long single sessions (billions of tokens) and small context windows (a 100K context is enough), billion-context is all you need .",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,388",
-      "forks": "609",
+      "stars": "7,412",
+      "forks": "610",
       "addStars": "3,008",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,729",
-      "forks": "328",
+      "stars": "5,958",
+      "forks": "398",
       "addStars": "3,377",
       "contributors": [
         {
@@ -419,8 +419,8 @@
       "description": "The best way to control Claude Code, Codex and more from any computer or phone",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "60,396",
-      "forks": "10,882",
+      "stars": "60,551",
+      "forks": "10,905",
       "addStars": "10,130",
       "contributors": [
         {
@@ -456,8 +456,8 @@
       "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "32,968",
-      "forks": "4,928",
+      "stars": "32,997",
+      "forks": "4,932",
       "addStars": "1,307",
       "contributors": [
         {
@@ -488,7 +488,7 @@
       "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "55,018",
+      "stars": "55,025",
       "forks": "9,338",
       "addStars": "217",
       "contributors": [

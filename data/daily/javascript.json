@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 14 Nov 2026 18:45:33 GMT",
+  "pubDate": "Sat, 14 Nov 2026 22:59:49 GMT",
   "items": [
     {
       "title": "louislam/uptime-kuma",
@@ -10,8 +10,8 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "94,157",
-      "forks": "8,760",
+      "stars": "94,215",
+      "forks": "8,818",
       "addStars": "432",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,149",
+      "stars": "1,150",
       "forks": "232",
       "addStars": "4",
       "contributors": [
@@ -138,7 +138,7 @@
       "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "34,712",
+      "stars": "34,716",
       "forks": "3,973",
       "addStars": "15",
       "contributors": [
@@ -170,8 +170,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "117,490",
-      "forks": "12,287",
+      "stars": "117,554",
+      "forks": "12,295",
       "addStars": "419",
       "contributors": [
         {
@@ -207,7 +207,7 @@
       "description": "Automated auditing, performance metrics, and best practices for the web.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "31,083",
+      "stars": "31,092",
       "forks": "9,790",
       "addStars": "21",
       "contributors": [
@@ -244,8 +244,8 @@
       "description": "JavaScript animation engine",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "74,655",
-      "forks": "5,091",
+      "stars": "74,671",
+      "forks": "5,095",
       "addStars": "71",
       "contributors": [
         {

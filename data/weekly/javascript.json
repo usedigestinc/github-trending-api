@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Weekly Trending",
   "description": "Weekly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 14 Nov 2026 18:45:33 GMT",
+  "pubDate": "Sat, 14 Nov 2026 22:59:49 GMT",
   "items": [
     {
       "title": "addyosmani/agent-skills",
@@ -10,8 +10,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "117,490",
-      "forks": "12,287",
+      "stars": "117,554",
+      "forks": "12,295",
       "addStars": "3,502",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "60,294",
-      "forks": "8,803",
+      "stars": "60,334",
+      "forks": "8,804",
       "addStars": "1,302",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "72,473",
-      "forks": "4,838",
+      "stars": "72,593",
+      "forks": "4,851",
       "addStars": "8,829",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "15,158",
-      "forks": "1,733",
+      "stars": "15,161",
+      "forks": "1,735",
       "addStars": "602",
       "contributors": [
         {
@@ -138,8 +138,8 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "94,157",
-      "forks": "8,760",
+      "stars": "94,215",
+      "forks": "8,818",
       "addStars": "777",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "34,660",
-      "forks": "6,666",
+      "stars": "34,678",
+      "forks": "6,674",
       "addStars": "1,716",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "115,525",
-      "forks": "7,753",
+      "stars": "115,620",
+      "forks": "7,760",
       "addStars": "3,885",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "190,776",
-      "forks": "10,667",
+      "stars": "190,892",
+      "forks": "10,673",
       "addStars": "4,719",
       "contributors": [
         {

@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 14 Nov 2026 18:45:33 GMT",
+  "pubDate": "Sat, 14 Nov 2026 22:59:49 GMT",
   "items": [
     {
       "title": "meta/astryx",
@@ -10,8 +10,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "27,962",
-      "forks": "2,174",
+      "stars": "28,104",
+      "forks": "2,190",
       "addStars": "13,375",
       "contributors": [
         {
@@ -20,14 +20,14 @@
           "url": "https://github.com/cixzhang"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
-          "name": "rubyycheung",
-          "url": "https://github.com/rubyycheung"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
           "name": "josephfarina",
           "url": "https://github.com/josephfarina"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
+          "name": "rubyycheung",
+          "url": "https://github.com/rubyycheung"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/197597?s=40&v=4",
@@ -42,8 +42,8 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "111,680",
-      "forks": "12,924",
+      "stars": "111,756",
+      "forks": "12,932",
       "addStars": "13,364",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "194,517",
-      "forks": "22,892",
+      "stars": "194,603",
+      "forks": "22,898",
       "addStars": "6,169",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,108",
-      "forks": "3,565",
+      "stars": "51,183",
+      "forks": "3,574",
       "addStars": "4,360",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Open-source plugin for designing and reviewing software with agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,042",
-      "forks": "1,414",
+      "stars": "19,151",
+      "forks": "1,420",
       "addStars": "5,560",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,677",
-      "forks": "3,153",
+      "stars": "22,746",
+      "forks": "3,165",
       "addStars": "7,763",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "72,207",
-      "forks": "57,461",
+      "stars": "72,244",
+      "forks": "57,475",
       "addStars": "3,778",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "17,960",
-      "forks": "2,199",
+      "stars": "17,974",
+      "forks": "2,200",
       "addStars": "1,764",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,918",
-      "forks": "839",
+      "stars": "11,079",
+      "forks": "922",
       "addStars": "511",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "117,490",
-      "forks": "12,287",
+      "stars": "117,553",
+      "forks": "12,295",
       "addStars": "3,502",
       "contributors": [
         {
@@ -365,8 +365,8 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,957",
-      "forks": "3,494",
+      "stars": "20,972",
+      "forks": "3,497",
       "addStars": "1,731",
       "contributors": [
         {

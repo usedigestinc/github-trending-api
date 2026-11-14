@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Python Languages in GitHub</description>
-    <pubDate>Sat, 14 Nov 2026 18:45:33 GMT</pubDate>
+    <pubDate>Sat, 14 Nov 2026 22:59:50 GMT</pubDate>
     <item>
       <title>sherlock-project/sherlock</title>
       <link>https://github.com/sherlock-project/sherlock</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>111,680</stars>
-      <forks>12,924</forks>
+      <stars>111,756</stars>
+      <forks>12,932</forks>
       <addStars>13,364</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>194,517</stars>
-      <forks>22,892</forks>
+      <stars>194,603</stars>
+      <forks>22,898</forks>
       <addStars>6,169</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/google/elephant-goldfish-model</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,042</stars>
-      <forks>1,414</forks>
+      <stars>19,154</stars>
+      <forks>1,420</forks>
       <addStars>5,560</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>72,207</stars>
-      <forks>57,461</forks>
+      <stars>72,244</stars>
+      <forks>57,475</forks>
       <addStars>3,778</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/anthropics/claude-quickstarts</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,957</stars>
-      <forks>3,494</forks>
+      <stars>20,972</stars>
+      <forks>3,497</forks>
       <addStars>1,731</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/homeassistant-ai/ha-mcp</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,812</stars>
-      <forks>474</forks>
+      <stars>7,826</stars>
+      <forks>476</forks>
       <addStars>2,302</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/NVIDIA/auto-ontology</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>12,791</stars>
-      <forks>1,070</forks>
+      <stars>12,833</stars>
+      <forks>1,073</forks>
       <addStars>4,108</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>143,547</stars>
-      <forks>22,996</forks>
+      <stars>143,572</stars>
+      <forks>23,003</forks>
       <addStars>3,217</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/soxoj/maigret</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>40,667</stars>
-      <forks>3,283</forks>
+      <stars>40,679</stars>
+      <forks>3,284</forks>
       <addStars>892</addStars>
       <contributors>
         <contributor>
@@ -323,7 +323,7 @@
       <guid>https://github.com/bradautomates/claude-video</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,803</stars>
+      <stars>20,814</stars>
       <forks>2,210</forks>
       <addStars>707</addStars>
       <contributors>
@@ -346,8 +346,8 @@
       <guid>https://github.com/tradermonty/claude-trading-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,641</stars>
-      <forks>929</forks>
+      <stars>4,763</stars>
+      <forks>988</forks>
       <addStars>774</addStars>
       <contributors>
         <contributor>
@@ -379,8 +379,8 @@
       <guid>https://github.com/davila7/claude-code-templates</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>33,596</stars>
-      <forks>3,960</forks>
+      <stars>33,621</stars>
+      <forks>3,967</forks>
       <addStars>332</addStars>
       <contributors>
         <contributor>
@@ -402,8 +402,8 @@
       <guid>https://github.com/The-PR-Agent/pr-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,164</stars>
-      <forks>2,200</forks>
+      <stars>16,179</stars>
+      <forks>2,202</forks>
       <addStars>850</addStars>
       <contributors>
         <contributor>
@@ -435,8 +435,8 @@
       <guid>https://github.com/elementalsouls/Claude-BugHunter</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,823</stars>
-      <forks>894</forks>
+      <stars>5,838</stars>
+      <forks>897</forks>
       <addStars>326</addStars>
       <contributors>
         <contributor>
@@ -468,8 +468,8 @@
       <guid>https://github.com/NVIDIA/SkillSpector</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,024</stars>
-      <forks>2,313</forks>
+      <stars>26,049</stars>
+      <forks>2,314</forks>
       <addStars>1,212</addStars>
       <contributors>
         <contributor>
@@ -501,8 +501,8 @@
       <guid>https://github.com/jamiepine/voicebox</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>60,629</stars>
-      <forks>7,623</forks>
+      <stars>60,641</stars>
+      <forks>7,625</forks>
       <addStars>1,076</addStars>
       <contributors>
         <contributor>
@@ -534,7 +534,7 @@
       <guid>https://github.com/NVIDIA/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>3,988</stars>
+      <stars>3,989</stars>
       <forks>524</forks>
       <addStars>92</addStars>
       <contributors>

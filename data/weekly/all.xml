@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Sat, 14 Nov 2026 18:45:33 GMT</pubDate>
+    <pubDate>Sat, 14 Nov 2026 22:59:49 GMT</pubDate>
     <item>
       <title>meta/astryx</title>
       <link>https://github.com/meta/astryx</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/meta/astryx</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>27,962</stars>
-      <forks>2,174</forks>
+      <stars>28,104</stars>
+      <forks>2,190</forks>
       <addStars>13,375</addStars>
       <contributors>
         <contributor>
@@ -21,14 +21,14 @@
           <url>https://github.com/cixzhang</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/254546175?s=40&amp;v=4</avatar>
-          <name>rubyycheung</name>
-          <url>https://github.com/rubyycheung</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/17398284?s=40&amp;v=4</avatar>
           <name>josephfarina</name>
           <url>https://github.com/josephfarina</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/254546175?s=40&amp;v=4</avatar>
+          <name>rubyycheung</name>
+          <url>https://github.com/rubyycheung</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/197597?s=40&amp;v=4</avatar>
@@ -44,8 +44,8 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>111,680</stars>
-      <forks>12,924</forks>
+      <stars>111,756</stars>
+      <forks>12,932</forks>
       <addStars>13,364</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>194,517</stars>
-      <forks>22,892</forks>
+      <stars>194,603</stars>
+      <forks>22,898</forks>
       <addStars>6,169</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>51,108</stars>
-      <forks>3,565</forks>
+      <stars>51,183</stars>
+      <forks>3,574</forks>
       <addStars>4,360</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/google/elephant-goldfish-model</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,042</stars>
-      <forks>1,414</forks>
+      <stars>19,151</stars>
+      <forks>1,420</forks>
       <addStars>5,560</addStars>
       <contributors>
         <contributor>
@@ -186,8 +186,8 @@
       <guid>https://github.com/milind-soni/OpenMausBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>22,677</stars>
-      <forks>3,153</forks>
+      <stars>22,746</stars>
+      <forks>3,165</forks>
       <addStars>7,763</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>72,207</stars>
-      <forks>57,461</forks>
+      <stars>72,244</stars>
+      <forks>57,475</forks>
       <addStars>3,778</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/google-deepmind/mujoco</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>17,960</stars>
-      <forks>2,199</forks>
+      <stars>17,974</stars>
+      <forks>2,200</forks>
       <addStars>1,764</addStars>
       <contributors>
         <contributor>
@@ -300,8 +300,8 @@
       <guid>https://github.com/backnotprop/plannotator</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,918</stars>
-      <forks>839</forks>
+      <stars>11,079</stars>
+      <forks>922</forks>
       <addStars>511</addStars>
       <contributors>
         <contributor>
@@ -338,8 +338,8 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>117,490</stars>
-      <forks>12,287</forks>
+      <stars>117,553</stars>
+      <forks>12,295</forks>
       <addStars>3,502</addStars>
       <contributors>
         <contributor>
@@ -376,8 +376,8 @@
       <guid>https://github.com/anthropics/claude-quickstarts</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,957</stars>
-      <forks>3,494</forks>
+      <stars>20,972</stars>
+      <forks>3,497</forks>
       <addStars>1,731</addStars>
       <contributors>
         <contributor>

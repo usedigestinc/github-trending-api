@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 14 Nov 2026 18:45:33 GMT",
+  "pubDate": "Sat, 14 Nov 2026 22:59:49 GMT",
   "items": [
     {
       "title": "backnotprop/plannotator",
@@ -10,8 +10,8 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,918",
-      "forks": "838",
+      "stars": "11,079",
+      "forks": "922",
       "addStars": "412",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,729",
-      "forks": "328",
+      "stars": "5,957",
+      "forks": "398",
       "addStars": "1,225",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,641",
-      "forks": "929",
+      "stars": "4,763",
+      "forks": "988",
       "addStars": "556",
       "contributors": [
         {
@@ -111,8 +111,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "56,178",
-      "forks": "4,685",
+      "stars": "56,257",
+      "forks": "4,757",
       "addStars": "673",
       "contributors": [
         {
@@ -143,8 +143,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "51,279",
-      "forks": "3,847",
+      "stars": "51,386",
+      "forks": "3,904",
       "addStars": "897",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "An open-source AI coding agent that lives in your terminal.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,251",
-      "forks": "3,447",
+      "stars": "30,305",
+      "forks": "3,499",
       "addStars": "116",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "24,370",
-      "forks": "2,147",
+      "stars": "24,449",
+      "forks": "2,224",
       "addStars": "495",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,273",
-      "forks": "1,609",
+      "stars": "17,334",
+      "forks": "1,665",
       "addStars": "9",
       "contributors": [
         {
@@ -291,8 +291,8 @@
       "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": "2,123",
-      "forks": "434",
+      "stars": "2,149",
+      "forks": "496",
       "addStars": "53",
       "contributors": [
         {
@@ -328,8 +328,8 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "119,943",
-      "forks": "6,998",
+      "stars": "120,032",
+      "forks": "7,000",
       "addStars": "227",
       "contributors": [
         {
@@ -360,8 +360,8 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "94,157",
-      "forks": "8,760",
+      "stars": "94,215",
+      "forks": "8,818",
       "addStars": "432",
       "contributors": [
         {
@@ -397,8 +397,8 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "15,174",
-      "forks": "1,175",
+      "stars": "15,268",
+      "forks": "1,265",
       "addStars": "659",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "808",
-      "forks": "145",
+      "stars": "867",
+      "forks": "211",
       "addStars": "101",
       "contributors": [
         {
@@ -466,8 +466,8 @@
       "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "2,024",
-      "forks": "115",
+      "stars": "2,196",
+      "forks": "171",
       "addStars": "423",
       "contributors": [
         {
@@ -498,8 +498,8 @@
       "description": "A WiFi security auditing software",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,695",
-      "forks": "968",
+      "stars": "5,819",
+      "forks": "1,021",
       "addStars": "269",
       "contributors": [
         {

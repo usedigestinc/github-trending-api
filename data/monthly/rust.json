@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Monthly Trending",
   "description": "Monthly Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 14 Nov 2026 18:45:33 GMT",
+  "pubDate": "Sat, 14 Nov 2026 22:59:50 GMT",
   "items": [
     {
       "title": "pbakaus/impeccable",
@@ -10,8 +10,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "110,094",
-      "forks": "6,562",
+      "stars": "110,189",
+      "forks": "6,569",
       "addStars": "29,328",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,108",
-      "forks": "3,565",
+      "stars": "51,183",
+      "forks": "3,574",
       "addStars": "6,810",
       "contributors": [
         {
@@ -74,8 +74,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,860",
-      "forks": "1,173",
+      "stars": "15,878",
+      "forks": "1,174",
       "addStars": "6,703",
       "contributors": [
         {
@@ -111,7 +111,7 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,525",
+      "stars": "12,528",
       "forks": "497",
       "addStars": "3,339",
       "contributors": [
@@ -138,8 +138,8 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "95,034",
-      "forks": "11,704",
+      "stars": "95,042",
+      "forks": "11,703",
       "addStars": "3,846",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "38,756",
-      "forks": "3,659",
+      "stars": "38,771",
+      "forks": "3,662",
       "addStars": "5,117",
       "contributors": [
         {
@@ -212,7 +212,7 @@
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,188",
+      "stars": "6,192",
       "forks": "1,093",
       "addStars": "878",
       "contributors": [
@@ -244,7 +244,7 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,233",
+      "stars": "51,242",
       "forks": "2,668",
       "addStars": "1,666",
       "contributors": [
@@ -276,8 +276,8 @@
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "23,689",
-      "forks": "1,763",
+      "stars": "23,733",
+      "forks": "1,767",
       "addStars": "21,513",
       "contributors": [
         {
@@ -298,8 +298,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "104,278",
-      "forks": "13,565",
+      "stars": "104,295",
+      "forks": "13,567",
       "addStars": "6,841",
       "contributors": [
         {
@@ -330,8 +330,8 @@
       "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "19,070",
-      "forks": "1,412",
+      "stars": "19,076",
+      "forks": "1,413",
       "addStars": "16,946",
       "contributors": [
         {
@@ -367,8 +367,8 @@
       "description": "Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "17,569",
-      "forks": "2,166",
+      "stars": "17,601",
+      "forks": "2,170",
       "addStars": "12,279",
       "contributors": [
         {
@@ -404,7 +404,7 @@
       "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,897",
+      "stars": "2,900",
       "forks": "326",
       "addStars": "1,863",
       "contributors": [
@@ -441,8 +441,8 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,315",
-      "forks": "594",
+      "stars": "6,319",
+      "forks": "593",
       "addStars": "1,690",
       "contributors": [
         {
@@ -478,8 +478,8 @@
       "description": "Object-storage native graph database with branching and typed ontology",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,383",
-      "forks": "302",
+      "stars": "2,422",
+      "forks": "305",
       "addStars": "901",
       "contributors": [
         {
@@ -510,7 +510,7 @@
       "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,107",
+      "stars": "4,111",
       "forks": "517",
       "addStars": "613",
       "contributors": [
@@ -548,7 +548,7 @@
       "language": "Rust",
       "languageColor": "#dea584",
       "stars": "96,694",
-      "forks": "5,281",
+      "forks": "5,282",
       "addStars": "960",
       "contributors": [
         {
@@ -579,7 +579,7 @@
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "91,997",
+      "stars": "92,007",
       "forks": "3,813",
       "addStars": "1,743",
       "contributors": [
@@ -606,7 +606,7 @@
       "description": "A high-performance inference engine for AI models",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,331",
+      "stars": "3,334",
       "forks": "238",
       "addStars": "1,049",
       "contributors": [
@@ -643,7 +643,7 @@
       "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "17,410",
+      "stars": "17,413",
       "forks": "1,467",
       "addStars": "851",
       "contributors": [

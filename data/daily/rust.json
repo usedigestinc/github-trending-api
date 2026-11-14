@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 14 Nov 2026 18:45:33 GMT",
+  "pubDate": "Sat, 14 Nov 2026 22:59:50 GMT",
   "items": [
     {
       "title": "martin-olivier/airgorah",
@@ -10,8 +10,8 @@
       "description": "A WiFi security auditing software",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,695",
-      "forks": "968",
+      "stars": "5,819",
+      "forks": "1,021",
       "addStars": "269",
       "contributors": [
         {
@@ -37,8 +37,8 @@
       "description": "Object-storage native graph database with branching and typed ontology",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,383",
-      "forks": "302",
+      "stars": "2,422",
+      "forks": "305",
       "addStars": "212",
       "contributors": [
         {
@@ -69,7 +69,7 @@
       "description": "Verified Rust for low-level systems code",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,779",
+      "stars": "3,783",
       "forks": "264",
       "addStars": "20",
       "contributors": [
@@ -106,8 +106,8 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,439",
-      "forks": "4,946",
+      "stars": "37,442",
+      "forks": "4,948",
       "addStars": "275",
       "contributors": [
         {
@@ -143,7 +143,7 @@
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "56,608",
+      "stars": "56,616",
       "forks": "6,589",
       "addStars": "72",
       "contributors": [
@@ -180,7 +180,7 @@
       "description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,658",
+      "stars": "3,663",
       "forks": "372",
       "addStars": "60",
       "contributors": [
@@ -212,7 +212,7 @@
       "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "13,645",
+      "stars": "13,648",
       "forks": "2,249",
       "addStars": "4",
       "contributors": [
@@ -249,9 +249,9 @@
       "description": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,300",
-      "forks": "938",
-      "addStars": "6",
+      "stars": "7,303",
+      "forks": "939",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5351546?s=40&v=4",
@@ -281,7 +281,7 @@
       "description": "A high-performance inference engine for AI models",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,331",
+      "stars": "3,334",
       "forks": "238",
       "addStars": "17",
       "contributors": [

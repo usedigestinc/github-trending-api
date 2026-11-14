@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 14 Nov 2026 18:45:33 GMT",
+  "pubDate": "Sat, 14 Nov 2026 22:59:50 GMT",
   "items": [
     {
       "title": "vercel-labs/agent-browser",
@@ -10,8 +10,8 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,108",
-      "forks": "3,565",
+      "stars": "51,183",
+      "forks": "3,574",
       "addStars": "4,360",
       "contributors": [
         {
@@ -42,8 +42,8 @@
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "23,689",
-      "forks": "1,763",
+      "stars": "23,733",
+      "forks": "1,767",
       "addStars": "5,408",
       "contributors": [
         {
@@ -64,8 +64,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "104,278",
-      "forks": "13,565",
+      "stars": "104,295",
+      "forks": "13,567",
       "addStars": "1,639",
       "contributors": [
         {
@@ -96,8 +96,8 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,439",
-      "forks": "4,946",
+      "stars": "37,442",
+      "forks": "4,948",
       "addStars": "683",
       "contributors": [
         {
@@ -133,7 +133,7 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,233",
+      "stars": "51,242",
       "forks": "2,668",
       "addStars": "940",
       "contributors": [
@@ -165,8 +165,8 @@
       "description": "the runtime your coding agents live on",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "50,956",
-      "forks": "4,124",
+      "stars": "50,985",
+      "forks": "4,128",
       "addStars": "2,423",
       "contributors": [
         {
@@ -197,8 +197,8 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "20,679",
-      "forks": "1,264",
+      "stars": "20,694",
+      "forks": "1,266",
       "addStars": "1,012",
       "contributors": [
         {
@@ -234,8 +234,8 @@
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "25,024",
-      "forks": "2,353",
+      "stars": "25,029",
+      "forks": "2,354",
       "addStars": "449",
       "contributors": [
         {
@@ -271,8 +271,8 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "129,454",
-      "forks": "20,698",
+      "stars": "129,465",
+      "forks": "20,701",
       "addStars": "980",
       "contributors": [
         {
@@ -308,8 +308,8 @@
       "description": "A batteries-included framework for building web apps",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,219",
-      "forks": "326",
+      "stars": "7,222",
+      "forks": "327",
       "addStars": "868",
       "contributors": [
         {
@@ -340,8 +340,8 @@
       "description": "Comfortably monitor your network traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "42,775",
-      "forks": "2,009",
+      "stars": "42,784",
+      "forks": "2,007",
       "addStars": "774",
       "contributors": [
         {
@@ -367,8 +367,8 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "135,284",
-      "forks": "21,458",
+      "stars": "135,298",
+      "forks": "21,460",
       "addStars": "1,929",
       "contributors": [
         {
@@ -404,7 +404,7 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "10,078",
+      "stars": "10,080",
       "forks": "444",
       "addStars": "286",
       "contributors": [
