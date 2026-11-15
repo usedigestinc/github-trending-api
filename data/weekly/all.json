@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 14 Nov 2026 22:59:49 GMT",
+  "pubDate": "Sun, 15 Nov 2026 07:53:21 GMT",
   "items": [
     {
       "title": "meta/astryx",
@@ -10,9 +10,9 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "28,104",
-      "forks": "2,190",
-      "addStars": "13,375",
+      "stars": "28,332",
+      "forks": "2,205",
+      "addStars": "13,660",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
@@ -20,14 +20,14 @@
           "url": "https://github.com/cixzhang"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
-          "name": "josephfarina",
-          "url": "https://github.com/josephfarina"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/254546175?s=40&v=4",
           "name": "rubyycheung",
           "url": "https://github.com/rubyycheung"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/17398284?s=40&v=4",
+          "name": "josephfarina",
+          "url": "https://github.com/josephfarina"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/197597?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "111,756",
-      "forks": "12,932",
-      "addStars": "13,364",
+      "stars": "111,949",
+      "forks": "12,954",
+      "addStars": "12,401",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "194,603",
-      "forks": "22,898",
-      "addStars": "6,169",
+      "stars": "194,773",
+      "forks": "22,913",
+      "addStars": "6,220",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,183",
-      "forks": "3,574",
-      "addStars": "4,360",
+      "stars": "51,320",
+      "forks": "3,584",
+      "addStars": "4,601",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Open-source plugin for designing and reviewing software with agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,151",
-      "forks": "1,420",
-      "addStars": "5,560",
+      "stars": "19,322",
+      "forks": "1,434",
+      "addStars": "5,539",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5912894?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "22,746",
-      "forks": "3,165",
-      "addStars": "7,763",
+      "stars": "22,916",
+      "forks": "3,194",
+      "addStars": "6,413",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/46266943?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "72,244",
-      "forks": "57,475",
-      "addStars": "3,778",
+      "stars": "72,326",
+      "forks": "57,507",
+      "addStars": "4,526",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": "17,974",
-      "forks": "2,200",
-      "addStars": "1,764",
+      "stars": "18,012",
+      "forks": "2,204",
+      "addStars": "1,859",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6387526?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,079",
-      "forks": "922",
-      "addStars": "511",
+      "stars": "11,386",
+      "forks": "983",
+      "addStars": "818",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "117,553",
-      "forks": "12,295",
-      "addStars": "3,502",
+      "stars": "117,676",
+      "forks": "12,314",
+      "addStars": "3,670",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -343,6 +343,11 @@
           "url": "https://github.com/nucliweb"
         },
         {
+          "avatar": "https://avatars.githubusercontent.com/u/66267222?s=40&v=4",
+          "name": "ayobamiseun",
+          "url": "https://github.com/ayobamiseun"
+        },
+        {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
           "name": "claude",
           "url": "https://github.com/claude"
@@ -351,11 +356,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/47457359?s=40&v=4",
           "name": "rudycelekli",
           "url": "https://github.com/rudycelekli"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/66267222?s=40&v=4",
-          "name": "ayobamiseun",
-          "url": "https://github.com/ayobamiseun"
         }
       ]
     },
@@ -365,9 +365,9 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,972",
-      "forks": "3,497",
-      "addStars": "1,731",
+      "stars": "21,009",
+      "forks": "3,499",
+      "addStars": "1,794",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/286490957?s=40&v=4",

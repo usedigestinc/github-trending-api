@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Python Languages in GitHub</description>
-    <pubDate>Sat, 14 Nov 2026 22:59:50 GMT</pubDate>
+    <pubDate>Sun, 15 Nov 2026 07:53:21 GMT</pubDate>
     <item>
       <title>anthropics/skills</title>
       <link>https://github.com/anthropics/skills</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>194,603</stars>
-      <forks>22,898</forks>
-      <addStars>13,734</addStars>
+      <stars>194,774</stars>
+      <forks>22,913</forks>
+      <addStars>13,927</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>59,215</stars>
-      <forks>7,175</forks>
-      <addStars>17,913</addStars>
+      <stars>59,311</stars>
+      <forks>7,186</forks>
+      <addStars>18,077</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/AgriciDaniel/claude-seo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>29,350</stars>
-      <forks>3,718</forks>
-      <addStars>10,190</addStars>
+      <stars>29,464</stars>
+      <forks>3,728</forks>
+      <addStars>10,402</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/223140489?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>35,829</stars>
-      <forks>3,968</forks>
-      <addStars>6,311</addStars>
+      <stars>35,960</stars>
+      <forks>3,975</forks>
+      <addStars>6,228</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4</avatar>
@@ -148,9 +148,9 @@
       <guid>https://github.com/debpalash/VoiceStudio</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>110,645</stars>
-      <forks>12,252</forks>
-      <addStars>48,848</addStars>
+      <stars>110,862</stars>
+      <forks>12,287</forks>
+      <addStars>46,324</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4178343?s=40&amp;v=4</avatar>
@@ -186,9 +186,9 @@
       <guid>https://github.com/AstrBotDevs/AstrBot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>46,917</stars>
-      <forks>3,574</forks>
-      <addStars>5,279</addStars>
+      <stars>46,941</stars>
+      <forks>3,580</forks>
+      <addStars>5,296</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/37870767?s=40&amp;v=4</avatar>
@@ -224,9 +224,9 @@
       <guid>https://github.com/anthropics/claude-plugins-official</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,294</stars>
-      <forks>4,913</forks>
-      <addStars>9,580</addStars>
+      <stars>47,327</stars>
+      <forks>4,917</forks>
+      <addStars>9,575</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8000722?s=40&amp;v=4</avatar>
@@ -257,9 +257,9 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>102,907</stars>
-      <forks>10,717</forks>
-      <addStars>15,639</addStars>
+      <stars>103,077</stars>
+      <forks>10,738</forks>
+      <addStars>15,754</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4</avatar>
@@ -295,9 +295,9 @@
       <guid>https://github.com/NVIDIA/SkillSpector</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,049</stars>
-      <forks>2,314</forks>
-      <addStars>5,808</addStars>
+      <stars>26,096</stars>
+      <forks>2,318</forks>
+      <addStars>5,926</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/282666402?s=40&amp;v=4</avatar>
@@ -328,9 +328,9 @@
       <guid>https://github.com/The-PR-Agent/pr-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,179</stars>
-      <forks>2,202</forks>
-      <addStars>2,776</addStars>
+      <stars>16,189</stars>
+      <forks>2,204</forks>
+      <addStars>2,835</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/21198860?s=40&amp;v=4</avatar>
@@ -361,9 +361,9 @@
       <guid>https://github.com/666ghj/MiroFish</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>85,598</stars>
-      <forks>12,987</forks>
-      <addStars>6,983</addStars>
+      <stars>85,633</stars>
+      <forks>12,989</forks>
+      <addStars>6,766</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/110395318?s=40&amp;v=4</avatar>
@@ -389,9 +389,9 @@
       <guid>https://github.com/fastapi/fastapi</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>104,717</stars>
-      <forks>10,250</forks>
-      <addStars>2,627</addStars>
+      <stars>104,739</stars>
+      <forks>10,277</forks>
+      <addStars>2,599</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1326112?s=40&amp;v=4</avatar>
@@ -412,9 +412,9 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>143,573</stars>
-      <forks>23,003</forks>
-      <addStars>13,471</addStars>
+      <stars>143,654</stars>
+      <forks>23,012</forks>
+      <addStars>13,454</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4</avatar>
@@ -450,9 +450,9 @@
       <guid>https://github.com/ahujasid/mcp-for-blender</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>34,441</stars>
-      <forks>3,140</forks>
-      <addStars>3,770</addStars>
+      <stars>34,466</stars>
+      <forks>3,144</forks>
+      <addStars>3,730</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11807284?s=40&amp;v=4</avatar>
@@ -488,9 +488,9 @@
       <guid>https://github.com/luongnv89/claude-howto</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,206</stars>
-      <forks>5,750</forks>
-      <addStars>5,483</addStars>
+      <stars>47,215</stars>
+      <forks>5,751</forks>
+      <addStars>5,494</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3288457?s=40&amp;v=4</avatar>
@@ -526,9 +526,9 @@
       <guid>https://github.com/Comfy-Org/ComfyUI</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>146,837</stars>
-      <forks>17,516</forks>
-      <addStars>9,850</addStars>
+      <stars>146,897</stars>
+      <forks>17,518</forks>
+      <addStars>9,823</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/121283862?s=40&amp;v=4</avatar>
@@ -564,9 +564,9 @@
       <guid>https://github.com/pandas-dev/pandas</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>50,519</stars>
-      <forks>20,742</forks>
-      <addStars>1,069</addStars>
+      <stars>50,523</stars>
+      <forks>20,741</forks>
+      <addStars>1,062</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8078968?s=40&amp;v=4</avatar>
@@ -602,9 +602,9 @@
       <guid>https://github.com/earthtojake/text-to-cad</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>26,323</stars>
-      <forks>2,508</forks>
-      <addStars>6,489</addStars>
+      <stars>26,350</stars>
+      <forks>2,510</forks>
+      <addStars>6,184</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10742417?s=40&amp;v=4</avatar>
@@ -630,9 +630,9 @@
       <guid>https://github.com/vllm-project/vllm</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>96,936</stars>
-      <forks>24,830</forks>
-      <addStars>3,377</addStars>
+      <stars>96,945</stars>
+      <forks>24,838</forks>
+      <addStars>3,371</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -668,9 +668,9 @@
       <guid>https://github.com/elayadesign/ai-design-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>15,545</stars>
-      <forks>1,197</forks>
-      <addStars>12,943</addStars>
+      <stars>15,568</stars>
+      <forks>1,201</forks>
+      <addStars>12,940</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>

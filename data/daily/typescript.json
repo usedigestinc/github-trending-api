@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sat, 14 Nov 2026 22:59:49 GMT",
+  "pubDate": "Sun, 15 Nov 2026 07:53:21 GMT",
   "items": [
     {
       "title": "backnotprop/plannotator",
@@ -10,9 +10,9 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,079",
-      "forks": "922",
-      "addStars": "412",
+      "stars": "11,386",
+      "forks": "983",
+      "addStars": "408",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,958",
-      "forks": "398",
-      "addStars": "1,225",
+      "stars": "6,338",
+      "forks": "480",
+      "addStars": "1,231",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "56,257",
-      "forks": "4,757",
-      "addStars": "673",
+      "stars": "56,488",
+      "forks": "4,782",
+      "addStars": "664",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "An open-source AI coding agent that lives in your terminal.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,305",
-      "forks": "3,499",
-      "addStars": "116",
+      "stars": "30,432",
+      "forks": "3,524",
+      "addStars": "64",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1166785?s=40&v=4",
@@ -148,8 +148,8 @@
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "24,449",
-      "forks": "2,224",
+      "stars": "25,112",
+      "forks": "2,300",
       "addStars": "495",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,334",
-      "forks": "1,665",
+      "stars": "17,477",
+      "forks": "1,729",
       "addStars": "9",
       "contributors": [
         {
@@ -222,9 +222,9 @@
       "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "18,538",
-      "forks": "1,512",
-      "addStars": "49",
+      "stars": "18,556",
+      "forks": "1,518",
+      "addStars": "51",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/243035832?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,272",
-      "forks": "1,514",
-      "addStars": "209",
+      "stars": "12,317",
+      "forks": "1,522",
+      "addStars": "206",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1574202?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "Your AI workspace for models, agents, and productivity.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "53,515",
-      "forks": "5,224",
-      "addStars": "31",
+      "stars": "53,529",
+      "forks": "5,223",
+      "addStars": "36",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8253512?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,529",
-      "forks": "1,054",
-      "addStars": "599",
+      "stars": "13,571",
+      "forks": "1,059",
+      "addStars": "595",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/269034524?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,360",
-      "forks": "1,409",
-      "addStars": "51",
+      "stars": "17,391",
+      "forks": "1,410",
+      "addStars": "54",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8867023?s=40&v=4",
@@ -392,9 +392,9 @@
       "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "5,184",
-      "forks": "675",
-      "addStars": "12",
+      "stars": "5,189",
+      "forks": "677",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5410641?s=40&v=4",
@@ -429,9 +429,9 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "51,427",
-      "forks": "5,187",
-      "addStars": "51",
+      "stars": "51,441",
+      "forks": "5,185",
+      "addStars": "46",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11081491?s=40&v=4",
@@ -461,9 +461,9 @@
       "description": "Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,182",
-      "forks": "2,026",
-      "addStars": "19",
+      "stars": "11,195",
+      "forks": "2,027",
+      "addStars": "21",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33502405?s=40&v=4",
@@ -498,7 +498,7 @@
       "description": "Share coding agents with your team on phone and desktop",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "1,762",
+      "stars": "1,771",
       "forks": "190",
       "addStars": "9",
       "contributors": [
