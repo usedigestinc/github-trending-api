@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sun, 15 Nov 2026 19:23:46 GMT",
+  "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
   "items": [
     {
       "title": "vercel-labs/agent-browser",
@@ -10,9 +10,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,541",
-      "forks": "3,601",
-      "addStars": "4,601",
+      "stars": "51,771",
+      "forks": "3,623",
+      "addStars": "4,217",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,478",
-      "forks": "4,951",
-      "addStars": "687",
+      "stars": "37,498",
+      "forks": "4,952",
+      "addStars": "703",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51647?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "24,138",
-      "forks": "1,793",
-      "addStars": "5,171",
+      "stars": "24,364",
+      "forks": "1,809",
+      "addStars": "4,719",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
@@ -101,9 +101,9 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "104,352",
-      "forks": "13,576",
-      "addStars": "1,551",
+      "stars": "104,409",
+      "forks": "13,579",
+      "addStars": "1,444",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2934394?s=40&v=4",
@@ -133,9 +133,9 @@
       "description": "A batteries-included framework for building web apps",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,229",
+      "stars": "7,241",
       "forks": "326",
-      "addStars": "887",
+      "addStars": "888",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8947616?s=40&v=4",
@@ -165,9 +165,9 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,251",
-      "forks": "2,700",
-      "addStars": "594",
+      "stars": "51,272",
+      "forks": "2,714",
+      "addStars": "363",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
@@ -197,9 +197,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "20,749",
-      "forks": "1,272",
-      "addStars": "914",
+      "stars": "20,810",
+      "forks": "1,274",
+      "addStars": "838",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5518?s=40&v=4",
@@ -234,9 +234,9 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "36,078",
-      "forks": "1,543",
-      "addStars": "160",
+      "stars": "36,092",
+      "forks": "1,544",
+      "addStars": "162",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/795598?s=40&v=4",
@@ -271,9 +271,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "129,577",
-      "forks": "20,730",
-      "addStars": "980",
+      "stars": "129,650",
+      "forks": "20,753",
+      "addStars": "992",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
@@ -308,9 +308,9 @@
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "25,069",
-      "forks": "2,367",
-      "addStars": "446",
+      "stars": "25,093",
+      "forks": "2,371",
+      "addStars": "423",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33632126?s=40&v=4",
@@ -345,9 +345,9 @@
       "description": "the runtime your coding agents live on",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,149",
-      "forks": "4,139",
-      "addStars": "2,026",
+      "stars": "51,261",
+      "forks": "4,147",
+      "addStars": "1,888",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7064011?s=40&v=4",
@@ -377,9 +377,9 @@
       "description": "Object-storage native graph database with branching and typed ontology",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,567",
-      "forks": "316",
-      "addStars": "593",
+      "stars": "2,690",
+      "forks": "322",
+      "addStars": "607",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/176176572?s=40&v=4",

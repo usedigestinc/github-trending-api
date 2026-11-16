@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sun, 15 Nov 2026 19:23:46 GMT",
+  "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
   "items": [
     {
       "title": "dream-num/univer",
@@ -10,9 +10,9 @@
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "25,471",
-      "forks": "2,328",
-      "addStars": "1,041",
+      "stars": "26,655",
+      "forks": "2,428",
+      "addStars": "988",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,725",
-      "forks": "1,810",
-      "addStars": "393",
+      "stars": "18,185",
+      "forks": "1,878",
+      "addStars": "355",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,195",
-      "forks": "1,115",
-      "addStars": "248",
+      "stars": "9,484",
+      "forks": "1,180",
+      "addStars": "247",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,735",
-      "forks": "1,066",
-      "addStars": "860",
+      "stars": "12,084",
+      "forks": "1,135",
+      "addStars": "866",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "56,810",
-      "forks": "4,801",
-      "addStars": "718",
+      "stars": "57,258",
+      "forks": "4,828",
+      "addStars": "717",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "6,976",
-      "forks": "585",
-      "addStars": "1,220",
+      "stars": "7,534",
+      "forks": "658",
+      "addStars": "1,219",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "A modern animation library for React and JavaScript",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "35,228",
-      "forks": "1,548",
-      "addStars": "74",
+      "stars": "35,247",
+      "forks": "1,552",
+      "addStars": "76",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7850794?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Typescript/React Library for AI Chat 💬🚀",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,235",
-      "forks": "1,342",
-      "addStars": "92",
+      "stars": "13,254",
+      "forks": "1,344",
+      "addStars": "75",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1394504?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "Animated components for design engineers. 150+ free shadcn/ui components, built with Tailwind CSS and Motion. MIT licensed.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,453",
-      "forks": "398",
-      "addStars": "120",
+      "stars": "7,474",
+      "forks": "400",
+      "addStars": "96",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25993686?s=40&v=4",
@@ -313,14 +313,51 @@
       ]
     },
     {
+      "title": "simonlin1212/Vibe-Research",
+      "url": "https://github.com/simonlin1212/Vibe-Research",
+      "description": "Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A research workbench for China A-shares, US and HK stocks.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": "3,739",
+      "forks": "706",
+      "addStars": "23",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/166034225?s=40&v=4",
+          "name": "simonlin1212",
+          "url": "https://github.com/simonlin1212"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/315659868?s=40&v=4",
+          "name": "Boomyuan",
+          "url": "https://github.com/Boomyuan"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/28054636?s=40&v=4",
+          "name": "WenhuaXia",
+          "url": "https://github.com/WenhuaXia"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/18239738?s=40&v=4",
+          "name": "ruijh",
+          "url": "https://github.com/ruijh"
+        }
+      ]
+    },
+    {
       "title": "elder-plinius/G0DM0D3",
       "url": "https://github.com/elder-plinius/G0DM0D3",
       "description": "LIBERATED AI CHAT",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,414",
-      "forks": "2,893",
-      "addStars": "67",
+      "stars": "12,468",
+      "forks": "2,901",
+      "addStars": "66",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -340,9 +377,9 @@
       "description": "Visualize Your Ideas With Code",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,947",
-      "forks": "908",
-      "addStars": "112",
+      "stars": "19,965",
+      "forks": "914",
+      "addStars": "111",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/64662184?s=40&v=4",
@@ -372,8 +409,8 @@
       "description": "10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "52,805",
-      "forks": "7,397",
+      "stars": "53,034",
+      "forks": "7,431",
       "addStars": "579",
       "contributors": [
         {

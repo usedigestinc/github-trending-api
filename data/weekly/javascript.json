@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Weekly Trending",
   "description": "Weekly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sun, 15 Nov 2026 19:23:46 GMT",
+  "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
   "items": [
     {
       "title": "addyosmani/agent-skills",
@@ -10,9 +10,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "117,862",
-      "forks": "12,334",
-      "addStars": "3,670",
+      "stars": "118,070",
+      "forks": "12,349",
+      "addStars": "3,889",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "60,535",
-      "forks": "8,823",
-      "addStars": "1,303",
+      "stars": "60,655",
+      "forks": "8,844",
+      "addStars": "1,368",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34802794?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "15,223",
+      "stars": "15,256",
       "forks": "1,737",
-      "addStars": "576",
+      "addStars": "550",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30708545?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "94,415",
-      "forks": "8,843",
-      "addStars": "873",
+      "stars": "94,452",
+      "forks": "8,848",
+      "addStars": "1,088",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1336778?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "116,092",
-      "forks": "7,786",
-      "addStars": "4,108",
+      "stars": "116,422",
+      "forks": "7,804",
+      "addStars": "4,234",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "34,832",
-      "forks": "6,699",
-      "addStars": "1,755",
+      "stars": "34,907",
+      "forks": "6,714",
+      "addStars": "1,552",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4326215?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "An all-in-one email service platform powered by Cloudflare | 基于 Cloudflare 的一站式邮箱服务平台 | Cloudflare Email 邮箱 Mail",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "16,178",
-      "forks": "23,735",
-      "addStars": "634",
+      "stars": "16,241",
+      "forks": "23,764",
+      "addStars": "667",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/225811079?s=40&v=4",
@@ -264,8 +264,8 @@
       "description": "Fast, unopinionated, minimalist web framework for node.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "69,680",
-      "forks": "25,517",
+      "stars": "69,684",
+      "forks": "25,549",
       "addStars": "143",
       "contributors": [
         {
