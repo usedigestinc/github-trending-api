@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Rust Languages in GitHub</description>
-    <pubDate>Mon, 16 Nov 2026 08:00:00 GMT</pubDate>
+    <pubDate>Mon, 16 Nov 2026 22:55:11 GMT</pubDate>
     <item>
       <title>pbakaus/impeccable</title>
       <link>https://github.com/pbakaus/impeccable</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>110,948</stars>
-      <forks>6,635</forks>
+      <stars>111,352</stars>
+      <forks>6,655</forks>
       <addStars>29,631</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>51,771</stars>
-      <forks>3,623</forks>
+      <stars>51,995</stars>
+      <forks>3,628</forks>
       <addStars>7,545</addStars>
       <contributors>
         <contributor>
@@ -71,14 +71,42 @@
       </contributors>
     </item>
     <item>
+      <title>max-sixty/worktrunk</title>
+      <link>https://github.com/max-sixty/worktrunk</link>
+      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+      <guid>https://github.com/max-sixty/worktrunk</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>12,574</stars>
+      <forks>500</forks>
+      <addStars>3,348</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5635139?s=40&amp;v=4</avatar>
+          <name>max-sixty</name>
+          <url>https://github.com/max-sixty</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/254187624?s=40&amp;v=4</avatar>
+          <name>worktrunk-bot</name>
+          <url>https://github.com/worktrunk-bot</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>akitaonrails/ai-memory</title>
       <link>https://github.com/akitaonrails/ai-memory</link>
       <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
       <guid>https://github.com/akitaonrails/ai-memory</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>15,975</stars>
-      <forks>1,195</forks>
+      <stars>16,010</stars>
+      <forks>1,201</forks>
       <addStars>6,683</addStars>
       <contributors>
         <contributor>
@@ -109,42 +137,14 @@
       </contributors>
     </item>
     <item>
-      <title>max-sixty/worktrunk</title>
-      <link>https://github.com/max-sixty/worktrunk</link>
-      <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
-      <guid>https://github.com/max-sixty/worktrunk</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>12,554</stars>
-      <forks>498</forks>
-      <addStars>3,348</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5635139?s=40&amp;v=4</avatar>
-          <name>max-sixty</name>
-          <url>https://github.com/max-sixty</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/254187624?s=40&amp;v=4</avatar>
-          <name>worktrunk-bot</name>
-          <url>https://github.com/worktrunk-bot</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>zed-industries/zed</title>
       <link>https://github.com/zed-industries/zed</link>
       <description>Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</description>
       <guid>https://github.com/zed-industries/zed</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>95,119</stars>
-      <forks>11,730</forks>
+      <stars>95,163</stars>
+      <forks>11,733</forks>
       <addStars>3,878</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/cjpais/Handy</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>38,915</stars>
-      <forks>3,678</forks>
+      <stars>38,998</stars>
+      <forks>3,689</forks>
       <addStars>5,116</addStars>
       <contributors>
         <contributor>
@@ -213,47 +213,14 @@
       </contributors>
     </item>
     <item>
-      <title>agentgateway/agentgateway</title>
-      <link>https://github.com/agentgateway/agentgateway</link>
-      <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
-      <guid>https://github.com/agentgateway/agentgateway</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>6,207</stars>
-      <forks>1,094</forks>
-      <addStars>855</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/623453?s=40&amp;v=4</avatar>
-          <name>howardjohn</name>
-          <url>https://github.com/howardjohn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/4185086?s=40&amp;v=4</avatar>
-          <name>EItanya</name>
-          <url>https://github.com/EItanya</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15183287?s=40&amp;v=4</avatar>
-          <name>npolshakova</name>
-          <url>https://github.com/npolshakova</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/61794?s=40&amp;v=4</avatar>
-          <name>markuskobler</name>
-          <url>https://github.com/markuskobler</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>astral-sh/ruff</title>
       <link>https://github.com/astral-sh/ruff</link>
       <description>An extremely fast Python linter and code formatter, written in Rust.</description>
       <guid>https://github.com/astral-sh/ruff</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>51,272</stars>
-      <forks>2,714</forks>
+      <stars>51,256</stars>
+      <forks>2,724</forks>
       <addStars>1,636</addStars>
       <contributors>
         <contributor>
@@ -279,35 +246,35 @@
       </contributors>
     </item>
     <item>
-      <title>ruvnet/RuView</title>
-      <link>https://github.com/ruvnet/RuView</link>
-      <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
-      <guid>https://github.com/ruvnet/RuView</guid>
+      <title>agentgateway/agentgateway</title>
+      <link>https://github.com/agentgateway/agentgateway</link>
+      <description>Next Generation Agentic Proxy for AI Agents and MCP servers</description>
+      <guid>https://github.com/agentgateway/agentgateway</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>104,409</stars>
-      <forks>13,579</forks>
-      <addStars>6,622</addStars>
+      <stars>6,228</stars>
+      <forks>1,101</forks>
+      <addStars>855</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
-          <name>ruvnet</name>
-          <url>https://github.com/ruvnet</url>
+          <avatar>https://avatars.githubusercontent.com/u/623453?s=40&amp;v=4</avatar>
+          <name>howardjohn</name>
+          <url>https://github.com/howardjohn</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/4185086?s=40&amp;v=4</avatar>
+          <name>EItanya</name>
+          <url>https://github.com/EItanya</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/214853444?s=40&amp;v=4</avatar>
-          <name>proffesor-for-testing</name>
-          <url>https://github.com/proffesor-for-testing</url>
+          <avatar>https://avatars.githubusercontent.com/u/15183287?s=40&amp;v=4</avatar>
+          <name>npolshakova</name>
+          <url>https://github.com/npolshakova</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/124563?s=40&amp;v=4</avatar>
-          <name>aepod</name>
-          <url>https://github.com/aepod</url>
+          <avatar>https://avatars.githubusercontent.com/u/61794?s=40&amp;v=4</avatar>
+          <name>markuskobler</name>
+          <url>https://github.com/markuskobler</url>
         </contributor>
       </contributors>
     </item>
@@ -318,8 +285,8 @@
       <guid>https://github.com/vercel-labs/agent-desktop</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>24,364</stars>
-      <forks>1,809</forks>
+      <stars>24,587</stars>
+      <forks>1,827</forks>
       <addStars>22,413</addStars>
       <contributors>
         <contributor>
@@ -341,8 +308,8 @@
       <guid>https://github.com/xerj-org/xerj</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>19,137</stars>
-      <forks>1,429</forks>
+      <stars>19,153</stars>
+      <forks>1,435</forks>
       <addStars>15,800</addStars>
       <contributors>
         <contributor>
@@ -373,14 +340,47 @@
       </contributors>
     </item>
     <item>
+      <title>ruvnet/RuView</title>
+      <link>https://github.com/ruvnet/RuView</link>
+      <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
+      <guid>https://github.com/ruvnet/RuView</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>104,455</stars>
+      <forks>13,580</forks>
+      <addStars>6,622</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
+          <name>ruvnet</name>
+          <url>https://github.com/ruvnet</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/214853444?s=40&amp;v=4</avatar>
+          <name>proffesor-for-testing</name>
+          <url>https://github.com/proffesor-for-testing</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/124563?s=40&amp;v=4</avatar>
+          <name>aepod</name>
+          <url>https://github.com/aepod</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>jub0t/Concat</title>
       <link>https://github.com/jub0t/Concat</link>
       <description>Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API &amp; MCP.</description>
       <guid>https://github.com/jub0t/Concat</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>17,943</stars>
-      <forks>2,203</forks>
+      <stars>18,124</stars>
+      <forks>2,222</forks>
       <addStars>11,574</addStars>
       <contributors>
         <contributor>
@@ -417,8 +417,8 @@
       <guid>https://github.com/ModernRelay/omnigraph</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>2,690</stars>
-      <forks>322</forks>
+      <stars>2,835</stars>
+      <forks>330</forks>
       <addStars>1,261</addStars>
       <contributors>
         <contributor>
@@ -450,8 +450,8 @@
       <guid>https://github.com/macro-inc/macro</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,342</stars>
-      <forks>596</forks>
+      <stars>6,352</stars>
+      <forks>597</forks>
       <addStars>1,692</addStars>
       <contributors>
         <contributor>
@@ -482,85 +482,14 @@
       </contributors>
     </item>
     <item>
-      <title>oven-sh/bun</title>
-      <link>https://github.com/oven-sh/bun</link>
-      <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
-      <guid>https://github.com/oven-sh/bun</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>96,709</stars>
-      <forks>5,285</forks>
-      <addStars>950</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/709451?s=40&amp;v=4</avatar>
-          <name>Jarred-Sumner</name>
-          <url>https://github.com/Jarred-Sumner</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/117481402?s=40&amp;v=4</avatar>
-          <name>robobun</name>
-          <url>https://github.com/robobun</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/35280289?s=40&amp;v=4</avatar>
-          <name>dylan-conway</name>
-          <url>https://github.com/dylan-conway</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>trymirai/uzu</title>
-      <link>https://github.com/trymirai/uzu</link>
-      <description>A high-performance inference engine for AI models</description>
-      <guid>https://github.com/trymirai/uzu</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>3,352</stars>
-      <forks>240</forks>
-      <addStars>1,022</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/83587632?s=40&amp;v=4</avatar>
-          <name>uuuvn</name>
-          <url>https://github.com/uuuvn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/8983647?s=40&amp;v=4</avatar>
-          <name>eugenebokhan</name>
-          <url>https://github.com/eugenebokhan</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/46629671?s=40&amp;v=4</avatar>
-          <name>CC-Yeh</name>
-          <url>https://github.com/CC-Yeh</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5617556?s=40&amp;v=4</avatar>
-          <name>agolokoz</name>
-          <url>https://github.com/agolokoz</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/13415959?s=40&amp;v=4</avatar>
-          <name>alexxale</name>
-          <url>https://github.com/alexxale</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>Mesh-LLM/mesh-llm</title>
       <link>https://github.com/Mesh-LLM/mesh-llm</link>
       <description>Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.</description>
       <guid>https://github.com/Mesh-LLM/mesh-llm</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>4,132</stars>
-      <forks>520</forks>
+      <stars>4,138</stars>
+      <forks>522</forks>
       <addStars>632</addStars>
       <contributors>
         <contributor>
@@ -591,14 +520,80 @@
       </contributors>
     </item>
     <item>
+      <title>oven-sh/bun</title>
+      <link>https://github.com/oven-sh/bun</link>
+      <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</description>
+      <guid>https://github.com/oven-sh/bun</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>96,722</stars>
+      <forks>5,286</forks>
+      <addStars>950</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/709451?s=40&amp;v=4</avatar>
+          <name>Jarred-Sumner</name>
+          <url>https://github.com/Jarred-Sumner</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/117481402?s=40&amp;v=4</avatar>
+          <name>robobun</name>
+          <url>https://github.com/robobun</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/35280289?s=40&amp;v=4</avatar>
+          <name>dylan-conway</name>
+          <url>https://github.com/dylan-conway</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
+      <title>tauri-apps/tauri</title>
+      <link>https://github.com/tauri-apps/tauri</link>
+      <description>Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</description>
+      <guid>https://github.com/tauri-apps/tauri</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>112,928</stars>
+      <forks>4,222</forks>
+      <addStars>1,258</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/20051258?s=40&amp;v=4</avatar>
+          <name>lucasfernog</name>
+          <url>https://github.com/lucasfernog</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/48618675?s=40&amp;v=4</avatar>
+          <name>amrbashir</name>
+          <url>https://github.com/amrbashir</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
+          <name>renovate-bot</name>
+          <url>https://github.com/renovate-bot</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/68118705?s=40&amp;v=4</avatar>
+          <name>Legend-Master</name>
+          <url>https://github.com/Legend-Master</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>astral-sh/uv</title>
       <link>https://github.com/astral-sh/uv</link>
       <description>An extremely fast Python package and project manager, written in Rust.</description>
       <guid>https://github.com/astral-sh/uv</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>92,052</stars>
-      <forks>3,847</forks>
+      <stars>92,040</stars>
+      <forks>3,859</forks>
       <addStars>1,746</addStars>
       <contributors>
         <contributor>
@@ -619,14 +614,52 @@
       </contributors>
     </item>
     <item>
+      <title>trymirai/uzu</title>
+      <link>https://github.com/trymirai/uzu</link>
+      <description>A high-performance inference engine for AI models</description>
+      <guid>https://github.com/trymirai/uzu</guid>
+      <language>Rust</language>
+      <languageColor>#dea584</languageColor>
+      <stars>3,358</stars>
+      <forks>241</forks>
+      <addStars>1,022</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/83587632?s=40&amp;v=4</avatar>
+          <name>uuuvn</name>
+          <url>https://github.com/uuuvn</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/8983647?s=40&amp;v=4</avatar>
+          <name>eugenebokhan</name>
+          <url>https://github.com/eugenebokhan</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/46629671?s=40&amp;v=4</avatar>
+          <name>CC-Yeh</name>
+          <url>https://github.com/CC-Yeh</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5617556?s=40&amp;v=4</avatar>
+          <name>agolokoz</name>
+          <url>https://github.com/agolokoz</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/13415959?s=40&amp;v=4</avatar>
+          <name>alexxale</name>
+          <url>https://github.com/alexxale</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>memvid/memvid</title>
       <link>https://github.com/memvid/memvid</link>
       <description>Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.</description>
       <guid>https://github.com/memvid/memvid</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>17,416</stars>
-      <forks>1,467</forks>
+      <stars>17,421</stars>
+      <forks>1,466</forks>
       <addStars>848</addStars>
       <contributors>
         <contributor>
@@ -657,73 +690,35 @@
       </contributors>
     </item>
     <item>
-      <title>tauri-apps/tauri</title>
-      <link>https://github.com/tauri-apps/tauri</link>
-      <description>Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</description>
-      <guid>https://github.com/tauri-apps/tauri</guid>
+      <title>nushell/nushell</title>
+      <link>https://github.com/nushell/nushell</link>
+      <description>A new type of shell</description>
+      <guid>https://github.com/nushell/nushell</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>112,937</stars>
-      <forks>4,219</forks>
-      <addStars>1,258</addStars>
+      <stars>41,023</stars>
+      <forks>2,353</forks>
+      <addStars>679</addStars>
       <contributors>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/20051258?s=40&amp;v=4</avatar>
-          <name>lucasfernog</name>
-          <url>https://github.com/lucasfernog</url>
+          <avatar>https://avatars.githubusercontent.com/u/547158?s=40&amp;v=4</avatar>
+          <name>sophiajt</name>
+          <url>https://github.com/sophiajt</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/48618675?s=40&amp;v=4</avatar>
-          <name>amrbashir</name>
-          <url>https://github.com/amrbashir</url>
+          <avatar>https://avatars.githubusercontent.com/u/343840?s=40&amp;v=4</avatar>
+          <name>fdncred</name>
+          <url>https://github.com/fdncred</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/25180681?s=40&amp;v=4</avatar>
-          <name>renovate-bot</name>
-          <url>https://github.com/renovate-bot</url>
+          <avatar>https://avatars.githubusercontent.com/u/15833959?s=40&amp;v=4</avatar>
+          <name>sholderbach</name>
+          <url>https://github.com/sholderbach</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/68118705?s=40&amp;v=4</avatar>
-          <name>Legend-Master</name>
-          <url>https://github.com/Legend-Master</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>ZSeven-W/openpencil</title>
-      <link>https://github.com/ZSeven-W/openpencil</link>
-      <description>The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.</description>
-      <guid>https://github.com/ZSeven-W/openpencil</guid>
-      <language>Rust</language>
-      <languageColor>#dea584</languageColor>
-      <stars>7,249</stars>
-      <forks>637</forks>
-      <addStars>1,117</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/162498?s=40&amp;v=4</avatar>
-          <name>finiking</name>
-          <url>https://github.com/finiking</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/30104542?s=40&amp;v=4</avatar>
-          <name>Kayshen-X</name>
-          <url>https://github.com/Kayshen-X</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/60176594?s=40&amp;v=4</avatar>
-          <name>leinaldo</name>
-          <url>https://github.com/leinaldo</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5299031?s=40&amp;v=4</avatar>
-          <name>kevin9327</name>
-          <url>https://github.com/kevin9327</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
+          <avatar>https://avatars.githubusercontent.com/u/951128?s=40&amp;v=4</avatar>
+          <name>andrasio</name>
+          <url>https://github.com/andrasio</url>
         </contributor>
       </contributors>
     </item>
