@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Javascript Languages in GitHub</description>
-    <pubDate>Mon, 16 Nov 2026 22:55:11 GMT</pubDate>
+    <pubDate>Tue, 17 Nov 2026 09:14:23 GMT</pubDate>
     <item>
       <title>DeanChensj/jiangshan-map</title>
       <link>https://github.com/DeanChensj/jiangshan-map</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/DeanChensj/jiangshan-map</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>6,668</stars>
-      <forks>786</forks>
-      <addStars>285</addStars>
+      <stars>7,449</stars>
+      <forks>889</forks>
+      <addStars>288</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9414763?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/sveltejs/svelte</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>88,956</stars>
-      <forks>6,095</forks>
-      <addStars>58</addStars>
+      <stars>89,150</stars>
+      <forks>6,136</forks>
+      <addStars>115</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1162160?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/mrdoob/three.js</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>118,659</stars>
-      <forks>37,009</forks>
-      <addStars>130</addStars>
+      <stars>118,713</stars>
+      <forks>37,013</forks>
+      <addStars>129</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/97088?s=40&amp;v=4</avatar>
@@ -121,7 +121,7 @@
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
       <stars>109,366</stars>
-      <forks>12,070</forks>
+      <forks>12,079</forks>
       <addStars>28</addStars>
       <contributors>
         <contributor>
@@ -149,13 +149,13 @@
     <item>
       <title>bilawalsidhu/gods-eye-view</title>
       <link>https://github.com/bilawalsidhu/gods-eye-view</link>
-      <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.</description>
+      <description>God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai</description>
       <guid>https://github.com/bilawalsidhu/gods-eye-view</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>65,297</stars>
-      <forks>12,902</forks>
-      <addStars>257</addStars>
+      <stars>65,354</stars>
+      <forks>12,913</forks>
+      <addStars>253</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/845989?s=40&amp;v=4</avatar>
@@ -191,9 +191,9 @@
       <guid>https://github.com/maillab/cloud-mail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>16,280</stars>
-      <forks>23,828</forks>
-      <addStars>107</addStars>
+      <stars>16,317</stars>
+      <forks>23,861</forks>
+      <addStars>146</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/225811079?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>304,585</stars>
-      <forks>44,859</forks>
-      <addStars>722</addStars>
+      <stars>304,874</stars>
+      <forks>44,895</forks>
+      <addStars>718</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4</avatar>
@@ -253,6 +253,11 @@
           <name>montjeffrey</name>
           <url>https://github.com/montjeffrey</url>
         </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/103962359?s=40&amp;v=4</avatar>
+          <name>L4XB</name>
+          <url>https://github.com/L4XB</url>
+        </contributor>
       </contributors>
     </item>
     <item>
@@ -262,8 +267,8 @@
       <guid>https://github.com/saadeghi/daisyui</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>42,864</stars>
-      <forks>1,719</forks>
+      <stars>42,874</stars>
+      <forks>1,721</forks>
       <addStars>11</addStars>
       <contributors>
         <contributor>
@@ -300,9 +305,9 @@
       <guid>https://github.com/hanliang97/MatrixMedia</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>1,448</stars>
-      <forks>219</forks>
-      <addStars>68</addStars>
+      <stars>1,498</stars>
+      <forks>228</forks>
+      <addStars>66</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/44186159?s=40&amp;v=4</avatar>
@@ -338,9 +343,9 @@
       <guid>https://github.com/airbnb/lottie-web</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>32,476</stars>
+      <stars>32,483</stars>
       <forks>2,978</forks>
-      <addStars>22</addStars>
+      <addStars>21</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11096607?s=40&amp;v=4</avatar>
@@ -376,7 +381,7 @@
       <guid>https://github.com/jessepinkman9900/claude-second-brain</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>166</stars>
+      <stars>171</stars>
       <forks>23</forks>
       <addStars>14</addStars>
       <contributors>
@@ -399,9 +404,9 @@
       <guid>https://github.com/juliangarnier/anime</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>74,816</stars>
-      <forks>5,114</forks>
-      <addStars>67</addStars>
+      <stars>74,832</stars>
+      <forks>5,118</forks>
+      <addStars>79</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1268691?s=40&amp;v=4</avatar>
@@ -437,9 +442,9 @@
       <guid>https://github.com/byoungd/up</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>70,623</stars>
-      <forks>7,028</forks>
-      <addStars>59</addStars>
+      <stars>70,649</stars>
+      <forks>7,032</forks>
+      <addStars>58</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/16145783?s=40&amp;v=4</avatar>
