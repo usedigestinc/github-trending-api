@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Tue, 17 Nov 2026 21:46:59 GMT</pubDate>
+    <pubDate>Wed, 18 Nov 2026 08:32:47 GMT</pubDate>
     <item>
       <title>pingdotgg/t3code</title>
       <link>https://github.com/pingdotgg/t3code</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>64,010</stars>
-      <forks>11,292</forks>
-      <addStars>34,691</addStars>
+      <stars>64,541</stars>
+      <forks>11,348</forks>
+      <addStars>35,748</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/51714798?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>117,978</stars>
-      <forks>10,250</forks>
-      <addStars>17,074</addStars>
+      <stars>118,081</stars>
+      <forks>10,258</forks>
+      <addStars>17,236</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/683968?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/backnotprop/plannotator</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,026</stars>
-      <forks>1,314</forks>
-      <addStars>2,848</addStars>
+      <stars>13,210</stars>
+      <forks>1,323</forks>
+      <addStars>3,475</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7244317?s=40&amp;v=4</avatar>
@@ -121,13 +121,13 @@
     <item>
       <title>heygen-com/hyperframes</title>
       <link>https://github.com/heygen-com/hyperframes</link>
-      <description>Write HTML. Render video. Built for agents.</description>
+      <description>AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.</description>
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>85,929</stars>
-      <forks>7,963</forks>
-      <addStars>20,459</addStars>
+      <stars>86,187</stars>
+      <forks>7,987</forks>
+      <addStars>20,425</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/229591595?s=40&amp;v=4</avatar>
@@ -163,9 +163,9 @@
       <guid>https://github.com/JetBrains/thinkrail</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,327</stars>
+      <stars>8,341</stars>
       <forks>532</forks>
-      <addStars>7,833</addStars>
+      <addStars>7,748</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3789877?s=40&amp;v=4</avatar>
@@ -201,9 +201,9 @@
       <guid>https://github.com/google-labs-code/stitch-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,057</stars>
-      <forks>1,326</forks>
-      <addStars>1,163</addStars>
+      <stars>10,231</stars>
+      <forks>1,335</forks>
+      <addStars>1,521</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43076783?s=40&amp;v=4</avatar>
@@ -239,9 +239,9 @@
       <guid>https://github.com/remotion-dev/remotion</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>73,886</stars>
-      <forks>6,235</forks>
-      <addStars>9,302</addStars>
+      <stars>73,991</stars>
+      <forks>6,245</forks>
+      <addStars>9,349</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1629785?s=40&amp;v=4</avatar>
@@ -272,9 +272,9 @@
       <guid>https://github.com/vercel-labs/skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>39,827</stars>
-      <forks>3,505</forks>
-      <addStars>4,576</addStars>
+      <stars>39,893</stars>
+      <forks>3,509</forks>
+      <addStars>4,609</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/32676955?s=40&amp;v=4</avatar>
@@ -305,9 +305,9 @@
       <guid>https://github.com/CopilotKit/OpenBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,727</stars>
-      <forks>1,577</forks>
-      <addStars>6,079</addStars>
+      <stars>12,789</stars>
+      <forks>1,586</forks>
+      <addStars>6,205</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1574202?s=40&amp;v=4</avatar>
@@ -343,9 +343,9 @@
       <guid>https://github.com/LibreSpark/LibreTV</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>25,209</stars>
-      <forks>31,424</forks>
-      <addStars>6,368</addStars>
+      <stars>25,258</stars>
+      <forks>31,453</forks>
+      <addStars>6,235</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/110226580?s=40&amp;v=4</avatar>
@@ -376,9 +376,9 @@
       <guid>https://github.com/tashfeenahmed/freellmapi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>54,024</stars>
-      <forks>7,601</forks>
-      <addStars>17,602</addStars>
+      <stars>54,232</stars>
+      <forks>7,624</forks>
+      <addStars>17,831</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9307356?s=40&amp;v=4</avatar>
@@ -414,19 +414,19 @@
       <guid>https://github.com/anomalyco/opencode</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>227,573</stars>
-      <forks>30,851</forks>
-      <addStars>14,552</addStars>
+      <stars>227,689</stars>
+      <forks>30,877</forks>
+      <addStars>14,189</addStars>
       <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4</avatar>
-          <name>thdxr</name>
-          <url>https://github.com/thdxr</url>
-        </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/63023139?s=40&amp;v=4</avatar>
           <name>rekram1-node</name>
           <url>https://github.com/rekram1-node</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/826656?s=40&amp;v=4</avatar>
+          <name>thdxr</name>
+          <url>https://github.com/thdxr</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2363879?s=40&amp;v=4</avatar>
@@ -447,9 +447,9 @@
       <guid>https://github.com/gitroomhq/postiz-app</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>41,825</stars>
-      <forks>7,989</forks>
-      <addStars>4,613</addStars>
+      <stars>41,861</stars>
+      <forks>7,995</forks>
+      <addStars>4,640</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/100117126?s=40&amp;v=4</avatar>
@@ -485,9 +485,9 @@
       <guid>https://github.com/ranxianglei/billion-context</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,773</stars>
-      <forks>622</forks>
-      <addStars>6,240</addStars>
+      <stars>7,816</stars>
+      <forks>627</forks>
+      <addStars>6,175</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/12445698?s=40&amp;v=4</avatar>
@@ -518,9 +518,9 @@
       <guid>https://github.com/anthropics/sandbox-runtime</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,165</stars>
-      <forks>648</forks>
-      <addStars>1,609</addStars>
+      <stars>7,169</stars>
+      <forks>650</forks>
+      <addStars>1,612</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/278458262?s=40&amp;v=4</avatar>
@@ -556,9 +556,9 @@
       <guid>https://github.com/github/docs</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,482</stars>
-      <forks>69,634</forks>
-      <addStars>773</addStars>
+      <stars>21,483</stars>
+      <forks>69,640</forks>
+      <addStars>769</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/63058869?s=40&amp;v=4</avatar>
@@ -594,9 +594,9 @@
       <guid>https://github.com/elie222/rakazo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,016</stars>
-      <forks>1,617</forks>
-      <addStars>4,575</addStars>
+      <stars>9,076</stars>
+      <forks>1,630</forks>
+      <addStars>4,623</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3090527?s=40&amp;v=4</avatar>
@@ -632,9 +632,9 @@
       <guid>https://github.com/google-gemini/gemini-cli</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>108,901</stars>
-      <forks>14,959</forks>
-      <addStars>2,021</addStars>
+      <stars>108,913</stars>
+      <forks>14,961</forks>
+      <addStars>2,044</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/13950003?s=40&amp;v=4</avatar>
@@ -670,9 +670,9 @@
       <guid>https://github.com/stablyai/orca</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>127,746</stars>
-      <forks>8,101</forks>
-      <addStars>33,084</addStars>
+      <stars>128,243</stars>
+      <forks>8,124</forks>
+      <addStars>33,312</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4138956?s=40&amp;v=4</avatar>
@@ -708,9 +708,9 @@
       <guid>https://github.com/QwenLM/qwen-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>30,728</stars>
-      <forks>3,555</forks>
-      <addStars>2,233</addStars>
+      <stars>30,745</stars>
+      <forks>3,553</forks>
+      <addStars>2,348</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1166785?s=40&amp;v=4</avatar>
@@ -746,9 +746,9 @@
       <guid>https://github.com/ruvnet/ruflo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>81,957</stars>
-      <forks>9,671</forks>
-      <addStars>6,780</addStars>
+      <stars>81,994</stars>
+      <forks>9,675</forks>
+      <addStars>6,422</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>

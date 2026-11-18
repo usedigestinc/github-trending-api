@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Tue, 17 Nov 2026 21:46:59 GMT",
+  "pubDate": "Wed, 18 Nov 2026 08:32:47 GMT",
   "items": [
     {
       "title": "GoogleChrome/modern-web-guidance-src",
@@ -10,9 +10,9 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "8,402",
-      "forks": "723",
-      "addStars": "6,542",
+      "stars": "8,587",
+      "forks": "732",
+      "addStars": "7,015",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,026",
-      "forks": "1,314",
-      "addStars": "2,325",
+      "stars": "13,210",
+      "forks": "1,323",
+      "addStars": "2,926",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,100",
-      "forks": "2,352",
-      "addStars": "10,939",
+      "stars": "30,330",
+      "forks": "2,370",
+      "addStars": "8,700",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "16,248",
-      "forks": "1,417",
-      "addStars": "4,679",
+      "stars": "16,340",
+      "forks": "1,424",
+      "addStars": "4,786",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
@@ -143,9 +143,9 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "73,065",
-      "forks": "57,780",
-      "addStars": "4,355",
+      "stars": "73,205",
+      "forks": "57,836",
+      "addStars": "3,653",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "196,666",
-      "forks": "23,062",
-      "addStars": "5,666",
+      "stars": "196,924",
+      "forks": "23,073",
+      "addStars": "4,847",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,062",
-      "forks": "1,346",
-      "addStars": "1,747",
+      "stars": "10,052",
+      "forks": "1,411",
+      "addStars": "2,508",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "53,659",
-      "forks": "4,428",
-      "addStars": "3,056",
+      "stars": "54,002",
+      "forks": "4,453",
+      "addStars": "3,675",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "52,340",
-      "forks": "3,660",
-      "addStars": "3,760",
+      "stars": "52,481",
+      "forks": "3,669",
+      "addStars": "3,429",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -318,9 +318,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "58,016",
-      "forks": "4,868",
-      "addStars": "2,593",
+      "stars": "58,121",
+      "forks": "4,873",
+      "addStars": "2,948",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
@@ -350,9 +350,9 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,837",
-      "forks": "1,403",
-      "addStars": "2,407",
+      "stars": "6,944",
+      "forks": "1,415",
+      "addStars": "2,985",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -370,9 +370,9 @@
           "url": "https://github.com/raikkonenPotter"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/42257?s=40&v=4",
-          "name": "wolframarnold",
-          "url": "https://github.com/wolframarnold"
+          "avatar": "https://avatars.githubusercontent.com/u/128062316?s=40&v=4",
+          "name": "sx4im",
+          "url": "https://github.com/sx4im"
         }
       ]
     },
@@ -382,9 +382,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "10,057",
-      "forks": "1,326",
-      "addStars": "943",
+      "stars": "10,231",
+      "forks": "1,335",
+      "addStars": "1,197",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
@@ -419,9 +419,9 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,947",
-      "forks": "1,093",
-      "addStars": "2,352",
+      "stars": "14,016",
+      "forks": "1,096",
+      "addStars": "2,531",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/269034524?s=40&v=4",
@@ -451,9 +451,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "118,637",
-      "forks": "12,372",
-      "addStars": "3,960",
+      "stars": "118,754",
+      "forks": "12,379",
+      "addStars": "3,884",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",

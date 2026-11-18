@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Monthly Trending",
   "description": "Monthly Trending of All Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Tue, 17 Nov 2026 21:46:59 GMT",
+  "pubDate": "Wed, 18 Nov 2026 08:32:47 GMT",
   "items": [
     {
       "title": "Nutlope/hallmark",
@@ -10,9 +10,9 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "languageColor": "#663399",
-      "stars": "56,825",
-      "forks": "3,068",
-      "addStars": "25,988",
+      "stars": "57,152",
+      "forks": "3,092",
+      "addStars": "26,594",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/154055839?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "74,728",
-      "forks": "5,004",
-      "addStars": "43,924",
+      "stars": "75,017",
+      "forks": "5,038",
+      "addStars": "44,314",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9935415?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "The best way to control Claude Code, Codex and more from any computer or phone",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "64,009",
-      "forks": "11,292",
-      "addStars": "34,691",
+      "stars": "64,540",
+      "forks": "11,348",
+      "addStars": "35,748",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51714798?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "196,666",
-      "forks": "23,062",
-      "addStars": "14,817",
+      "stars": "196,924",
+      "forks": "23,073",
+      "addStars": "15,351",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "117,978",
-      "forks": "10,250",
-      "addStars": "17,074",
+      "stars": "118,081",
+      "forks": "10,258",
+      "addStars": "17,236",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/683968?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "112,119",
-      "forks": "6,687",
-      "addStars": "29,881",
+      "stars": "112,474",
+      "forks": "6,705",
+      "addStars": "30,177",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43004?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "60,040",
-      "forks": "7,271",
-      "addStars": "18,533",
+      "stars": "60,230",
+      "forks": "7,293",
+      "addStars": "18,753",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/150592536?s=40&v=4",
@@ -249,9 +249,9 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,026",
-      "forks": "1,314",
-      "addStars": "2,848",
+      "stars": "13,210",
+      "forks": "1,323",
+      "addStars": "3,475",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "113,732",
-      "forks": "13,093",
-      "addStars": "19,079",
+      "stars": "113,943",
+      "forks": "13,108",
+      "addStars": "19,596",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
@@ -320,12 +320,12 @@
     {
       "title": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
+      "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "85,929",
-      "forks": "7,963",
-      "addStars": "20,459",
+      "stars": "86,186",
+      "forks": "7,987",
+      "addStars": "20,425",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/229591595?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "117,667",
-      "forks": "7,873",
-      "addStars": "19,384",
+      "stars": "117,999",
+      "forks": "7,896",
+      "addStars": "19,688",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/219127460?s=40&v=4",
@@ -397,9 +397,9 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "30,363",
-      "forks": "3,797",
-      "addStars": "10,989",
+      "stars": "30,493",
+      "forks": "3,804",
+      "addStars": "11,246",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/223140489?s=40&v=4",
@@ -434,9 +434,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "52,340",
-      "forks": "3,660",
-      "addStars": "7,943",
+      "stars": "52,481",
+      "forks": "3,669",
+      "addStars": "8,282",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -466,9 +466,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,421",
-      "forks": "4,023",
-      "addStars": "6,537",
+      "stars": "36,479",
+      "forks": "4,025",
+      "addStars": "6,565",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/305637556?s=40&v=4",

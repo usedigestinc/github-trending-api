@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Tue, 17 Nov 2026 21:46:59 GMT",
+  "pubDate": "Wed, 18 Nov 2026 08:32:47 GMT",
   "items": [
     {
       "title": "vercel-labs/agent-browser",
@@ -10,9 +10,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "52,340",
-      "forks": "3,660",
-      "addStars": "3,760",
+      "stars": "52,481",
+      "forks": "3,669",
+      "addStars": "3,429",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,556",
-      "forks": "4,957",
-      "addStars": "728",
+      "stars": "37,565",
+      "forks": "4,958",
+      "addStars": "759",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51647?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "A batteries-included framework for building web apps",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,252",
-      "forks": "313",
-      "addStars": "836",
+      "stars": "7,257",
+      "forks": "312",
+      "addStars": "627",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8947616?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "36,117",
-      "forks": "1,545",
-      "addStars": "177",
+      "stars": "36,128",
+      "forks": "1,546",
+      "addStars": "183",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/795598?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "24,979",
-      "forks": "1,868",
-      "addStars": "4,451",
+      "stars": "25,126",
+      "forks": "1,879",
+      "addStars": "3,817",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70215676?s=40&v=4",
@@ -170,9 +170,9 @@
       "description": "Object-storage native graph database with branching and typed ontology",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "2,961",
-      "forks": "330",
-      "addStars": "800",
+      "stars": "2,998",
+      "forks": "334",
+      "addStars": "956",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/176176572?s=40&v=4",
@@ -202,9 +202,9 @@
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,681",
-      "forks": "470",
-      "addStars": "916",
+      "stars": "4,705",
+      "forks": "473",
+      "addStars": "888",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106617?s=40&v=4",
@@ -234,9 +234,9 @@
       "description": "A WiFi security auditing software",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,588",
-      "forks": "1,092",
-      "addStars": "1,453",
+      "stars": "6,616",
+      "forks": "1,093",
+      "addStars": "1,468",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/58467105?s=40&v=4",
@@ -261,9 +261,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "129,901",
-      "forks": "20,830",
-      "addStars": "1,010",
+      "stars": "129,978",
+      "forks": "20,862",
+      "addStars": "1,031",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
@@ -298,9 +298,9 @@
       "description": "Comfortably monitor your network traffic 🕵️‍♂️",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "43,026",
+      "stars": "43,059",
       "forks": "2,021",
-      "addStars": "737",
+      "addStars": "730",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/100347457?s=40&v=4",

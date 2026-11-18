@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Weekly Trending",
   "description": "Weekly Trending of Python Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Tue, 17 Nov 2026 21:46:59 GMT",
+  "pubDate": "Wed, 18 Nov 2026 08:32:47 GMT",
   "items": [
     {
       "title": "ZhuLinsen/daily_stock_analysis",
@@ -10,9 +10,9 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "73,065",
-      "forks": "57,780",
-      "addStars": "4,355",
+      "stars": "73,205",
+      "forks": "57,836",
+      "addStars": "3,653",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/42829555?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Public repository for Agent Skills",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "196,667",
-      "forks": "23,062",
-      "addStars": "5,666",
+      "stars": "196,924",
+      "forks": "23,073",
+      "addStars": "4,847",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/122662504?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,062",
-      "forks": "1,346",
-      "addStars": "1,747",
+      "stars": "10,054",
+      "forks": "1,411",
+      "addStars": "2,508",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,837",
-      "forks": "1,403",
-      "addStars": "2,407",
+      "stars": "6,944",
+      "forks": "1,415",
+      "addStars": "2,985",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -136,9 +136,9 @@
           "url": "https://github.com/raikkonenPotter"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/42257?s=40&v=4",
-          "name": "wolframarnold",
-          "url": "https://github.com/wolframarnold"
+          "avatar": "https://avatars.githubusercontent.com/u/128062316?s=40&v=4",
+          "name": "sx4im",
+          "url": "https://github.com/sx4im"
         }
       ]
     },
@@ -148,9 +148,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "68,938",
-      "forks": "6,144",
-      "addStars": "901",
+      "stars": "69,444",
+      "forks": "6,170",
+      "addStars": "1,548",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "40,857",
-      "forks": "3,300",
-      "addStars": "933",
+      "stars": "40,873",
+      "forks": "3,302",
+      "addStars": "776",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31013580?s=40&v=4",
@@ -202,9 +202,9 @@
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,951",
-      "forks": "467",
-      "addStars": "2,221",
+      "stars": "7,967",
+      "forks": "469",
+      "addStars": "1,568",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -229,9 +229,9 @@
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "7,702",
-      "forks": "714",
-      "addStars": "1,528",
+      "stars": "7,863",
+      "forks": "732",
+      "addStars": "2,666",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -251,9 +251,9 @@
       "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "33,923",
-      "forks": "4,026",
-      "addStars": "640",
+      "stars": "33,940",
+      "forks": "4,027",
+      "addStars": "671",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6216945?s=40&v=4",
@@ -273,9 +273,9 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "70,333",
-      "forks": "5,522",
-      "addStars": "2,860",
+      "stars": "70,539",
+      "forks": "5,540",
+      "addStars": "2,866",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1672?s=40&v=4",
@@ -310,9 +310,9 @@
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "113,732",
-      "forks": "13,093",
-      "addStars": "7,067",
+      "stars": "113,943",
+      "forks": "13,108",
+      "addStars": "5,346",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/27065646?s=40&v=4",
@@ -347,9 +347,9 @@
       "description": "Open-source plugin for designing and reviewing software with agents",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "20,770",
-      "forks": "1,531",
-      "addStars": "4,249",
+      "stars": "20,900",
+      "forks": "1,543",
+      "addStars": "3,701",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5912894?s=40&v=4",
@@ -379,9 +379,9 @@
       "description": "An open-source OpusClip alternative",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,427",
-      "forks": "769",
-      "addStars": "573",
+      "stars": "3,475",
+      "forks": "777",
+      "addStars": "627",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/78088687?s=40&v=4",
@@ -416,9 +416,9 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "26,628",
-      "forks": "2,369",
-      "addStars": "1,373",
+      "stars": "26,693",
+      "forks": "2,379",
+      "addStars": "1,430",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/282666402?s=40&v=4",
@@ -443,46 +443,14 @@
       ]
     },
     {
-      "title": "pallets/flask",
-      "url": "https://github.com/pallets/flask",
-      "description": "The Python micro framework for building web applications.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": "75,385",
-      "forks": "17,412",
-      "addStars": "582",
-      "contributors": [
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/1242887?s=40&v=4",
-          "name": "davidism",
-          "url": "https://github.com/davidism"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/7396?s=40&v=4",
-          "name": "mitsuhiko",
-          "url": "https://github.com/mitsuhiko"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/837573?s=40&v=4",
-          "name": "untitaker",
-          "url": "https://github.com/untitaker"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/36428?s=40&v=4",
-          "name": "rduplain",
-          "url": "https://github.com/rduplain"
-        }
-      ]
-    },
-    {
       "title": "Jakeschincariol/instagram-agent-skill",
       "url": "https://github.com/Jakeschincariol/instagram-agent-skill",
       "description": "Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "6,975",
-      "forks": "1,354",
-      "addStars": "1,131",
+      "stars": "7,023",
+      "forks": "1,364",
+      "addStars": "1,160",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -502,9 +470,9 @@
       "description": "",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "19,422",
-      "forks": "2,770",
-      "addStars": "495",
+      "stars": "19,436",
+      "forks": "2,774",
+      "addStars": "499",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1796239?s=40&v=4",
@@ -539,9 +507,9 @@
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "71,047",
-      "forks": "11,026",
-      "addStars": "3,313",
+      "stars": "71,190",
+      "forks": "11,042",
+      "addStars": "3,235",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20476625?s=40&v=4",
