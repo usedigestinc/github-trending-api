@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Wed, 18 Nov 2026 21:27:26 GMT",
+  "pubDate": "Thu, 19 Nov 2026 08:49:36 GMT",
   "items": [
     {
       "title": "vercel-labs/agent-browser",
@@ -10,9 +10,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "52,626",
-      "forks": "3,684",
-      "addStars": "3,429",
+      "stars": "52,734",
+      "forks": "3,692",
+      "addStars": "2,987",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "Object-storage native graph database with branching and typed ontology",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,047",
-      "forks": "337",
-      "addStars": "956",
+      "stars": "3,070",
+      "forks": "339",
+      "addStars": "1,045",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/176176572?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,580",
+      "stars": "37,584",
       "forks": "4,960",
-      "addStars": "759",
+      "addStars": "658",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51647?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "A terminal workspace with batteries included",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "36,136",
+      "stars": "36,141",
       "forks": "1,549",
-      "addStars": "183",
+      "addStars": "182",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/795598?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "A batteries-included framework for building web apps",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,264",
+      "stars": "7,268",
       "forks": "312",
-      "addStars": "627",
+      "addStars": "202",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8947616?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "A WiFi security auditing software",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,645",
-      "forks": "1,096",
-      "addStars": "1,468",
+      "stars": "6,663",
+      "forks": "1,097",
+      "addStars": "1,528",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/58467105?s=40&v=4",
@@ -207,9 +207,9 @@
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,732",
-      "forks": "477",
-      "addStars": "888",
+      "stars": "4,749",
+      "forks": "479",
+      "addStars": "646",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106617?s=40&v=4",
@@ -239,9 +239,9 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,270",
-      "forks": "2,761",
-      "addStars": "399",
+      "stars": "51,288",
+      "forks": "2,765",
+      "addStars": "554",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1309177?s=40&v=4",
@@ -271,9 +271,9 @@
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,649",
-      "forks": "377",
-      "addStars": "135",
+      "stars": "3,652",
+      "forks": "378",
+      "addStars": "138",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/186739590?s=40&v=4",

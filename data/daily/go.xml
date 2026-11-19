@@ -3,7 +3,7 @@
     <title>GitHub Go Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Go Languages in GitHub</description>
-    <pubDate>Wed, 18 Nov 2026 21:27:26 GMT</pubDate>
+    <pubDate>Thu, 19 Nov 2026 08:49:36 GMT</pubDate>
     <item>
       <title>getarcaneapp/arcane</title>
       <link>https://github.com/getarcaneapp/arcane</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/getarcaneapp/arcane</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>9,763</stars>
-      <forks>559</forks>
+      <stars>9,989</stars>
+      <forks>570</forks>
       <addStars>547</addStars>
       <contributors>
         <contributor>
@@ -44,9 +44,9 @@
       <guid>https://github.com/alibaba/open-code-review</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>54,165</stars>
-      <forks>4,482</forks>
-      <addStars>764</addStars>
+      <stars>54,256</stars>
+      <forks>4,488</forks>
+      <addStars>622</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/254839944?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/docker/compose</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>38,991</stars>
-      <forks>6,041</forks>
-      <addStars>162</addStars>
+      <stars>38,996</stars>
+      <forks>6,043</forks>
+      <addStars>173</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/132757?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/Tencent/LoopForge</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,786</stars>
-      <forks>529</forks>
-      <addStars>996</addStars>
+      <stars>3,951</stars>
+      <forks>567</forks>
+      <addStars>821</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -148,9 +148,9 @@
       <guid>https://github.com/golang/go</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>140,078</stars>
-      <forks>20,267</forks>
-      <addStars>303</addStars>
+      <stars>140,054</stars>
+      <forks>20,270</forks>
+      <addStars>150</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/104030?s=40&amp;v=4</avatar>
@@ -186,8 +186,8 @@
       <guid>https://github.com/opensandbox-group/OpenSandbox</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>17,593</stars>
-      <forks>1,698</forks>
+      <stars>17,634</stars>
+      <forks>1,701</forks>
       <addStars>106</addStars>
       <contributors>
         <contributor>
@@ -206,14 +206,14 @@
           <url>https://github.com/hittyt</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/118508408?s=40&amp;v=4</avatar>
           <name>hpliStartAgain</name>
           <url>https://github.com/hpliStartAgain</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
+          <name>claude</name>
+          <url>https://github.com/claude</url>
         </contributor>
       </contributors>
     </item>
@@ -224,9 +224,9 @@
       <guid>https://github.com/agent-substrate/substrate</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>7,584</stars>
-      <forks>828</forks>
-      <addStars>469</addStars>
+      <stars>7,687</stars>
+      <forks>846</forks>
+      <addStars>377</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/917931?s=40&amp;v=4</avatar>
@@ -262,9 +262,9 @@
       <guid>https://github.com/vxcontrol/pentagi</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>34,554</stars>
-      <forks>5,486</forks>
-      <addStars>140</addStars>
+      <stars>34,591</stars>
+      <forks>5,497</forks>
+      <addStars>127</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7765123?s=40&amp;v=4</avatar>
@@ -300,9 +300,9 @@
       <guid>https://github.com/aquasecurity/trivy</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>39,511</stars>
-      <forks>908</forks>
-      <addStars>53</addStars>
+      <stars>39,523</stars>
+      <forks>910</forks>
+      <addStars>38</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2253692?s=40&amp;v=4</avatar>
@@ -333,9 +333,9 @@
       <guid>https://github.com/gtsteffaniak/filebrowser</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>9,228</stars>
-      <forks>554</forks>
-      <addStars>16</addStars>
+      <stars>9,233</stars>
+      <forks>556</forks>
+      <addStars>19</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/42989099?s=40&amp;v=4</avatar>
@@ -366,9 +366,9 @@
       <guid>https://github.com/Autumn-27/ScopeSentry</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,527</stars>
-      <forks>640</forks>
-      <addStars>50</addStars>
+      <stars>2,539</stars>
+      <forks>645</forks>
+      <addStars>51</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/53844290?s=40&amp;v=4</avatar>
@@ -404,9 +404,9 @@
       <guid>https://github.com/Wei-Shaw/sub2api</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>46,265</stars>
-      <forks>10,028</forks>
-      <addStars>81</addStars>
+      <stars>46,302</stars>
+      <forks>10,036</forks>
+      <addStars>92</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/26101719?s=40&amp;v=4</avatar>
@@ -442,9 +442,9 @@
       <guid>https://github.com/kubernetes/kubernetes</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>129,255</stars>
-      <forks>45,101</forks>
-      <addStars>280</addStars>
+      <stars>129,204</stars>
+      <forks>45,096</forks>
+      <addStars>135</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20407524?s=40&amp;v=4</avatar>
@@ -480,8 +480,8 @@
       <guid>https://github.com/QuantumNous/new-api</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>52,174</stars>
-      <forks>12,733</forks>
+      <stars>52,210</stars>
+      <forks>12,739</forks>
       <addStars>80</addStars>
       <contributors>
         <contributor>
@@ -518,9 +518,9 @@
       <guid>https://github.com/gohugoio/hugo</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>90,509</stars>
+      <stars>90,513</stars>
       <forks>8,542</forks>
-      <addStars>11</addStars>
+      <addStars>15</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/394382?s=40&amp;v=4</avatar>
@@ -551,9 +551,9 @@
       <guid>https://github.com/TencentCloud/CubeSandbox</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>13,359</stars>
-      <forks>1,235</forks>
-      <addStars>66</addStars>
+      <stars>13,369</stars>
+      <forks>1,239</forks>
+      <addStars>41</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/63215266?s=40&amp;v=4</avatar>

@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Wed, 18 Nov 2026 21:27:26 GMT</pubDate>
+    <pubDate>Thu, 19 Nov 2026 08:49:36 GMT</pubDate>
     <item>
       <title>GoogleChrome/modern-web-guidance-src</title>
       <link>https://github.com/GoogleChrome/modern-web-guidance-src</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/GoogleChrome/modern-web-guidance-src</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,801</stars>
-      <forks>736</forks>
-      <addStars>7,015</addStars>
+      <stars>8,949</stars>
+      <forks>748</forks>
+      <addStars>7,257</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/39191?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/backnotprop/plannotator</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,407</stars>
-      <forks>1,346</forks>
-      <addStars>2,926</addStars>
+      <stars>13,549</stars>
+      <forks>1,366</forks>
+      <addStars>3,290</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7244317?s=40&amp;v=4</avatar>
@@ -59,6 +59,11 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4</avatar>
+          <name>rudycelekli</name>
+          <url>https://github.com/rudycelekli</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/110197373?s=40&amp;v=4</avatar>
           <name>utpalsinghdev</name>
           <url>https://github.com/utpalsinghdev</url>
@@ -67,44 +72,6 @@
           <avatar>https://avatars.githubusercontent.com/u/47978193?s=40&amp;v=4</avatar>
           <name>leoreisdias</name>
           <url>https://github.com/leoreisdias</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/1078682?s=40&amp;v=4</avatar>
-          <name>uvw</name>
-          <url>https://github.com/uvw</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
-      <title>elementalsouls/Claude-BugHunter</title>
-      <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-      <description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
-      <guid>https://github.com/elementalsouls/Claude-BugHunter</guid>
-      <language>Python</language>
-      <languageColor>#3572A5</languageColor>
-      <stars>11,212</stars>
-      <forks>1,500</forks>
-      <addStars>2,508</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/66463177?s=40&amp;v=4</avatar>
-          <name>injectifytest</name>
-          <url>https://github.com/injectifytest</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/49252733?s=40&amp;v=4</avatar>
-          <name>elementalsouls</name>
-          <url>https://github.com/elementalsouls</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/47457359?s=40&amp;v=4</avatar>
-          <name>rudycelekli</name>
-          <url>https://github.com/rudycelekli</url>
         </contributor>
       </contributors>
     </item>
@@ -115,9 +82,9 @@
       <guid>https://github.com/meta/astryx</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>30,538</stars>
-      <forks>2,393</forks>
-      <addStars>8,700</addStars>
+      <stars>30,714</stars>
+      <forks>2,406</forks>
+      <addStars>6,250</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2781099?s=40&amp;v=4</avatar>
@@ -148,9 +115,9 @@
       <guid>https://github.com/we-promise/sure</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>16,479</stars>
-      <forks>1,444</forks>
-      <addStars>4,786</addStars>
+      <stars>16,579</stars>
+      <forks>1,453</forks>
+      <addStars>3,866</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/187772?s=40&amp;v=4</avatar>
@@ -181,9 +148,9 @@
       <guid>https://github.com/alibaba/open-code-review</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>54,165</stars>
-      <forks>4,482</forks>
-      <addStars>3,675</addStars>
+      <stars>54,256</stars>
+      <forks>4,488</forks>
+      <addStars>4,383</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/254839944?s=40&amp;v=4</avatar>
@@ -219,9 +186,9 @@
       <guid>https://github.com/google-labs-code/stitch-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>10,375</stars>
-      <forks>1,365</forks>
-      <addStars>1,197</addStars>
+      <stars>10,530</stars>
+      <forks>1,372</forks>
+      <addStars>1,567</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43076783?s=40&amp;v=4</avatar>
@@ -257,9 +224,9 @@
       <guid>https://github.com/tradermonty/claude-trading-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>7,062</stars>
-      <forks>1,437</forks>
-      <addStars>2,985</addStars>
+      <stars>7,130</stars>
+      <forks>1,445</forks>
+      <addStars>3,242</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -290,9 +257,9 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>58,203</stars>
+      <stars>58,269</stars>
       <forks>4,879</forks>
-      <addStars>2,948</addStars>
+      <addStars>3,143</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/399150?s=40&amp;v=4</avatar>
@@ -323,9 +290,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>197,160</stars>
-      <forks>23,095</forks>
-      <addStars>4,847</addStars>
+      <stars>197,411</stars>
+      <forks>23,114</forks>
+      <addStars>4,381</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4</avatar>
@@ -361,9 +328,9 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>73,324</stars>
-      <forks>57,884</forks>
-      <addStars>3,653</addStars>
+      <stars>73,425</stars>
+      <forks>57,929</forks>
+      <addStars>3,566</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/42829555?s=40&amp;v=4</avatar>
@@ -399,9 +366,9 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>69,909</stars>
-      <forks>6,240</forks>
-      <addStars>1,548</addStars>
+      <stars>70,369</stars>
+      <forks>6,267</forks>
+      <addStars>2,423</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4</avatar>
@@ -432,9 +399,9 @@
       <guid>https://github.com/ag-ui-protocol/ag-ui</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>20,403</stars>
-      <forks>2,100</forks>
-      <addStars>2,773</addStars>
+      <stars>20,533</stars>
+      <forks>2,110</forks>
+      <addStars>3,221</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/11162004?s=40&amp;v=4</avatar>
@@ -470,9 +437,9 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>52,626</stars>
-      <forks>3,684</forks>
-      <addStars>3,429</addStars>
+      <stars>52,734</stars>
+      <forks>3,692</forks>
+      <addStars>2,987</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4</avatar>
@@ -503,9 +470,9 @@
       <guid>https://github.com/openai/codex-security</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>14,095</stars>
-      <forks>1,099</forks>
-      <addStars>2,531</addStars>
+      <stars>14,153</stars>
+      <forks>1,104</forks>
+      <addStars>2,630</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/269034524?s=40&amp;v=4</avatar>
@@ -536,9 +503,9 @@
       <guid>https://github.com/dream-num/univer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>29,869</stars>
-      <forks>2,704</forks>
-      <addStars>5,845</addStars>
+      <stars>30,196</stars>
+      <forks>2,722</forks>
+      <addStars>6,840</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/14025786?s=40&amp;v=4</avatar>
