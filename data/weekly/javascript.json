@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Weekly Trending",
   "description": "Weekly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Thu, 19 Nov 2026 21:35:22 GMT",
+  "pubDate": "Fri, 20 Nov 2026 08:33:40 GMT",
   "items": [
     {
       "title": "Anil-matcha/Open-Generative-AI",
@@ -10,9 +10,9 @@
       "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "35,422",
-      "forks": "6,802",
-      "addStars": "1,251",
+      "stars": "35,457",
+      "forks": "6,805",
+      "addStars": "1,168",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4326215?s=40&v=4",
@@ -47,14 +47,19 @@
       "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "8,429",
-      "forks": "1,034",
-      "addStars": "2,476",
+      "stars": "8,528",
+      "forks": "1,050",
+      "addStars": "2,960",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9414763?s=40&v=4",
           "name": "DeanChensj",
           "url": "https://github.com/DeanChensj"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/14016345?s=40&v=4",
+          "name": "mathieuwang",
+          "url": "https://github.com/mathieuwang"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -65,11 +70,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/503123?s=40&v=4",
           "name": "xcv58",
           "url": "https://github.com/xcv58"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/14016345?s=40&v=4",
-          "name": "mathieuwang",
-          "url": "https://github.com/mathieuwang"
         },
         {
           "avatar": "https://avatars.githubusercontent.com/u/3294106?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "61,492",
-      "forks": "8,964",
-      "addStars": "1,531",
+      "stars": "61,584",
+      "forks": "8,983",
+      "addStars": "1,572",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34802794?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "jQuery JavaScript Library",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "60,105",
+      "stars": "60,103",
       "forks": "20,715",
-      "addStars": "420",
+      "addStars": "523",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1615?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "307,220",
-      "forks": "45,221",
-      "addStars": "5,411",
+      "stars": "307,431",
+      "forks": "45,250",
+      "addStars": "5,598",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -181,11 +181,6 @@
           "avatar": "https://avatars.githubusercontent.com/u/24193489?s=40&v=4",
           "name": "montjeffrey",
           "url": "https://github.com/montjeffrey"
-        },
-        {
-          "avatar": "https://avatars.githubusercontent.com/u/103962359?s=40&v=4",
-          "name": "L4XB",
-          "url": "https://github.com/L4XB"
         }
       ]
     },
@@ -195,9 +190,9 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "89,782",
-      "forks": "6,222",
-      "addStars": "1,433",
+      "stars": "89,823",
+      "forks": "6,213",
+      "addStars": "1,669",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1162160?s=40&v=4",
@@ -227,9 +222,9 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "94,654",
-      "forks": "8,885",
-      "addStars": "1,140",
+      "stars": "94,677",
+      "forks": "8,888",
+      "addStars": "1,146",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1336778?s=40&v=4",
@@ -264,9 +259,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "119,157",
-      "forks": "12,408",
-      "addStars": "3,331",
+      "stars": "119,258",
+      "forks": "12,414",
+      "addStars": "2,765",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -301,9 +296,9 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "34,542",
-      "forks": "3,003",
-      "addStars": "610",
+      "stars": "34,570",
+      "forks": "3,009",
+      "addStars": "613",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/66901228?s=40&v=4",
@@ -338,8 +333,8 @@
       "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "42,906",
-      "forks": "1,725",
+      "stars": "42,908",
+      "forks": "1,726",
       "addStars": "107",
       "contributors": [
         {
@@ -375,9 +370,9 @@
       "description": "Automated auditing, performance metrics, and best practices for the web.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "31,162",
-      "forks": "9,797",
-      "addStars": "119",
+      "stars": "31,169",
+      "forks": "9,799",
+      "addStars": "115",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4071474?s=40&v=4",
