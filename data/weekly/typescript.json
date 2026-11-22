@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Weekly Trending",
   "description": "Weekly Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sun, 22 Nov 2026 08:00:21 GMT",
+  "pubDate": "Sun, 22 Nov 2026 20:22:23 GMT",
   "items": [
     {
       "title": "backnotprop/plannotator",
@@ -10,8 +10,8 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,236",
-      "forks": "1,417",
+      "stars": "14,380",
+      "forks": "1,428",
       "addStars": "3,396",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,608",
-      "forks": "1,454",
+      "stars": "11,853",
+      "forks": "1,472",
       "addStars": "2,431",
       "contributors": [
         {
@@ -84,8 +84,8 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "9,984",
-      "forks": "798",
+      "stars": "10,167",
+      "forks": "809",
       "addStars": "4,400",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "58,736",
-      "forks": "4,908",
+      "stars": "58,819",
+      "forks": "4,915",
       "addStars": "2,795",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,069",
-      "forks": "2,150",
+      "stars": "21,168",
+      "forks": "2,155",
       "addStars": "3,792",
       "contributors": [
         {
@@ -185,8 +185,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,943",
-      "forks": "2,507",
+      "stars": "32,158",
+      "forks": "2,526",
       "addStars": "3,967",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,144",
-      "forks": "2,838",
+      "stars": "31,235",
+      "forks": "2,841",
       "addStars": "7,240",
       "contributors": [
         {
@@ -254,8 +254,8 @@
       "description": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "17,898",
-      "forks": "1,441",
+      "stars": "18,093",
+      "forks": "1,457",
       "addStars": "383",
       "contributors": [
         {
@@ -286,8 +286,8 @@
       "description": "An open-source AI coding agent that lives in your terminal.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "30,853",
-      "forks": "3,578",
+      "stars": "30,869",
+      "forks": "3,582",
       "addStars": "667",
       "contributors": [
         {
@@ -323,8 +323,8 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,260",
-      "forks": "1,127",
+      "stars": "14,276",
+      "forks": "1,129",
       "addStars": "774",
       "contributors": [
         {
@@ -355,8 +355,8 @@
       "description": "Email for professionals and teams",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,427",
-      "forks": "1,303",
+      "stars": "7,452",
+      "forks": "1,314",
       "addStars": "1,236",
       "contributors": [
         {
@@ -392,8 +392,8 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "26,614",
-      "forks": "3,795",
+      "stars": "26,804",
+      "forks": "3,823",
       "addStars": "3,909",
       "contributors": [
         {
@@ -429,8 +429,8 @@
       "description": "AIOStreams brings your Stremio addons, debrid services and Usenet together into one list, filtered, sorted and formatted your way, and plays it in Stremio or in its own apps for every screen.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,296",
-      "forks": "959",
+      "stars": "3,303",
+      "forks": "961",
       "addStars": "135",
       "contributors": [
         {
@@ -461,8 +461,8 @@
       "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "85,967",
-      "forks": "16,342",
+      "stars": "86,001",
+      "forks": "16,351",
       "addStars": "489",
       "contributors": [
         {
@@ -493,8 +493,8 @@
       "description": "The open, self-hostable alternative to closed AI bots. Production-ready, fully customizable, and plugs into every stack: any agent, any model, any tool.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "13,159",
-      "forks": "1,646",
+      "stars": "13,204",
+      "forks": "1,652",
       "addStars": "922",
       "contributors": [
         {
@@ -525,8 +525,8 @@
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,022",
-      "forks": "2,336",
+      "stars": "29,028",
+      "forks": "2,339",
       "addStars": "150",
       "contributors": [
         {
@@ -562,7 +562,7 @@
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,329",
+      "stars": "31,343",
       "forks": "1,977",
       "addStars": "206",
       "contributors": [
