@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Rust Languages in GitHub</description>
-    <pubDate>Sat, 21 Nov 2026 20:07:04 GMT</pubDate>
+    <pubDate>Sun, 22 Nov 2026 08:00:21 GMT</pubDate>
     <item>
       <title>vercel-labs/agent-browser</title>
       <link>https://github.com/vercel-labs/agent-browser</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>53,204</stars>
-      <forks>3,722</forks>
-      <addStars>2,491</addStars>
+      <stars>53,282</stars>
+      <forks>3,731</forks>
+      <addStars>2,193</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/block/buzz</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>37,645</stars>
-      <forks>4,963</forks>
-      <addStars>436</addStars>
+      <stars>37,649</stars>
+      <forks>4,961</forks>
+      <addStars>240</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/51647?s=40&amp;v=4</avatar>
@@ -82,9 +82,9 @@
       <guid>https://github.com/ModernRelay/omnigraph</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,175</stars>
-      <forks>343</forks>
-      <addStars>964</addStars>
+      <stars>3,191</stars>
+      <forks>348</forks>
+      <addStars>800</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/176176572?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/martin-olivier/airgorah</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,795</stars>
-      <forks>1,106</forks>
-      <addStars>1,491</addStars>
+      <stars>6,814</stars>
+      <forks>1,109</forks>
+      <addStars>1,188</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/58467105?s=40&amp;v=4</avatar>
@@ -143,9 +143,9 @@
       <guid>https://github.com/crmne/zapfast</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>4,867</stars>
-      <forks>498</forks>
-      <addStars>464</addStars>
+      <stars>4,888</stars>
+      <forks>499</forks>
+      <addStars>406</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/106617?s=40&amp;v=4</avatar>
@@ -176,9 +176,9 @@
       <guid>https://github.com/rustfs/rustfs</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>36,347</stars>
-      <forks>1,688</forks>
-      <addStars>297</addStars>
+      <stars>36,352</stars>
+      <forks>1,687</forks>
+      <addStars>282</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1472352?s=40&amp;v=4</avatar>
@@ -214,9 +214,9 @@
       <guid>https://github.com/ViceVerse-cz/Serein</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>1,681</stars>
-      <forks>165</forks>
-      <addStars>306</addStars>
+      <stars>1,694</stars>
+      <forks>170</forks>
+      <addStars>371</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/67194087?s=40&amp;v=4</avatar>
