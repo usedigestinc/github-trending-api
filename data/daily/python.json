@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Sun, 22 Nov 2026 20:22:23 GMT",
+  "pubDate": "Mon, 23 Nov 2026 09:06:13 GMT",
   "items": [
     {
       "title": "elementalsouls/Claude-BugHunter",
@@ -10,9 +10,9 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "17,494",
-      "forks": "1,947",
-      "addStars": "1,721",
+      "stars": "18,572",
+      "forks": "2,030",
+      "addStars": "1,716",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "62,677",
-      "forks": "5,685",
-      "addStars": "687",
+      "stars": "63,091",
+      "forks": "5,736",
+      "addStars": "699",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43330997?s=40&v=4",
@@ -79,8 +79,8 @@
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "68,576",
-      "forks": "8,971",
+      "stars": "69,101",
+      "forks": "9,026",
       "addStars": "473",
       "contributors": [
         {
@@ -116,9 +116,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "72,605",
-      "forks": "6,419",
-      "addStars": "673",
+      "stars": "73,028",
+      "forks": "6,454",
+      "addStars": "668",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "14,342",
-      "forks": "1,961",
-      "addStars": "395",
+      "stars": "14,561",
+      "forks": "1,979",
+      "addStars": "399",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/33206282?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "15,029",
-      "forks": "902",
-      "addStars": "690",
+      "stars": "15,721",
+      "forks": "953",
+      "addStars": "701",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/87308195?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "13,360",
-      "forks": "2,116",
-      "addStars": "640",
+      "stars": "13,917",
+      "forks": "2,180",
+      "addStars": "641",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/78066887?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "58,092",
-      "forks": "4,428",
-      "addStars": "121",
+      "stars": "58,188",
+      "forks": "4,436",
+      "addStars": "114",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/132531341?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with validation and evals.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,792",
-      "forks": "4,524",
-      "addStars": "39",
+      "stars": "42,817",
+      "forks": "4,528",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/553618?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "47,599",
-      "forks": "18,374",
-      "addStars": "16",
+      "stars": "47,612",
+      "forks": "18,380",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/595491?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "197,850",
-      "forks": "14,982",
-      "addStars": "466",
+      "stars": "197,958",
+      "forks": "14,994",
+      "addStars": "459",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4017093?s=40&v=4",
@@ -392,9 +392,9 @@
       "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "9,967",
+      "stars": "9,991",
       "forks": "1,363",
-      "addStars": "35",
+      "addStars": "36",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/13602468?s=40&v=4",
@@ -419,9 +419,9 @@
       "description": "A PyTorch native platform for training generative AI models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,949",
+      "stars": "5,954",
       "forks": "1,099",
-      "addStars": "9",
+      "addStars": "10",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/150487191?s=40&v=4",
@@ -456,9 +456,9 @@
       "description": "Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "1,632",
-      "forks": "350",
-      "addStars": "11",
+      "stars": "1,639",
+      "forks": "351",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/58756168?s=40&v=4",
@@ -488,8 +488,8 @@
       "description": "Community maintained hardware plugin for vLLM on Huawei Ascend",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "3,132",
-      "forks": "2,803",
+      "stars": "3,133",
+      "forks": "2,818",
       "addStars": "3",
       "contributors": [
         {
@@ -525,9 +525,9 @@
       "description": "Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "4,330",
-      "forks": "616",
-      "addStars": "209",
+      "stars": "4,457",
+      "forks": "632",
+      "addStars": "212",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53334628?s=40&v=4",
@@ -552,9 +552,9 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,743",
-      "forks": "863",
-      "addStars": "45",
+      "stars": "8,760",
+      "forks": "869",
+      "addStars": "35",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22532527?s=40&v=4",
@@ -589,9 +589,9 @@
       "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "42,609",
-      "forks": "5,304",
-      "addStars": "119",
+      "stars": "42,711",
+      "forks": "5,320",
+      "addStars": "128",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2702526?s=40&v=4",
@@ -621,9 +621,9 @@
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "151,028",
-      "forks": "13,562",
-      "addStars": "120",
+      "stars": "151,075",
+      "forks": "13,570",
+      "addStars": "111",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/15701806?s=40&v=4",
@@ -648,9 +648,9 @@
       "description": "let your agent control your phone",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,510",
-      "forks": "571",
-      "addStars": "74",
+      "stars": "5,552",
+      "forks": "584",
+      "addStars": "75",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/129362299?s=40&v=4",
@@ -685,9 +685,9 @@
       "description": "Odoo. Open Source Apps To Grow Your Business.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "56,022",
-      "forks": "34,389",
-      "addStars": "21",
+      "stars": "56,034",
+      "forks": "34,398",
+      "addStars": "20",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7501424?s=40&v=4",
@@ -722,9 +722,9 @@
       "description": "Build and run agents you can see, understand and trust.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "36,481",
-      "forks": "3,904",
-      "addStars": "48",
+      "stars": "36,522",
+      "forks": "3,909",
+      "addStars": "43",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/102287034?s=40&v=4",
@@ -759,9 +759,9 @@
       "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "5,927",
-      "forks": "762",
-      "addStars": "253",
+      "stars": "6,041",
+      "forks": "780",
+      "addStars": "234",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34639474?s=40&v=4",
