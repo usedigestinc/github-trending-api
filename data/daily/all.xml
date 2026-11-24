@@ -3,16 +3,16 @@
     <title>GitHub All Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 24 Nov 2026 00:52:06 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 10:56:20 GMT</pubDate>
     <item>
       <title>elementalsouls/Claude-BugHunter</title>
       <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-      <description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
+      <description>A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
       <guid>https://github.com/elementalsouls/Claude-BugHunter</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,771</stars>
-      <forks>2,100</forks>
+      <stars>20,524</stars>
+      <forks>2,172</forks>
       <addStars>2,029</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/obra/superpowers</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>325,069</stars>
-      <forks>28,834</forks>
+      <stars>325,506</stars>
+      <forks>28,865</forks>
       <addStars>840</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/HKUDS/CLI-Anything</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>63,640</stars>
-      <forks>5,783</forks>
+      <stars>64,183</stars>
+      <forks>5,838</forks>
       <addStars>790</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/jingyaogong/minimind</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>69,456</stars>
-      <forks>9,067</forks>
+      <stars>69,868</stars>
+      <forks>9,107</forks>
       <addStars>828</addStars>
       <contributors>
         <contributor>
@@ -158,8 +158,8 @@
       <guid>https://github.com/cursor/plugins</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>18,805</stars>
-      <forks>2,043</forks>
+      <stars>18,980</stars>
+      <forks>2,054</forks>
       <addStars>397</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/firecrawl/firecrawl</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>207,926</stars>
-      <forks>10,866</forks>
+      <stars>208,359</stars>
+      <forks>10,886</forks>
       <addStars>924</addStars>
       <contributors>
         <contributor>
@@ -234,8 +234,8 @@
       <guid>https://github.com/nginx/nginx</guid>
       <language>C</language>
       <languageColor>#555555</languageColor>
-      <stars>33,052</stars>
-      <forks>8,396</forks>
+      <stars>33,118</stars>
+      <forks>8,394</forks>
       <addStars>174</addStars>
       <contributors>
         <contributor>
@@ -272,8 +272,8 @@
       <guid>https://github.com/openvinotoolkit/openvino</guid>
       <language>C++</language>
       <languageColor>#f34b7d</languageColor>
-      <stars>12,281</stars>
-      <forks>3,680</forks>
+      <stars>12,366</stars>
+      <forks>3,683</forks>
       <addStars>184</addStars>
       <contributors>
         <contributor>
@@ -305,8 +305,8 @@
       <guid>https://github.com/cathrynlavery/diagram-design</guid>
       <language>HTML</language>
       <languageColor>#e34c26</languageColor>
-      <stars>70,967</stars>
-      <forks>4,746</forks>
+      <stars>71,389</stars>
+      <forks>4,767</forks>
       <addStars>620</addStars>
       <contributors>
         <contributor>
@@ -338,8 +338,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>73,440</stars>
-      <forks>6,479</forks>
+      <stars>73,764</stars>
+      <forks>6,510</forks>
       <addStars>797</addStars>
       <contributors>
         <contributor>
@@ -371,8 +371,8 @@
       <guid>https://github.com/google-labs-code/stitch-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,291</stars>
-      <forks>1,513</forks>
+      <stars>12,477</stars>
+      <forks>1,519</forks>
       <addStars>422</addStars>
       <contributors>
         <contributor>
@@ -409,8 +409,8 @@
       <guid>https://github.com/mjmirza/app-store-compliance</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>4,971</stars>
-      <forks>315</forks>
+      <stars>5,339</stars>
+      <forks>340</forks>
       <addStars>761</addStars>
       <contributors>
         <contributor>
@@ -442,8 +442,8 @@
       <guid>https://github.com/Tracer-Cloud/opensre</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,835</stars>
-      <forks>1,988</forks>
+      <stars>14,988</stars>
+      <forks>2,002</forks>
       <addStars>436</addStars>
       <contributors>
         <contributor>
@@ -480,8 +480,8 @@
       <guid>https://github.com/toeverything/AFFiNE</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>77,394</stars>
-      <forks>5,663</forks>
+      <stars>77,650</stars>
+      <forks>5,678</forks>
       <addStars>595</addStars>
       <contributors>
         <contributor>
@@ -513,8 +513,8 @@
       <guid>https://github.com/XiaoYouChR/Ghost-Downloader-3</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,319</stars>
-      <forks>978</forks>
+      <stars>16,883</stars>
+      <forks>1,019</forks>
       <addStars>1,087</addStars>
       <contributors>
         <contributor>
@@ -546,8 +546,8 @@
       <guid>https://github.com/zhouxiaoka/autoclip</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,399</stars>
-      <forks>2,207</forks>
+      <stars>14,968</stars>
+      <forks>2,244</forks>
       <addStars>907</addStars>
       <contributors>
         <contributor>

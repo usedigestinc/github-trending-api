@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 24 Nov 2026 00:52:06 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 10:56:20 GMT</pubDate>
     <item>
       <title>Nutlope/hallmark</title>
       <link>https://github.com/Nutlope/hallmark</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Nutlope/hallmark</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>60,089</stars>
-      <forks>3,283</forks>
+      <stars>60,310</stars>
+      <forks>3,297</forks>
       <addStars>29,144</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>77,554</stars>
-      <forks>5,228</forks>
+      <stars>77,712</stars>
+      <forks>5,242</forks>
       <addStars>36,869</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/milind-soni/OpenMausBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>27,182</stars>
-      <forks>3,871</forks>
+      <stars>27,350</stars>
+      <forks>3,902</forks>
       <addStars>21,809</addStars>
       <contributors>
         <contributor>
@@ -115,8 +115,8 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>74,724</stars>
-      <forks>12,414</forks>
+      <stars>76,277</stars>
+      <forks>12,568</forks>
       <addStars>44,453</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>199,483</stars>
-      <forks>23,347</forks>
+      <stars>199,661</stars>
+      <forks>23,366</forks>
       <addStars>16,727</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>119,328</stars>
-      <forks>10,365</forks>
+      <stars>119,423</stars>
+      <forks>10,378</forks>
       <addStars>17,492</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/Jakeschincariol/instagram-agent-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,660</stars>
-      <forks>1,550</forks>
+      <stars>8,777</stars>
+      <forks>1,561</forks>
       <addStars>6,023</addStars>
       <contributors>
         <contributor>
@@ -252,8 +252,8 @@
       <guid>https://github.com/backnotprop/plannotator</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>14,666</stars>
-      <forks>1,425</forks>
+      <stars>14,788</stars>
+      <forks>1,430</forks>
       <addStars>5,093</addStars>
       <contributors>
         <contributor>
@@ -290,8 +290,8 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>61,946</stars>
-      <forks>7,458</forks>
+      <stars>62,140</stars>
+      <forks>7,476</forks>
       <addStars>19,919</addStars>
       <contributors>
         <contributor>
@@ -323,8 +323,8 @@
       <guid>https://github.com/yetone/magpie</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>40,474</stars>
-      <forks>3,713</forks>
+      <stars>40,838</stars>
+      <forks>3,735</forks>
       <addStars>20,747</addStars>
       <contributors>
         <contributor>
@@ -361,8 +361,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>115,637</stars>
-      <forks>6,894</forks>
+      <stars>115,912</stars>
+      <forks>6,905</forks>
       <addStars>30,675</addStars>
       <contributors>
         <contributor>
@@ -394,8 +394,8 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>116,327</stars>
-      <forks>13,287</forks>
+      <stars>116,670</stars>
+      <forks>13,317</forks>
       <addStars>21,780</addStars>
       <contributors>
         <contributor>
@@ -432,8 +432,8 @@
       <guid>https://github.com/AgriciDaniel/claude-seo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>31,934</stars>
-      <forks>3,919</forks>
+      <stars>32,054</stars>
+      <forks>3,926</forks>
       <addStars>12,148</addStars>
       <contributors>
         <contributor>
@@ -470,8 +470,8 @@
       <guid>https://github.com/google-labs-code/stitch-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,291</stars>
-      <forks>1,513</forks>
+      <stars>12,477</stars>
+      <forks>1,519</forks>
       <addStars>3,630</addStars>
       <contributors>
         <contributor>
@@ -508,8 +508,8 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>88,956</stars>
-      <forks>8,297</forks>
+      <stars>89,230</stars>
+      <forks>8,322</forks>
       <addStars>18,679</addStars>
       <contributors>
         <contributor>
@@ -542,12 +542,12 @@
     <item>
       <title>elementalsouls/Claude-BugHunter</title>
       <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-      <description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
+      <description>A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
       <guid>https://github.com/elementalsouls/Claude-BugHunter</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,771</stars>
-      <forks>2,100</forks>
+      <stars>20,524</stars>
+      <forks>2,172</forks>
       <addStars>13,817</addStars>
       <contributors>
         <contributor>
@@ -579,8 +579,8 @@
       <guid>https://github.com/kajisho5/ffmpeg-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,227</stars>
-      <forks>895</forks>
+      <stars>10,454</stars>
+      <forks>908</forks>
       <addStars>8,031</addStars>
       <contributors>
         <contributor>
@@ -607,8 +607,8 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>53,620</stars>
-      <forks>3,760</forks>
+      <stars>53,701</stars>
+      <forks>3,767</forks>
       <addStars>9,273</addStars>
       <contributors>
         <contributor>

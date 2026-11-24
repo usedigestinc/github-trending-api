@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Python Languages in GitHub</description>
-    <pubDate>Tue, 24 Nov 2026 00:52:06 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 10:56:20 GMT</pubDate>
     <item>
       <title>mvanhorn/last30days-skill</title>
       <link>https://github.com/mvanhorn/last30days-skill</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>73,439</stars>
-      <forks>6,479</forks>
+      <stars>73,767</stars>
+      <forks>6,510</forks>
       <addStars>5,448</addStars>
       <contributors>
         <contributor>
@@ -44,8 +44,8 @@
       <guid>https://github.com/tradermonty/claude-trading-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,042</stars>
-      <forks>1,507</forks>
+      <stars>8,197</stars>
+      <forks>1,522</forks>
       <addStars>1,903</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/kajisho5/ffmpeg-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,228</stars>
-      <forks>895</forks>
+      <stars>10,454</stars>
+      <forks>908</forks>
       <addStars>3,891</addStars>
       <contributors>
         <contributor>
@@ -105,8 +105,8 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>73,997</stars>
-      <forks>58,221</forks>
+      <stars>74,180</stars>
+      <forks>58,341</forks>
       <addStars>1,283</addStars>
       <contributors>
         <contributor>
@@ -143,7 +143,7 @@
       <guid>https://github.com/andrewyng/openworker</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,557</stars>
+      <stars>19,564</stars>
       <forks>2,803</forks>
       <addStars>177</addStars>
       <contributors>
@@ -181,8 +181,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>199,483</stars>
-      <forks>23,347</forks>
+      <stars>199,661</stars>
+      <forks>23,366</forks>
       <addStars>3,660</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/jingyaogong/minimind</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>69,456</stars>
-      <forks>9,067</forks>
+      <stars>69,868</stars>
+      <forks>9,107</forks>
       <addStars>3,904</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/FujiwaraChoki/supoclip</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,133</stars>
-      <forks>985</forks>
+      <stars>4,145</stars>
+      <forks>988</forks>
       <addStars>837</addStars>
       <contributors>
         <contributor>
@@ -295,7 +295,7 @@
       <guid>https://github.com/davila7/claude-code-templates</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>34,145</stars>
+      <stars>34,161</stars>
       <forks>4,106</forks>
       <addStars>303</addStars>
       <contributors>
@@ -318,8 +318,8 @@
       <guid>https://github.com/microsoft/PyRIT</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,039</stars>
-      <forks>1,117</forks>
+      <stars>5,045</stars>
+      <forks>1,119</forks>
       <addStars>164</addStars>
       <contributors>
         <contributor>
@@ -346,8 +346,8 @@
       <guid>https://github.com/soxoj/maigret</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>41,210</stars>
-      <forks>3,333</forks>
+      <stars>41,221</stars>
+      <forks>3,335</forks>
       <addStars>424</addStars>
       <contributors>
         <contributor>
@@ -365,12 +365,12 @@
     <item>
       <title>elementalsouls/Claude-BugHunter</title>
       <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-      <description>A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
+      <description>A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
       <guid>https://github.com/elementalsouls/Claude-BugHunter</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,773</stars>
-      <forks>2,100</forks>
+      <stars>20,525</stars>
+      <forks>2,172</forks>
       <addStars>12,335</addStars>
       <contributors>
         <contributor>
@@ -402,8 +402,8 @@
       <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>80,179</stars>
-      <forks>9,845</forks>
+      <stars>80,211</stars>
+      <forks>9,848</forks>
       <addStars>565</addStars>
       <contributors>
         <contributor>
@@ -440,8 +440,8 @@
       <guid>https://github.com/PostHog/posthog</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>41,050</stars>
-      <forks>3,722</forks>
+      <stars>41,068</stars>
+      <forks>3,724</forks>
       <addStars>255</addStars>
       <contributors>
         <contributor>
@@ -468,8 +468,8 @@
       <guid>https://github.com/zhouxiaoka/autoclip</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>14,400</stars>
-      <forks>2,207</forks>
+      <stars>14,968</stars>
+      <forks>2,244</forks>
       <addStars>3,727</addStars>
       <contributors>
         <contributor>
