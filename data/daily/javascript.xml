@@ -3,7 +3,7 @@
     <title>GitHub Javascript Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Javascript Languages in GitHub</description>
-    <pubDate>Tue, 24 Nov 2026 10:56:20 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 23:02:40 GMT</pubDate>
     <item>
       <title>affaan-m/ECC</title>
       <link>https://github.com/affaan-m/ECC</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>309,837</stars>
-      <forks>45,564</forks>
-      <addStars>664</addStars>
+      <stars>310,183</stars>
+      <forks>45,592</forks>
+      <addStars>672</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/sveltejs/svelte</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>89,816</stars>
-      <forks>6,107</forks>
-      <addStars>78</addStars>
+      <stars>89,838</stars>
+      <forks>6,078</forks>
+      <addStars>39</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1162160?s=40&amp;v=4</avatar>
@@ -77,9 +77,9 @@
       <guid>https://github.com/wonderwhy-er/DesktopCommanderMCP</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>10,409</stars>
+      <stars>10,410</stars>
       <forks>1,310</forks>
-      <addStars>14</addStars>
+      <addStars>8</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70798?s=40&amp;v=4</avatar>
@@ -115,9 +115,9 @@
       <guid>https://github.com/vercel-labs/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>34,839</stars>
-      <forks>3,035</forks>
-      <addStars>70</addStars>
+      <stars>34,870</stars>
+      <forks>3,041</forks>
+      <addStars>64</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/66901228?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/michael-denyer/pstack-claude</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>4,799</stars>
-      <forks>445</forks>
-      <addStars>67</addStars>
+      <stars>4,828</stars>
+      <forks>448</forks>
+      <addStars>58</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/97485362?s=40&amp;v=4</avatar>
@@ -186,9 +186,9 @@
       <guid>https://github.com/micromatch/picomatch</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>1,338</stars>
+      <stars>1,339</stars>
       <forks>210</forks>
-      <addStars>2</addStars>
+      <addStars>1</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/383994?s=40&amp;v=4</avatar>
@@ -224,9 +224,9 @@
       <guid>https://github.com/babygoton/WorkDaddy</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>3,417</stars>
-      <forks>375</forks>
-      <addStars>34</addStars>
+      <stars>3,431</stars>
+      <forks>377</forks>
+      <addStars>39</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/29622572?s=40&amp;v=4</avatar>
@@ -262,9 +262,9 @@
       <guid>https://github.com/DietrichGebert/ponytail</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>197,771</stars>
-      <forks>11,188</forks>
-      <addStars>663</addStars>
+      <stars>198,043</stars>
+      <forks>11,211</forks>
+      <addStars>577</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/137048761?s=40&amp;v=4</avatar>
@@ -300,9 +300,9 @@
       <guid>https://github.com/openai/codex-plugin-cc</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>35,420</stars>
-      <forks>2,467</forks>
-      <addStars>43</addStars>
+      <stars>35,436</stars>
+      <forks>2,468</forks>
+      <addStars>47</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/200841172?s=40&amp;v=4</avatar>
@@ -332,53 +332,15 @@
       </contributors>
     </item>
     <item>
-      <title>HaD0Yun/CozyClay</title>
-      <link>https://github.com/HaD0Yun/CozyClay</link>
-      <description>Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.</description>
-      <guid>https://github.com/HaD0Yun/CozyClay</guid>
-      <language>JavaScript</language>
-      <languageColor>#f1e05a</languageColor>
-      <stars>2,082</stars>
-      <forks>218</forks>
-      <addStars>28</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/102889891?s=40&amp;v=4</avatar>
-          <name>HaD0Yun</name>
-          <url>https://github.com/HaD0Yun</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/238992291?s=40&amp;v=4</avatar>
-          <name>sisyphus-dev-ai</name>
-          <url>https://github.com/sisyphus-dev-ai</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/86390053?s=40&amp;v=4</avatar>
-          <name>Eastsidegunn</name>
-          <url>https://github.com/Eastsidegunn</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/69761728?s=40&amp;v=4</avatar>
-          <name>jeongpiano</name>
-          <url>https://github.com/jeongpiano</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>jquery/jquery</title>
       <link>https://github.com/jquery/jquery</link>
       <description>jQuery JavaScript Library</description>
       <guid>https://github.com/jquery/jquery</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>60,118</stars>
-      <forks>20,636</forks>
-      <addStars>55</addStars>
+      <stars>60,130</stars>
+      <forks>20,635</forks>
+      <addStars>3</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1615?s=40&amp;v=4</avatar>

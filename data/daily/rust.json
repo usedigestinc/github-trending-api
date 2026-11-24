@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Tue, 24 Nov 2026 10:56:20 GMT",
+  "pubDate": "Tue, 24 Nov 2026 23:02:40 GMT",
   "items": [
     {
       "title": "janhq/jan",
@@ -10,9 +10,9 @@
       "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "46,070",
-      "forks": "3,253",
-      "addStars": "33",
+      "stars": "46,081",
+      "forks": "3,258",
+      "addStars": "38",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10354610?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,034",
-      "forks": "247",
-      "addStars": "18",
+      "stars": "6,049",
+      "forks": "248",
+      "addStars": "23",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6210567?s=40&v=4",
@@ -69,9 +69,9 @@
       "description": "Extremely fast Query Engine for DataFrames, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "40,468",
-      "forks": "3,259",
-      "addStars": "28",
+      "stars": "40,485",
+      "forks": "3,263",
+      "addStars": "24",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/3023000?s=40&v=4",
@@ -106,9 +106,9 @@
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "31,306",
-      "forks": "2,846",
-      "addStars": "90",
+      "stars": "31,322",
+      "forks": "2,848",
+      "addStars": "108",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/77960507?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "45,885",
-      "forks": "6,700",
-      "addStars": "11",
+      "stars": "45,894",
+      "forks": "6,701",
+      "addStars": "23",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22217505?s=40&v=4",
@@ -165,9 +165,9 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "33,859",
+      "stars": "33,900",
       "forks": "3,586",
-      "addStars": "149",
+      "addStars": "133",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/22748003?s=40&v=4",
@@ -202,9 +202,9 @@
       "description": "⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,572",
+      "stars": "5,573",
       "forks": "383",
-      "addStars": "6",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/92240037?s=40&v=4",
@@ -239,9 +239,9 @@
       "description": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,247",
+      "stars": "9,253",
       "forks": "1,030",
-      "addStars": "17",
+      "addStars": "18",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/157451540?s=40&v=4",
@@ -276,9 +276,9 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "87,655",
-      "forks": "5,628",
-      "addStars": "108",
+      "stars": "87,715",
+      "forks": "5,630",
+      "addStars": "122",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43991222?s=40&v=4",
@@ -313,9 +313,9 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "131,152",
-      "forks": "21,174",
-      "addStars": "219",
+      "stars": "131,275",
+      "forks": "21,207",
+      "addStars": "272",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/71636191?s=40&v=4",
@@ -350,9 +350,9 @@
       "description": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "11,749",
-      "forks": "1,381",
-      "addStars": "38",
+      "stars": "11,758",
+      "forks": "1,382",
+      "addStars": "28",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/60666?s=40&v=4",
@@ -387,9 +387,9 @@
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "18,813",
-      "forks": "1,595",
-      "addStars": "16",
+      "stars": "18,819",
+      "forks": "1,596",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/44675238?s=40&v=4",
@@ -419,9 +419,9 @@
       "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "9,733",
+      "stars": "9,744",
       "forks": "851",
-      "addStars": "28",
+      "addStars": "17",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8382496?s=40&v=4",
@@ -456,9 +456,9 @@
       "description": "A Flash Player emulator written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "18,937",
-      "forks": "1,203",
-      "addStars": "15",
+      "stars": "18,941",
+      "forks": "1,202",
+      "addStars": "12",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/317625?s=40&v=4",

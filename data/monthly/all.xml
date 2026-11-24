@@ -3,7 +3,7 @@
     <title>GitHub All Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of All Languages in GitHub</description>
-    <pubDate>Tue, 24 Nov 2026 10:56:20 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 23:02:40 GMT</pubDate>
     <item>
       <title>Nutlope/hallmark</title>
       <link>https://github.com/Nutlope/hallmark</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/Nutlope/hallmark</guid>
       <language>CSS</language>
       <languageColor>#663399</languageColor>
-      <stars>60,310</stars>
-      <forks>3,297</forks>
+      <stars>60,539</stars>
+      <forks>3,310</forks>
       <addStars>29,144</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/cloudflare/security-audit-skill</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>77,712</stars>
-      <forks>5,242</forks>
+      <stars>77,943</stars>
+      <forks>5,263</forks>
       <addStars>36,869</addStars>
       <contributors>
         <contributor>
@@ -77,8 +77,8 @@
       <guid>https://github.com/milind-soni/OpenMausBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>27,350</stars>
-      <forks>3,902</forks>
+      <stars>27,500</stars>
+      <forks>3,929</forks>
       <addStars>21,809</addStars>
       <contributors>
         <contributor>
@@ -115,8 +115,8 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>76,277</stars>
-      <forks>12,568</forks>
+      <stars>77,345</stars>
+      <forks>13,019</forks>
       <addStars>44,453</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>199,661</stars>
-      <forks>23,366</forks>
+      <stars>199,936</stars>
+      <forks>23,392</forks>
       <addStars>16,727</addStars>
       <contributors>
         <contributor>
@@ -191,8 +191,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>119,423</stars>
-      <forks>10,378</forks>
+      <stars>119,548</stars>
+      <forks>10,390</forks>
       <addStars>17,492</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/Jakeschincariol/instagram-agent-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,777</stars>
-      <forks>1,561</forks>
+      <stars>8,971</stars>
+      <forks>1,585</forks>
       <addStars>6,023</addStars>
       <contributors>
         <contributor>
@@ -252,8 +252,8 @@
       <guid>https://github.com/backnotprop/plannotator</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>14,788</stars>
-      <forks>1,430</forks>
+      <stars>14,877</stars>
+      <forks>1,437</forks>
       <addStars>5,093</addStars>
       <contributors>
         <contributor>
@@ -284,14 +284,47 @@
       </contributors>
     </item>
     <item>
+      <title>Ebony-Vinyl/dsh-our-free-model</title>
+      <link>https://github.com/Ebony-Vinyl/dsh-our-free-model</link>
+      <description>在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.</description>
+      <guid>https://github.com/Ebony-Vinyl/dsh-our-free-model</guid>
+      <language>JavaScript</language>
+      <languageColor>#f1e05a</languageColor>
+      <stars>85,988</stars>
+      <forks>2,426</forks>
+      <addStars>48,139</addStars>
+      <contributors>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/318131693?s=40&amp;v=4</avatar>
+          <name>zixin947</name>
+          <url>https://github.com/zixin947</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/245557608?s=40&amp;v=4</avatar>
+          <name>Ebony-Vinyl</name>
+          <url>https://github.com/Ebony-Vinyl</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/318155171?s=40&amp;v=4</avatar>
+          <name>look-back-lysj</name>
+          <url>https://github.com/look-back-lysj</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/60821280?s=40&amp;v=4</avatar>
+          <name>menghuanshiguang</name>
+          <url>https://github.com/menghuanshiguang</url>
+        </contributor>
+      </contributors>
+    </item>
+    <item>
       <title>HKUDS/DeepTutor</title>
       <link>https://github.com/HKUDS/DeepTutor</link>
       <description>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</description>
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>62,140</stars>
-      <forks>7,476</forks>
+      <stars>62,294</stars>
+      <forks>7,493</forks>
       <addStars>19,919</addStars>
       <contributors>
         <contributor>
@@ -323,8 +356,8 @@
       <guid>https://github.com/yetone/magpie</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>40,838</stars>
-      <forks>3,735</forks>
+      <stars>41,001</stars>
+      <forks>3,752</forks>
       <addStars>20,747</addStars>
       <contributors>
         <contributor>
@@ -361,8 +394,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>115,912</stars>
-      <forks>6,905</forks>
+      <stars>116,254</stars>
+      <forks>6,938</forks>
       <addStars>30,675</addStars>
       <contributors>
         <contributor>
@@ -394,8 +427,8 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>116,670</stars>
-      <forks>13,317</forks>
+      <stars>116,987</stars>
+      <forks>13,338</forks>
       <addStars>21,780</addStars>
       <contributors>
         <contributor>
@@ -432,8 +465,8 @@
       <guid>https://github.com/AgriciDaniel/claude-seo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>32,054</stars>
-      <forks>3,926</forks>
+      <stars>32,174</stars>
+      <forks>3,935</forks>
       <addStars>12,148</addStars>
       <contributors>
         <contributor>
@@ -470,8 +503,8 @@
       <guid>https://github.com/google-labs-code/stitch-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>12,477</stars>
-      <forks>1,519</forks>
+      <stars>12,629</stars>
+      <forks>1,525</forks>
       <addStars>3,630</addStars>
       <contributors>
         <contributor>
@@ -508,8 +541,8 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>89,230</stars>
-      <forks>8,322</forks>
+      <stars>89,542</stars>
+      <forks>8,349</forks>
       <addStars>18,679</addStars>
       <contributors>
         <contributor>
@@ -546,8 +579,8 @@
       <guid>https://github.com/elementalsouls/Claude-BugHunter</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>20,524</stars>
-      <forks>2,172</forks>
+      <stars>21,376</stars>
+      <forks>2,226</forks>
       <addStars>13,817</addStars>
       <contributors>
         <contributor>
@@ -579,8 +612,8 @@
       <guid>https://github.com/kajisho5/ffmpeg-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,454</stars>
-      <forks>908</forks>
+      <stars>10,650</stars>
+      <forks>918</forks>
       <addStars>8,031</addStars>
       <contributors>
         <contributor>
@@ -607,8 +640,8 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>53,701</stars>
-      <forks>3,767</forks>
+      <stars>53,789</stars>
+      <forks>3,770</forks>
       <addStars>9,273</addStars>
       <contributors>
         <contributor>

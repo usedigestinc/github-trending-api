@@ -3,7 +3,7 @@
     <title>GitHub Go Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Go Languages in GitHub</description>
-    <pubDate>Tue, 24 Nov 2026 10:56:20 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 23:02:40 GMT</pubDate>
     <item>
       <title>yetone/magpie</title>
       <link>https://github.com/yetone/magpie</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/yetone/magpie</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>40,839</stars>
-      <forks>3,735</forks>
+      <stars>41,001</stars>
+      <forks>3,752</forks>
       <addStars>20,747</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/ollama/ollama</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>187,977</stars>
-      <forks>19,166</forks>
+      <stars>188,002</stars>
+      <forks>19,174</forks>
       <addStars>4,364</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/prometheus/prometheus</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>67,789</stars>
-      <forks>11,037</forks>
+      <stars>67,838</stars>
+      <forks>11,035</forks>
       <addStars>1,479</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/docker/compose</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>39,015</stars>
-      <forks>6,050</forks>
+      <stars>39,034</stars>
+      <forks>6,049</forks>
       <addStars>1,380</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/getarcaneapp/arcane</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>10,367</stars>
-      <forks>586</forks>
+      <stars>10,394</stars>
+      <forks>589</forks>
       <addStars>2,355</addStars>
       <contributors>
         <contributor>
@@ -186,8 +186,8 @@
       <guid>https://github.com/aquasecurity/trivy</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>39,679</stars>
-      <forks>929</forks>
+      <stars>39,695</stars>
+      <forks>934</forks>
       <addStars>1,057</addStars>
       <contributors>
         <contributor>
@@ -219,8 +219,8 @@
       <guid>https://github.com/strelov1/freehire</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,668</stars>
-      <forks>402</forks>
+      <stars>3,681</stars>
+      <forks>404</forks>
       <addStars>1,036</addStars>
       <contributors>
         <contributor>
@@ -247,8 +247,8 @@
       <guid>https://github.com/moby/moby</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>72,311</stars>
-      <forks>19,343</forks>
+      <stars>72,312</stars>
+      <forks>19,341</forks>
       <addStars>451</addStars>
       <contributors>
         <contributor>
@@ -285,8 +285,8 @@
       <guid>https://github.com/netbirdio/netbird</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>31,251</stars>
-      <forks>1,882</forks>
+      <stars>31,260</stars>
+      <forks>1,883</forks>
       <addStars>1,148</addStars>
       <contributors>
         <contributor>
@@ -323,8 +323,8 @@
       <guid>https://github.com/argoproj/argo-cd</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>24,679</stars>
-      <forks>8,116</forks>
+      <stars>24,682</stars>
+      <forks>8,120</forks>
       <addStars>262</addStars>
       <contributors>
         <contributor>
@@ -356,8 +356,8 @@
       <guid>https://github.com/cli/cli</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>47,172</stars>
-      <forks>9,440</forks>
+      <stars>47,184</stars>
+      <forks>9,442</forks>
       <addStars>572</addStars>
       <contributors>
         <contributor>
@@ -394,8 +394,8 @@
       <guid>https://github.com/infiniflow/ragflow</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>94,634</stars>
-      <forks>11,381</forks>
+      <stars>94,655</stars>
+      <forks>11,390</forks>
       <addStars>2,072</addStars>
       <contributors>
         <contributor>
@@ -432,8 +432,8 @@
       <guid>https://github.com/opensandbox-group/OpenSandbox</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>17,864</stars>
-      <forks>1,722</forks>
+      <stars>17,884</stars>
+      <forks>1,728</forks>
       <addStars>1,772</addStars>
       <contributors>
         <contributor>
@@ -470,8 +470,8 @@
       <guid>https://github.com/gosom/google-maps-scraper</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>8,376</stars>
-      <forks>1,328</forks>
+      <stars>8,391</stars>
+      <forks>1,330</forks>
       <addStars>1,592</addStars>
       <contributors>
         <contributor>
@@ -508,8 +508,8 @@
       <guid>https://github.com/go-gitea/gitea</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>59,237</stars>
-      <forks>7,421</forks>
+      <stars>59,242</stars>
+      <forks>7,423</forks>
       <addStars>701</addStars>
       <contributors>
         <contributor>
@@ -546,8 +546,8 @@
       <guid>https://github.com/multica-ai/multica</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>57,666</stars>
-      <forks>7,579</forks>
+      <stars>57,733</stars>
+      <forks>7,589</forks>
       <addStars>4,094</addStars>
       <contributors>
         <contributor>
@@ -584,8 +584,8 @@
       <guid>https://github.com/rclone/rclone</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>61,222</stars>
-      <forks>5,732</forks>
+      <stars>61,241</stars>
+      <forks>5,735</forks>
       <addStars>858</addStars>
       <contributors>
         <contributor>
@@ -622,8 +622,8 @@
       <guid>https://github.com/google/osv-scanner</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>11,612</stars>
-      <forks>859</forks>
+      <stars>11,615</stars>
+      <forks>861</forks>
       <addStars>373</addStars>
       <contributors>
         <contributor>
@@ -660,8 +660,8 @@
       <guid>https://github.com/etcd-io/etcd</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>52,644</stars>
-      <forks>10,624</forks>
+      <stars>52,648</stars>
+      <forks>10,626</forks>
       <addStars>503</addStars>
       <contributors>
         <contributor>
@@ -698,8 +698,8 @@
       <guid>https://github.com/tailscale/tailscale</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>39,553</stars>
-      <forks>3,542</forks>
+      <stars>39,568</stars>
+      <forks>3,540</forks>
       <addStars>1,643</addStars>
       <contributors>
         <contributor>
@@ -736,7 +736,7 @@
       <guid>https://github.com/VictoriaMetrics/VictoriaMetrics</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>18,181</stars>
+      <stars>18,185</stars>
       <forks>1,816</forks>
       <addStars>312</addStars>
       <contributors>
