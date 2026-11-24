@@ -3,17 +3,17 @@
     <title>GitHub Javascript Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Javascript Languages in GitHub</description>
-    <pubDate>Mon, 23 Nov 2026 09:06:13 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 00:52:06 GMT</pubDate>
     <item>
       <title>Anil-matcha/Open-Generative-AI</title>
       <link>https://github.com/Anil-matcha/Open-Generative-AI</link>
-      <description>Uncensored Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.</description>
+      <description>Uncensored AI Image &amp; Video Generator — Free AI image &amp; video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.</description>
       <guid>https://github.com/Anil-matcha/Open-Generative-AI</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>35,816</stars>
-      <forks>6,884</forks>
-      <addStars>954</addStars>
+      <stars>35,986</stars>
+      <forks>6,903</forks>
+      <addStars>993</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4326215?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/DeanChensj/jiangshan-map</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>8,899</stars>
-      <forks>1,096</forks>
-      <addStars>2,533</addStars>
+      <stars>8,974</stars>
+      <forks>1,108</forks>
+      <addStars>2,311</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/9414763?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/coreyhaines31/marketingskills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>62,125</stars>
-      <forks>9,074</forks>
-      <addStars>1,554</addStars>
+      <stars>62,260</stars>
+      <forks>9,098</forks>
+      <addStars>1,510</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/34802794?s=40&amp;v=4</avatar>
@@ -125,8 +125,8 @@
       <guid>https://github.com/jquery/jquery</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>60,215</stars>
-      <forks>20,644</forks>
+      <stars>60,116</stars>
+      <forks>20,637</forks>
       <addStars>624</addStars>
       <contributors>
         <contributor>
@@ -163,9 +163,9 @@
       <guid>https://github.com/affaan-m/ECC</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>309,198</stars>
-      <forks>45,497</forks>
-      <addStars>5,444</addStars>
+      <stars>309,583</stars>
+      <forks>45,541</forks>
+      <addStars>5,283</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/124439313?s=40&amp;v=4</avatar>
@@ -196,9 +196,9 @@
       <guid>https://github.com/sveltejs/svelte</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>89,931</stars>
-      <forks>6,132</forks>
-      <addStars>1,795</addStars>
+      <stars>89,811</stars>
+      <forks>6,114</forks>
+      <addStars>1,773</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1162160?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/louislam/uptime-kuma</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>94,788</stars>
-      <forks>8,878</forks>
-      <addStars>408</addStars>
+      <stars>94,799</stars>
+      <forks>8,868</forks>
+      <addStars>364</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1336778?s=40&amp;v=4</avatar>
@@ -267,9 +267,9 @@
       <guid>https://github.com/addyosmani/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>119,875</stars>
-      <forks>12,455</forks>
-      <addStars>1,994</addStars>
+      <stars>120,000</stars>
+      <forks>12,470</forks>
+      <addStars>1,764</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/110953?s=40&amp;v=4</avatar>
@@ -305,9 +305,9 @@
       <guid>https://github.com/vercel-labs/agent-skills</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>34,772</stars>
-      <forks>3,031</forks>
-      <addStars>655</addStars>
+      <stars>34,811</stars>
+      <forks>3,034</forks>
+      <addStars>636</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/66901228?s=40&amp;v=4</avatar>
@@ -343,9 +343,9 @@
       <guid>https://github.com/saadeghi/daisyui</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>42,948</stars>
+      <stars>42,952</stars>
       <forks>1,726</forks>
-      <addStars>102</addStars>
+      <addStars>119</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7342023?s=40&amp;v=4</avatar>
@@ -381,9 +381,9 @@
       <guid>https://github.com/GoogleChrome/lighthouse</guid>
       <language>JavaScript</language>
       <languageColor>#f1e05a</languageColor>
-      <stars>31,193</stars>
-      <forks>9,802</forks>
-      <addStars>86</addStars>
+      <stars>31,195</stars>
+      <forks>9,804</forks>
+      <addStars>78</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4071474?s=40&amp;v=4</avatar>

@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Rust Languages in GitHub</description>
-    <pubDate>Mon, 23 Nov 2026 09:06:13 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 00:52:06 GMT</pubDate>
     <item>
       <title>janhq/jan</title>
       <link>https://github.com/janhq/jan</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/janhq/jan</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>46,041</stars>
-      <forks>3,242</forks>
-      <addStars>34</addStars>
+      <stars>46,054</stars>
+      <forks>3,247</forks>
+      <addStars>33</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10354610?s=40&amp;v=4</avatar>
@@ -49,8 +49,8 @@
       <guid>https://github.com/malisper/pgrust</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,012</stars>
-      <forks>245</forks>
+      <stars>6,025</stars>
+      <forks>246</forks>
       <addStars>18</addStars>
       <contributors>
         <contributor>
@@ -72,9 +72,9 @@
       <guid>https://github.com/pola-rs/polars</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>40,453</stars>
-      <forks>3,256</forks>
-      <addStars>14</addStars>
+      <stars>40,463</stars>
+      <forks>3,257</forks>
+      <addStars>28</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3023000?s=40&amp;v=4</avatar>
@@ -110,9 +110,9 @@
       <guid>https://github.com/t8y2/dbx</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>31,198</stars>
+      <stars>31,227</stars>
       <forks>2,842</forks>
-      <addStars>34</addStars>
+      <addStars>90</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/77960507?s=40&amp;v=4</avatar>
@@ -143,9 +143,9 @@
       <guid>https://github.com/juspay/hyperswitch</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>45,873</stars>
+      <stars>45,879</stars>
       <forks>6,699</forks>
-      <addStars>12</addStars>
+      <addStars>11</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/22217505?s=40&amp;v=4</avatar>
@@ -171,9 +171,9 @@
       <guid>https://github.com/lbjlaq/Antigravity-Manager</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>33,746</stars>
-      <forks>3,580</forks>
-      <addStars>75</addStars>
+      <stars>33,794</stars>
+      <forks>3,585</forks>
+      <addStars>149</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/22748003?s=40&amp;v=4</avatar>
@@ -209,9 +209,9 @@
       <guid>https://github.com/SaladDay/cc-switch-cli</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>5,565</stars>
-      <forks>382</forks>
-      <addStars>12</addStars>
+      <stars>5,567</stars>
+      <forks>381</forks>
+      <addStars>6</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/92240037?s=40&amp;v=4</avatar>
@@ -247,9 +247,9 @@
       <guid>https://github.com/0xPlaygrounds/rig</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>9,234</stars>
+      <stars>9,240</stars>
       <forks>1,030</forks>
-      <addStars>9</addStars>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/157451540?s=40&amp;v=4</avatar>
@@ -285,9 +285,9 @@
       <guid>https://github.com/rtk-ai/rtk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>87,537</stars>
-      <forks>5,627</forks>
-      <addStars>119</addStars>
+      <stars>87,610</stars>
+      <forks>5,628</forks>
+      <addStars>108</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43991222?s=40&amp;v=4</avatar>
@@ -323,9 +323,9 @@
       <guid>https://github.com/rustdesk/rustdesk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>130,901</stars>
-      <forks>21,108</forks>
-      <addStars>151</addStars>
+      <stars>131,020</stars>
+      <forks>21,142</forks>
+      <addStars>219</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/71636191?s=40&amp;v=4</avatar>
@@ -361,9 +361,9 @@
       <guid>https://github.com/perspective-dev/perspective</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>11,719</stars>
+      <stars>11,738</stars>
       <forks>1,380</forks>
-      <addStars>31</addStars>
+      <addStars>38</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/60666?s=40&amp;v=4</avatar>
@@ -399,9 +399,9 @@
       <guid>https://github.com/louis-e/arnis</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>18,797</stars>
+      <stars>18,803</stars>
       <forks>1,592</forks>
-      <addStars>26</addStars>
+      <addStars>16</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/44675238?s=40&amp;v=4</avatar>
@@ -432,9 +432,9 @@
       <guid>https://github.com/wealthfolio/wealthfolio</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>9,714</stars>
-      <forks>850</forks>
-      <addStars>32</addStars>
+      <stars>9,726</stars>
+      <forks>851</forks>
+      <addStars>28</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8382496?s=40&amp;v=4</avatar>
@@ -470,9 +470,9 @@
       <guid>https://github.com/ruffle-rs/ruffle</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>18,925</stars>
-      <forks>1,201</forks>
-      <addStars>7</addStars>
+      <stars>18,930</stars>
+      <forks>1,202</forks>
+      <addStars>15</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/317625?s=40&amp;v=4</avatar>
