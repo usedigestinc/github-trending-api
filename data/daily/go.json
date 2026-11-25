@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Tue, 24 Nov 2026 23:02:40 GMT",
+  "pubDate": "Wed, 25 Nov 2026 09:52:41 GMT",
   "items": [
     {
       "title": "datazip-inc/olake-go",
@@ -10,9 +10,9 @@
       "description": "OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,329",
-      "forks": "344",
-      "addStars": "24",
+      "stars": "2,341",
+      "forks": "346",
+      "addStars": "38",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/111491139?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "34,957",
-      "forks": "5,594",
-      "addStars": "86",
+      "stars": "34,991",
+      "forks": "5,604",
+      "addStars": "84",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7765123?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "5,989",
-      "forks": "846",
-      "addStars": "127",
+      "stars": "6,063",
+      "forks": "854",
+      "addStars": "133",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -99,14 +99,14 @@
           "url": "https://github.com/Robert0622"
         },
         {
-          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
-          "name": "cursoragent",
-          "url": "https://github.com/cursoragent"
-        },
-        {
           "avatar": "https://avatars.githubusercontent.com/u/353173575?s=40&v=4",
           "name": "crispinhu27",
           "url": "https://github.com/crispinhu27"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
+          "name": "cursoragent",
+          "url": "https://github.com/cursoragent"
         }
       ]
     },
@@ -116,9 +116,9 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,291",
-      "forks": "916",
-      "addStars": "72",
+      "stars": "8,319",
+      "forks": "918",
+      "addStars": "68",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/917931?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,394",
-      "forks": "589",
-      "addStars": "47",
+      "stars": "10,433",
+      "forks": "594",
+      "addStars": "46",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25576967?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "57,733",
-      "forks": "7,589",
-      "addStars": "198",
+      "stars": "57,858",
+      "forks": "7,606",
+      "addStars": "207",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/280515704?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,884",
-      "forks": "1,728",
-      "addStars": "48",
+      "stars": "17,906",
+      "forks": "1,730",
+      "addStars": "42",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/62273713?s=40&v=4",
@@ -259,7 +259,7 @@
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "21,133",
+      "stars": "21,140",
       "forks": "2,060",
       "addStars": "17",
       "contributors": [
@@ -296,9 +296,9 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "29,019",
+      "stars": "29,043",
       "forks": "1,959",
-      "addStars": "62",
+      "addStars": "54",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/613744?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "13,439",
-      "forks": "1,243",
-      "addStars": "27",
+      "stars": "13,446",
+      "forks": "1,245",
+      "addStars": "26",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
@@ -370,8 +370,8 @@
       "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,675",
-      "forks": "714",
+      "stars": "2,682",
+      "forks": "716",
       "addStars": "20",
       "contributors": [
         {
@@ -407,9 +407,9 @@
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "21,522",
-      "forks": "2,631",
-      "addStars": "59",
+      "stars": "21,545",
+      "forks": "2,638",
+      "addStars": "48",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31536789?s=40&v=4",
