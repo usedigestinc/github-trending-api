@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Python Languages in GitHub</description>
-    <pubDate>Wed, 25 Nov 2026 09:52:41 GMT</pubDate>
+    <pubDate>Wed, 25 Nov 2026 22:33:26 GMT</pubDate>
     <item>
       <title>anthropics/skills</title>
       <link>https://github.com/anthropics/skills</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>200,194</stars>
-      <forks>23,411</forks>
+      <stars>200,486</stars>
+      <forks>23,447</forks>
       <addStars>16,946</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/Jakeschincariol/instagram-agent-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,102</stars>
-      <forks>1,594</forks>
+      <stars>9,285</stars>
+      <forks>1,602</forks>
       <addStars>6,218</addStars>
       <contributors>
         <contributor>
@@ -72,8 +72,8 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>62,551</stars>
-      <forks>7,527</forks>
+      <stars>62,755</stars>
+      <forks>7,564</forks>
       <addStars>20,099</addStars>
       <contributors>
         <contributor>
@@ -105,8 +105,8 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>117,287</stars>
-      <forks>13,376</forks>
+      <stars>117,552</stars>
+      <forks>13,415</forks>
       <addStars>22,382</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/AgriciDaniel/claude-seo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>32,276</stars>
-      <forks>3,945</forks>
+      <stars>32,405</stars>
+      <forks>3,950</forks>
       <addStars>12,213</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/elementalsouls/Claude-BugHunter</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,100</stars>
-      <forks>2,283</forks>
+      <stars>22,885</stars>
+      <forks>2,347</forks>
       <addStars>15,607</addStars>
       <contributors>
         <contributor>
@@ -214,8 +214,8 @@
       <guid>https://github.com/kajisho5/ffmpeg-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>10,878</stars>
-      <forks>928</forks>
+      <stars>11,072</stars>
+      <forks>936</forks>
       <addStars>8,190</addStars>
       <contributors>
         <contributor>
@@ -242,8 +242,8 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>36,843</stars>
-      <forks>4,078</forks>
+      <stars>36,937</stars>
+      <forks>4,096</forks>
       <addStars>4,361</addStars>
       <contributors>
         <contributor>
@@ -275,8 +275,8 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>123,734</stars>
-      <forks>23,699</forks>
+      <stars>123,761</stars>
+      <forks>23,711</forks>
       <addStars>10,550</addStars>
       <contributors>
         <contributor>
@@ -313,8 +313,8 @@
       <guid>https://github.com/NVIDIA/SkillSpector</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>27,599</stars>
-      <forks>2,467</forks>
+      <stars>27,664</stars>
+      <forks>2,477</forks>
       <addStars>6,386</addStars>
       <contributors>
         <contributor>
@@ -346,8 +346,8 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>105,659</stars>
-      <forks>11,074</forks>
+      <stars>105,771</stars>
+      <forks>11,084</forks>
       <addStars>16,528</addStars>
       <contributors>
         <contributor>
@@ -384,8 +384,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>74,645</stars>
-      <forks>6,580</forks>
+      <stars>75,050</stars>
+      <forks>6,616</forks>
       <addStars>8,956</addStars>
       <contributors>
         <contributor>
@@ -417,8 +417,8 @@
       <guid>https://github.com/AstrBotDevs/AstrBot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,476</stars>
-      <forks>3,670</forks>
+      <stars>47,501</stars>
+      <forks>3,671</forks>
       <addStars>4,519</addStars>
       <contributors>
         <contributor>
@@ -455,8 +455,8 @@
       <guid>https://github.com/The-PR-Agent/pr-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,653</stars>
-      <forks>2,250</forks>
+      <stars>16,667</stars>
+      <forks>2,251</forks>
       <addStars>3,115</addStars>
       <contributors>
         <contributor>
@@ -488,8 +488,8 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>145,590</stars>
-      <forks>23,435</forks>
+      <stars>145,686</stars>
+      <forks>23,453</forks>
       <addStars>11,303</addStars>
       <contributors>
         <contributor>
@@ -526,8 +526,8 @@
       <guid>https://github.com/blader/humanizer</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>73,380</stars>
-      <forks>5,753</forks>
+      <stars>73,567</stars>
+      <forks>5,774</forks>
       <addStars>13,128</addStars>
       <contributors>
         <contributor>
@@ -564,8 +564,8 @@
       <guid>https://github.com/fastapi/fastapi</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>104,992</stars>
-      <forks>10,359</forks>
+      <stars>105,033</stars>
+      <forks>10,363</forks>
       <addStars>2,500</addStars>
       <contributors>
         <contributor>

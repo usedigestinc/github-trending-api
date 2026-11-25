@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Weekly Trending",
   "description": "Weekly Trending of Go Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Wed, 25 Nov 2026 09:52:41 GMT",
+  "pubDate": "Wed, 25 Nov 2026 22:33:26 GMT",
   "items": [
     {
       "title": "alibaba/open-code-review",
@@ -10,8 +10,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "56,193",
-      "forks": "4,636",
+      "stars": "56,340",
+      "forks": "4,656",
       "addStars": "2,638",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,433",
-      "forks": "594",
+      "stars": "10,479",
+      "forks": "598",
       "addStars": "1,235",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,319",
-      "forks": "918",
+      "stars": "8,352",
+      "forks": "924",
       "addStars": "1,115",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "📚 Sync skills, agents, MCP, plugins to all AI CLI tools with one command and simplify team sharing.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,330",
-      "forks": "378",
+      "stars": "3,346",
+      "forks": "382",
       "addStars": "128",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,063",
-      "forks": "854",
+      "stars": "6,091",
+      "forks": "861",
       "addStars": "3,024",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,906",
-      "forks": "1,730",
+      "stars": "17,925",
+      "forks": "1,731",
       "addStars": "428",
       "contributors": [
         {
@@ -217,8 +217,8 @@
       "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "122,718",
-      "forks": "7,165",
+      "stars": "122,841",
+      "forks": "7,178",
       "addStars": "1,752",
       "contributors": [
         {
@@ -249,8 +249,8 @@
       "description": "Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "4,523",
-      "forks": "941",
+      "stars": "4,530",
+      "forks": "944",
       "addStars": "116",
       "contributors": [
         {
@@ -281,8 +281,8 @@
       "description": "The painless way to host your own Git service",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "47,994",
-      "forks": "5,076",
+      "stars": "47,998",
+      "forks": "5,078",
       "addStars": "64",
       "contributors": [
         {
@@ -313,8 +313,8 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "47,197",
-      "forks": "9,447",
+      "stars": "47,206",
+      "forks": "9,457",
       "addStars": "166",
       "contributors": [
         {
@@ -350,8 +350,8 @@
       "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "16,476",
-      "forks": "1,836",
+      "stars": "16,481",
+      "forks": "1,838",
       "addStars": "76",
       "contributors": [
         {
@@ -387,8 +387,8 @@
       "description": "Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "11,984",
-      "forks": "1,127",
+      "stars": "11,987",
+      "forks": "1,129",
       "addStars": "34",
       "contributors": [
         {
@@ -419,8 +419,8 @@
       "description": "Define and run multi-container applications with Docker",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,055",
-      "forks": "6,049",
+      "stars": "39,097",
+      "forks": "6,050",
       "addStars": "654",
       "contributors": [
         {
@@ -451,8 +451,8 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,718",
-      "forks": "936",
+      "stars": "39,741",
+      "forks": "941",
       "addStars": "229",
       "contributors": [
         {

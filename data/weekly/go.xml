@@ -3,7 +3,7 @@
     <title>GitHub Go Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Go Languages in GitHub</description>
-    <pubDate>Wed, 25 Nov 2026 09:52:41 GMT</pubDate>
+    <pubDate>Wed, 25 Nov 2026 22:33:26 GMT</pubDate>
     <item>
       <title>alibaba/open-code-review</title>
       <link>https://github.com/alibaba/open-code-review</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/alibaba/open-code-review</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>56,193</stars>
-      <forks>4,636</forks>
+      <stars>56,340</stars>
+      <forks>4,656</forks>
       <addStars>2,638</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/getarcaneapp/arcane</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>10,433</stars>
-      <forks>594</forks>
+      <stars>10,479</stars>
+      <forks>598</forks>
       <addStars>1,235</addStars>
       <contributors>
         <contributor>
@@ -82,8 +82,8 @@
       <guid>https://github.com/agent-substrate/substrate</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>8,319</stars>
-      <forks>918</forks>
+      <stars>8,352</stars>
+      <forks>924</forks>
       <addStars>1,115</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/runkids/skillshare</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,330</stars>
-      <forks>378</forks>
+      <stars>3,346</stars>
+      <forks>382</forks>
       <addStars>128</addStars>
       <contributors>
         <contributor>
@@ -153,8 +153,8 @@
       <guid>https://github.com/Tencent/LoopForge</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>6,063</stars>
-      <forks>854</forks>
+      <stars>6,091</stars>
+      <forks>861</forks>
       <addStars>3,024</addStars>
       <contributors>
         <contributor>
@@ -186,8 +186,8 @@
       <guid>https://github.com/opensandbox-group/OpenSandbox</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>17,906</stars>
-      <forks>1,730</forks>
+      <stars>17,925</stars>
+      <forks>1,731</forks>
       <addStars>428</addStars>
       <contributors>
         <contributor>
@@ -224,8 +224,8 @@
       <guid>https://github.com/JuliusBrussee/caveman</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>122,718</stars>
-      <forks>7,165</forks>
+      <stars>122,841</stars>
+      <forks>7,178</forks>
       <addStars>1,752</addStars>
       <contributors>
         <contributor>
@@ -257,8 +257,8 @@
       <guid>https://github.com/kagent-dev/kagent</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>4,523</stars>
-      <forks>941</forks>
+      <stars>4,530</stars>
+      <forks>944</forks>
       <addStars>116</addStars>
       <contributors>
         <contributor>
@@ -290,8 +290,8 @@
       <guid>https://github.com/gogs/gogs</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>47,994</stars>
-      <forks>5,076</forks>
+      <stars>47,998</stars>
+      <forks>5,078</forks>
       <addStars>64</addStars>
       <contributors>
         <contributor>
@@ -323,8 +323,8 @@
       <guid>https://github.com/cli/cli</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>47,197</stars>
-      <forks>9,447</forks>
+      <stars>47,206</stars>
+      <forks>9,457</forks>
       <addStars>166</addStars>
       <contributors>
         <contributor>
@@ -361,8 +361,8 @@
       <guid>https://github.com/Billionmail/BillionMail</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>16,476</stars>
-      <forks>1,836</forks>
+      <stars>16,481</stars>
+      <forks>1,838</forks>
       <addStars>76</addStars>
       <contributors>
         <contributor>
@@ -399,8 +399,8 @@
       <guid>https://github.com/kubescape/kubescape</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>11,984</stars>
-      <forks>1,127</forks>
+      <stars>11,987</stars>
+      <forks>1,129</forks>
       <addStars>34</addStars>
       <contributors>
         <contributor>
@@ -432,8 +432,8 @@
       <guid>https://github.com/docker/compose</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>39,055</stars>
-      <forks>6,049</forks>
+      <stars>39,097</stars>
+      <forks>6,050</forks>
       <addStars>654</addStars>
       <contributors>
         <contributor>
@@ -465,8 +465,8 @@
       <guid>https://github.com/aquasecurity/trivy</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>39,718</stars>
-      <forks>936</forks>
+      <stars>39,741</stars>
+      <forks>941</forks>
       <addStars>229</addStars>
       <contributors>
         <contributor>

@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Wed, 25 Nov 2026 09:52:41 GMT",
+  "pubDate": "Wed, 25 Nov 2026 22:33:26 GMT",
   "items": [
     {
       "title": "cursor/plugins",
@@ -10,9 +10,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "19,380",
-      "forks": "2,091",
-      "addStars": "360",
+      "stars": "19,514",
+      "forks": "2,106",
+      "addStars": "408",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/199161495?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "209,377",
-      "forks": "10,946",
-      "addStars": "991",
+      "stars": "209,969",
+      "forks": "10,984",
+      "addStars": "1,131",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/20311743?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,809",
-      "forks": "1,532",
-      "addStars": "403",
+      "stars": "12,955",
+      "forks": "1,536",
+      "addStars": "352",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "78,186",
-      "forks": "5,707",
-      "addStars": "584",
+      "stars": "78,444",
+      "forks": "5,719",
+      "addStars": "578",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25152247?s=40&v=4",
@@ -153,7 +153,7 @@
       "description": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "25,862",
+      "stars": "25,882",
       "forks": "827",
       "addStars": "33",
       "contributors": [
@@ -190,9 +190,9 @@
       "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "58,614",
-      "forks": "5,914",
-      "addStars": "24",
+      "stars": "58,630",
+      "forks": "5,921",
+      "addStars": "60",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1297371?s=40&v=4",
@@ -227,9 +227,9 @@
       "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "29,809",
-      "forks": "3,137",
-      "addStars": "26",
+      "stars": "29,817",
+      "forks": "3,138",
+      "addStars": "29",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2359375?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,554",
-      "forks": "1,848",
-      "addStars": "18",
+      "stars": "3,559",
+      "forks": "1,850",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/5895871?s=40&v=4",
@@ -291,8 +291,8 @@
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "61,450",
-      "forks": "10,179",
+      "stars": "61,475",
+      "forks": "10,182",
       "addStars": "54",
       "contributors": [
         {
@@ -323,9 +323,9 @@
       "description": "Email for professionals and teams",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "7,627",
-      "forks": "1,363",
-      "addStars": "82",
+      "stars": "7,674",
+      "forks": "1,376",
+      "addStars": "89",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8464869?s=40&v=4",
@@ -360,9 +360,9 @@
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "78,652",
-      "forks": "5,242",
-      "addStars": "112",
+      "stars": "78,696",
+      "forks": "5,246",
+      "addStars": "88",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/18431132?s=40&v=4",
@@ -392,9 +392,9 @@
       "description": "WebGL2 powered visualization framework",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "14,819",
+      "stars": "14,822",
       "forks": "2,311",
-      "addStars": "7",
+      "addStars": "8",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2059298?s=40&v=4",
@@ -429,9 +429,9 @@
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "75,686",
-      "forks": "5,178",
-      "addStars": "88",
+      "stars": "75,722",
+      "forks": "5,181",
+      "addStars": "106",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/30385142?s=40&v=4",
@@ -456,9 +456,9 @@
       "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "36,957",
-      "forks": "1,205",
-      "addStars": "21",
+      "stars": "36,963",
+      "forks": "1,210",
+      "addStars": "19",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2768267?s=40&v=4",
@@ -488,9 +488,9 @@
       "description": "⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "2,641",
-      "forks": "350",
-      "addStars": "60",
+      "stars": "2,656",
+      "forks": "357",
+      "addStars": "41",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/696180?s=40&v=4",
@@ -520,9 +520,9 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "229,064",
-      "forks": "31,182",
-      "addStars": "234",
+      "stars": "229,178",
+      "forks": "31,204",
+      "addStars": "224",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/63023139?s=40&v=4",
@@ -552,9 +552,9 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "123,788",
-      "forks": "15,994",
-      "addStars": "204",
+      "stars": "123,880",
+      "forks": "16,003",
+      "addStars": "173",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/514052?s=40&v=4",

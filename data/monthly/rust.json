@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Monthly Trending",
   "description": "Monthly Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Wed, 25 Nov 2026 09:52:41 GMT",
+  "pubDate": "Wed, 25 Nov 2026 22:33:26 GMT",
   "items": [
     {
       "title": "pbakaus/impeccable",
@@ -10,8 +10,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "116,530",
-      "forks": "6,964",
+      "stars": "116,856",
+      "forks": "6,992",
       "addStars": "30,688",
       "contributors": [
         {
@@ -42,7 +42,7 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "53,878",
+      "stars": "53,968",
       "forks": "3,770",
       "addStars": "9,395",
       "contributors": [
@@ -74,8 +74,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "12,739",
-      "forks": "514",
+      "stars": "12,745",
+      "forks": "513",
       "addStars": "3,335",
       "contributors": [
         {
@@ -101,8 +101,8 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "95,697",
-      "forks": "11,838",
+      "stars": "95,739",
+      "forks": "11,848",
       "addStars": "4,040",
       "contributors": [
         {
@@ -138,8 +138,8 @@
       "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "40,142",
-      "forks": "3,789",
+      "stars": "40,226",
+      "forks": "3,800",
       "addStars": "5,623",
       "contributors": [
         {
@@ -175,8 +175,8 @@
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,416",
-      "forks": "1,132",
+      "stars": "6,432",
+      "forks": "1,133",
       "addStars": "876",
       "contributors": [
         {
@@ -207,8 +207,8 @@
       "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "26,572",
-      "forks": "2,001",
+      "stars": "26,673",
+      "forks": "2,005",
       "addStars": "24,824",
       "contributors": [
         {
@@ -229,8 +229,8 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "51,484",
-      "forks": "2,778",
+      "stars": "51,534",
+      "forks": "2,781",
       "addStars": "2,103",
       "contributors": [
         {
@@ -261,8 +261,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "105,103",
-      "forks": "13,633",
+      "stars": "105,177",
+      "forks": "13,646",
       "addStars": "6,023",
       "contributors": [
         {
@@ -293,8 +293,8 @@
       "description": "AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "21,417",
-      "forks": "1,330",
+      "stars": "21,501",
+      "forks": "1,331",
       "addStars": "9,168",
       "contributors": [
         {
@@ -330,8 +330,8 @@
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "6,476",
-      "forks": "606",
+      "stars": "6,505",
+      "forks": "611",
       "addStars": "1,608",
       "contributors": [
         {
@@ -367,7 +367,7 @@
       "description": "Object-storage native graph database with branching and typed ontology",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,270",
+      "stars": "3,283",
       "forks": "345",
       "addStars": "1,535",
       "contributors": [
@@ -399,8 +399,8 @@
       "description": "The open-source CapCut alternative.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "20,091",
-      "forks": "2,453",
+      "stars": "20,184",
+      "forks": "2,462",
       "addStars": "8,858",
       "contributors": [
         {
@@ -436,8 +436,8 @@
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,054",
-      "forks": "520",
+      "stars": "5,075",
+      "forks": "524",
       "addStars": "2,884",
       "contributors": [
         {
@@ -468,8 +468,8 @@
       "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "4,221",
-      "forks": "534",
+      "stars": "4,225",
+      "forks": "536",
       "addStars": "685",
       "contributors": [
         {
@@ -505,8 +505,8 @@
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "113,141",
-      "forks": "4,232",
+      "stars": "113,162",
+      "forks": "4,234",
       "addStars": "1,726",
       "contributors": [
         {
@@ -537,8 +537,8 @@
       "description": "A modern runtime for JavaScript and TypeScript.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "108,998",
-      "forks": "6,588",
+      "stars": "109,024",
+      "forks": "6,593",
       "addStars": "1,073",
       "contributors": [
         {
@@ -574,8 +574,8 @@
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "96,927",
-      "forks": "5,222",
+      "stars": "96,972",
+      "forks": "5,224",
       "addStars": "929",
       "contributors": [
         {
@@ -606,8 +606,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "16,372",
-      "forks": "1,245",
+      "stars": "16,402",
+      "forks": "1,249",
       "addStars": "3,229",
       "contributors": [
         {
@@ -643,8 +643,8 @@
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "25,565",
-      "forks": "2,435",
+      "stars": "25,592",
+      "forks": "2,441",
       "addStars": "1,923",
       "contributors": [
         {
@@ -680,8 +680,8 @@
       "description": "The Rust package manager",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "15,795",
-      "forks": "3,250",
+      "stars": "15,798",
+      "forks": "3,252",
       "addStars": "195",
       "contributors": [
         {

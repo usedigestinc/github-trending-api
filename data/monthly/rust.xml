@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Rust Languages in GitHub</description>
-    <pubDate>Wed, 25 Nov 2026 09:52:41 GMT</pubDate>
+    <pubDate>Wed, 25 Nov 2026 22:33:26 GMT</pubDate>
     <item>
       <title>pbakaus/impeccable</title>
       <link>https://github.com/pbakaus/impeccable</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>116,530</stars>
-      <forks>6,964</forks>
+      <stars>116,856</stars>
+      <forks>6,992</forks>
       <addStars>30,688</addStars>
       <contributors>
         <contributor>
@@ -44,7 +44,7 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>53,878</stars>
+      <stars>53,968</stars>
       <forks>3,770</forks>
       <addStars>9,395</addStars>
       <contributors>
@@ -77,8 +77,8 @@
       <guid>https://github.com/max-sixty/worktrunk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,739</stars>
-      <forks>514</forks>
+      <stars>12,745</stars>
+      <forks>513</forks>
       <addStars>3,335</addStars>
       <contributors>
         <contributor>
@@ -105,8 +105,8 @@
       <guid>https://github.com/zed-industries/zed</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>95,697</stars>
-      <forks>11,838</forks>
+      <stars>95,739</stars>
+      <forks>11,848</forks>
       <addStars>4,040</addStars>
       <contributors>
         <contributor>
@@ -143,8 +143,8 @@
       <guid>https://github.com/cjpais/Handy</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>40,142</stars>
-      <forks>3,789</forks>
+      <stars>40,226</stars>
+      <forks>3,800</forks>
       <addStars>5,623</addStars>
       <contributors>
         <contributor>
@@ -181,8 +181,8 @@
       <guid>https://github.com/agentgateway/agentgateway</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,416</stars>
-      <forks>1,132</forks>
+      <stars>6,432</stars>
+      <forks>1,133</forks>
       <addStars>876</addStars>
       <contributors>
         <contributor>
@@ -214,8 +214,8 @@
       <guid>https://github.com/vercel-labs/agent-desktop</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>26,572</stars>
-      <forks>2,001</forks>
+      <stars>26,673</stars>
+      <forks>2,005</forks>
       <addStars>24,824</addStars>
       <contributors>
         <contributor>
@@ -237,8 +237,8 @@
       <guid>https://github.com/astral-sh/ruff</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>51,484</stars>
-      <forks>2,778</forks>
+      <stars>51,534</stars>
+      <forks>2,781</forks>
       <addStars>2,103</addStars>
       <contributors>
         <contributor>
@@ -270,8 +270,8 @@
       <guid>https://github.com/ruvnet/RuView</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>105,103</stars>
-      <forks>13,633</forks>
+      <stars>105,177</stars>
+      <forks>13,646</forks>
       <addStars>6,023</addStars>
       <contributors>
         <contributor>
@@ -303,8 +303,8 @@
       <guid>https://github.com/xerj-org/xerj</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>21,417</stars>
-      <forks>1,330</forks>
+      <stars>21,501</stars>
+      <forks>1,331</forks>
       <addStars>9,168</addStars>
       <contributors>
         <contributor>
@@ -341,8 +341,8 @@
       <guid>https://github.com/macro-inc/macro</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,476</stars>
-      <forks>606</forks>
+      <stars>6,505</stars>
+      <forks>611</forks>
       <addStars>1,608</addStars>
       <contributors>
         <contributor>
@@ -379,7 +379,7 @@
       <guid>https://github.com/ModernRelay/omnigraph</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,270</stars>
+      <stars>3,283</stars>
       <forks>345</forks>
       <addStars>1,535</addStars>
       <contributors>
@@ -412,8 +412,8 @@
       <guid>https://github.com/jub0t/Concat</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>20,091</stars>
-      <forks>2,453</forks>
+      <stars>20,184</stars>
+      <forks>2,462</forks>
       <addStars>8,858</addStars>
       <contributors>
         <contributor>
@@ -450,8 +450,8 @@
       <guid>https://github.com/crmne/zapfast</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>5,054</stars>
-      <forks>520</forks>
+      <stars>5,075</stars>
+      <forks>524</forks>
       <addStars>2,884</addStars>
       <contributors>
         <contributor>
@@ -483,8 +483,8 @@
       <guid>https://github.com/Mesh-LLM/mesh-llm</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>4,221</stars>
-      <forks>534</forks>
+      <stars>4,225</stars>
+      <forks>536</forks>
       <addStars>685</addStars>
       <contributors>
         <contributor>
@@ -521,8 +521,8 @@
       <guid>https://github.com/tauri-apps/tauri</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>113,141</stars>
-      <forks>4,232</forks>
+      <stars>113,162</stars>
+      <forks>4,234</forks>
       <addStars>1,726</addStars>
       <contributors>
         <contributor>
@@ -554,8 +554,8 @@
       <guid>https://github.com/denoland/deno</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>108,998</stars>
-      <forks>6,588</forks>
+      <stars>109,024</stars>
+      <forks>6,593</forks>
       <addStars>1,073</addStars>
       <contributors>
         <contributor>
@@ -592,8 +592,8 @@
       <guid>https://github.com/oven-sh/bun</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>96,927</stars>
-      <forks>5,222</forks>
+      <stars>96,972</stars>
+      <forks>5,224</forks>
       <addStars>929</addStars>
       <contributors>
         <contributor>
@@ -625,8 +625,8 @@
       <guid>https://github.com/akitaonrails/ai-memory</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>16,372</stars>
-      <forks>1,245</forks>
+      <stars>16,402</stars>
+      <forks>1,249</forks>
       <addStars>3,229</addStars>
       <contributors>
         <contributor>
@@ -663,8 +663,8 @@
       <guid>https://github.com/CapSoftware/Cap</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>25,565</stars>
-      <forks>2,435</forks>
+      <stars>25,592</stars>
+      <forks>2,441</forks>
       <addStars>1,923</addStars>
       <contributors>
         <contributor>
@@ -701,8 +701,8 @@
       <guid>https://github.com/rust-lang/cargo</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>15,795</stars>
-      <forks>3,250</forks>
+      <stars>15,798</stars>
+      <forks>3,252</forks>
       <addStars>195</addStars>
       <contributors>
         <contributor>
