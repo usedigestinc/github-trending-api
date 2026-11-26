@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Python Languages in GitHub</description>
-    <pubDate>Wed, 25 Nov 2026 22:33:26 GMT</pubDate>
+    <pubDate>Thu, 26 Nov 2026 09:32:43 GMT</pubDate>
     <item>
       <title>anthropics/skills</title>
       <link>https://github.com/anthropics/skills</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>200,486</stars>
-      <forks>23,447</forks>
-      <addStars>16,946</addStars>
+      <stars>200,738</stars>
+      <forks>23,472</forks>
+      <addStars>17,272</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/Jakeschincariol/instagram-agent-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>9,285</stars>
-      <forks>1,602</forks>
-      <addStars>6,218</addStars>
+      <stars>9,410</stars>
+      <forks>1,613</forks>
+      <addStars>6,421</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -72,9 +72,9 @@
       <guid>https://github.com/HKUDS/DeepTutor</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>62,755</stars>
-      <forks>7,564</forks>
-      <addStars>20,099</addStars>
+      <stars>62,997</stars>
+      <forks>7,601</forks>
+      <addStars>20,351</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/150592536?s=40&amp;v=4</avatar>
@@ -105,9 +105,9 @@
       <guid>https://github.com/sherlock-project/sherlock</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>117,552</stars>
-      <forks>13,415</forks>
-      <addStars>22,382</addStars>
+      <stars>117,775</stars>
+      <forks>13,438</forks>
+      <addStars>22,950</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/27065646?s=40&amp;v=4</avatar>
@@ -143,9 +143,9 @@
       <guid>https://github.com/AgriciDaniel/claude-seo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>32,405</stars>
-      <forks>3,950</forks>
-      <addStars>12,213</addStars>
+      <stars>32,494</stars>
+      <forks>3,959</forks>
+      <addStars>12,180</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/223140489?s=40&amp;v=4</avatar>
@@ -177,13 +177,13 @@
     <item>
       <title>elementalsouls/Claude-BugHunter</title>
       <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-      <description>A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
+      <description>A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.</description>
       <guid>https://github.com/elementalsouls/Claude-BugHunter</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>22,885</stars>
-      <forks>2,347</forks>
-      <addStars>15,607</addStars>
+      <stars>23,604</stars>
+      <forks>2,406</forks>
+      <addStars>17,223</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -214,9 +214,9 @@
       <guid>https://github.com/kajisho5/ffmpeg-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,072</stars>
-      <forks>936</forks>
-      <addStars>8,190</addStars>
+      <stars>11,282</stars>
+      <forks>948</forks>
+      <addStars>8,284</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -242,9 +242,9 @@
       <guid>https://github.com/anthropics/knowledge-work-plugins</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>36,937</stars>
-      <forks>4,096</forks>
-      <addStars>4,361</addStars>
+      <stars>36,996</stars>
+      <forks>4,099</forks>
+      <addStars>4,108</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/305637556?s=40&amp;v=4</avatar>
@@ -275,9 +275,9 @@
       <guid>https://github.com/TauricResearch/TradingAgents</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>123,761</stars>
-      <forks>23,711</forks>
-      <addStars>10,550</addStars>
+      <stars>123,809</stars>
+      <forks>23,716</forks>
+      <addStars>9,995</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/48253104?s=40&amp;v=4</avatar>
@@ -313,9 +313,9 @@
       <guid>https://github.com/NVIDIA/SkillSpector</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>27,664</stars>
-      <forks>2,477</forks>
-      <addStars>6,386</addStars>
+      <stars>27,726</stars>
+      <forks>2,484</forks>
+      <addStars>6,165</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/282666402?s=40&amp;v=4</avatar>
@@ -346,9 +346,9 @@
       <guid>https://github.com/D4Vinci/Scrapling</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>105,771</stars>
-      <forks>11,084</forks>
-      <addStars>16,528</addStars>
+      <stars>105,894</stars>
+      <forks>11,103</forks>
+      <addStars>16,552</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20604835?s=40&amp;v=4</avatar>
@@ -384,9 +384,9 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>75,050</stars>
-      <forks>6,616</forks>
-      <addStars>8,956</addStars>
+      <stars>75,384</stars>
+      <forks>6,650</forks>
+      <addStars>9,790</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4</avatar>
@@ -417,9 +417,9 @@
       <guid>https://github.com/AstrBotDevs/AstrBot</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>47,501</stars>
-      <forks>3,671</forks>
-      <addStars>4,519</addStars>
+      <stars>47,532</stars>
+      <forks>3,672</forks>
+      <addStars>4,359</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/37870767?s=40&amp;v=4</avatar>
@@ -455,9 +455,9 @@
       <guid>https://github.com/The-PR-Agent/pr-agent</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>16,667</stars>
-      <forks>2,251</forks>
-      <addStars>3,115</addStars>
+      <stars>16,679</stars>
+      <forks>2,253</forks>
+      <addStars>3,127</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/21198860?s=40&amp;v=4</avatar>
@@ -488,9 +488,9 @@
       <guid>https://github.com/harry0703/MoneyPrinterTurbo</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>145,686</stars>
-      <forks>23,453</forks>
-      <addStars>11,303</addStars>
+      <stars>145,782</stars>
+      <forks>23,466</forks>
+      <addStars>11,272</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4928832?s=40&amp;v=4</avatar>
@@ -526,9 +526,9 @@
       <guid>https://github.com/blader/humanizer</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>73,567</stars>
-      <forks>5,774</forks>
-      <addStars>13,128</addStars>
+      <stars>73,745</stars>
+      <forks>5,786</forks>
+      <addStars>13,261</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1672?s=40&amp;v=4</avatar>
@@ -564,9 +564,9 @@
       <guid>https://github.com/fastapi/fastapi</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>105,033</stars>
+      <stars>105,048</stars>
       <forks>10,363</forks>
-      <addStars>2,500</addStars>
+      <addStars>2,517</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1326112?s=40&amp;v=4</avatar>

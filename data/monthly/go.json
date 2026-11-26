@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Monthly Trending",
   "description": "Monthly Trending of Go Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Wed, 25 Nov 2026 22:33:26 GMT",
+  "pubDate": "Thu, 26 Nov 2026 09:32:43 GMT",
   "items": [
     {
       "title": "yetone/magpie",
@@ -10,9 +10,9 @@
       "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "41,464",
-      "forks": "3,807",
-      "addStars": "20,773",
+      "stars": "41,787",
+      "forks": "3,831",
+      "addStars": "20,593",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1206493?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "188,126",
-      "forks": "19,207",
-      "addStars": "4,293",
+      "stars": "188,176",
+      "forks": "19,213",
+      "addStars": "4,284",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2372640?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "67,889",
-      "forks": "11,040",
-      "addStars": "1,540",
+      "stars": "67,903",
+      "forks": "11,043",
+      "addStars": "1,569",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4948210?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Define and run multi-container applications with Docker",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,097",
+      "stars": "39,112",
       "forks": "6,050",
-      "addStars": "1,394",
+      "addStars": "1,472",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/132757?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,479",
+      "stars": "10,519",
       "forks": "598",
-      "addStars": "2,387",
+      "addStars": "2,449",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25576967?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,741",
-      "forks": "941",
-      "addStars": "1,060",
+      "stars": "39,763",
+      "forks": "943",
+      "addStars": "1,080",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2253692?s=40&v=4",
@@ -212,9 +212,9 @@
       "description": "freehire — the open-source search engine for job seekers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,723",
+      "stars": "3,742",
       "forks": "404",
-      "addStars": "944",
+      "addStars": "922",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/10761735?s=40&v=4",
@@ -239,9 +239,9 @@
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "72,317",
-      "forks": "19,343",
-      "addStars": "454",
+      "stars": "72,321",
+      "forks": "19,342",
+      "addStars": "456",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1804568?s=40&v=4",
@@ -276,9 +276,9 @@
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "31,281",
-      "forks": "1,886",
-      "addStars": "1,151",
+      "stars": "31,291",
+      "forks": "1,889",
+      "addStars": "1,140",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7747744?s=40&v=4",
@@ -313,9 +313,9 @@
       "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "24,695",
-      "forks": "8,122",
-      "addStars": "262",
+      "stars": "24,699",
+      "forks": "8,127",
+      "addStars": "266",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/426437?s=40&v=4",
@@ -345,9 +345,9 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "47,206",
-      "forks": "9,457",
-      "addStars": "575",
+      "stars": "47,216",
+      "forks": "9,458",
+      "addStars": "588",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/887?s=40&v=4",
@@ -382,9 +382,9 @@
       "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "94,706",
-      "forks": "11,402",
-      "addStars": "2,062",
+      "stars": "94,751",
+      "forks": "11,407",
+      "addStars": "2,083",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/8089971?s=40&v=4",
@@ -419,9 +419,9 @@
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,925",
-      "forks": "1,731",
-      "addStars": "1,798",
+      "stars": "17,939",
+      "forks": "1,735",
+      "addStars": "1,808",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/62273713?s=40&v=4",
@@ -456,9 +456,9 @@
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,416",
-      "forks": "1,336",
-      "addStars": "1,599",
+      "stars": "8,422",
+      "forks": "1,337",
+      "addStars": "1,595",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/454718?s=40&v=4",
@@ -493,9 +493,9 @@
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "59,255",
-      "forks": "7,428",
-      "addStars": "696",
+      "stars": "59,267",
+      "forks": "7,432",
+      "addStars": "708",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81045?s=40&v=4",
@@ -527,12 +527,12 @@
     {
       "title": "multica-ai/multica",
       "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "description": "Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "57,917",
-      "forks": "7,617",
-      "addStars": "4,237",
+      "stars": "58,026",
+      "forks": "7,631",
+      "addStars": "4,371",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/280515704?s=40&v=4",
@@ -567,9 +567,9 @@
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "61,272",
-      "forks": "5,741",
-      "addStars": "869",
+      "stars": "61,287",
+      "forks": "5,747",
+      "addStars": "865",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/536803?s=40&v=4",
@@ -604,8 +604,8 @@
       "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "11,628",
-      "forks": "863",
+      "stars": "11,634",
+      "forks": "865",
       "addStars": "376",
       "contributors": [
         {
@@ -641,9 +641,9 @@
       "description": "Distributed reliable key-value store for the most critical data of a distributed system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "52,652",
-      "forks": "10,634",
-      "addStars": "508",
+      "stars": "52,654",
+      "forks": "10,632",
+      "addStars": "509",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/6799218?s=40&v=4",
@@ -678,9 +678,9 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,616",
-      "forks": "3,551",
-      "addStars": "1,647",
+      "stars": "39,638",
+      "forks": "3,558",
+      "addStars": "1,654",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2621?s=40&v=4",
@@ -715,9 +715,9 @@
       "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "18,205",
+      "stars": "18,211",
       "forks": "1,817",
-      "addStars": "319",
+      "addStars": "334",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/283442?s=40&v=4",

@@ -3,7 +3,7 @@
     <title>GitHub Go Languages Daily Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Daily Trending of Go Languages in GitHub</description>
-    <pubDate>Wed, 25 Nov 2026 22:33:26 GMT</pubDate>
+    <pubDate>Thu, 26 Nov 2026 09:32:43 GMT</pubDate>
     <item>
       <title>datazip-inc/olake-go</title>
       <link>https://github.com/datazip-inc/olake-go</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/datazip-inc/olake-go</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,352</stars>
-      <forks>349</forks>
-      <addStars>20</addStars>
+      <stars>2,359</stars>
+      <forks>351</forks>
+      <addStars>21</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/111491139?s=40&amp;v=4</avatar>
@@ -49,9 +49,9 @@
       <guid>https://github.com/vxcontrol/pentagi</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>35,031</stars>
-      <forks>5,611</forks>
-      <addStars>82</addStars>
+      <stars>35,066</stars>
+      <forks>5,625</forks>
+      <addStars>81</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/7765123?s=40&amp;v=4</avatar>
@@ -87,9 +87,9 @@
       <guid>https://github.com/Tencent/LoopForge</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>6,091</stars>
-      <forks>861</forks>
-      <addStars>117</addStars>
+      <stars>6,146</stars>
+      <forks>875</forks>
+      <addStars>112</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -120,8 +120,8 @@
       <guid>https://github.com/agent-substrate/substrate</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>8,352</stars>
-      <forks>924</forks>
+      <stars>8,374</stars>
+      <forks>926</forks>
       <addStars>64</addStars>
       <contributors>
         <contributor>
@@ -158,9 +158,9 @@
       <guid>https://github.com/getarcaneapp/arcane</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>10,479</stars>
+      <stars>10,519</stars>
       <forks>598</forks>
-      <addStars>75</addStars>
+      <addStars>79</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25576967?s=40&amp;v=4</avatar>
@@ -187,13 +187,13 @@
     <item>
       <title>multica-ai/multica</title>
       <link>https://github.com/multica-ai/multica</link>
-      <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
+      <description>Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.</description>
       <guid>https://github.com/multica-ai/multica</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>57,917</stars>
-      <forks>7,617</forks>
-      <addStars>200</addStars>
+      <stars>58,026</stars>
+      <forks>7,631</forks>
+      <addStars>197</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/280515704?s=40&amp;v=4</avatar>
@@ -229,9 +229,9 @@
       <guid>https://github.com/opensandbox-group/OpenSandbox</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>17,925</stars>
-      <forks>1,731</forks>
-      <addStars>45</addStars>
+      <stars>17,939</stars>
+      <forks>1,735</forks>
+      <addStars>39</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/62273713?s=40&amp;v=4</avatar>
@@ -267,8 +267,8 @@
       <guid>https://github.com/nats-io/nats-server</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>21,148</stars>
-      <forks>2,061</forks>
+      <stars>21,156</stars>
+      <forks>2,063</forks>
       <addStars>14</addStars>
       <contributors>
         <contributor>
@@ -305,9 +305,9 @@
       <guid>https://github.com/gastownhall/beads</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>29,068</stars>
-      <forks>1,962</forks>
-      <addStars>58</addStars>
+      <stars>29,097</stars>
+      <forks>1,961</forks>
+      <addStars>56</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/613744?s=40&amp;v=4</avatar>
@@ -343,9 +343,9 @@
       <guid>https://github.com/TencentCloud/CubeSandbox</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>13,452</stars>
-      <forks>1,245</forks>
-      <addStars>14</addStars>
+      <stars>13,467</stars>
+      <forks>1,250</forks>
+      <addStars>13</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/63215266?s=40&amp;v=4</avatar>
@@ -381,9 +381,9 @@
       <guid>https://github.com/Autumn-27/ScopeSentry</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>2,695</stars>
-      <forks>724</forks>
-      <addStars>14</addStars>
+      <stars>2,705</stars>
+      <forks>727</forks>
+      <addStars>17</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/53844290?s=40&amp;v=4</avatar>
@@ -419,9 +419,9 @@
       <guid>https://github.com/putyy/res-downloader</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>21,564</stars>
-      <forks>2,640</forks>
-      <addStars>43</addStars>
+      <stars>21,583</stars>
+      <forks>2,643</forks>
+      <addStars>41</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/31536789?s=40&amp;v=4</avatar>

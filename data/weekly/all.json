@@ -2,7 +2,7 @@
   "title": "GitHub All Languages Weekly Trending",
   "description": "Weekly Trending of All Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Wed, 25 Nov 2026 22:33:26 GMT",
+  "pubDate": "Thu, 26 Nov 2026 09:32:43 GMT",
   "items": [
     {
       "title": "backnotprop/plannotator",
@@ -10,9 +10,9 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "15,075",
-      "forks": "1,448",
-      "addStars": "1,956",
+      "stars": "15,153",
+      "forks": "1,453",
+      "addStars": "1,764",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7244317?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "12,955",
-      "forks": "1,536",
-      "addStars": "2,626",
+      "stars": "13,109",
+      "forks": "1,547",
+      "addStars": "2,616",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/43076783?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "11,017",
-      "forks": "834",
-      "addStars": "2,494",
+      "stars": "11,141",
+      "forks": "837",
+      "addStars": "2,309",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/39191?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "3,548",
-      "forks": "565",
-      "addStars": "1,011",
+      "stars": "3,690",
+      "forks": "587",
+      "addStars": "1,008",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11021461?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "56,340",
-      "forks": "4,656",
-      "addStars": "2,638",
+      "stars": "56,467",
+      "forks": "4,668",
+      "addStars": "2,259",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/254839944?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "75,050",
-      "forks": "6,616",
-      "addStars": "5,369",
+      "stars": "75,384",
+      "forks": "6,650",
+      "addStars": "5,302",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/455140?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "59,342",
-      "forks": "4,889",
-      "addStars": "1,258",
+      "stars": "59,414",
+      "forks": "4,892",
+      "addStars": "1,203",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/399150?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "8,445",
-      "forks": "1,552",
-      "addStars": "1,504",
+      "stars": "8,512",
+      "forks": "1,559",
+      "addStars": "1,422",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/205491838?s=40&v=4",
@@ -286,9 +286,9 @@
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "21,709",
-      "forks": "2,185",
-      "addStars": "1,753",
+      "stars": "21,782",
+      "forks": "2,189",
+      "addStars": "1,421",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11162004?s=40&v=4",
@@ -323,9 +323,9 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "33,103",
-      "forks": "2,593",
-      "addStars": "2,890",
+      "stars": "33,229",
+      "forks": "2,596",
+      "addStars": "2,635",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/2781099?s=40&v=4",
@@ -355,9 +355,9 @@
       "description": "Enable Hermès Watch Faces on any Apple Watch devices",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": "2,514",
-      "forks": "207",
-      "addStars": "328",
+      "stars": "2,529",
+      "forks": "206",
+      "addStars": "318",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/11896738?s=40&v=4",
@@ -392,9 +392,9 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": "17,918",
-      "forks": "1,562",
-      "addStars": "1,567",
+      "stars": "17,991",
+      "forks": "1,565",
+      "addStars": "1,509",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/187772?s=40&v=4",
@@ -424,9 +424,9 @@
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": "31,848",
-      "forks": "2,866",
-      "addStars": "3,278",
+      "stars": "31,907",
+      "forks": "2,870",
+      "addStars": "2,319",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/14025786?s=40&v=4",
@@ -461,9 +461,9 @@
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": "11,072",
-      "forks": "936",
-      "addStars": "2,993",
+      "stars": "11,282",
+      "forks": "948",
+      "addStars": "3,048",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
