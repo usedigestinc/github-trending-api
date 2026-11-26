@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Thu, 26 Nov 2026 09:32:43 GMT",
+  "pubDate": "Thu, 26 Nov 2026 22:22:16 GMT",
   "items": [
     {
       "title": "datazip-inc/olake-go",
@@ -10,9 +10,9 @@
       "description": "OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,359",
-      "forks": "351",
-      "addStars": "21",
+      "stars": "2,366",
+      "forks": "352",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/111491139?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "35,066",
-      "forks": "5,625",
-      "addStars": "81",
+      "stars": "35,112",
+      "forks": "5,641",
+      "addStars": "74",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7765123?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "6,146",
-      "forks": "875",
-      "addStars": "112",
+      "stars": "5,993",
+      "forks": "857",
+      "addStars": "92",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
@@ -116,9 +116,9 @@
       "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,374",
-      "forks": "926",
-      "addStars": "64",
+      "stars": "8,429",
+      "forks": "937",
+      "addStars": "52",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/917931?s=40&v=4",
@@ -153,9 +153,9 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,519",
-      "forks": "598",
-      "addStars": "79",
+      "stars": "10,568",
+      "forks": "599",
+      "addStars": "97",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/25576967?s=40&v=4",
@@ -185,9 +185,9 @@
       "description": "Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "58,026",
-      "forks": "7,631",
-      "addStars": "197",
+      "stars": "58,079",
+      "forks": "7,638",
+      "addStars": "175",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/280515704?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,939",
-      "forks": "1,735",
-      "addStars": "39",
+      "stars": "17,950",
+      "forks": "1,739",
+      "addStars": "28",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/62273713?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "21,156",
-      "forks": "2,063",
-      "addStars": "14",
+      "stars": "21,167",
+      "forks": "2,064",
+      "addStars": "16",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/90097?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "Beads - A memory upgrade for your coding agent",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "29,097",
-      "forks": "1,961",
-      "addStars": "56",
+      "stars": "29,127",
+      "forks": "1,962",
+      "addStars": "58",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/613744?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "13,467",
-      "forks": "1,250",
-      "addStars": "13",
+      "stars": "13,471",
+      "forks": "1,249",
+      "addStars": "21",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/63215266?s=40&v=4",
@@ -370,9 +370,9 @@
       "description": "ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "2,705",
-      "forks": "727",
-      "addStars": "17",
+      "stars": "2,717",
+      "forks": "731",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/53844290?s=40&v=4",
@@ -402,14 +402,46 @@
       ]
     },
     {
+      "title": "egoist/mygo",
+      "url": "https://github.com/egoist/mygo",
+      "description": "Develop desktop apps with native UI or web frontend in Go",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": "6,919",
+      "forks": "458",
+      "addStars": "52",
+      "contributors": [
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/81847?s=40&v=4",
+          "name": "claude",
+          "url": "https://github.com/claude"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/8784712?s=40&v=4",
+          "name": "egoist",
+          "url": "https://github.com/egoist"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/69753389?s=40&v=4",
+          "name": "pseudoyu",
+          "url": "https://github.com/pseudoyu"
+        },
+        {
+          "avatar": "https://avatars.githubusercontent.com/u/269104167?s=40&v=4",
+          "name": "cunninghamcard-bit",
+          "url": "https://github.com/cunninghamcard-bit"
+        }
+      ]
+    },
+    {
       "title": "putyy/res-downloader",
       "url": "https://github.com/putyy/res-downloader",
       "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "21,583",
-      "forks": "2,643",
-      "addStars": "41",
+      "stars": "21,589",
+      "forks": "2,646",
+      "addStars": "32",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/31536789?s=40&v=4",

@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Thu, 26 Nov 2026 09:32:43 GMT",
+  "pubDate": "Thu, 26 Nov 2026 22:22:16 GMT",
   "items": [
     {
       "title": "affaan-m/ECC",
@@ -10,9 +10,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "310,935",
-      "forks": "45,680",
-      "addStars": "573",
+      "stars": "311,270",
+      "forks": "45,729",
+      "addStars": "611",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "89,938",
-      "forks": "6,076",
-      "addStars": "136",
+      "stars": "89,953",
+      "forks": "6,077",
+      "addStars": "49",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1162160?s=40&v=4",
@@ -74,9 +74,9 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "10,425",
+      "stars": "10,435",
       "forks": "1,316",
-      "addStars": "8",
+      "addStars": "15",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/70798?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "34,945",
-      "forks": "3,053",
-      "addStars": "56",
+      "stars": "34,980",
+      "forks": "3,055",
+      "addStars": "63",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/66901228?s=40&v=4",
@@ -148,9 +148,9 @@
       "description": "Antigravity, Claude Code, Codex, Copilot, DeepSeek Harness, Gemini, Grok Build, Kimi Code, MiniMax Code, Muse, OMP, OpenCode, Pi, Prime Agent, etc versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "4,901",
-      "forks": "456",
-      "addStars": "51",
+      "stars": "4,920",
+      "forks": "459",
+      "addStars": "46",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/97485362?s=40&v=4",
@@ -180,9 +180,9 @@
       "description": "Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, i…",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "1,339",
-      "forks": "210",
-      "addStars": "1",
+      "stars": "1,340",
+      "forks": "209",
+      "addStars": "2",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/383994?s=40&v=4",
@@ -217,9 +217,9 @@
       "description": "WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "3,492",
-      "forks": "381",
-      "addStars": "31",
+      "stars": "3,510",
+      "forks": "385",
+      "addStars": "49",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/29622572?s=40&v=4",
@@ -254,9 +254,9 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "198,987",
-      "forks": "11,289",
-      "addStars": "672",
+      "stars": "199,327",
+      "forks": "11,318",
+      "addStars": "679",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/137048761?s=40&v=4",
@@ -291,9 +291,9 @@
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "35,464",
-      "forks": "2,474",
-      "addStars": "20",
+      "stars": "35,476",
+      "forks": "2,476",
+      "addStars": "31",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/200841172?s=40&v=4",
@@ -328,9 +328,9 @@
       "description": "jQuery JavaScript Library",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "60,168",
+      "stars": "60,175",
       "forks": "20,635",
-      "addStars": "34",
+      "addStars": "22",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1615?s=40&v=4",
