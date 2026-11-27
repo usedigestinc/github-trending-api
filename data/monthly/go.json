@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Monthly Trending",
   "description": "Monthly Trending of Go Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Fri, 27 Nov 2026 09:42:05 GMT",
+  "pubDate": "Fri, 27 Nov 2026 21:59:06 GMT",
   "items": [
     {
       "title": "yetone/magpie",
@@ -10,8 +10,8 @@
       "description": "Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi Code and more — and use them in any agent: Claude Code, Codex, Claude Desktop… When one runs out, the next takes over.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "42,322",
-      "forks": "3,887",
+      "stars": "42,505",
+      "forks": "3,908",
       "addStars": "20,130",
       "contributors": [
         {
@@ -47,8 +47,8 @@
       "description": "Develop desktop apps with native UI or web frontend in Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "7,012",
-      "forks": "460",
+      "stars": "7,052",
+      "forks": "461",
       "addStars": "3,745",
       "contributors": [
         {
@@ -79,8 +79,8 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "188,284",
-      "forks": "19,224",
+      "stars": "188,329",
+      "forks": "19,240",
       "addStars": "4,244",
       "contributors": [
         {
@@ -116,8 +116,8 @@
       "description": "The Prometheus monitoring system and time series database.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "67,931",
-      "forks": "11,051",
+      "stars": "67,932",
+      "forks": "11,059",
       "addStars": "1,564",
       "contributors": [
         {
@@ -148,8 +148,8 @@
       "description": "Define and run multi-container applications with Docker",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,142",
-      "forks": "6,060",
+      "stars": "39,130",
+      "forks": "6,077",
       "addStars": "1,484",
       "contributors": [
         {
@@ -180,8 +180,8 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "10,611",
-      "forks": "598",
+      "stars": "10,639",
+      "forks": "599",
       "addStars": "2,530",
       "contributors": [
         {
@@ -212,8 +212,8 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,813",
-      "forks": "957",
+      "stars": "39,831",
+      "forks": "959",
       "addStars": "1,100",
       "contributors": [
         {
@@ -244,8 +244,8 @@
       "description": "freehire — the open-source search engine for job seekers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "3,767",
-      "forks": "405",
+      "stars": "3,775",
+      "forks": "407",
       "addStars": "841",
       "contributors": [
         {
@@ -271,8 +271,8 @@
       "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "72,324",
-      "forks": "19,353",
+      "stars": "72,322",
+      "forks": "19,372",
       "addStars": "452",
       "contributors": [
         {
@@ -308,8 +308,8 @@
       "description": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "31,314",
-      "forks": "1,890",
+      "stars": "31,329",
+      "forks": "1,893",
       "addStars": "1,137",
       "contributors": [
         {
@@ -345,8 +345,8 @@
       "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "24,706",
-      "forks": "8,128",
+      "stars": "24,710",
+      "forks": "8,132",
       "addStars": "266",
       "contributors": [
         {
@@ -377,8 +377,8 @@
       "description": "GitHub’s official command line tool",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "47,248",
-      "forks": "9,470",
+      "stars": "47,275",
+      "forks": "9,494",
       "addStars": "596",
       "contributors": [
         {
@@ -414,8 +414,8 @@
       "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "94,817",
-      "forks": "11,422",
+      "stars": "94,836",
+      "forks": "11,423",
       "addStars": "2,078",
       "contributors": [
         {
@@ -451,8 +451,8 @@
       "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "17,972",
-      "forks": "1,740",
+      "stars": "17,982",
+      "forks": "1,744",
       "addStars": "1,801",
       "contributors": [
         {
@@ -488,8 +488,8 @@
       "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "8,443",
-      "forks": "1,342",
+      "stars": "8,453",
+      "forks": "1,344",
       "addStars": "1,572",
       "contributors": [
         {
@@ -525,8 +525,8 @@
       "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "59,305",
-      "forks": "7,440",
+      "stars": "59,323",
+      "forks": "7,442",
       "addStars": "695",
       "contributors": [
         {
@@ -562,8 +562,8 @@
       "description": "Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "58,156",
-      "forks": "7,650",
+      "stars": "58,199",
+      "forks": "7,661",
       "addStars": "4,429",
       "contributors": [
         {
@@ -599,8 +599,8 @@
       "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "61,320",
-      "forks": "5,754",
+      "stars": "61,332",
+      "forks": "5,759",
       "addStars": "874",
       "contributors": [
         {
@@ -636,8 +636,8 @@
       "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "11,643",
-      "forks": "870",
+      "stars": "11,646",
+      "forks": "873",
       "addStars": "376",
       "contributors": [
         {
@@ -674,7 +674,7 @@
       "language": "Go",
       "languageColor": "#00ADD8",
       "stars": "52,661",
-      "forks": "10,635",
+      "forks": "10,633",
       "addStars": "500",
       "contributors": [
         {
@@ -710,8 +710,8 @@
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "39,703",
-      "forks": "3,564",
+      "stars": "39,738",
+      "forks": "3,566",
       "addStars": "1,642",
       "contributors": [
         {
@@ -747,8 +747,8 @@
       "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": "18,222",
-      "forks": "1,815",
+      "stars": "18,226",
+      "forks": "1,816",
       "addStars": "343",
       "contributors": [
         {

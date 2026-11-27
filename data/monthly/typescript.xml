@@ -3,7 +3,7 @@
     <title>GitHub Typescript Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Typescript Languages in GitHub</description>
-    <pubDate>Fri, 27 Nov 2026 09:42:05 GMT</pubDate>
+    <pubDate>Fri, 27 Nov 2026 21:59:06 GMT</pubDate>
     <item>
       <title>milind-soni/OpenMausBot</title>
       <link>https://github.com/milind-soni/OpenMausBot</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/milind-soni/OpenMausBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>28,341</stars>
-      <forks>4,033</forks>
+      <stars>28,528</stars>
+      <forks>4,058</forks>
       <addStars>22,590</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/pingdotgg/t3code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>81,509</stars>
-      <forks>14,384</forks>
+      <stars>82,097</stars>
+      <forks>14,468</forks>
       <addStars>50,354</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/thedotmack/claude-mem</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>120,080</stars>
-      <forks>10,448</forks>
+      <stars>120,196</stars>
+      <forks>10,458</forks>
       <addStars>17,325</addStars>
       <contributors>
         <contributor>
@@ -125,8 +125,8 @@
       <guid>https://github.com/backnotprop/plannotator</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,328</stars>
-      <forks>1,467</forks>
+      <stars>15,409</stars>
+      <forks>1,475</forks>
       <addStars>5,601</addStars>
       <contributors>
         <contributor>
@@ -163,8 +163,8 @@
       <guid>https://github.com/google-labs-code/stitch-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,420</stars>
-      <forks>1,580</forks>
+      <stars>13,564</stars>
+      <forks>1,619</forks>
       <addStars>4,609</addStars>
       <contributors>
         <contributor>
@@ -201,8 +201,8 @@
       <guid>https://github.com/heygen-com/hyperframes</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>91,143</stars>
-      <forks>8,504</forks>
+      <stars>91,479</stars>
+      <forks>8,534</forks>
       <addStars>18,292</addStars>
       <contributors>
         <contributor>
@@ -233,47 +233,14 @@
       </contributors>
     </item>
     <item>
-      <title>Vincentwei1021/video-shotcraft</title>
-      <link>https://github.com/Vincentwei1021/video-shotcraft</link>
-      <description>AI video skill for Claude Code &amp; Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench &amp; JianYing (CapCut CN) export.</description>
-      <guid>https://github.com/Vincentwei1021/video-shotcraft</guid>
-      <language>TypeScript</language>
-      <languageColor>#3178c6</languageColor>
-      <stars>22,980</stars>
-      <forks>2,102</forks>
-      <addStars>9,130</addStars>
-      <contributors>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/18239147?s=40&amp;v=4</avatar>
-          <name>Vincentwei1021</name>
-          <url>https://github.com/Vincentwei1021</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
-          <name>claude</name>
-          <url>https://github.com/claude</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/15373810?s=40&amp;v=4</avatar>
-          <name>skyzhao1223</name>
-          <url>https://github.com/skyzhao1223</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/184250974?s=40&amp;v=4</avatar>
-          <name>Nombah501</name>
-          <url>https://github.com/Nombah501</url>
-        </contributor>
-      </contributors>
-    </item>
-    <item>
       <title>JetBrains/thinkrail</title>
       <link>https://github.com/JetBrains/thinkrail</link>
       <description>ThinkRail is the agentic IDE that gets better every time you use it</description>
       <guid>https://github.com/JetBrains/thinkrail</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,469</stars>
-      <forks>543</forks>
+      <stars>8,475</stars>
+      <forks>544</forks>
       <addStars>6,176</addStars>
       <contributors>
         <contributor>
@@ -310,8 +277,8 @@
       <guid>https://github.com/CopilotKit/OpenBot</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,718</stars>
-      <forks>1,715</forks>
+      <stars>13,800</stars>
+      <forks>1,727</forks>
       <addStars>6,516</addStars>
       <contributors>
         <contributor>
@@ -343,8 +310,8 @@
       <guid>https://github.com/vercel-labs/skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>41,085</stars>
-      <forks>3,639</forks>
+      <stars>41,155</stars>
+      <forks>3,654</forks>
       <addStars>4,487</addStars>
       <contributors>
         <contributor>
@@ -376,8 +343,8 @@
       <guid>https://github.com/remotion-dev/remotion</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>76,052</stars>
-      <forks>6,523</forks>
+      <stars>76,166</stars>
+      <forks>6,538</forks>
       <addStars>8,388</addStars>
       <contributors>
         <contributor>
@@ -409,8 +376,8 @@
       <guid>https://github.com/tashfeenahmed/freellmapi</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>59,003</stars>
-      <forks>8,500</forks>
+      <stars>59,267</stars>
+      <forks>8,560</forks>
       <addStars>17,157</addStars>
       <contributors>
         <contributor>
@@ -447,8 +414,8 @@
       <guid>https://github.com/gitroomhq/postiz-app</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>42,513</stars>
-      <forks>8,131</forks>
+      <stars>42,543</stars>
+      <forks>8,145</forks>
       <addStars>4,594</addStars>
       <contributors>
         <contributor>
@@ -485,7 +452,7 @@
       <guid>https://github.com/QwenLM/qwen-code</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>30,972</stars>
+      <stars>30,988</stars>
       <forks>3,589</forks>
       <addStars>2,384</addStars>
       <contributors>
@@ -523,8 +490,8 @@
       <guid>https://github.com/LibreSpark/LibreTV</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>25,948</stars>
-      <forks>31,739</forks>
+      <stars>25,982</stars>
+      <forks>31,772</forks>
       <addStars>4,006</addStars>
       <contributors>
         <contributor>
@@ -556,8 +523,8 @@
       <guid>https://github.com/ranxianglei/billion-context</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>8,568</stars>
-      <forks>695</forks>
+      <stars>8,604</stars>
+      <forks>703</forks>
       <addStars>5,657</addStars>
       <contributors>
         <contributor>
@@ -589,8 +556,8 @@
       <guid>https://github.com/lobehub/lobehub</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>86,199</stars>
-      <forks>16,369</forks>
+      <stars>86,212</stars>
+      <forks>16,368</forks>
       <addStars>2,929</addStars>
       <contributors>
         <contributor>
@@ -622,8 +589,8 @@
       <guid>https://github.com/ag-ui-protocol/ag-ui</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,890</stars>
-      <forks>2,191</forks>
+      <stars>21,940</stars>
+      <forks>2,193</forks>
       <addStars>5,058</addStars>
       <contributors>
         <contributor>
@@ -660,8 +627,8 @@
       <guid>https://github.com/github/docs</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,563</stars>
-      <forks>69,746</forks>
+      <stars>21,562</stars>
+      <forks>69,754</forks>
       <addStars>791</addStars>
       <contributors>
         <contributor>
@@ -698,8 +665,8 @@
       <guid>https://github.com/anthropics/sandbox-runtime</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>7,292</stars>
-      <forks>664</forks>
+      <stars>7,303</stars>
+      <forks>666</forks>
       <addStars>647</addStars>
       <contributors>
         <contributor>
@@ -736,8 +703,8 @@
       <guid>https://github.com/google-gemini/gemini-cli</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>109,220</stars>
-      <forks>15,010</forks>
+      <stars>109,254</stars>
+      <forks>15,016</forks>
       <addStars>1,263</addStars>
       <contributors>
         <contributor>
@@ -774,8 +741,8 @@
       <guid>https://github.com/elie222/rakazo</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>9,941</stars>
-      <forks>1,787</forks>
+      <stars>10,010</stars>
+      <forks>1,799</forks>
       <addStars>4,047</addStars>
       <contributors>
         <contributor>

@@ -3,7 +3,7 @@
     <title>GitHub All Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of All Languages in GitHub</description>
-    <pubDate>Fri, 27 Nov 2026 09:42:05 GMT</pubDate>
+    <pubDate>Fri, 27 Nov 2026 21:59:06 GMT</pubDate>
     <item>
       <title>backnotprop/plannotator</title>
       <link>https://github.com/backnotprop/plannotator</link>
@@ -11,8 +11,8 @@
       <guid>https://github.com/backnotprop/plannotator</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>15,328</stars>
-      <forks>1,467</forks>
+      <stars>15,409</stars>
+      <forks>1,475</forks>
       <addStars>1,631</addStars>
       <contributors>
         <contributor>
@@ -49,8 +49,8 @@
       <guid>https://github.com/google-labs-code/stitch-skills</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>13,420</stars>
-      <forks>1,580</forks>
+      <stars>13,564</stars>
+      <forks>1,619</forks>
       <addStars>2,619</addStars>
       <contributors>
         <contributor>
@@ -87,8 +87,8 @@
       <guid>https://github.com/GoogleChrome/modern-web-guidance-src</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>11,344</stars>
-      <forks>844</forks>
+      <stars>11,440</stars>
+      <forks>846</forks>
       <addStars>2,209</addStars>
       <contributors>
         <contributor>
@@ -120,8 +120,8 @@
       <guid>https://github.com/n8n-io/nod</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>4,127</stars>
-      <forks>624</forks>
+      <stars>4,276</stars>
+      <forks>648</forks>
       <addStars>1,165</addStars>
       <contributors>
         <contributor>
@@ -140,14 +140,14 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5105988?s=40&amp;v=4</avatar>
+          <name>riqwan</name>
+          <url>https://github.com/riqwan</url>
+        </contributor>
+        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5963309?s=40&amp;v=4</avatar>
           <name>johancutych</name>
           <url>https://github.com/johancutych</url>
-        </contributor>
-        <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/17594215?s=40&amp;v=4</avatar>
-          <name>BerniWittmann</name>
-          <url>https://github.com/BerniWittmann</url>
         </contributor>
       </contributors>
     </item>
@@ -158,8 +158,8 @@
       <guid>https://github.com/alibaba/open-code-review</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>56,765</stars>
-      <forks>4,697</forks>
+      <stars>56,879</stars>
+      <forks>4,701</forks>
       <addStars>2,284</addStars>
       <contributors>
         <contributor>
@@ -196,8 +196,8 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>76,031</stars>
-      <forks>6,717</forks>
+      <stars>76,323</stars>
+      <forks>6,792</forks>
       <addStars>5,090</addStars>
       <contributors>
         <contributor>
@@ -229,8 +229,8 @@
       <guid>https://github.com/ChromeDevTools/chrome-devtools-mcp</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>59,557</stars>
-      <forks>4,901</forks>
+      <stars>59,614</stars>
+      <forks>4,898</forks>
       <addStars>1,175</addStars>
       <contributors>
         <contributor>
@@ -262,8 +262,8 @@
       <guid>https://github.com/tradermonty/claude-trading-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,656</stars>
-      <forks>1,565</forks>
+      <stars>8,718</stars>
+      <forks>1,572</forks>
       <addStars>1,381</addStars>
       <contributors>
         <contributor>
@@ -295,8 +295,8 @@
       <guid>https://github.com/ag-ui-protocol/ag-ui</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>21,890</stars>
-      <forks>2,191</forks>
+      <stars>21,940</stars>
+      <forks>2,193</forks>
       <addStars>1,269</addStars>
       <contributors>
         <contributor>
@@ -333,8 +333,8 @@
       <guid>https://github.com/meta/astryx</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>33,440</stars>
-      <forks>2,606</forks>
+      <stars>33,524</stars>
+      <forks>2,614</forks>
       <addStars>2,519</addStars>
       <contributors>
         <contributor>
@@ -366,7 +366,7 @@
       <guid>https://github.com/pookjw/HermesEnabler</guid>
       <language>Objective-C</language>
       <languageColor>#438eff</languageColor>
-      <stars>2,557</stars>
+      <stars>2,576</stars>
       <forks>206</forks>
       <addStars>325</addStars>
       <contributors>
@@ -404,8 +404,8 @@
       <guid>https://github.com/we-promise/sure</guid>
       <language>Ruby</language>
       <languageColor>#701516</languageColor>
-      <stars>18,143</stars>
-      <forks>1,577</forks>
+      <stars>18,205</stars>
+      <forks>1,585</forks>
       <addStars>1,430</addStars>
       <contributors>
         <contributor>
@@ -437,8 +437,8 @@
       <guid>https://github.com/obsidianmd/obsidian-skills</guid>
       <language>Shell</language>
       <languageColor>#89e051</languageColor>
-      <stars>54,152</stars>
-      <forks>3,852</forks>
+      <stars>54,307</stars>
+      <forks>3,865</forks>
       <addStars>704</addStars>
       <contributors>
         <contributor>
@@ -475,8 +475,8 @@
       <guid>https://github.com/dream-num/univer</guid>
       <language>TypeScript</language>
       <languageColor>#3178c6</languageColor>
-      <stars>32,013</stars>
-      <forks>2,875</forks>
+      <stars>32,044</stars>
+      <forks>2,878</forks>
       <addStars>1,825</addStars>
       <contributors>
         <contributor>
@@ -513,8 +513,8 @@
       <guid>https://github.com/kajisho5/ffmpeg-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,696</stars>
-      <forks>974</forks>
+      <stars>11,866</stars>
+      <forks>984</forks>
       <addStars>3,229</addStars>
       <contributors>
         <contributor>
