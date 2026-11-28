@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Weekly Trending",
   "description": "Weekly Trending of Javascript Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Fri, 27 Nov 2026 21:59:06 GMT",
+  "pubDate": "Sat, 28 Nov 2026 08:56:02 GMT",
   "items": [
     {
       "title": "Anil-matcha/Open-Generative-AI",
@@ -10,9 +10,9 @@
       "description": "Uncensored AI Image & Video Generator — Free AI image & video generation studio with 800+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "36,567",
-      "forks": "7,023",
-      "addStars": "1,060",
+      "stars": "36,617",
+      "forks": "7,027",
+      "addStars": "1,066",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4326215?s=40&v=4",
@@ -47,9 +47,9 @@
       "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 200+ territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "9,455",
-      "forks": "1,181",
-      "addStars": "950",
+      "stars": "9,490",
+      "forks": "1,185",
+      "addStars": "890",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/9414763?s=40&v=4",
@@ -84,9 +84,9 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "63,015",
-      "forks": "9,208",
-      "addStars": "1,373",
+      "stars": "63,085",
+      "forks": "9,218",
+      "addStars": "1,335",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/34802794?s=40&v=4",
@@ -121,9 +121,9 @@
       "description": "jQuery JavaScript Library",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "60,153",
-      "forks": "20,637",
-      "addStars": "231",
+      "stars": "60,068",
+      "forks": "20,635",
+      "addStars": "260",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1615?s=40&v=4",
@@ -158,9 +158,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "311,790",
-      "forks": "45,799",
-      "addStars": "4,301",
+      "stars": "312,061",
+      "forks": "45,846",
+      "addStars": "4,265",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/124439313?s=40&v=4",
@@ -190,9 +190,9 @@
       "description": "web development for the rest of us",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "89,953",
-      "forks": "6,075",
-      "addStars": "518",
+      "stars": "89,862",
+      "forks": "6,018",
+      "addStars": "466",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1162160?s=40&v=4",
@@ -222,9 +222,9 @@
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "94,969",
-      "forks": "8,903",
-      "addStars": "319",
+      "stars": "94,981",
+      "forks": "8,902",
+      "addStars": "301",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1336778?s=40&v=4",
@@ -259,9 +259,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "120,783",
-      "forks": "12,564",
-      "addStars": "1,530",
+      "stars": "120,847",
+      "forks": "12,572",
+      "addStars": "1,481",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/110953?s=40&v=4",
@@ -296,9 +296,9 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "35,030",
+      "stars": "35,058",
       "forks": "3,060",
-      "addStars": "461",
+      "addStars": "446",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/66901228?s=40&v=4",
@@ -333,9 +333,9 @@
       "description": "🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "43,029",
-      "forks": "1,729",
-      "addStars": "119",
+      "stars": "43,037",
+      "forks": "1,730",
+      "addStars": "130",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/7342023?s=40&v=4",
@@ -370,9 +370,9 @@
       "description": "Automated auditing, performance metrics, and best practices for the web.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": "31,216",
-      "forks": "9,809",
-      "addStars": "61",
+      "stars": "31,222",
+      "forks": "9,808",
+      "addStars": "56",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/4071474?s=40&v=4",

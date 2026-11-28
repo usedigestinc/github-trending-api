@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Weekly Trending",
   "description": "Weekly Trending of Rust Languages in GitHub",
   "link": "https://github.com/usedigestinc/github-trending-api",
-  "pubDate": "Fri, 27 Nov 2026 21:59:06 GMT",
+  "pubDate": "Sat, 28 Nov 2026 08:56:02 GMT",
   "items": [
     {
       "title": "vercel-labs/agent-browser",
@@ -10,9 +10,9 @@
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "54,316",
-      "forks": "3,789",
-      "addStars": "1,334",
+      "stars": "54,384",
+      "forks": "3,795",
+      "addStars": "1,300",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/366502?s=40&v=4",
@@ -42,9 +42,9 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "37,806",
-      "forks": "4,969",
-      "addStars": "197",
+      "stars": "37,815",
+      "forks": "4,970",
+      "addStars": "190",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/51647?s=40&v=4",
@@ -79,9 +79,9 @@
       "description": "Object-storage native graph database with branching and typed ontology",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "3,320",
-      "forks": "345",
-      "addStars": "216",
+      "stars": "3,334",
+      "forks": "346",
+      "addStars": "191",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/176176572?s=40&v=4",
@@ -111,9 +111,9 @@
       "description": "A WiFi security auditing software",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "7,109",
-      "forks": "1,138",
-      "addStars": "417",
+      "stars": "7,122",
+      "forks": "1,137",
+      "addStars": "396",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/58467105?s=40&v=4",
@@ -138,9 +138,9 @@
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "5,201",
-      "forks": "540",
-      "addStars": "358",
+      "stars": "5,222",
+      "forks": "544",
+      "addStars": "396",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/106617?s=40&v=4",
@@ -170,9 +170,9 @@
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "36,586",
-      "forks": "1,694",
-      "addStars": "265",
+      "stars": "36,599",
+      "forks": "1,697",
+      "addStars": "275",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/1472352?s=40&v=4",
@@ -207,9 +207,9 @@
       "description": "Tiny, Performant & 100% Native client for Discord made in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": "1,867",
-      "forks": "203",
-      "addStars": "350",
+      "stars": "1,876",
+      "forks": "205",
+      "addStars": "280",
       "contributors": [
         {
           "avatar": "https://avatars.githubusercontent.com/u/67194087?s=40&v=4",

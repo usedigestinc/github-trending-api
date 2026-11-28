@@ -3,7 +3,7 @@
     <title>GitHub Go Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Go Languages in GitHub</description>
-    <pubDate>Fri, 27 Nov 2026 21:59:06 GMT</pubDate>
+    <pubDate>Sat, 28 Nov 2026 08:56:02 GMT</pubDate>
     <item>
       <title>yetone/magpie</title>
       <link>https://github.com/yetone/magpie</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/yetone/magpie</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>42,505</stars>
-      <forks>3,908</forks>
-      <addStars>20,130</addStars>
+      <stars>42,674</stars>
+      <forks>3,923</forks>
+      <addStars>19,543</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1206493?s=40&amp;v=4</avatar>
@@ -31,14 +31,14 @@
           <url>https://github.com/yinwu01</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/5812318?s=40&amp;v=4</avatar>
-          <name>waitingsnow</name>
-          <url>https://github.com/waitingsnow</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/5812318?s=40&amp;v=4</avatar>
+          <name>waitingsnow</name>
+          <url>https://github.com/waitingsnow</url>
         </contributor>
       </contributors>
     </item>
@@ -49,9 +49,9 @@
       <guid>https://github.com/egoist/mygo</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>7,052</stars>
-      <forks>461</forks>
-      <addStars>3,745</addStars>
+      <stars>7,083</stars>
+      <forks>462</forks>
+      <addStars>3,710</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -69,9 +69,9 @@
           <url>https://github.com/pseudoyu</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/269104167?s=40&amp;v=4</avatar>
-          <name>cunninghamcard-bit</name>
-          <url>https://github.com/cunninghamcard-bit</url>
+          <avatar>https://avatars.githubusercontent.com/u/8275967?s=40&amp;v=4</avatar>
+          <name>joei4cm</name>
+          <url>https://github.com/joei4cm</url>
         </contributor>
       </contributors>
     </item>
@@ -82,9 +82,9 @@
       <guid>https://github.com/ollama/ollama</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>188,329</stars>
-      <forks>19,240</forks>
-      <addStars>4,244</addStars>
+      <stars>188,358</stars>
+      <forks>19,250</forks>
+      <addStars>4,202</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2372640?s=40&amp;v=4</avatar>
@@ -120,9 +120,9 @@
       <guid>https://github.com/prometheus/prometheus</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>67,932</stars>
+      <stars>67,918</stars>
       <forks>11,059</forks>
-      <addStars>1,564</addStars>
+      <addStars>1,561</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/4948210?s=40&amp;v=4</avatar>
@@ -153,9 +153,9 @@
       <guid>https://github.com/docker/compose</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>39,130</stars>
-      <forks>6,077</forks>
-      <addStars>1,484</addStars>
+      <stars>38,983</stars>
+      <forks>6,075</forks>
+      <addStars>1,510</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/132757?s=40&amp;v=4</avatar>
@@ -186,9 +186,9 @@
       <guid>https://github.com/getarcaneapp/arcane</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>10,639</stars>
-      <forks>599</forks>
-      <addStars>2,530</addStars>
+      <stars>10,655</stars>
+      <forks>601</forks>
+      <addStars>2,590</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25576967?s=40&amp;v=4</avatar>
@@ -219,9 +219,9 @@
       <guid>https://github.com/aquasecurity/trivy</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>39,831</stars>
-      <forks>959</forks>
-      <addStars>1,100</addStars>
+      <stars>39,841</stars>
+      <forks>961</forks>
+      <addStars>1,103</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2253692?s=40&amp;v=4</avatar>
@@ -252,9 +252,9 @@
       <guid>https://github.com/strelov1/freehire</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>3,775</stars>
+      <stars>3,780</stars>
       <forks>407</forks>
-      <addStars>841</addStars>
+      <addStars>797</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10761735?s=40&amp;v=4</avatar>
@@ -280,9 +280,9 @@
       <guid>https://github.com/moby/moby</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>72,322</stars>
-      <forks>19,372</forks>
-      <addStars>452</addStars>
+      <stars>72,316</stars>
+      <forks>19,371</forks>
+      <addStars>447</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1804568?s=40&amp;v=4</avatar>
@@ -318,8 +318,8 @@
       <guid>https://github.com/netbirdio/netbird</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>31,329</stars>
-      <forks>1,893</forks>
+      <stars>31,339</stars>
+      <forks>1,894</forks>
       <addStars>1,137</addStars>
       <contributors>
         <contributor>
@@ -356,9 +356,9 @@
       <guid>https://github.com/argoproj/argo-cd</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>24,710</stars>
-      <forks>8,132</forks>
-      <addStars>266</addStars>
+      <stars>24,709</stars>
+      <forks>8,128</forks>
+      <addStars>261</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/426437?s=40&amp;v=4</avatar>
@@ -389,9 +389,9 @@
       <guid>https://github.com/cli/cli</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>47,275</stars>
-      <forks>9,494</forks>
-      <addStars>596</addStars>
+      <stars>47,283</stars>
+      <forks>9,498</forks>
+      <addStars>623</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/887?s=40&amp;v=4</avatar>
@@ -427,9 +427,9 @@
       <guid>https://github.com/infiniflow/ragflow</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>94,836</stars>
-      <forks>11,423</forks>
-      <addStars>2,078</addStars>
+      <stars>94,852</stars>
+      <forks>11,427</forks>
+      <addStars>2,082</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/8089971?s=40&amp;v=4</avatar>
@@ -465,9 +465,9 @@
       <guid>https://github.com/opensandbox-group/OpenSandbox</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>17,982</stars>
-      <forks>1,744</forks>
-      <addStars>1,801</addStars>
+      <stars>17,993</stars>
+      <forks>1,746</forks>
+      <addStars>1,819</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/62273713?s=40&amp;v=4</avatar>
@@ -499,13 +499,13 @@
     <item>
       <title>gosom/google-maps-scraper</title>
       <link>https://github.com/gosom/google-maps-scraper</link>
-      <description>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</description>
+      <description>Open-source Google Maps scraper for business listings. Export phone numbers, websites, ratings, and reviews to CSV or JSONL. Run it locally with the CLI, web UI, or REST API, or connect your AI agent through the built-in MCP server.</description>
       <guid>https://github.com/gosom/google-maps-scraper</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>8,453</stars>
-      <forks>1,344</forks>
-      <addStars>1,572</addStars>
+      <stars>8,459</stars>
+      <forks>1,347</forks>
+      <addStars>1,553</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/454718?s=40&amp;v=4</avatar>
@@ -541,9 +541,9 @@
       <guid>https://github.com/go-gitea/gitea</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>59,323</stars>
-      <forks>7,442</forks>
-      <addStars>695</addStars>
+      <stars>59,329</stars>
+      <forks>7,443</forks>
+      <addStars>714</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81045?s=40&amp;v=4</avatar>
@@ -579,9 +579,9 @@
       <guid>https://github.com/multica-ai/multica</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>58,199</stars>
-      <forks>7,661</forks>
-      <addStars>4,429</addStars>
+      <stars>58,244</stars>
+      <forks>7,667</forks>
+      <addStars>4,433</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/280515704?s=40&amp;v=4</avatar>
@@ -617,9 +617,9 @@
       <guid>https://github.com/rclone/rclone</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>61,332</stars>
-      <forks>5,759</forks>
-      <addStars>874</addStars>
+      <stars>61,333</stars>
+      <forks>5,761</forks>
+      <addStars>883</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/536803?s=40&amp;v=4</avatar>
@@ -655,9 +655,9 @@
       <guid>https://github.com/google/osv-scanner</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>11,646</stars>
-      <forks>873</forks>
-      <addStars>376</addStars>
+      <stars>11,648</stars>
+      <forks>875</forks>
+      <addStars>372</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/106129829?s=40&amp;v=4</avatar>
@@ -693,9 +693,9 @@
       <guid>https://github.com/etcd-io/etcd</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>52,661</stars>
+      <stars>52,662</stars>
       <forks>10,633</forks>
-      <addStars>500</addStars>
+      <addStars>498</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6799218?s=40&amp;v=4</avatar>
@@ -731,9 +731,9 @@
       <guid>https://github.com/tailscale/tailscale</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>39,738</stars>
-      <forks>3,566</forks>
-      <addStars>1,642</addStars>
+      <stars>39,771</stars>
+      <forks>3,570</forks>
+      <addStars>1,657</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2621?s=40&amp;v=4</avatar>
@@ -769,9 +769,9 @@
       <guid>https://github.com/VictoriaMetrics/VictoriaMetrics</guid>
       <language>Go</language>
       <languageColor>#00ADD8</languageColor>
-      <stars>18,226</stars>
+      <stars>18,232</stars>
       <forks>1,816</forks>
-      <addStars>343</addStars>
+      <addStars>349</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/283442?s=40&amp;v=4</avatar>

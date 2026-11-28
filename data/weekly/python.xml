@@ -3,7 +3,7 @@
     <title>GitHub Python Languages Weekly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Weekly Trending of Python Languages in GitHub</description>
-    <pubDate>Fri, 27 Nov 2026 21:59:06 GMT</pubDate>
+    <pubDate>Sat, 28 Nov 2026 08:56:02 GMT</pubDate>
     <item>
       <title>mvanhorn/last30days-skill</title>
       <link>https://github.com/mvanhorn/last30days-skill</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/mvanhorn/last30days-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>76,323</stars>
-      <forks>6,792</forks>
-      <addStars>5,090</addStars>
+      <stars>76,516</stars>
+      <forks>6,813</forks>
+      <addStars>5,072</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/455140?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/tradermonty/claude-trading-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>8,718</stars>
-      <forks>1,572</forks>
-      <addStars>1,381</addStars>
+      <stars>8,771</stars>
+      <forks>1,577</forks>
+      <addStars>1,332</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/205491838?s=40&amp;v=4</avatar>
@@ -59,9 +59,9 @@
           <url>https://github.com/claude</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/270693131?s=40&amp;v=4</avatar>
-          <name>raikkonenPotter</name>
-          <url>https://github.com/raikkonenPotter</url>
+          <avatar>https://avatars.githubusercontent.com/u/141511080?s=40&amp;v=4</avatar>
+          <name>pinewhite</name>
+          <url>https://github.com/pinewhite</url>
         </contributor>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/271589886?s=40&amp;v=4</avatar>
@@ -77,9 +77,9 @@
       <guid>https://github.com/kajisho5/ffmpeg-skill</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>11,866</stars>
-      <forks>984</forks>
-      <addStars>3,229</addStars>
+      <stars>12,075</stars>
+      <forks>997</forks>
+      <addStars>3,169</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -105,9 +105,9 @@
       <guid>https://github.com/ZhuLinsen/daily_stock_analysis</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>75,005</stars>
-      <forks>58,861</forks>
-      <addStars>1,371</addStars>
+      <stars>75,082</stars>
+      <forks>58,910</forks>
+      <addStars>1,520</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/42829555?s=40&amp;v=4</avatar>
@@ -143,9 +143,9 @@
       <guid>https://github.com/andrewyng/openworker</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>19,641</stars>
-      <forks>2,816</forks>
-      <addStars>160</addStars>
+      <stars>19,649</stars>
+      <forks>2,817</forks>
+      <addStars>162</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1796239?s=40&amp;v=4</avatar>
@@ -181,9 +181,9 @@
       <guid>https://github.com/anthropics/skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>201,459</stars>
-      <forks>23,583</forks>
-      <addStars>3,454</addStars>
+      <stars>201,661</stars>
+      <forks>23,600</forks>
+      <addStars>3,556</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/122662504?s=40&amp;v=4</avatar>
@@ -219,9 +219,9 @@
       <guid>https://github.com/jingyaogong/minimind</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>72,184</stars>
-      <forks>9,432</forks>
-      <addStars>4,900</addStars>
+      <stars>72,354</stars>
+      <forks>9,465</forks>
+      <addStars>4,688</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/62287848?s=40&amp;v=4</avatar>
@@ -257,9 +257,9 @@
       <guid>https://github.com/FujiwaraChoki/supoclip</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>4,282</stars>
+      <stars>4,291</stars>
       <forks>1,014</forks>
-      <addStars>641</addStars>
+      <addStars>524</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/78088687?s=40&amp;v=4</avatar>
@@ -295,9 +295,9 @@
       <guid>https://github.com/davila7/claude-code-templates</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>34,245</stars>
+      <stars>34,251</stars>
       <forks>4,145</forks>
-      <addStars>237</addStars>
+      <addStars>230</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/6216945?s=40&amp;v=4</avatar>
@@ -318,9 +318,9 @@
       <guid>https://github.com/microsoft/PyRIT</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>5,149</stars>
-      <forks>1,141</forks>
-      <addStars>161</addStars>
+      <stars>5,160</stars>
+      <forks>1,142</forks>
+      <addStars>166</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/10245648?s=40&amp;v=4</avatar>
@@ -333,14 +333,14 @@
           <url>https://github.com/richlundeen</url>
         </contributor>
         <contributor>
-          <avatar>https://avatars.githubusercontent.com/u/210427626?s=40&amp;v=4</avatar>
-          <name>hannahwestra25</name>
-          <url>https://github.com/hannahwestra25</url>
-        </contributor>
-        <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
           <name>claude</name>
           <url>https://github.com/claude</url>
+        </contributor>
+        <contributor>
+          <avatar>https://avatars.githubusercontent.com/u/210427626?s=40&amp;v=4</avatar>
+          <name>hannahwestra25</name>
+          <url>https://github.com/hannahwestra25</url>
         </contributor>
       </contributors>
     </item>
@@ -351,9 +351,9 @@
       <guid>https://github.com/soxoj/maigret</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>41,341</stars>
-      <forks>3,361</forks>
-      <addStars>323</addStars>
+      <stars>41,367</stars>
+      <forks>3,364</forks>
+      <addStars>274</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/31013580?s=40&amp;v=4</avatar>
@@ -374,9 +374,9 @@
       <guid>https://github.com/elementalsouls/Claude-BugHunter</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>25,960</stars>
-      <forks>2,671</forks>
-      <addStars>12,251</addStars>
+      <stars>26,518</stars>
+      <forks>2,714</forks>
+      <addStars>12,164</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -407,9 +407,9 @@
       <guid>https://github.com/ComposioHQ/awesome-claude-skills</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>80,460</stars>
-      <forks>9,928</forks>
-      <addStars>541</addStars>
+      <stars>80,484</stars>
+      <forks>9,936</forks>
+      <addStars>558</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/67639393?s=40&amp;v=4</avatar>
@@ -445,9 +445,9 @@
       <guid>https://github.com/PostHog/posthog</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>41,202</stars>
-      <forks>3,743</forks>
-      <addStars>219</addStars>
+      <stars>41,210</stars>
+      <forks>3,744</forks>
+      <addStars>231</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/81847?s=40&amp;v=4</avatar>
@@ -473,9 +473,9 @@
       <guid>https://github.com/zhouxiaoka/autoclip</guid>
       <language>Python</language>
       <languageColor>#3572A5</languageColor>
-      <stars>17,551</stars>
-      <forks>2,490</forks>
-      <addStars>5,779</addStars>
+      <stars>17,775</stars>
+      <forks>2,507</forks>
+      <addStars>5,531</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/78066887?s=40&amp;v=4</avatar>

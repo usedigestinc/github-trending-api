@@ -3,7 +3,7 @@
     <title>GitHub Rust Languages Monthly Trending</title>
     <link>https://github.com/usedigestinc/github-trending-api</link>
     <description>Monthly Trending of Rust Languages in GitHub</description>
-    <pubDate>Fri, 27 Nov 2026 21:59:06 GMT</pubDate>
+    <pubDate>Sat, 28 Nov 2026 08:56:02 GMT</pubDate>
     <item>
       <title>pbakaus/impeccable</title>
       <link>https://github.com/pbakaus/impeccable</link>
@@ -11,9 +11,9 @@
       <guid>https://github.com/pbakaus/impeccable</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>118,014</stars>
-      <forks>7,075</forks>
-      <addStars>29,366</addStars>
+      <stars>118,220</stars>
+      <forks>7,077</forks>
+      <addStars>28,497</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/43004?s=40&amp;v=4</avatar>
@@ -44,9 +44,9 @@
       <guid>https://github.com/vercel-labs/agent-browser</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>54,316</stars>
-      <forks>3,789</forks>
-      <addStars>9,648</addStars>
+      <stars>54,384</stars>
+      <forks>3,795</forks>
+      <addStars>9,765</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/366502?s=40&amp;v=4</avatar>
@@ -77,9 +77,9 @@
       <guid>https://github.com/max-sixty/worktrunk</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>12,793</stars>
+      <stars>12,806</stars>
       <forks>516</forks>
-      <addStars>3,313</addStars>
+      <addStars>3,323</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/5635139?s=40&amp;v=4</avatar>
@@ -105,9 +105,9 @@
       <guid>https://github.com/zed-industries/zed</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>95,854</stars>
-      <forks>11,893</forks>
-      <addStars>4,105</addStars>
+      <stars>95,878</stars>
+      <forks>11,898</forks>
+      <addStars>4,090</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/482957?s=40&amp;v=4</avatar>
@@ -143,9 +143,9 @@
       <guid>https://github.com/cjpais/Handy</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>40,497</stars>
-      <forks>3,825</forks>
-      <addStars>5,714</addStars>
+      <stars>40,565</stars>
+      <forks>3,831</forks>
+      <addStars>5,727</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1559480?s=40&amp;v=4</avatar>
@@ -181,9 +181,9 @@
       <guid>https://github.com/agentgateway/agentgateway</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,481</stars>
-      <forks>1,136</forks>
-      <addStars>802</addStars>
+      <stars>6,488</stars>
+      <forks>1,141</forks>
+      <addStars>803</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/623453?s=40&amp;v=4</avatar>
@@ -214,9 +214,9 @@
       <guid>https://github.com/vercel-labs/agent-desktop</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>27,084</stars>
-      <forks>2,036</forks>
-      <addStars>25,194</addStars>
+      <stars>27,162</stars>
+      <forks>2,043</forks>
+      <addStars>25,411</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/70215676?s=40&amp;v=4</avatar>
@@ -237,9 +237,9 @@
       <guid>https://github.com/astral-sh/ruff</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>51,561</stars>
-      <forks>2,816</forks>
-      <addStars>2,208</addStars>
+      <stars>51,483</stars>
+      <forks>2,819</forks>
+      <addStars>2,227</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/1309177?s=40&amp;v=4</avatar>
@@ -270,9 +270,9 @@
       <guid>https://github.com/ruvnet/RuView</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>105,355</stars>
-      <forks>13,679</forks>
-      <addStars>5,900</addStars>
+      <stars>105,384</stars>
+      <forks>13,681</forks>
+      <addStars>5,540</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2934394?s=40&amp;v=4</avatar>
@@ -303,9 +303,9 @@
       <guid>https://github.com/xerj-org/xerj</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>22,269</stars>
-      <forks>1,366</forks>
-      <addStars>7,929</addStars>
+      <stars>22,424</stars>
+      <forks>1,375</forks>
+      <addStars>7,954</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/297525353?s=40&amp;v=4</avatar>
@@ -341,9 +341,9 @@
       <guid>https://github.com/macro-inc/macro</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>6,567</stars>
-      <forks>623</forks>
-      <addStars>1,628</addStars>
+      <stars>6,575</stars>
+      <forks>621</forks>
+      <addStars>1,503</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/25272206?s=40&amp;v=4</avatar>
@@ -379,9 +379,9 @@
       <guid>https://github.com/ModernRelay/omnigraph</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>3,320</stars>
-      <forks>345</forks>
-      <addStars>1,536</addStars>
+      <stars>3,334</stars>
+      <forks>346</forks>
+      <addStars>1,544</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/176176572?s=40&amp;v=4</avatar>
@@ -412,9 +412,9 @@
       <guid>https://github.com/jub0t/Concat</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>22,378</stars>
-      <forks>2,751</forks>
-      <addStars>9,716</addStars>
+      <stars>22,572</stars>
+      <forks>2,784</forks>
+      <addStars>10,491</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/57962439?s=40&amp;v=4</avatar>
@@ -450,9 +450,9 @@
       <guid>https://github.com/crmne/zapfast</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>5,201</stars>
-      <forks>540</forks>
-      <addStars>2,907</addStars>
+      <stars>5,222</stars>
+      <forks>544</forks>
+      <addStars>2,967</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/106617?s=40&amp;v=4</avatar>
@@ -483,9 +483,9 @@
       <guid>https://github.com/Mesh-LLM/mesh-llm</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>4,235</stars>
-      <forks>537</forks>
-      <addStars>688</addStars>
+      <stars>4,239</stars>
+      <forks>538</forks>
+      <addStars>693</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/50156?s=40&amp;v=4</avatar>
@@ -521,9 +521,9 @@
       <guid>https://github.com/tauri-apps/tauri</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>113,262</stars>
-      <forks>4,237</forks>
-      <addStars>1,768</addStars>
+      <stars>113,207</stars>
+      <forks>4,238</forks>
+      <addStars>1,808</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/20051258?s=40&amp;v=4</avatar>
@@ -554,9 +554,9 @@
       <guid>https://github.com/denoland/deno</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>108,952</stars>
-      <forks>6,649</forks>
-      <addStars>1,104</addStars>
+      <stars>108,947</stars>
+      <forks>6,665</forks>
+      <addStars>1,107</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/13602871?s=40&amp;v=4</avatar>
@@ -592,9 +592,9 @@
       <guid>https://github.com/oven-sh/bun</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>96,995</stars>
-      <forks>5,228</forks>
-      <addStars>1,002</addStars>
+      <stars>96,978</stars>
+      <forks>5,229</forks>
+      <addStars>1,020</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/709451?s=40&amp;v=4</avatar>
@@ -625,9 +625,9 @@
       <guid>https://github.com/akitaonrails/ai-memory</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>16,520</stars>
-      <forks>1,265</forks>
-      <addStars>2,811</addStars>
+      <stars>16,540</stars>
+      <forks>1,271</forks>
+      <addStars>2,585</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/2840?s=40&amp;v=4</avatar>
@@ -663,9 +663,9 @@
       <guid>https://github.com/CapSoftware/Cap</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>25,700</stars>
-      <forks>2,451</forks>
-      <addStars>1,876</addStars>
+      <stars>25,714</stars>
+      <forks>2,455</forks>
+      <addStars>1,846</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/33632126?s=40&amp;v=4</avatar>
@@ -701,9 +701,9 @@
       <guid>https://github.com/rust-lang/cargo</guid>
       <language>Rust</language>
       <languageColor>#dea584</languageColor>
-      <stars>15,815</stars>
-      <forks>3,279</forks>
-      <addStars>202</addStars>
+      <stars>15,808</stars>
+      <forks>3,285</forks>
+      <addStars>203</addStars>
       <contributors>
         <contributor>
           <avatar>https://avatars.githubusercontent.com/u/3372342?s=40&amp;v=4</avatar>
